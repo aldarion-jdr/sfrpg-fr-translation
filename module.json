@@ -1,0 +1,38 @@
+{
+  "name": "sfrpg-fr-translation",
+  "title": "Starfinder - Traduction en Français",
+  "description": "Module de traduction du système Starfinder en Français, basé sur Babele.",
+  "version": "0.1.0",
+  "minimumCoreVersion" : "0.7.1",
+  "compatibleCoreVersion": "1.0.1",
+  "author": "AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen",
+  "dependencies": [
+	{
+      "name": "sfrpg",
+	  "type": "system",
+	  "version": "0.11.3.0"
+    },
+    {
+      "name": "babele",
+	  "type": "module",
+	  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "2.0.6"
+    }
+  ],
+  "esmodules": [
+      "babele-register.js"
+    ],
+  "scripts": [ ],
+  "styles": [],
+  "packs": [],
+  "languages": [{
+  	"lang": "fr",
+  	"name": "Français",
+  	"path": "lang/fr.json"  	
+  }],
+  "system": "sfrpg",
+  "systemVersion": "0.9.0.0",
+  "url": "https://github.com/aldarion-jdr/sfrpg-fr-translation",
+  "manifest": "https://github.com/aldarion-jdr/sfrpg-fr-translation/raw/main/module.json",
+  "download": "https://github.com/aldarion-jdr/sfrpg-fr-translation/archive/refs/heads/main.zip"
+}
