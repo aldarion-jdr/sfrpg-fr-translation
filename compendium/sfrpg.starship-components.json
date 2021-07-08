@@ -1,0 +1,1180 @@
+{
+	"label": "Vaisseaux - Composants",
+	"mapping": {
+		"frName": "name",
+		"frDescription": "data.description.value",
+		"frSource": "data.source"
+	},
+	"entries": {
+		"Advanced long-range sensors": {
+			"frName": "Détecteurs Longue portée évolués",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Advanced medium-range sensors": {
+			"frName": "Détecteurs Moyenne portée évolués",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Advanced short-range sensors": {
+			"frName": "Détecteurs Courte portée évolués",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Anti-hacking systems": {
+			"frName": "Systèmes anti-piratage",
+			"frDescription": "<p>En augmentant le niveau de s&eacute;curit&eacute; de l&rsquo;ordinateur du vaisseau, ces syst&egrave;mes augmentent le DD pour le pirater de 1 point (voir page 142). Cette am&eacute;lioration peut &ecirc;tre achet&eacute;e un maximum de quatre fois.</p>",
+			"frSource": "RDB p.302"
+		},
+		"Antimatter mega-missile launcher": {
+			"frName": "Lance-méga-missiles antimatières",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Antipersonnel weapon, heavy": {
+			"frName": "Arme antipersonnel (lourde)",
+			"frDescription": "<p>Une arme antipersonnel doit &ecirc;tre install&eacute;e pr&egrave;s de la rampe d&rsquo;acc&egrave;s d&rsquo;un vaisseau de taille M ou inf&eacute;rieure. Il peut s&rsquo;agir de n&rsquo;importe quelle arme longue dont le niveau d&rsquo;objet est &eacute;gal ou inf&eacute;rieur &agrave; l&rsquo;&eacute;chelon du vaisseau. En d&eacute;pensant 5 points de construction suppl&eacute;mentaires, l&rsquo;arme install&eacute;e peut &ecirc;tre une arme lourde (&agrave; l&rsquo;&eacute;chelle des cr&eacute;atures pas &agrave; celle des vaisseaux). Quand une arme antipersonnel est activ&eacute;e, si une cr&eacute;ature hostile approche &agrave; une distance comprise dans son facteur de port&eacute;e, elle fait feu avec un modificateur au jet d&rsquo;attaque &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaisseau (minimum 1).</p> <p>L&rsquo;arme tire une fois par round jusqu&rsquo;&agrave; ce qu&rsquo;elle n&rsquo;ait plus de munitions ou jusqu&rsquo;&agrave; ce que la cr&eacute;ature hostile fuie ou soit neutralis&eacute;e. Le syst&egrave;me ne peut d&eacute;tecter les cr&eacute;atures invisibles (ou cach&eacute;es de mani&egrave;re similaire). L&rsquo;arme ne peut &ecirc;tre retir&eacute;e et utilis&eacute;e par les personnages. Quiconque a acc&egrave;s au syst&egrave;me informatique du vaisseau peut activer ou d&eacute;sactiver l&rsquo;arme ainsi que lui indiquer les types de cibles consid&eacute;r&eacute;es comme hostiles. Une fois install&eacute;e, l&rsquo;arme ne peut &ecirc;tre retir&eacute;e du vaisseau sans la d&eacute;truire.</p>",
+			"frSource": "RDB p.302"
+		},
+		"Antipersonnel weapon, longarm": {
+			"frName": "Arme antipersonnel (arme longue)",
+			"frDescription": "<p>Une arme antipersonnel doit &ecirc;tre install&eacute;e pr&egrave;s de la rampe d&rsquo;acc&egrave;s d&rsquo;un vaisseau de taille M ou inf&eacute;rieure. Il peut s&rsquo;agir de n&rsquo;importe quelle arme longue dont le niveau d&rsquo;objet est &eacute;gal ou inf&eacute;rieur &agrave; l&rsquo;&eacute;chelon du vaisseau. En d&eacute;pensant 5 points de construction suppl&eacute;mentaires, l&rsquo;arme install&eacute;e peut &ecirc;tre une arme lourde (&agrave; l&rsquo;&eacute;chelle des cr&eacute;atures pas &agrave; celle des vaisseaux). Quand une arme antipersonnel est activ&eacute;e, si une cr&eacute;ature hostile approche &agrave; une distance comprise dans son facteur de port&eacute;e, elle fait feu avec un modificateur au jet d&rsquo;attaque &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaisseau (minimum 1).</p> <p>L&rsquo;arme tire une fois par round jusqu&rsquo;&agrave; ce qu&rsquo;elle n&rsquo;ait plus de munitions ou jusqu&rsquo;&agrave; ce que la cr&eacute;ature hostile fuie ou soit neutralis&eacute;e. Le syst&egrave;me ne peut d&eacute;tecter les cr&eacute;atures invisibles (ou cach&eacute;es de mani&egrave;re similaire). L&rsquo;arme ne peut &ecirc;tre retir&eacute;e et utilis&eacute;e par les personnages. Quiconque a acc&egrave;s au syst&egrave;me informatique du vaisseau peut activer ou d&eacute;sactiver l&rsquo;arme ainsi que lui indiquer les types de cibles consid&eacute;r&eacute;es comme hostiles. Une fois install&eacute;e, l&rsquo;arme ne peut &ecirc;tre retir&eacute;e du vaisseau sans la d&eacute;truire.</p>",
+			"frSource": "RDB p.302"
+		},
+		"Arcane laboratory": {
+			"frName": "Laboratoire arcanique",
+			"frDescription": "<p>Un laboratoire arcanique contient tous les outils et l&rsquo;espace n&eacute;cessaire pour fabriquer des objets magiques (voir page 235), mais l&rsquo;artisan doit toujours fournir la mati&egrave;re premi&egrave;re brute. Un tel laboratoire r&eacute;duit de moiti&eacute; les temps de fabrication.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Arcus Heavy": {
+			"frName": "Arcus lourd",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Arcus Light": {
+			"frName": "Arcus léger",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Arcus Maximum": {
+			"frName": "Arcus Maximum",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Arcus Ultra": {
+			"frName": "Arcus Ultra",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Basic computer": {
+			"frName": "Ordinateur de base",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Basic long-range sensors": {
+			"frName": "Détecteurs Longue portée basiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Basic medium-range sensors": {
+			"frName": "Détecteurs Moyenne portée basiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Basic Shields 10": {
+			"frName": "Boucliers de base 10",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Basic Shields 20": {
+			"frName": "Boucliers de base 20",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Basic Shields 30": {
+			"frName": "Boucliers de base 30",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Basic Shields 40": {
+			"frName": "Boucliers de base 40",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Basic short-range sensors": {
+			"frName": "Détecteurs Courte portée basiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Battleship": {
+			"frName": "Cuirassé",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Biometric locks": {
+			"frName": "Verrouillages biométriques",
+			"frDescription": "<p>Les syst&egrave;mes d&rsquo;un vaisseau avec un verrouillage biom&eacute;trique ne peuvent &ecirc;tre utilis&eacute;s que par certaines cr&eacute;atures d&eacute;sign&eacute;es au moment de l&rsquo;installation du dispositif ; cette liste peut &ecirc;tre mise &agrave; jour par quiconque a acc&egrave;s au syst&egrave;me informatique du vaisseau. Un test r&eacute;ussi d&rsquo;Informatique (DD = 20 + 1,5 x l&rsquo;&eacute;chelon du vaisseau) permet de contourner le verrouillage.</p>",
+			"frSource": "RDB p.302"
+		},
+		"Budget long-range sensors": {
+			"frName": "Détecteurs Longue portée économiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Budget medium-range sensors": {
+			"frName": "Détecteurs Moyenne portée économiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Budget short-range sensors": {
+			"frName": "Détecteurs Courte portée économiques",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Bulk Freighter": {
+			"frName": "Vraquier",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"C4 thrusters": {
+			"frName": "Propulseurs C4",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"C6 thrusters": {
+			"frName": "Propulseurs C6",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"C8 thrusters": {
+			"frName": "Propulseurs C8",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Cargo hold": {
+			"frName": "Soute",
+			"frDescription": "<p>Les compartiments annexes qui ne sont pas am&eacute;nag&eacute;s comptent comme des soutes. Une soute peut contenir environ 25 tonnes de marchandises sans qu&rsquo;aucun &eacute;l&eacute;ment ne soit d&rsquo;une taille sup&eacute;rieure &agrave; la taille G. Un vaisseau avec plusieurs soutes peut contenir des objets plus grands ; g&eacute;n&eacute;ralement 4 soutes am&eacute;nag&eacute;es les unes &agrave; c&ocirc;t&eacute; des autres sont n&eacute;cessaires pour transporter des objets de taille TG et il en faut 8 pour des objets de taille Gig. Si le MJ le souhaite, il peut ignorer ces restrictions.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Carrier": {
+			"frName": "Porte-Engins",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Chain cannon": {
+			"frName": "Canon automatique",
+			"frDescription": "[Fragmentation]",
+			"frSource": "RDB p.302"
+		},
+		"Coilgun": {
+			"frName": "Canon magnétique",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Common crew quarters": {
+			"frName": "Quartiers de l’équipage Communs",
+			"frDescription": "<p>Les quartiers communs sont les plus basiques. Ils sont constitu&eacute;s de simples couchettes (parfois rabattables) ou d&rsquo;autres types de couchages tout aussi aust&egrave;res. Les membres d&rsquo;&eacute;quipage qui dorment dans des quartiers communs conservent g&eacute;n&eacute;ralement leurs affaires dans un casier. Ce type de quartiers inclut une salle de bain commune (avec des douches de type militaire) et une minuscule cuisine ( juste assez grande pour pr&eacute;parer les repas les plus simples). Les vaisseaux avec des dizaines ou des centaines de membres d&rsquo;&eacute;quipage disposent souvent de baraquements massifs o&ugrave; le personnel se relaie pour dormir.</p>",
+			"frSource": "RDB p.300"
+		},
+		"Computer countermeasures": {
+			"frName": "Contre-mesures informatiques",
+			"frDescription": "<p>Quand un adversaire tente de pirater les ordinateurs d&rsquo;un vaisseau et qu&rsquo;il &eacute;choue, il peut &ecirc;tre soumis aux effets d&rsquo;&eacute;ventuelles contre-mesures. L&rsquo;&eacute;quipage peut installer une des contre-mesures d&eacute;crites page 217, en suivant les r&egrave;gles normales qui s&rsquo;y rapportent. Chaque contre-mesure co&ucirc;te un nombre de points de construction &eacute;gal &agrave; l&rsquo;&eacute;chelon de l&rsquo;ordinateur du vaisseau (la moiti&eacute; de l&rsquo;&eacute;chelon du vaisseau ; voir page 299).</p>",
+			"frSource": "RDB p.302"
+		},
+		"Cruiser": {
+			"frName": "Cruiser",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Cut-rate sensors": {
+			"frName": "Détecteurs Au rabais",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Destroyer": {
+			"frName": "Destroyer",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Dreadnought": {
+			"frName": "Dreadnought",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Escape pods": {
+			"frName": "Capsule de sauvetage",
+			"frDescription": "<p>Les capsules de sauvetage permettent &agrave; l&rsquo;&eacute;quipage d&rsquo;un vaisseau tr&egrave;s endommag&eacute; ou d&eacute;truit d&rsquo;&eacute;chapper &agrave; une mort imminente. Une capsule peut contenir une cr&eacute;ature de taille M ou plus petite. Son syst&egrave;me de survie et les provisions qui y sont stock&eacute;es permettent de survivre pendant 7 jours. Chaque capsule est &eacute;galement &eacute;quip&eacute;e d&rsquo;une balise de d&eacute;tresse qui est facilement rep&eacute;rable par les d&eacute;tecteurs &agrave; longue port&eacute;e. De plus, m&ecirc;me si elle n&rsquo;a aucun syst&egrave;me de propulsion, elle est dot&eacute;e d&rsquo;un bouclier thermique qui lui permet d&rsquo;atterrir sur une plan&egrave;te. Chaque compartiment annexe peut contenir six capsules de sauvetage.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Explorer": {
+			"frName": "Explorateur",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Fighter": {
+			"frName": "Chasseur",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Flak thrower (+8)": {
+			"frName": "Canon de défense rapprochée (+8)",
+			"frDescription": "[SDR (+8)]",
+			"frSource": "RDB p.302"
+		},
+		"G4 thrusters": {
+			"frName": "Propulseurs Gig4",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"G6 thrusters": {
+			"frName": "Propulseurs Gig6",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"G8 thrusters": {
+			"frName": "Propulseurs Gig8",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Gateway Heavy": {
+			"frName": "Portail lourd",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Gateway Light": {
+			"frName": "Portail léger",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Gateway Ultra": {
+			"frName": "Micron ultra",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Good crew quarters": {
+			"frName": "Quartiers de l’équipage Corrects",
+			"frDescription": "<p>Les quartiers d&rsquo;&eacute;quipage corrects sont un peu plus confortables que les quartiers communs. Ce sont des sortes de dortoirs pouvant contenir un ou deux petits lits (dans les plus gros vaisseaux, les membres d&rsquo;&eacute;quipages les moins grad&eacute;s se partagent ces quartiers) avec parfois un placard ou une commode pour chaque occupant. Ce type de quartiers s&rsquo;accompagne &eacute;galement d&rsquo;une ou deux salles de bains communes avec plusieurs lavabos et douches et une cantine avec une cuisine. Les membres d&rsquo;&eacute;quipage des plus gros vaisseaux se relaient pour prendre leurs repas dans cet espace.</p>",
+			"frSource": "RDB p.301"
+		},
+		"Graser": {
+			"frName": "Laser gamma",
+			"frDescription": "[Irradiante (moyenne)]",
+			"frSource": "RDB p.302"
+		},
+		"Gravity cannon": {
+			"frName": "Canon à gravité",
+			"frDescription": "[Faisceau tracteur]",
+			"frSource": "RDB p.303"
+		},
+		"Gravity gun": {
+			"frName": "Faisceau gravitationnel",
+			"frDescription": "[Faisceau tracteur]",
+			"frSource": "RDB p.302"
+		},
+		"Guest quarters": {
+			"frName": "Quartier passagers",
+			"frDescription": "<p>Les vaisseaux qui transportent des individus sont &eacute;quip&eacute;s de compartiments &agrave; l&rsquo;&eacute;cart des quartiers de l&rsquo;&eacute;quipage pour que les passagers puissent dormir. Un compartiment annexe peut &ecirc;tre am&eacute;nag&eacute; en quartiers communs (g&eacute;n&eacute;ralement avec de simples couchettes ou hamacs) pour six passagers, en quartiers corrects (g&eacute;n&eacute;ralement un lit confortable, un bureau avec une chaise et une petite commode) pour quatre personnes ou en quartiers luxueux (g&eacute;n&eacute;ralement un grand lit, une armoire, un canap&eacute;, un bureau avec une chaise confortable et une salle de bain priv&eacute;e) pour deux passagers.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Gyrolaser": {
+			"frName": "Gyrolaser",
+			"frDescription": "[Arc étendu]",
+			"frSource": "RDB p.302"
+		},
+		"H10 thrusters": {
+			"frName": "Propulseurs TG10",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"H4 thrusters": {
+			"frName": "Propulseurs TG4",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"H6 thrusters": {
+			"frName": "Propulseurs TG6",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"H8 thrusters": {
+			"frName": "Propulseurs TG8",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Hanger bay": {
+			"frName": "Hangar",
+			"frDescription": "<p>Un hangar ne peut &ecirc;tre install&eacute; que sur des vaisseaux de taille Gig ou sup&eacute;rieure et n&eacute;cessite 4 compartiments annexes. Un hangar peut contenir jusqu&rsquo;&agrave; 8 vaisseaux de taille TP amarr&eacute;s.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Heavy antimatter missile launcher": {
+			"frName": "Lance-missiles antimatières lourd",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Heavy EMP cannon": {
+			"frName": "Canon IEM lourd",
+			"frDescription": "[IEM]",
+			"frSource": "RDB p.302"
+		},
+		"Heavy Freighter": {
+			"frName": "Vaisseau Cargo Lourd",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Heavy laser array": {
+			"frName": "Matrice laser lourde",
+			"frDescription": "[Matrice]",
+			"frSource": "RDB p.303"
+		},
+		"Heavy laser cannon": {
+			"frName": "Canon laser lourd",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Heavy laser net (+12)": {
+			"frName": "Laser lourd de défense rapprochée (+12)",
+			"frDescription": "[SDR (+12)]",
+			"frSource": "RDB p.303"
+		},
+		"Heavy nuclear missile launcher": {
+			"frName": "Lance-missiles nucléaires lourd",
+			"frDescription": "[Cadence limitée] [Irradiante (moyenne)]",
+			"frSource": "RDB p.303"
+		},
+		"Heavy plasma torpedo launcher": {
+			"frName": "Lance-torpilles à plasma lourd",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Heavy Shields 240": {
+			"frName": "Boucliers lourds 240",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy Shields 280": {
+			"frName": "Boucliers lourds 280",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy Shields 320": {
+			"frName": "Boucliers lourds 320",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy Shields 360": {
+			"frName": "Boucliers lourds 360",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy Shields 420": {
+			"frName": "Boucliers lourds 420",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy Shields 480": {
+			"frName": "Boucliers lourds 480",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Heavy torpedo launcher": {
+			"frName": "Lance-torpilles lourd",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Hellfire torpedo launcher": {
+			"frName": "Lance-torpilles feux de l’Enfer",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"High explosive missile launcher": {
+			"frName": "Lance-missiles brisants",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.302"
+		},
+		"Interceptor": {
+			"frName": "Intercepteur",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"L10 thrusters": {
+			"frName": "Propulseurs G10",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"L4 thrusters": {
+			"frName": "Propulseurs G4",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"L6 thrusters": {
+			"frName": "Propulseurs G6",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"L8 thrusters": {
+			"frName": "Propulseurs G8",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Laser net (+10)": {
+			"frName": "Laser de défense rapprochée (+10)",
+			"frDescription": "[SDR (+10)]",
+			"frSource": "RDB p.302"
+		},
+		"Life boats": {
+			"frName": "Nacelles de sauvetage",
+			"frDescription": "<p>Une nacelle de sauvetage est une version plus sophistiqu&eacute;e que la capsule. Elle peut accueillir une cr&eacute;ature de taille G ou deux cr&eacute;atures de taille M ou plus petites. Elle contient suffisamment de provisions pour pouvoir survivre pendant 15 jours (ou 30 jours pour une seule cr&eacute;ature de taille M ou plus petite). Bien qu&rsquo;elle soit &eacute;quip&eacute;e du m&ecirc;me type de balise de d&eacute;tresse qu&rsquo;une capsule de sauvetage, une nacelle dispose &eacute;galement d&rsquo;un ordinateur int&eacute;gr&eacute; qui d&eacute;tecte automatiquement le corps c&eacute;leste hospitalier le plus proche et de petits propulseurs pour s&rsquo;y rendre (la nacelle ne peut participer &agrave; un combat spatial). Un m&ecirc;me compartiment annexe peut &ecirc;tre converti en deux nacelles de sauvetage.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Light EMP cannon": {
+			"frName": "Canon IEM léger",
+			"frDescription": "[IEM]",
+			"frSource": "RDB p.302"
+		},
+		"Light Freighter": {
+			"frName": "Vaisseau Cargo",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Light laser cannon": {
+			"frName": "Canon laser léger",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Light particle beam": {
+			"frName": "Faisceau à particules léger",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Light plasma cannon": {
+			"frName": "Canon à plasma léger",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Light plasma torpedo launcher": {
+			"frName": "Lance-torpilles à plasma léger",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.302"
+		},
+		"Light Shields 50": {
+			"frName": "Boucliers légers 50",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Light Shields 60": {
+			"frName": "Boucliers légers 60",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Light Shields 70": {
+			"frName": "Boucliers légers 70",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Light Shields 80": {
+			"frName": "Boucliers légers 80",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Light torpedo launcher": {
+			"frName": "Lance-torpilles léger",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Luxurious crew quarters": {
+			"frName": "Quartiers de l’équipage Luxueux",
+			"frDescription": "<p>Les quartiers d&rsquo;&eacute;quipage luxueux sont les plus confortables. Ils sont constitu&eacute;s d&rsquo;une cabine pour chaque membre d&rsquo;&eacute;quipage avec une salle de bain priv&eacute;e (avec une douche et de l&rsquo;eau sous pression) et un ameublement personnalis&eacute; en fonction des pr&eacute;f&eacute;rences de son occupant. Dans certaines cabines luxueuses on peut trouver une kitchenette, un espace jeux ou un lieu plus intime.</p>",
+			"frSource": "RDB p.301"
+		},
+		"M10 thrusters": {
+			"frName": "Propulseurs M10",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"M12 thrusters": {
+			"frName": "Propulseurs M12",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"M4 thrusters": {
+			"frName": "Propulseurs M4",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"M6 thrusters": {
+			"frName": "Propulseurs M6",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"M8 thrusters": {
+			"frName": "Propulseurs M8",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Maser": {
+			"frName": "Maser",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Mass driver": {
+			"frName": "Catapulte électromagnétique",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Medical bay": {
+			"frName": "Infirmerie",
+			"frDescription": "<p>Une infirmerie fonctionne comme un laboratoire m&eacute;dical (voir page 220).</p>",
+			"frSource": "RDB p.299"
+		},
+		"Medium Shields 100": {
+			"frName": "Boucliers moyens 100",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Medium Shields 120": {
+			"frName": "Boucliers moyens 120",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Medium Shields 160": {
+			"frName": "Boucliers moyens 160",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Medium Shields 200": {
+			"frName": "Boucliers moyens 200",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Medium Shields 90": {
+			"frName": "Boucliers moyens 90",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Micromissile battery": {
+			"frName": "Batterie micro-missiles",
+			"frDescription": "[Cadence limitée] [Matrice]",
+			"frSource": "RDB p.302"
+		},
+		"Micron Heavy": {
+			"frName": "Micron lourd",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Micron Light": {
+			"frName": "Micron léger",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Micron Ultra": {
+			"frName": "Micron Ultra",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Mk 1 armor": {
+			"frName": "Blindage mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 1 defenses": {
+			"frName": "Défenses mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 1 duonode": {
+			"frName": "Duonode mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 1 mononode": {
+			"frName": "Mononode mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 1 tetranode": {
+			"frName": "Tetranode mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 1 trinode": {
+			"frName": "Trinode mk 1",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 10 armor": {
+			"frName": "Blindage mk 10",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 10 defenses": {
+			"frName": "Défenses mk 10",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 10 duonode": {
+			"frName": "Duonode mk 10",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 10 mononode": {
+			"frName": "Mononode mk 10",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 11 armor": {
+			"frName": "Blindage mk 11",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 11 defenses": {
+			"frName": "Défenses mk 11",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 12 armor": {
+			"frName": "Blindage mk 12",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 12 defenses": {
+			"frName": "Défenses mk 12",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 13 armor": {
+			"frName": "Blindage mk 13",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 13 defenses": {
+			"frName": "Défenses mk 13",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 14 armor": {
+			"frName": "Blindage mk 14",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 14 defenses": {
+			"frName": "Défenses mk 14",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 15 armor": {
+			"frName": "Blindage mk 15",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 15 defenses": {
+			"frName": "Défenses mk 15",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 2 armor": {
+			"frName": "Blindage mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 2 defenses": {
+			"frName": "Défenses mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 2 duonode": {
+			"frName": "Duonode mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 2 mononode": {
+			"frName": "Mononode mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 2 tetranode": {
+			"frName": "Tetranode mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 2 trinode": {
+			"frName": "Trinode mk 2",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 3 armor": {
+			"frName": "Blindage mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 3 defenses": {
+			"frName": "Défenses mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 3 duonode": {
+			"frName": "Duonode mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 3 mononode": {
+			"frName": "Mononode mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 3 tetranode": {
+			"frName": "Tetranode mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 3 trinode": {
+			"frName": "Trinode mk 3",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 4 armor": {
+			"frName": "Blindage mk 4",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 4 defenses": {
+			"frName": "Défenses mk 4",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 4 duonode": {
+			"frName": "Duonode mk 4",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 4 mononode": {
+			"frName": "Mononode mk 4",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 4 trinode": {
+			"frName": "Trinode mk 4",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 5 armor": {
+			"frName": "Blindage mk 5",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 5 defenses": {
+			"frName": "Défenses mk 5",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 5 duonode": {
+			"frName": "Duonode mk 5",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 5 mononode": {
+			"frName": "Mononode mk 5",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 5 trinode": {
+			"frName": "Trinode mk 5",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 6 armor": {
+			"frName": "Blindage mk 6",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 6 defenses": {
+			"frName": "Défenses mk 6",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 6 duonode": {
+			"frName": "Duonode mk 6",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 6 mononode": {
+			"frName": "Mononode mk 6",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 7 armor": {
+			"frName": "Blindage mk 7",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 7 defenses": {
+			"frName": "Défenses mk 7",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 7 duonode": {
+			"frName": "Duonode mk 7",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 7 mononode": {
+			"frName": "Mononode mk 7",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 8 armor": {
+			"frName": "Blindage mk 8",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 8 defenses": {
+			"frName": "Défenses mk 8",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 8 duonode": {
+			"frName": "Duonode mk 8",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 8 mononode": {
+			"frName": "Mononode mk 8",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 9 armor": {
+			"frName": "Blindage mk 9",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Mk 9 defenses": {
+			"frName": "Défenses mk 9",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Mk 9 duonode": {
+			"frName": "Duonode mk 9",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Mk 9 mononode": {
+			"frName": "Mononode mk 9",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Nova Heavy": {
+			"frName": "Nova lourd",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Nova Light": {
+			"frName": "Nova léger",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Nova Ultra": {
+			"frName": "Nova ultra",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Nuclear mega-missile launcher": {
+			"frName": "Lance-méga-missiles nucléaires",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Particle beam": {
+			"frName": "Faisceau à particules",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Particle beam cannon": {
+			"frName": "Canon à particules",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Passenger seating": {
+			"frName": "Places passagers",
+			"frDescription": "<p>Un compartiment annexe peut &ecirc;tre am&eacute;nag&eacute; gratuitement pour accueillir des rang&eacute;es de si&egrave;ges pour passagers. Un m&ecirc;me compartiment peut contenir des places assises pour 16 passagers de taille M (les si&egrave;ges peuvent &ecirc;tre fabriqu&eacute;s pour des cr&eacute;atures plus grandes). Cet am&eacute;nagement n&rsquo;est envisageable que pour transporter de nombreux passagers sur de courtes distances ; des vaisseaux qui voyagent pendant plusieurs jours doivent plut&ocirc;t opter pour des quartiers passagers.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Persistent particle beam": {
+			"frName": "Faisceau à particules persistantes",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Persistent particle beam cannon": {
+			"frName": "Canon à particules persistantes",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Plasma cannon": {
+			"frName": "Canon à plasma",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Power core housing": {
+			"frName": "Salle de réacteur",
+			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Pulse Black": {
+			"frName": "Pulsion noir",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Blue": {
+			"frName": "Pulsion bleu",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Brown": {
+			"frName": "Pulsion brun",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Gray": {
+			"frName": "Pulsion gris",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Green": {
+			"frName": "Pulsion vert",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Orange": {
+			"frName": "Pulsion orange",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Prismatic": {
+			"frName": "Pulsion prismatique",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse Red": {
+			"frName": "Pulsion rouge",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Pulse White": {
+			"frName": "Pulsion blanc",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Quantum missile launcher": {
+			"frName": "Lance-missiles quantum",
+			"frDescription": "[Cadence limitée] [Quantum]",
+			"frSource": "RDB p.303"
+		},
+		"Racer": {
+			"frName": "Traceur",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Railgun": {
+			"frName": "Canon électrique",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Reconfiguration System": {
+			"frName": "Reconfiguration System",
+			"frDescription": "",
+			"frSource": "RDB p.299"
+		},
+		"Recreation suite (gym)": {
+			"frName": "Salle de détente (salle de sport)",
+			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Recreation suite (HAC)": {
+			"frName": "Salle de détente (SLH)",
+			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Recreation suite (trivid den)": {
+			"frName": "Salle de détente (salle trividéo)",
+			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
+			"frSource": "RDB p.299"
+		},
+		"S10 thrusters": {
+			"frName": "Propulseurs P10",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"S12 thrusters": {
+			"frName": "Propulseurs P12",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"S6 thrusters": {
+			"frName": "Propulseurs P6",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"S8 thrusters": {
+			"frName": "Propulseurs P8",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Science lab": {
+			"frName": "Laboratoire scientifique",
+			"frDescription": "<p>Un laboratoire scientifique contient les appareils scientifiques et autres instruments de laboratoire qui permettent d&rsquo;aider l&rsquo;&eacute;quipage &agrave; effectuer des recherches dans certains domaines. Un laboratoire g&eacute;n&eacute;raliste octroie un bonus de circonstances de +1 aux tests de Sciences de la vie et de Sciences physiques ; un laboratoire de biologie octroie un bonus de circonstances de +2 aux tests de Sciences de la vie ; un laboratoire de sciences physiques octroie un bonus de circonstances de +2 aux tests de Sciences physiques. Le type de laboratoire est d&eacute;termin&eacute; au moment d&rsquo;am&eacute;nager le compartiment annexe.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Sealed engironment chamber": {
+			"frName": "Salle environnementale isolée",
+			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Self-destruct system": {
+			"frName": "Dispositif d’auto-destruction",
+			"frDescription": "<p>Utilis&eacute; en dernier recours, un dispositif d&rsquo;autodestruction d&eacute;truit compl&egrave;tement le vaisseau sur lequel il est install&eacute; (comme s&rsquo;il avait subi des d&eacute;g&acirc;ts &eacute;gaux &agrave; deux fois ses points de structure) en tuant bien souvent tous ceux qui sont &agrave; bord. Un vaisseau sur un hexagone adjacent &agrave; un b&acirc;timent qui s&rsquo;autod&eacute;truit subit des d&eacute;g&acirc;ts &eacute;gaux &agrave; la moiti&eacute; du maximum de points de structures de ce b&acirc;timent ; ces d&eacute;g&acirc;ts peuvent &ecirc;tre en partie encaiss&eacute;s par les boucliers. Le dispositif d&rsquo;autodestruction ne peut &ecirc;tre enclench&eacute; que par des cr&eacute;atures &agrave; bord du vaisseau (en tournant une s&eacute;rie de clefs, en entrant un code sp&eacute;cifique ou par tout autre moyen connu uniquement des officiers sup&eacute;rieurs de l&rsquo;&eacute;quipage) et il ne peut pas &ecirc;tre activ&eacute; &agrave; distance gr&acirc;ce &agrave; un piratage. Les cr&eacute;atures qui le d&eacute;clenchent sp&eacute;cifient un d&eacute;lai avant la destruction (au moins 1 round de combat spatial). Le co&ucirc;t d&rsquo;un tel dispositif d&eacute;pend de la cat&eacute;gorie de taille du vaisseau (pour ce calcul, Tr&egrave;s Petit = 1, Petit = 2, Moyen = 3, Grand = 4, etc.).</p>",
+			"frSource": "RDB p.302"
+		},
+		"Shuttle": {
+			"frName": "Navette",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Shuttle bay": {
+			"frName": "Aire de lancement",
+			"frDescription": "<p>Une aire de lancement ne peut &ecirc;tre install&eacute;e que sur des vaisseaux de taille TG ou sup&eacute;rieure et elle n&eacute;cessite deux compartiments annexes. Une aire de lancement peut accueillir deux vaisseaux de taille P ou plus petits qui peuvent s&rsquo;y arrimer.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Signal Basic": {
+			"frName": "Signal basique",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Signal Booster": {
+			"frName": "Signal amplifié",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Signal Major": {
+			"frName": "Signal majeur",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Signal Superior": {
+			"frName": "Signal supérieur",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Signal Ultra": {
+			"frName": "Signal ultra",
+			"frDescription": "",
+			"frSource": "RDB p.300"
+		},
+		"Smuggler compartment": {
+			"frName": "Compartiment à contrebande",
+			"frDescription": "<p>Les compartiments &agrave; contrebande sont des soutes cach&eacute;es derri&egrave;re de fausses cloisons et qui sont prot&eacute;g&eacute;es contre les d&eacute;tecteurs. Cela permet aux vaisseaux qui en sont &eacute;quip&eacute;s de transporter des marchandises ill&eacute;gales sans &ecirc;tre rep&eacute;r&eacute;s. Un tel compartiment peut contenir jusqu&rsquo;&agrave; 10 tonnes de marchandises sans qu&rsquo;aucun &eacute;l&eacute;ment n&rsquo;ait une taille sup&eacute;rieure &agrave; une taille M. Une cr&eacute;ature &agrave; bord du vaisseau doit r&eacute;ussir un test de Perception DD 20 pour d&eacute;tecter un compartiment &agrave; contrebande basique. Une cr&eacute;ature qui scanne le vaisseau doit r&eacute;ussir un test d&rsquo;Informatique DD 20 pour en d&eacute;tecter un (ce test suppl&eacute;mentaire fait partie des actions de d&eacute;tection de l&rsquo;officier scientifique au cours des combats spatiaux ; voir page 325). Pour chaque point de construction d&eacute;pens&eacute; en plus du co&ucirc;t de base, le DD est augment&eacute; de 5 (maximum DD 50) et la quantit&eacute; d&rsquo;&eacute;nergie n&eacute;cessaire est &eacute;galement augment&eacute;e de 1.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Solar torpedo launcher": {
+			"frName": "Lance-torpilles solaires",
+			"frDescription": "[Cadence limitée]",
+			"frSource": "RDB p.303"
+		},
+		"Super EMP cannon": {
+			"frName": "Super canon IEM",
+			"frDescription": "[IEM]",
+			"frSource": "RDB p.303"
+		},
+		"Super plasma cannon": {
+			"frName": "Super canon à plasma",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Super X-laser cannon": {
+			"frName": "Super canon laser-X",
+			"frDescription": "[Ligne]",
+			"frSource": "RDB p.303"
+		},
+		"Supergraser": {
+			"frName": "Super laser gamma",
+			"frDescription": "[Irradiante (forte)]",
+			"frSource": "RDB p.303"
+		},
+		"Superior Shields 540": {
+			"frName": "Boucliers supérieurs 540",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Superior Shields 600": {
+			"frName": "Boucliers supérieurs 600",
+			"frDescription": "",
+			"frSource": "RDB p.297"
+		},
+		"Superlaser": {
+			"frName": "Super laser",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Supermaser": {
+			"frName": "Super maser",
+			"frDescription": "",
+			"frSource": "RDB p.303"
+		},
+		"Synthesis Bay": {
+			"frName": "Laboratoire de synthèse",
+			"frDescription": "<p>Un laboratoire de synth&egrave;se contient tous les outils et l&rsquo;espace n&eacute;cessaire pour synth&eacute;tiser des drogues, des m&eacute;dicaments ou des poisons (voir page 235), mais l&rsquo;artisan doit tout de m&ecirc;me fournir les mat&eacute;riaux bruts n&eacute;cessaires. Un laboratoire de synth&egrave;se r&eacute;duit de moiti&eacute; le temps de fabrication.</p>",
+			"frSource": "RDB p.299"
+		},
+		"T10 thrusters": {
+			"frName": "Propulseurs TP10",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"T12 thrusters": {
+			"frName": "Propulseurs TP12",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"T14 thrusters": {
+			"frName": "Propulseurs TP14",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"T6 thrusters": {
+			"frName": "Propulseurs TP6",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"T8 thrusters": {
+			"frName": "Propulseurs TP8",
+			"frDescription": "",
+			"frSource": "RDB p.296"
+		},
+		"Tactical nuclear missile launcher": {
+			"frName": "Lance-missiles nucléaires tactiques",
+			"frDescription": "[Cadence limitée] [irradiante (faible)]",
+			"frSource": "RDB p.302"
+		},
+		"Tech workshop": {
+			"frName": "Atelier",
+			"frDescription": "<p>Un atelier contient tous les outils et l&rsquo;espace n&eacute;cessaire pour fabriquer des &eacute;quipements technologiques (voir page 235), mais l&rsquo;artisan doit tout de m&ecirc;me fournir les mat&eacute;riaux bruts n&eacute;cessaires. Un atelier r&eacute;duit de moiti&eacute; le temps de fabrication.</p>",
+			"frSource": "RDB p.299"
+		},
+		"Transport": {
+			"frName": "Transporteur",
+			"frDescription": "",
+			"frSource": "RDB p.295"
+		},
+		"Twin laser": {
+			"frName": "Double-laser",
+			"frDescription": "",
+			"frSource": "RDB p.302"
+		},
+		"Vortex cannon": {
+			"frName": "Canon vortex",
+			"frDescription": "[Vortex]",
+			"frSource": "RDB p.303"
+		},
+		"X-laser cannon": {
+			"frName": "Canon laser-X",
+			"frDescription": "[Ligne]",
+			"frSource": "RDB p.302"
+		}
+	}
+}

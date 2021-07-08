@@ -1,0 +1,1399 @@
+{
+	"label": "Dons",
+	"mapping": {
+		"source": "data.source"
+	},
+	"entries": [		{
+				"id": "Accelerated Recovery",
+				"name": "Accelerated Recovery",
+				"description": "<p>Your body knits back together especially quickly while you are resting.<br><strong>Prerequisites</strong>: Con 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You regain twice as many Hit Points when taking an 8-hour rest. In addition, for each uninterrupted 8 hours of rest you receive, you recover from afflictions as though you had rested for a full day. This effect does not stack with other effects that increase these rates of healing and recovery; if more than one would apply, you choose which one takes effect.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Adaptive Casting",
+				"name": "Adaptive Casting",
+				"description": "<p>You have a few extra eldritch tricks up your sleeve.<br><strong>Prerequisites</strong>: Key ability score 19, caster level 7.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select three spells from class spell lists you can cast spells from. They must be at least 1 level lower than the highest spell level you can cast. Once per day, you can cast one of these spells as a spell-like ability. Each time you gain a caster level, you can change which three spells you have selected with this feat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Adaptive Fighting (Combat)",
+				"name": "Combat adaptif (Combat)",
+				"description": "<p>Vous pouvez adapter votre style de combat aux conditions d&rsquo;une bataille en cours.</p><p><strong>Conditions :</strong> Trois dons de combat ou plus.</p><hr /><p><strong>Avantage :</strong> choisissez trois dons de combat que vous n&rsquo;avez pas mais dont vous remplissez les conditions. Une fois par jour par une action de mouvement, vous pouvez b&eacute;n&eacute;ficier des avantages de l&rsquo;un de ces dons pendant 1 minute. Chaque fois que vous gagnez un niveau, vous pouvez remplacer l&rsquo;un des trois dons s&eacute;lectionn&eacute;s par un don diff&eacute;rent que vous n&rsquo;avez pas mais dont vous remplissez les conditions.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Adaptive Resistance",
+				"name": "Adaptive Resistance",
+				"description": "<p>Your training enables you to adapt and evolve formidable temporary defenses.</p><p><strong>Prerequisites</strong>: Enhanced Resistance, base attack bonus +4, early stage adaptation racial trait.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain an option for your early stage adaptation ability, allowing you to change the damage type your Enhanced Resistance applies to. This change lasts for the normal duration of your early stage adaptation ability.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Adaptive Upgrade",
+				"name": "Adaptive Upgrade",
+				"description": "<p>You have adjusted one of your armor upgrades to give yourself a few more options.<br><strong>Prerequisites</strong>: Int 19, Engineering 10 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select three armor upgrades, each with an item level no greater than half your ranks in Engineering. If these upgrades require any choices to be made (such as what kind of energy damage they protect against), you must make those choices when you select this feat. With 8 hours of work, you can adapt any armor upgrade of an item level equal to at least half your ranks of Engineering, allowing it to function as one of your three selected upgrades. This upgrade functions only when the upgrade is installed in armor you are wearing. Activating this upgrade requires a move action, after which the upgrade functions as both its normal upgrade and your selected upgrade for 1 minute. If a selected upgrade requires charges, ammunition, or other resources, you must provide them normally; you can add batteries and ammunition to the upgrade as part of the process of adapting it to work with your selected upgrade choices. You can have only one upgrade adapted to be usable with this feat at a time—if you adapt a new upgrade, the adaptations to any previous upgrade are lost.<br>Once you’ve used your adapted upgrade, you can’t use it again until you’ve regained Stamina Points after a 10-minute rest.<br>Each time you gain another rank in Engineering, you can change the three upgrades you have selected with this feat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Add Leverage (Combat)",
+				"name": "Add Leverage (Combat)",
+				"description": "<p>You hold your weapon using an extra hand (or more) to better push your enemies around.<br><strong>Prerequisites</strong>: Str 15.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: For each hand you use to wield your weapon beyond the minimum required to wield that weapon, you increase the distance you can move your opponent with a successful bull rush or reposition combat maneuver by 5 feet. If you use a trip combat maneuver against a flying opponent, you can increase the distance that creature descends by 5 feet for each additional hand used to wield your weapon. Changing your grip to alter the number of hands you are wielding a weapon with is a swift action. You can’t hold items in hands used to add leverage, or use them for any other purpose.&nbsp;</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Advance Warning (Combat)",
+				"name": "Advance Warning (Combat)",
+				"description": "<p>You shout a warning to your allies, focusing their attention on the threats around them.<br><strong>Prerequisites</strong>: Cha 15.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a move action, you can shout a warning to your allies, ending the flat-footed condition for any ally within 60 feet. You cannot use this feat when you’re flat-footed. Once you’ve used this ability, you cannot do so again until you’ve regained Stamina Points after a 10-minute rest. This is a sense-dependent ability.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Advanced Melee Weapon Proficiency (Combat)",
+				"name": "Maniement des armes de corps à corps évoluées (Combat)",
+				"description": "<p>Vous savez manier les armes de corps &agrave; corps &eacute;volu&eacute;es.</p><p><strong>Conditions :</strong> form&eacute; au Maniement des armes de corps &agrave; corps simples.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des armes de corps &agrave; corps &eacute;volu&eacute;es (voir Maniement des armes &agrave; la page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Agile Casting",
+				"name": "Incantation agile",
+				"description": "<p>Vous pouvez vous d&eacute;placer, lancer des sorts, puis vous d&eacute;placer &agrave; nouveau avant que vos ennemis ne r&eacute;agissent.</p><p><strong>Conditions : </strong>valeur de caract&eacute;ristique essentielle 15, Dex 15, Man&oelig;uvrabilit&eacute;, lanceur de sorts de niveau 4.</p><hr /><p><strong>Avantage : </strong>par une action complexe, vous pouvez parcourir une distance maximale &eacute;gale &agrave; votre vitesse et lancer un unique sort dont le temps d&rsquo;incantation est une action simple ou plus rapide &agrave; n&rsquo;importe quel moment lors de votre d&eacute;placement. Si vous ma&icirc;trisez un pouvoir surnaturel qui peut &ecirc;tre activ&eacute; par une action simple ou plus rapidement, vous pouvez utiliser ce pouvoir au lieu de lancer un sort &agrave; n&rsquo;importe quel moment lors de votre d&eacute;placement.</p><p><strong>Normal :</strong> vous pouvez vous d&eacute;placer uniquement avant ou apr&egrave;s avoir incant&eacute; un sort, mais pas avant et apr&egrave;s.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "All Hands on Deck",
+				"name": "All Hands on Deck",
+				"description": "<p>Many hands make light work.<br><strong>Prerequisites</strong>: Four or more arms.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When performing labor, perhaps requiring a Strength check or an Athletics check, such as digging a hole, moving cargo, or hauling in a rope, you can complete the task in half the usual time. Tasks requiring other checks aren’t included.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Ambuscade (Combat)",
+				"name": "Ambuscade (Combat)",
+				"description": "<p>You are particularly skilled at attacking surprised targets.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you act in a surprise round and attack a target that has not yet acted in the same combat, you gain a +1 bonus to your attack roll and a bonus to damage equal to half your base attack bonus.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Ambush Awareness (Combat)",
+				"name": "Ambush Awareness (Combat)",
+				"description": "<p>You are particularly skilled at avoiding attacks when surprised.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: If you are unable to act in the surprise round because you failed a Perception check, you can still act on your initiative count in the surprise round, but only to take the total defense action.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Amplified Glitch (Combat)",
+				"name": "Dysfonctionnement amplifié (Combat)",
+				"description": "<p>Vous pouvez cr&eacute;er de soudaines distractions avec des appareils technologiques.</p><p><strong>Conditions :</strong> 3 rangs en Informatique, 3 rangs en Intimidation.</p><hr /><p><strong>Avantage : </strong>par une action simple et sans qu&rsquo;une connexion filaire ne soit n&eacute;cessaire, vous pouvez introduire un virus &agrave; action rapide dans des appareils technologiques &agrave; proximit&eacute; pour qu&rsquo;ils dysfonctionnent bri&egrave;vement de fa&ccedil;on bruyante et surprenante. Vous pouvez utiliser cette capacit&eacute; sur une cr&eacute;ature par niveau de personnage et aucune ne peut &ecirc;tre &eacute;loign&eacute;e de plus de 9 m&egrave;tres d&rsquo;une autre. Chaque cr&eacute;ature cibl&eacute;e doit porter sur elle des appareils technologiques ou &ecirc;tre &agrave; port&eacute;e de vue ou d&rsquo;ou&iuml;e de tels objets. L&rsquo;emplacement de tels appareils sont &agrave; l&rsquo;appr&eacute;ciation du MJ mais la plupart des endroits publics (&agrave; l&rsquo;exception des endroits sous-d&eacute;velopp&eacute;s d&rsquo;un point de vue technologique) contiennent suffisamment de technologies pour que ce don puisse fonctionner. Les dysfonctionnements que vous provoquez d&eacute;clenchent les alarmes, font tournoyer et s&rsquo;agiter dans tous les sens les appareils automatis&eacute;s, font clignoter avec force les &eacute;crans d&rsquo;affichage, et ainsi de suite. En r&eacute;ussissant un test d&rsquo;Informatique (DD = 15 + 1 par cible + 1,5 &times; le FP de la cible au FP le plus &eacute;lev&eacute;), toutes les cibles sont secou&eacute;es pendant 1 round, plus 1 round suppl&eacute;mentaire pour chaque tranche de 5 points obtenus au-dessus du DD avec le r&eacute;sultat de votre test.</p><p>Apr&egrave;s avoir &eacute;t&eacute; prise pour cible par votre don, une cr&eacute;ature est immunis&eacute;e contre ses effets pendant 24 heures.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Antagonize",
+				"name": "Contrarier",
+				"description": "<p>Vous savez comment vous y prendre pour que des adversaires soient extr&ecirc;mement en col&egrave;re envers vous.</p><p><strong>Conditions :</strong> 5 rangs en Diplomatie, 5 rangs en Intimidation.</p><hr /><p><strong>Avantage :</strong> par une action simple, vous pouvez provoquer l&rsquo;hostilit&eacute; d&rsquo;un adversaire qui peut vous voir et vous entendre en effectuant un test de Diplomatie ou d&rsquo;Intimidation (le DD le plus &eacute;lev&eacute; entre 10 + le bonus de comp&eacute;tence total en Psychologie de l&rsquo;adversaire ou 15 + 1,5 &times; le FP de l&rsquo;adversaire). Si vous r&eacute;ussissez, l&rsquo;adversaire est impr&eacute;cis et subit un malus de -2 aux tests de comp&eacute;tence pendant 1 round plus 1 round suppl&eacute;mentaire pour chaque tranche de 5 points obtenus au-dessus du DD avec votre r&eacute;sultat, ou jusqu&rsquo;&agrave; ce qu&rsquo;il vous attaque, vous force &agrave; effectuer un jet de sauvegarde ou vous blesse (selon ce qui se produit en premier). Une fois que vous avez tent&eacute; de provoquer l&rsquo;hostilit&eacute; d&rsquo;un adversaire, celui-ci est immunis&eacute; contre l&rsquo;effet de ce don pendant 24 heures. C&rsquo;est un pouvoir bas&eacute; sur le langage.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Apt Mentor",
+				"name": "Apt Mentor",
+				"description": "<p>Headteachers are prestigious scholars who have become revered experts in their fields after decades of dedication. Like these famous osharu scholars, you pride yourself in exuding not only confidence but warmth, which helps you mentor others in their fields.</p><p><strong>Prerequisites</strong>: Life Science or Physical Science 5 ranks.</p><hr /><p><strong>Benefit</strong>: Three times per day, you can automatically succeed at an attempt to aid another on an Intelligence- or Wisdom-based check. Additionally, each time you succeed at a Diplomacy check to gather information, you can learn one additional piece of information.</p>",
+				"source": ""
+		},
+		{
+				"id": "Arm Extensions",
+				"name": "Arm Extensions",
+				"description": "<p>You have special devices installed into your arms that allow you to extend them great distances.<br><strong>Prerequisites</strong>: Constructed racial trait or construct type.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a move action, you can extend your natural reach by 10 feet, retaining this benefit until you retract your reach to normal as another move action. While your arms are extended, you take a −2 penalty to attack rolls with weapons wielded in your hands and to Dexterity- and Strength-based ability checks and skill checks. You can use this ability to grab an object or surface and pull yourself to that item or surface as a full action, or you can anchor yourself where you are to lower yourself to another surface. When doing so, you move 15 feet as if using a fly speed with perfect maneuverability, ending your movement in a square adjacent to the chosen object or surface. If your movement does not end on solid ground, you either fall or must begin climbing the surface you grabbed (your choice).</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Barricade (Combat)",
+				"name": "Barricade (Combat)",
+				"description": "<p>You are adept at creating quick, temporary cover.<br><strong>Prerequisites</strong>: Engineering 1 rank.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a move action, you can stack and reinforce objects that are too small or too fragile to provide cover into a single square of adjacent cover. The GM has discretion over whether enough such objects are nearby to allow you to use this ability, but most urban and wilderness settings not specifically described as empty or barren have enough such material to allow at least one such temporary barricade to be built. The barricade grants partial cover against attacks with line of effect that pass through it. If the barricade is in a square that already granted partial cover, it instead grants normal cover. For more information about cover, see page 253.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">The barricade is temporary and not particularly durable. When determining its hardness and Hit Points, treat it as a piece of equipment with an item level equal to half your total ranks in Engineering (minimum 1st level). Additionally, once it or a creature adjacent to it is hit by an attack, the barricade collapses at the beginning of your turn in 1d4 rounds (unless the barricade is destroyed completely by the attack). There isn’t normally enough material for you to build a second barricade in exactly the same space unless you are in a particularly crowded area (as determined by the GM).</span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Basic Melee Weapon Proficiency (Combat)",
+				"name": "Maniement des armes de corps à corps simples (Combat)",
+				"description": "<p>Vous savez manier les armes de corps &agrave; corps simples.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des armes de corps &agrave; corps simples (voir Maniement des armes &agrave; la page 243).</p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Blind-Fight (Combat)",
+				"name": "Combat en aveugle (Combat)",
+				"description": "<p>You are skilled at attacking opponents you can’t clearly see.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: In melee, every time you miss because of concealment (see page 253), you can reroll your miss chance percentile roll one time to see if you actually hit (see page 243).<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">You aren’t flat-footed against melee attacks from creatures you can’t see, and you can withdraw from creatures you can’t perceive. You don’t need to attempt Acrobatics checks to move at full speed while blinded.</span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Blood in Their Eyes (Combat)",
+				"name": "Blood in Their Eyes (Combat)",
+				"description": "<p>You can deliver carefully placed slashing attacks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you score a critical hit with a weapon that deals slashing damage, in addition to any other critical hit effect you would normally apply, you also impose the dazzled condition on the target. The condition lasts until ended by any action or effect that would end the bleeding condition.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Blood of the Spider",
+				"name": "Blood of the Spider",
+				"description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\">Something in your ancestry has strengthened your innate magic and given it an arachnid twist.<br /><strong>Prerequisites</strong>: Racial trait that grants a spell-like ability.<br /></span></p><hr /><p><span style=\"margin-top: 0px;\"><strong>Benefit</strong>: You can use @Compendium[sfrpg.spells.jA6eTWFaULIpjXAx]{Spider Climb} once per day as a spell-like ability, using your character level as the caster level.</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+				"source": ""
+		},
+		{
+				"id": "Bodyguard (Combat)",
+				"name": "Protection rapprochée (Combat)",
+				"description": "<p>Vous pouvez tenter de parer les attaques qui prennent pour cible des alli&eacute;s proches.</p><hr /><p><strong>Avantage :</strong> en r&eacute;action, lorsqu&rsquo;un alli&eacute; adjacent est attaqu&eacute;, vous pouvez conf&eacute;rer &agrave; cet alli&eacute; un bonus de circonstances de +2 &agrave; sa CA contre cette attaque. Le cas &eacute;ch&eacute;ant, vous subissez un malus de -2 &agrave; votre propre CA jusqu&rsquo;au d&eacute;but de votre prochain tour.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Bud Drone",
+				"name": "Bud Drone",
+				"description": "<p>You have used your unique biology to bud off a biological drone you can more easily integrate with.<br /><strong>Prerequisites</strong>: Drone class feature, adaptation or early stage adaptation racial trait.</p><hr /><p><strong>Benefit</strong>: Your drone has living components. You can use Medicine instead of Engineering to repair it, and your drone naturally heals to full Hit Points when you rest for 8 hours. A drone modified in this way is considered an aberration rather than a construct for the purpose of spells and effects targeting it. In addition, Life Science and Medicine become class skills for you.</p><p>&nbsp;</p><p>&nbsp;</p>",
+				"source": ""
+		},
+		{
+				"id": "Cleave (Combat)",
+				"name": "Enchaînement (Combat)",
+				"description": "<p>You can strike two adjacent foes with a single swing.<br><strong>Prerequisites</strong>: Str 13, base attack bonus +1.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a standard action, you can make a single melee attack against a foe within reach. If you hit, you deal damage normally and can make an additional melee attack (using your full base attack bonus) against a foe that is adjacent to the first and also within reach. You can make only one additional attack per round with this feat. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.</span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Climbing Master",
+				"name": "Expert en escalade",
+				"description": "<p>Vous escaladez aussi ais&eacute;ment qu&rsquo;un singe ou qu&rsquo;une araign&eacute;e.</p><p><strong>Conditions :</strong> 5 rangs en Athl&eacute;tisme.</p><hr /><p><strong>Avantage :</strong> vous obtenez une vitesse d&rsquo;escalade &eacute;gale &agrave; votre vitesse au sol.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Close Combat (Combat)",
+				"name": "Close Combat (Combat)",
+				"description": "<p>When you are attacking a foe in melee, you know how to maneuver to make it more difficult for other foes to target you.<br><strong>Prerequisites</strong>: Base attack bonus +1.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you hit an adjacent foe with a melee attack, as long as you are adjacent to that target, you gain a +2 circumstance bonus to your AC against attacks from other creatures that are not adjacent to you until the beginning of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Combat Casting (Combat)",
+				"name": "Magie de guerre (Combat)",
+				"description": "<p>Vous offrez moins d&rsquo;occasions &agrave; vos adversaires de vous attaquer lors de l&rsquo;incantation de vos sorts.</p><p><strong>Conditions :</strong> aptitude &agrave; lancer des sorts de niveau 2.</p><hr /><p><strong>Avantage :</strong> vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 &agrave; votre classe d&rsquo;armure et &agrave; vos jets de sauvegarde contre les attaques d&rsquo;opportunit&eacute; que vous provoquez en lan&ccedil;ant un sort, ainsi que contre les actions pr&eacute;par&eacute;es et d&eacute;clench&eacute;es par vos incantations.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Complex Adaptation",
+				"name": "Complex Adaptation",
+				"description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\">With understanding and experience, you can manipulate your genetics to gain unexpected secondary effects.<br /><strong>Prerequisites</strong>: Life Science 5 ranks, early stage adaptation racial trait.<br /></span></p><hr /><p><strong>Benefit</strong>: When you use early stage adaptation, you can choose two different benefits instead of only one.</p>",
+				"source": ""
+		},
+		{
+				"id": "Connection Inkling",
+				"name": "Connexion limitée",
+				"description": "<p>Vous obtenez un fragment de pouvoir mystique.</p><p><strong>Conditions :</strong> Sag 15, personnage de niveau 5, aucun niveau de mystique.</p><hr /><p><strong>Avantage :</strong> choisissez deux sorts de mystique de niveau 0 et un sort de mystique de niveau 1. Vous pouvez lancer les sorts de niveau 0 &agrave; volont&eacute; et le sort de niveau 1 une fois par jour pour chaque tranche de 3 niveaux de personnage que vous poss&eacute;dez. Votre niveau de lanceur de sorts est &eacute;gal &agrave; votre niveau de personnage et la valeur de caract&eacute;ristique essentielle pour ces sorts est la Sagesse. Si vous obtenez par la suite des niveaux de mystique, vous perdez les avantages de ce don et pouvez le remplacer par Magie renforc&eacute;e ou Efficacit&eacute; des sorts accrue.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Constant Alert (Combat)",
+				"name": "Constant Alert (Combat)",
+				"description": "<p>You’re always on the lookout for danger, making it hard to get the drop on you.<br><strong>Prerequisites</strong>: Wis 11, character level 5th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Once per day, you can reroll an initiative check. You also win tied initiative checks as though you had the higher initiative bonus. If multiple characters have this feat, ties are resolved normally.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Cook Grenade (Combat)",
+				"name": "Cook Grenade (Combat)",
+				"description": "<p>You can pull the pin on a grenade and hold onto it until the last second before its detonation, making it harder to avoid.<br><strong>Prerequisites</strong>: Dex 11, proficiency with grenades</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a full action, you can draw a grenade and make a ranged attack with it. If you do so, the grenade’s Reflex save DC is increased by 2. If your attack roll is a natural 1 (the d20 comes up 1), the grenade instead detonates at a randomly determined grid intersection of your space.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Coordinated Shot (Combat)",
+				"name": "Tir coordonné (Combat)",
+				"description": "<p>Vous pouvez manipuler un adversaire de fa&ccedil;on &agrave; ce qu&rsquo;il se trouve dans la ligne de tir directe d&rsquo;un alli&eacute;.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> quand vous menacez un adversaire avec une arme de corps &agrave; corps, tous vos alli&eacute;s ayant une ligne de vue sur cet adversaire b&eacute;n&eacute;ficient d&rsquo;un bonus de +1 &agrave; leurs jets d&rsquo;attaque &agrave; distance contre lui, &agrave; condition que vous ne conf&eacute;riez pas un abri &agrave; cet adversaire.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Corruption’s Gift",
+				"name": "Corruption’s Gift",
+				"description": "<p>You have embraced your corruption.<br><strong>Prerequisites</strong>: One or more corruption manifestations.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Choose one of your manifestations and make its gift permanent. If you’re ever cured of your corruption, you lose the stain but not the gift. You can take this feat multiple times, making a different gift permanent each time you do so. Each instance of this feat counts as a manifestation you have for calculating the save DC for corruption.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Cosmic Truth",
+				"name": "Cosmic Truth",
+				"description": "<p>You can reveal one of the mysterious underpinnings of the universe you&rsquo;ve learned in your travels, forcing a creature to grapple with the implications.<br /><strong>Prerequisites</strong>: Wis 15, Bluff 5 ranks, Mysticism 5 ranks.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a standard action, you can spend 1 RP to force one creature within 30 feet of you to attempt a Will save (DC = 10 + half your ranks in Bluff + your Wisdom bonus); if it fails, it is confused for 1d4 rounds. Once a creature has seen or heard you use this ability, it is immune to your further uses of the ability for 24 hours. This is a language-dependent, sense-dependent ability.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Craven Ploy (Combat)",
+				"name": "Craven Ploy (Combat)",
+				"description": "<p>When the going gets tough, you hide behind allies.<br><strong>Prerequisites</strong>: Cha 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when you are attacked while adjacent to an ally, if that ally is willing to take a –2 penalty to her Armor Class until the beginning of her next turn, you gain a +2 circumstance bonus to your AC against that attack.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Deadly Aim (Combat)",
+				"name": "Viser (Combat)",
+				"description": "<p>Vous pouvez frapper les points faibles de vos ennemis pour leur infliger plus de d&eacute;g&acirc;ts.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> quand vous effectuez une attaque simple ou une attaque &agrave; outrance avec des armes (y compris avec la manifestation solaire d&rsquo;un solarien, mais pas avec des sorts ou d&rsquo;autres pouvoirs sp&eacute;ciaux, quels que soient leurs types), vous pouvez vous imposer un malus de -2 &agrave; vos jets d&rsquo;attaque. Le cas &eacute;ch&eacute;ant, ces attaques infligent des d&eacute;g&acirc;ts suppl&eacute;mentaires &eacute;gaux &agrave; la moiti&eacute; de votre bonus de base &agrave; l&rsquo;attaque (1 au minimum).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Deadly Boast",
+				"name": "Deadly Boast",
+				"description": "<p>You can make an upcoming attack or effect sound so terrifying and dangerous that its targets are actually more likely to be affected by it.<br><strong>Prerequisites</strong>: Cha 19, Bluff 10 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a full action, you can describe in great detail how powerful and effective a specific action taken by you or an ally is going to be. You must select a specific character to boast about, and a specific weapon, item, spell, or ability to be used. Attempt a Bluff check against all foes within 60 feet of you, using the same DC you would use if attempting to demoralize them with Intimidate—roll a single check and compare the result to the DC for each target. Each target your check succeeds against takes a –1 penalty to AC and a –2 penalty to saving throws against the action you boasted about until the end of your next turn. Once you have attempted to use this ability against a creature, it is immune to your use of this feat for 24 hours. This is a sense-dependent, language-dependent ability.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Defensive Roll (Combat)",
+				"name": "Defensive Roll (Combat)",
+				"description": "<p>You can dive out of the way of an incoming attack.<br><strong>Prerequisites</strong>: Dex 19, Acrobatics 10 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when you are attacked or when you must attempt a Reflex saving throw, you can attempt an Acrobatics check. If you use this ability as a reaction to an attack and your Acrobatics check result exceeds your opponent’s attack roll result, the attack misses you. If you use this ability as a reaction when you must attempt a Reflex saving throw, you can use your Acrobatics check result as your Reflex save result. Once you use this ability, you cannot do so again until you regain Stamina Points after a 10-minute rest. After you use this ability, you are staggered on your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Defensive Striker (Combat)",
+				"name": "Defensive Striker (Combat)",
+				"description": "<p>You were born to fight your enemies, and nobody does it better.<br /><strong>Prerequisites</strong>: Dex 13, base attack bonus +1, armor training trait.</p><hr /><p><strong>Benefit</strong>: While wearing light or heavy armor, you don&rsquo;t take a &ndash;2 penalty to AC when you use the Cleave feat or the Lunge feat or when you charge.&nbsp;</p>",
+				"source": ""
+		},
+		{
+				"id": "Deflect Projectiles (Combat)",
+				"name": "Déviation de projectiles (Combat)",
+				"description": "<p>Vous savez manier votre arme de corps &agrave; corps pour d&eacute;vier les projectiles.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +8.</p><hr /><p><strong>Avantage :</strong> quand une attaque &agrave; distance ex&eacute;cut&eacute;e avec une arme ou un sort qui inflige des d&eacute;g&acirc;ts cin&eacute;tiques ou &eacute;nerg&eacute;tiques vous touche, en r&eacute;action, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour effectuer un jet d&rsquo;attaque avec une arme de corps &agrave; corps non archa&iuml;que qui inflige la m&ecirc;me cat&eacute;gorie g&eacute;n&eacute;rale de d&eacute;g&acirc;ts (&eacute;nerg&eacute;tiques ou cin&eacute;tiques) avec un bonus de +5. Si votre jet d&rsquo;attaque est sup&eacute;rieur &agrave; celui qui vous touche, vous d&eacute;viez l&rsquo;attaque avec votre arme et l&rsquo;attaque est un &eacute;chec. Ce don ne fonctionne pas contre les attaques de zone, m&ecirc;me contre celles qui n&eacute;cessitent des jets d&rsquo;attaque comme les armes &agrave; dispersion, et vous ne pouvez pas utiliser cette r&eacute;action si vous ne pouvez pas effectuer une attaque avec une arme appropri&eacute;e.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Diehard",
+				"name": "Dur à cuire",
+				"description": "<p>Vous &ecirc;tes particuli&egrave;rement difficile &agrave; tuer. Vos blessures se stabilisent rapidement lorsque vous &ecirc;tes gri&egrave;vement bless&eacute;.</p><hr /><p><strong>Avantage :</strong> quand vous &ecirc;tes agonisant, vous pouvez d&eacute;penser le montant de points de pers&eacute;v&eacute;rance requis pour vous stabiliser et 1 point de pers&eacute;v&eacute;rance pour continuer &agrave; combattre (en r&eacute;cup&eacute;rant 1 point de vie) lors du m&ecirc;me round.</p><p><strong>Normal :</strong> la d&eacute;pense des points de pers&eacute;v&eacute;rance pour vous stabiliser et pour continuer &agrave; combattre se fait lors de rounds s&eacute;par&eacute;s.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Diligent Searcher",
+				"name": "Diligent Searcher",
+				"description": "<p>Your ordered mind allows you to thoroughly search an area in less time.<br><strong>Prerequisites</strong>: Perception 1 rank.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +1 insight bonus to Perception checks. In addition, you can take 20 on a Perception check to search in only 5 times the usual amount of time, meaning it takes only 5 minutes for you to exhaustively search an area no more than 20 feet by 20 feet.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Normal</strong>: It takes 20 minutes to exhaustively search an area no more than 20 feet by 20 feet.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Dire Straits (Combat)",
+				"name": "Dire Straits (Combat)",
+				"description": "<p>You manage to pull through one last time, even when you have nothing left to give.<br><strong>Prerequisites</strong>: Con 15.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Once per day, when you are reduced to 0 Hit Points and have no Resolve Points remaining, you immediately stabilize.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Disease Adaptation",
+				"name": "Disease Adaptation",
+				"description": "<p>Ailments find it hard to take hold in your system.<br><strong>Prerequisites</strong>: Con 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 enhancement bonus to saving throws against disease.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Disease Rejection",
+				"name": "Disease Rejection",
+				"description": "<p>You shake off ailments swiftly.<br><strong>Prerequisites</strong>: Con 17, Disease Adaptation.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you fulfill a disease’s cure condition, you move two steps toward healthy instead of one.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Dispelling Strike",
+				"name": "Dispelling Strike",
+				"description": "<p>You can stab, slice, or smash the magic right off of something— or someone.<br><strong>Prerequisites</strong>: Base attack bonus +10, Mysticism 10 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you are wielding a magic weapon (normally a weapon with a weapon fusion, but anything that bypasses DR/magic qualifies), as a standard action you can spend 1 Resolve Point to cast dispel magic for the targeted dispel function. You can use this only against an adjacent target. Once you have used this ability, you cannot do so again until you regain Stamina Points after a 10-minute rest.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Dive for Cover (Combat)",
+				"name": "Plonger à l’abri (Combat)",
+				"description": "<p>Vous savez comment &eacute;viter un effet de zone en plongeant &agrave; l&rsquo;abri.</p><p><strong>Conditions :</strong> bonus de base au jet de sauvegarde de R&eacute;flexes +2.</p><hr /><p><strong>Avantage :</strong> quand vous effectuez un jet de R&eacute;flexes contre une attaque de zone ou un effet de zone, vous pouvez vous jeter &agrave; terre dans une case adjacente et effectuer deux jets de R&eacute;flexes (en conservant le meilleur r&eacute;sultat des deux). Si vous &eacute;tiez dans une case menac&eacute;e, ce d&eacute;placement provoque des attaques d&rsquo;opportunit&eacute; comme &agrave; l&rsquo;accoutum&eacute;e.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Diverse Conditioning",
+				"name": "Diverse Conditioning",
+				"description": "<p>Your broad experience has made you better at avoiding danger.<br><strong>Prerequisites</strong>: Eternal hope or ecstatic joy racial trait, character level 5th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Choose two effect descriptors. You can spend 1 Resolve Point to reroll a failed saving throw against effects that have either of those descriptors. Once you use this ability, you can do so again only after a 10-minute rest to regain Stamina.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Diversion",
+				"name": "Diversion",
+				"description": "<p>Vous pouvez attirer l&rsquo;attention sur vous et permettre ainsi &agrave; vos alli&eacute;s de s&rsquo;&eacute;clipser.</p><hr /><p><strong>Avantage :</strong> quand vous utilisez avec succ&egrave;s la comp&eacute;tence de Bluff pour faire diversion, vous pouvez permettre &agrave; un alli&eacute; d&rsquo;effectuer un test de Discr&eacute;tion pour se cacher (au lieu de tenter de vous cacher vous-m&ecirc;me). Vous pouvez octroyer cette possibilit&eacute; &agrave; plusieurs alli&eacute;s mais vous subissez un malus de -5 &agrave; votre test de Bluff pour chaque alli&eacute; apr&egrave;s le premier et, en cas de test rat&eacute;, aucun alli&eacute; ne peut tenter de se cacher.</p><p><strong>Normal :</strong> lorsque vous utilisez le Bluff pour faire diversion, seul vous pouvez tenter un test de Discr&eacute;tion pour vous cacher.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Divine Blessing",
+				"name": "Divine Blessing",
+				"description": "<p>Your benefit is determined by the deity you worship.</p><p><strong><em>@Compendium[sfrpg.setting.vIgmW8C54qgxPqUg]{Abadar}</em>:</strong> When you make an attack as a standard action against a chaotic fey or chaotic outsider, your attack ignores any one form of DR, resistance, or immunity to damage the target has (your choice).</p><p><strong><em>@Compendium[sfrpg.setting.cO4BD8W8nUCLjvSE]{Besmara}</em>: </strong>You can attempt a disarm combat maneuver against an opponent to remove any item of 1 bulk or less that the target could draw as a move or swift action. </p><p><strong><em>@Compendium[sfrpg.setting.pq08s1mZZyi97PBA]{Damoritosh}</em>:</strong> When you score a critical hit with a doshko that doesn’t have the wound or severe wound critical hit effect, you can replace any critical hit effect it normally has with the wound critical hit effect. If you score a critical hit with a doshko that normally has the wound or severe wound critical hit effect, you also apply the knockdown critical hit effect to the target. </p><p><strong><em>@Compendium[sfrpg.setting.Jr4DAaJPRZYMAV1n]{Desna}</em>: </strong>Your deity sometimes grants you bursts of luck. Once per day, you can reroll any one failed skill check. </p><p><strong><em>@Compendium[sfrpg.setting.JpQpQbdXNOX6aTVG]{The Devourer}</em>:</strong> If you are knocked unconscious or killed by a creature that is a legal target for a weapon you are wielding, as a reaction you can make a single attack against the creature. You can make this single attack despite being unconscious or dead. </p><p><strong><em>@Compendium[sfrpg.setting.kN8pC8Yfi8OuCvig]{Eloritu}</em>: </strong>Once per day you can cast identify as a spell-like ability, attempting a caster level check (use your character level as your caster level: 1d20 + your character level), in place of the normal Engineering or Mysticism check (though you still receive identify’s +10 bonus). </p><p><strong><em>@Compendium[sfrpg.setting.uBNlQguFvGTFLHSA]{Hylax}</em>: </strong>You gain limited telepathy, as per the @Compendium[sfrpg.races.VIJ6pdOVTJle3vJx]{Shirren} racial ability. If you already have limited telepathy, you gain the ability to treat any creature that has a friendly or helpful attitude toward you as if it shared a language with you when determining whether you can use limited telepathy to communicate with it. </p><p><strong><em>@Compendium[sfrpg.setting.bPtB2HxRcO7AYWyf]{Ibra}</em>: </strong>When you attempt a skill check to recall knowledge about a very difficult question, you receive a +2 divine bonus to your check. </p><p><strong><em>@Compendium[sfrpg.setting.npmy97Y5pefRTHx1]{Iomedae}</em>: </strong>When you make an attack as a standard action against an evil dragon or evil outsider, your attack ignores any one form of DR, resistance, or immunity to damage the target has (your choice). </p><p><strong><em>@Compendium[sfrpg.setting.S7A3XE5trtBc0SH8]{Lao Shu Po}</em>: </strong>When you attack a flat-footed target in the surprise round of combat, if your attack hits, it deals 1d6 additional damage of the same type as its normal damage to a single target affected by the attack. </p><p><strong><em>@Compendium[sfrpg.setting.ul7WYVhr1F6q32jN]{Nyarlathotep}</em>: </strong>Once per day when an attack, effect, or spell imposes a condition on you, as a reaction you can delay that condition so it takes effect on you 1 round later. The condition then lasts 1d4 rounds longer than it would have if you had not delayed it. </p><p><strong><em>@Compendium[sfrpg.setting.FQYlHNdUxXmVccoI]{Oras}</em>:</strong> Select three feats that you do not have but whose prerequisites you meet. Once per day as a move action, you can gain the benefit of one of these feats for 1 minute. Each time you gain a level, you can replace one of these three selected feats with a different feat that you don’t have but whose prerequisites you meet. </p><p><strong><em>@Compendium[sfrpg.setting.VQrVznzrr85I90TI]{Pharasma}</em>:</strong> When you make an attack as a standard action against an undead creature, your attack ignores any one form of DR, resistance, or immunity to damage the target has (your choice). </p><p><strong><em>@Compendium[sfrpg.setting.VJ0UTIsAggcCQJBu]{Sarenrae}</em>:</strong> The first time you deal fire damage each round, you can convert half the fire damage into holy energy damage. Fire resistance or immunity does not apply to the holy energy portion of the damage. </p><p><strong><em>@Compendium[sfrpg.setting.V3pXOlk6kMulWA01]{Talavet}</em>: </strong>As a move action, you can grant yourself a bonus as if an ally had succeeded at an aid another check or successfully used cover fire against a foe of your choice. This doesn’t stack with any use of those options. Once you have used this ability, you can’t use it again until you spend 1 Resolve Point during a 10-minute rest to regain Stamina Points. </p><p><strong><em>@Compendium[sfrpg.setting.FYV6RgTjPdg72RF0]{Triune}</em>: </strong>You can use a computer without having a user interface or hacking kit simply by touching it. You must still succeed at a Computers check to hack it if you do not have authorized access. Additionally, you have limited telepathy that functions only with constructs with the technological subtype. </p><p><strong><em>@Compendium[sfrpg.setting.anZKSsgV81lZ49ew]{Urgathoa}</em>: </strong>Once per day as a swift action, you can force a creature of your choice within 60 feet that is subject to a disease to immediately attempt a save against that disease as if enough time had passed to fulfill its frequency. The subject suffers the normal consequences of a failed save against the disease, but a successful save does not count toward a number of successful saves needed to end the disease. </p><p><strong><em>@Compendium[sfrpg.setting.KZvxBU9KGbqRCKkv]{Weydan}</em>: </strong>Whenever you first arrive on a new planet, you can select an appearance for yourself when you are on that planet. This becomes your natural appearance when on that planet (though you can use Disguise to alter this new appearance normally). This new appearance must be of the same type and subtype as your race, but you can change any other details. Anyone attempting to recognize you based on some other appearance must succeed at a Perception check with a DC equal to 20 + 1-1/2 × your character level. </p><p><strong><em>@Compendium[sfrpg.setting.rUtAoz8NUGCZR4yz]{Yaraesa}</em>: </strong>You can roll a skill check to recall knowledge twice and take the better of the two results. Once you have used this ability, you can’t use it again until you spend 1 Resolve Point during a 10-minute rest to regain Stamina Points. </p><p><strong><em>@Compendium[sfrpg.setting.NCjMqGMqprKIe33d]{Zon-Kuthon}</em>: </strong>When you cast a spell or make an attack that deals damage, you can grant that spell or attack the pain descriptor. When you damage a creature with a pain effect, as a reaction, you can cause it to become flat-footed for 1 round. Once you use this ability, you can’t use it again until you spend 1 Resolve Point during a 10-minute rest to regain Stamina Points.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Prerequisites</strong>: Worship a deity of an alignment within one step of your own alignment.<br><br><strong>Benefit</strong>: If you change which deity you worship, this feat gives you no benefit until you next gain a character level. You then receive the benefit appropriate for the deity you now worship, if your alignment is within one step of that deity’s.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Double Draw (Combat)",
+				"name": "Double Draw (Combat)",
+				"description": "<p>Your limbs allow you to manipulate multiple weapons.<br><strong>Prerequisites</strong>: Four or more arms.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can draw, reload, or sheathe two weapons with the same action normally required to do so with one weapon.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Double Tap (Combat)",
+				"name": "Double Tap (Combat)",
+				"description": "<p>You can make rapid small arm attacks to increase the effectiveness of your attacks.<br><strong>Prerequisites</strong>: Weapon Focus (small arms), proficiency with small arms.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a standard action, you can take a single attack action to make a double-tap attack with a small arm. This attack gains a +1 bonus to the attack roll, and your bonus to damage from Weapon Specialization is equal to your character level (rather than half your character level). The small arm used cannot have the blast, explode, flexible line, line, unwieldy, or wide line weapon special properties, or any other property that allows it to attack multiple targets or an area in a single attack. This attack cannot benefit from the boost, guided, or variant boost weapon special properties, or any other ability or effect that is a move action and alters the effect of your attack or damage. This expends ammunition equal to two attack rolls, and if you cannot expend that ammunition, you cannot use this ability.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Drag Down (Combat)",
+				"name": "Entraîner au sol (Combat)",
+				"description": "<p>Vous savez comment vous y prendre pour entra&icirc;ner votre adversaire dans votre chute lorsque vous &ecirc;tes jet&eacute; &agrave; terre.</p><hr /><p><strong>Avantage :</strong> lorsqu&rsquo;un adversaire utilise avec succ&egrave;s une man&oelig;uvre offensive de croc-en-jambe contre vous, en r&eacute;action, vous pouvez effectuer un croc-en-jambe contre un adversaire adjacent.</p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Echolocation Attack",
+				"name": "Echolocation Attack",
+				"description": "<p>You have learned to use the echo of sonic attacks to locate unseen assailants.<br><strong>Prerequisites</strong>: Perception as a class skill.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you take an action that deals sonic damage, as a move action you can grant yourself blindsense (sound) with a range of 30 feet until the end of your next turn. If you have blindsense (sound or vibration), you can instead grant yourself blindsight (sound or vibration, to match your blindsense) with a range of 30 feet or a range equal to your blindsense (whichever is shorter) until the end of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Eldritch Lore",
+				"name": "Eldritch Lore",
+				"description": "<p>You have learned a broad range of additional magic.</p><p><strong>Prerequisites</strong>: Key ability score 19, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 10th, 10 levels in a class with a class spell list.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain one additional 2nd-level spell known from your class spell list.<br><br><strong>Special</strong>: For every 3 levels by which your caster level exceeds 10th, you can take this feat an additional time. You cannot take this feat more times than you have taken Lesser Eldritch Lore. Each time you select this feat, you gain a different 2nd-level spell known from your class spell list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Enclose Serums",
+				"name": "Enclose Serums",
+				"description": "<p>Due to your unique physiology, you can safely store important medicines inside yourself until you require them for use in an emergency.<br /><strong>Prerequisites</strong>: Adaptation or early stage adaptation racial trait, or ooze type.</p><hr /><p><strong>Benefit</strong>: You can store one serum or medicine within your body; this does not count against your bulk limits. As a move action, you can internally open and absorb the item, gaining its normal effects as if you had consumed it.</p>",
+				"source": ""
+		},
+		{
+				"id": "Enhanced Communalism",
+				"name": "Enhanced Communalism",
+				"description": "<p>You’re able to benefit from your allies’ presence more often.<br><strong>Prerequisites</strong>: Character level 5th, communalism racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can use the communalism racial trait multiple times per day. Each time you use it after the first, you must spend 1 Resolve Point to do so. Additionally, you can use communalism as a reaction when an ally within 10 feet of you attempts an attack roll or a skill check, allowing the ally to roll the triggering attack roll or skill check twice and use the higher result.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Enhanced Resistance",
+				"name": "Résistance améliorée",
+				"description": "<p>Vous vous &ecirc;tes entra&icirc;n&eacute; pour que votre corps r&eacute;siste &agrave; un type particulier de d&eacute;g&acirc;ts.</p><p><strong>Conditions : </strong>bonus de base &agrave; l&rsquo;attaque +4.</p><hr /><p><strong>Avantage :</strong> choisissez les d&eacute;g&acirc;ts cin&eacute;tiques ou l&rsquo;un des types de d&eacute;g&acirc;ts suivants : acide, &eacute;lectricit&eacute;, feu, froid ou son. Si vous choisissez les d&eacute;g&acirc;ts cin&eacute;tiques, vous obtenez une r&eacute;duction des d&eacute;g&acirc;ts &eacute;gale &agrave; votre bonus de base &agrave; l&rsquo;attaque. Si vous choisissez les d&eacute;g&acirc;ts d&rsquo;acide, d&rsquo;&eacute;lectricit&eacute;, de feu, de froid ou de son, vous obtenez une r&eacute;sistance aux &eacute;nergies contre ce type d&rsquo;&eacute;nergie &eacute;gale &agrave; votre bonus de base &agrave; l&rsquo;attaque.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Environmental Adaptation",
+				"name": "Environmental Adaptation",
+				"description": "<p>You are acclimated to a broad range of environments.<br><strong>Prerequisites</strong>: Con 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select a number of the following environmental conditions and weather conditions equal to your Constitution modifier: thick atmosphere (includes severely thick atmosphere), thin atmosphere (includes severely thin atmosphere), toxic atmosphere (includes low-level and heavily toxic atmospheres), rain and snow (includes rain, snow, heavy snow, and dust storms), winds (includes light, moderate, strong, and severe winds and windstorms), cold dangers (includes cold, severe cold, and extreme cold), extreme gravity, heat dangers (includes heat, severe heat, and extreme heat), and smoke effects (including smoke grenades). You do not take any of the selected conditions’ penalties to skill checks or attack rolls, do not take nonlethal damage from them, and do not need to attempt saving throws to resist their effects. Once these condition choices are made, they cannot be changed. If your Constitution bonus increases from an effect that does not have a limited duration, you can add additional conditions to your list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Extended Telepathy",
+				"name": "Extended Telepathy",
+				"description": "<p>You have expanded your latent telepathic powers.<br><strong>Prerequisites</strong>: Limited telepathy racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Increase the range of your limited telepathy by 30 feet.<br><br><strong>Special</strong>: If you are a phrenic adept or have the Major Psychic Power feat and you also have Extended Telepathy, you can try to communicate telepathically with creatures you don’t share a common language with, as long as the creature understands one or more languages. This requires a full action to initiate and a successful Mysticism check (DC = 15 + 1-1/2 × the creature’s CR). On a failed check, you can’t try to communicate telepathically with that creature again for 24 hours.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Extra Resolve",
+				"name": "Persévérance renforcée",
+				"description": "<p>Votre pers&eacute;v&eacute;rance est plus forte que jamais.</p><p><strong>Conditions : </strong>personnage de niveau 5.</p><hr /><p><strong>Avantage : </strong>vous ajoutez 2 points de pers&eacute;v&eacute;rance &agrave; votre r&eacute;serve.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Far Shot (Combat)",
+				"name": "Tir de loin (Combat)",
+				"description": "<p>Vos tirs restent pr&eacute;cis, m&ecirc;me &agrave; longue distance.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> vous subissez un malus de -1 seulement par facteur de port&eacute;e complet qui vous s&eacute;pare de votre cible lorsque vous utilisez une arme &agrave; distance.</p><p><strong>Normal :</strong> vous subissez un malus de -2 par facteur de port&eacute;e complet qui vous s&eacute;pare de votre cible.</p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Fast Talk",
+				"name": "Beau parleur",
+				"description": "<p>Vous pouvez d&eacute;concerter un adversaire en l&rsquo;inondant de paroles pour le surprendre au d&eacute;but d&rsquo;un combat.</p><p><strong>Conditions :</strong> 5 rangs en Bluff.</p><hr /><p><strong>Avantage :</strong> vous pouvez distraire une cr&eacute;ature par un d&eacute;luge de paroles d&eacute;routantes afin qu&rsquo;elle soit surprise lorsqu&rsquo;un combat &eacute;clate. Vous pouvez utiliser ce don uniquement sur une cr&eacute;ature avec laquelle vous pouvez discuter (elle doit pouvoir vous voir, vous entendre et comprendre ce que vous dites) avant le d&eacute;but du combat, et vous devez continuer votre conversation avec elle jusqu&rsquo;au d&eacute;but du combat. Vous ne pouvez pas utiliser ce don si vous &ecirc;tes celui qui initie le combat ou si vous ignorez qu&rsquo;un combat va avoir lieu. Quand le MJ d&eacute;clare que le combat commence mais avant la d&eacute;termination de l&rsquo;initiative, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour effectuer un test de Bluff contre une unique cr&eacute;ature qu&rsquo;il est possible d&rsquo;affecter avec ce don. Le DD est &eacute;gal &agrave; la plus haute valeur entre 15 + le bonus de comp&eacute;tence total en Perception de la cible ou 20 + 1,5 &times; le FP de la cible. Si votre test est r&eacute;ussi, la cr&eacute;ature cibl&eacute;e est consid&eacute;r&eacute;e comme ignorante au d&eacute;but du combat, ce qui permet &agrave; d&rsquo;autres cr&eacute;atures (y compris vous-m&ecirc;me) d&rsquo;agir pendant le round de surprise. Une fois que vous avez tent&eacute; d&rsquo;utiliser ce don sur une cr&eacute;ature, avec succ&egrave;s ou non, celle-ci est immunis&eacute;e contre ses effets pendant 24 heures.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Fighting Balance",
+				"name": "Fighting Balance",
+				"description": "<p>You know how to fight while off-balance or prone.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\"><strong>Benefit</strong>: As a move action, you can crawl 10 feet. While you are prone, you take only a &minus;2 penalty to melee attack rolls and no penalty to AC against melee attacks.&nbsp;</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Fleet (Combat)",
+				"name": "Rapide (Combat)",
+				"description": "<p>Vous &ecirc;tes plus rapide que jamais.</p><hr /><p><strong>Avantage :</strong> tant que vous ne portez qu&rsquo;une armure l&eacute;g&egrave;re ou aucune armure, votre vitesse au sol augmente de 3 m&egrave;tres. Quand vous &ecirc;tes encombr&eacute;, votre vitesse au sol augmente de 1,50 m&egrave;tre seulement. Lorsque vous &ecirc;tes surcharg&eacute;, votre vitesse est r&eacute;duite de 3 m&egrave;tres.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Focused Sense",
+				"name": "Focused Sense",
+				"description": "<p>You can sharpen an imprecise sense to detect things with precision at closer range.<br /><strong>Prerequisites</strong>: Blindsense.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a move action, you can gain blindsight (using the same sense as your blindsense) with a range equal to half that of your blindsense until the beginning of your next turn. You can use this ability with only one type of blindsense (such as sound or vibration) at a time.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Focused Spellcaster (Combat)",
+				"name": "Focused Spellcaster (Combat)",
+				"description": "<p>You have learned to casually ignore wounds that would interfere with a lesser spellcaster’s concentration.<br><strong>Prerequisites</strong>: Combat Casting, ability to cast 4th-level spells.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: If your spell would fail as a result of you taking damage either from a successful attack or from an effect that you failed a saving throw against during the casting of the spell, as a reaction you can spend a Resolve Point to prevent the spell from failing. You suffer the effects of the attack as normal, but as long as you remain able to complete the spellcasting after the attack, you successfully cast the spell.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Forward Momentum",
+				"name": "Forward Momentum",
+				"description": "<p>You can keep going through sheer willpower&mdash;for a little while, at least.<br /><strong>Prerequisites</strong>: Wis 13, character level 5th</p><hr /><p><strong>Benefit</strong>: If you would become confused, fascinated, fatigued, shaken, sickened, or staggered, you can spend 1 Resolve Point as a reaction to delay the condition&rsquo;s onset for 1 round. At the beginning of each of your subsequent turns, you can continue to spend 1 Resolve Point to delay the condition&rsquo;s onset for another round; when you stop spending Resolve Points, the condition takes effect and lasts for its original duration. You can delay only one condition at a time. At 9th level, you can also delay the cowering, dazed, exhausted, frightened, nauseated, panicked, paralyzed, and stunned conditions.</p>",
+				"source": ""
+		},
+		{
+				"id": "Fouling Reposition (Combat)",
+				"name": "Fouling Reposition (Combat)",
+				"description": "<p>When you reposition a foe, you can use the movement to disrupt both the target and a second creature.<br><strong>Prerequisites</strong>: Improved Combat Maneuver (reposition).</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you succeed at a reposition combat maneuver against a creature and move your target so it ends its movement adjacent to a second creature, both creatures become off-target until the beginning of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Four-Handed Hacker",
+				"name": "Four-Handed Hacker",
+				"description": "<p>When you hack a computer, it’s a two-front war.<br><strong>Prerequisites</strong>: Computers 1 rank, four or more hands.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you use the hack system task of Computers, if you have two hacking kits, your hacking attempt takes half the time (minimum 1 full action). You can also add, destroy, disable, remove, or repair a system or module in half the usual time.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Frightening Injection",
+				"name": "Frightening Injection",
+				"description": "<p>You accompany your injections with a promise of terrible effects that shakes your target’s resolve.<br><strong>Prerequisites</strong>: Intimidate 3 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you successfully inject a creature with a substance (including a biohacker’s biohack) using a weapon that has the injection special property, you can attempt an Intimidate check to demoralize that creature as a move action before the end of your turn. A creature can be affected by this ability only once per day.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Frightful Display",
+				"name": "Frightful Display",
+				"description": "<p>You unnerve your spell’s victim with odd gestures, cackling laughter, or other effects.<br><strong>Prerequisites</strong>: Cha 15, Intimidate 5 ranks, ability to cast spells.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when a creature fails a saving throw against a spell you cast this round, you can attempt an Intimidate check to demoralize that creature. You can target only one creature regardless of how many creatures your spell affected, and a given creature can’t be targeted by this ability more than once per day.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Fusillade (Combat)",
+				"name": "Fusillade (Combat)",
+				"description": "<p>Vous vous servez de vos nombreux membres pour faire pleuvoir les projectiles sur vos ennemis.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1, quatre bras ou plus.</p><hr /><p><strong>Avantage :</strong> lors d&rsquo;une attaque &agrave; outrance quand vous maniez au moins quatre armes l&eacute;g&egrave;res identiques, vous pouvez tirer avec toutes ces armes simultan&eacute;ment pour dupliquer les effets d&rsquo;une arme automatique (voir page 180). Vous videz les chargeurs de toutes les armes l&eacute;g&egrave;res avec lesquelles vous tirez et vous consid&eacute;rez que cette attaque est en mode automatique. Faites la somme de toutes les munitions tir&eacute;es par l&rsquo;ensemble de vos armes l&eacute;g&egrave;res quand vous d&eacute;terminez le nombre maximum de cr&eacute;atures que vous pouvez toucher.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Grab Attention (Combat)",
+				"name": "Grab Attention (Combat)",
+				"description": "<p>Your melee attack can grab your opponent’s attention, discouraging them from attacking anyone else.<br><strong>Prerequisites</strong>: Intimidate 5 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you hit a target with a melee attack, you can attempt an Intimidate check, using the same DC as you would to demoralize that foe. If you succeed, the creature is off-target while attacking anyone other than you until the beginning of your next turn. A creature can be affected by this ability only once per day.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Grappler Pull (Combat)",
+				"name": "Grappler Pull (Combat)",
+				"description": "<p>You can use a grappler to draw your foes closer.<br><strong>Prerequisites</strong>: Str 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you grapple a creature with a grappler, you can attempt a reposition combat maneuver against that creature on your next turn as though it were within your reach. If you succeed, you can move the target only directly toward you.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Great Cleave (Combat)",
+				"name": "Succession d’enchaînements (Combat)",
+				"description": "<p>Vous pouvez frapper plusieurs adversaires adjacents d&rsquo;un seul et large coup.</p><p><strong>Conditions : </strong>For 13, Encha&icirc;nement, bonus de base &agrave; l&rsquo;attaque +4.</p><hr /><p><strong>Avantage :</strong> si vous frappez une deuxi&egrave;me cible avec le don Encha&icirc;nement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour effectuer une attaque au corps &agrave; corps contre un adversaire de plus qui doit &ecirc;tre &agrave; la fois adjacent &agrave; la derni&egrave;re cible et &agrave; port&eacute;e de votre allonge. Vous pouvez r&eacute;p&eacute;ter le processus aussi longtemps que vous arrivez &agrave; frapper un adversaire. Vous ne pouvez pas attaquer un m&ecirc;me adversaire plus d&rsquo;une fois lors de cette action d&rsquo;attaque.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Great Fortitude",
+				"name": "Vigueur surhumaine",
+				"description": "<p>Vous r&eacute;sistez aux maladies, aux poisons et autres maux de ce genre.</p><hr /><p><strong>Avantage : </strong>vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 aux jets de sauvegarde de Vigueur.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Greater Eldritch Lore",
+				"name": "Greater Eldritch Lore",
+				"description": "<p>You have learned a broad range of additional potent magic.</p><p><strong>Prerequisites</strong>: Key ability score 21, Eldritch Lore, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 13th, 13 levels in a class with a class spell list.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain one additional 3rd-level spell known from your class spell list.<br><br><strong>Special</strong>: For every 3 levels by which your caster level exceeds 13th, you can take this feat an additional time. You cannot take this feat more times than you have taken Eldritch Lore. Each time you select this feat, you gain a different 3rd-level spell known from your class spell list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Greater Feint (Combat)",
+				"name": "Feinte supérieure (Combat)",
+				"description": "<p>Vous savez vous y prendre pour duper vos adversaires en combat.</p><p><strong>Conditions :</strong> Science de la feinte, bonus de base &agrave; l&rsquo;attaque +6.</p><hr /><p><strong>Avantage :</strong> chaque fois que vous parvenez &agrave; feinter en combat, l&rsquo;adversaire obtient l&rsquo;&eacute;tat pris au d&eacute;pourvu jusqu&rsquo;&agrave; la fin de votre prochain tour.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Greater Shadow Infusion",
+				"name": "Greater Shadow Infusion",
+				"description": "<p>The energy of the Shadow Plane suffuses your body, mind, and spirit.<br /><strong>Prerequisites</strong>: Improved Shadow Infusion, Shadow Infusion, character level 13th.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when you take damage, you can become insubstantial and reduce nonmagical kinetic damage you take by 100% and magical or energy damage you take by 50%. This benefit can&rsquo;t reduce damage from effects that deal full damage to incorporeal creatures. You can use this benefit once per day. After that, you can expend 1 Resolve Point to use it again. If your attempt to use this ability fails to reduce the damage you take, you don&rsquo;t expend its use or the Resolve Point.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Greater Spell Penetration",
+				"name": "Efficacité des sorts accrue supérieure",
+				"description": "<p>Vos sorts ignorent la r&eacute;sistance &agrave; la magie bien plus efficacement que ceux de la plupart des autres utilisateurs de magie.</p><p><strong>Conditions :</strong> Efficacit&eacute; des sorts accrue.</p><hr /><p><strong>Avantage : </strong>vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 aux tests de lanceur de sorts effectu&eacute;s pour ignorer la r&eacute;sistance &agrave; la magie d&rsquo;une cr&eacute;ature. Ce bonus se cumule avec celui conf&eacute;r&eacute; par Efficacit&eacute; des sorts accrue.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Grenade Mastery (Combat)",
+				"name": "Grenade Mastery (Combat)",
+				"description": "<p>You know how to get the most out of your grenades.<br /><strong>Prerequisites</strong>: Proficiency with grenades.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: The save DC of any grenade you use is increased by 1. If the grenade has an item level 5 or more lower than your base attack bonus, you instead increase the DC by 2.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Grenade Proficiency (Combat)",
+				"name": "Maniement des grenades (Combat)",
+				"description": "<p>Vous savez comment utiliser des grenades.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des grenades (voir Le maniement des armes &agrave; la page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Ground Fighting (Combat)",
+				"name": "Ground Fighting (Combat)",
+				"description": "<p>You maintain your combat prowess even when at a disadvantage.<br><strong>Prerequisites</strong>: Str 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: The normal penalties to attack rolls from being grappled, pinned, and prone don’t apply to your unarmed attacks. The penalties from the pinned condition don’t apply to your attempts to grapple your opponent or free yourself.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Harm Undead",
+				"name": "Mise à mal des morts-vivants",
+				"description": "<p>Vous pouvez utiliser votre focalisation curative pour blesser les morts-vivants.</p><p><strong>Conditions :</strong> pouvoir de connexion de focalisation curative, mystique de niveau 1.</p><hr /><p><strong>Avantage :</strong> quand vous utilisez votre focalisation curative, vous pouvez d&eacute;penser un emplacement de sort de mystique du niveau le plus &eacute;lev&eacute; que vous savez lancer pour infliger &eacute;galement des d&eacute;g&acirc;ts d&rsquo;un montant &eacute;gal &agrave; celui que vous soignez &agrave; tous les morts-vivants situ&eacute;s dans la zone d&rsquo;effet. Les morts-vivants peuvent effectuer un jet de Volont&eacute; contre le DD habituel de votre pouvoir de connexion pour r&eacute;duire ces d&eacute;g&acirc;ts de moiti&eacute;.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Hauler",
+				"name": "Hauler",
+				"description": "<p>Through a combination of sheer power, practiced posture, and conscientious load balancing, you can carry more than most.<br><strong>Prerequisites</strong>: Str 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You treat your Strength score as 3 higher for the purpose of determining your carrying capacity. In addition, when you are encumbered or overburdened, you take only a –4 penalty to Strength- and Dexterity-based checks.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Heavy Armor Proficiency (Combat)",
+				"name": "Port des armures lourdes (Combat)",
+				"description": "<p>Vous savez comment utiliser les armures lourdes.</p><h2>Conditions : For 13, form&eacute; au port des armures l&eacute;g&egrave;res.</h2><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au port des armures lourdes (voir page 242).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Heavy Weapon Proficiency (Combat)",
+				"name": "Maniement des armes lourdes (Combat)",
+				"description": "<p>Vous savez comment utiliser les armes lourdes.</p><p><strong>Conditions :</strong> For 13, form&eacute; au Maniement des armes l&eacute;g&egrave;res et longues.</p><hr /><p><strong>Avantage : </strong>vous &ecirc;tes form&eacute; au Maniement des armes lourdes (voir page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Helpful Telepath",
+				"name": "Helpful Telepath",
+				"description": "<p>You’re able to provide uncanny support to your allies.<br><strong>Prerequisites</strong>: Communalism or hive defense racial trait, limited telepathy or telepathy racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you use aid another, covering fire, or harrying fire and succeed at your attack roll or skill check, you can forgo granting your ally the usual benefit of that action to instead grant the following benefits, determined by the action you used. Any effect that increases the bonuses provided by these actions doesn’t apply when using this feat. You can use this feat in conjunction with the Suppressive Fire feat, but you must apply the same effect (a circumstance bonus or the benefit described below) to all allies within the chosen area. You can provide these benefits only to allies with whom you can communicate using telepathy or limited telepathy.<br>Once you’ve used this feat, you can’t do so again until you’ve taken a 10-minute rest to regain Stamina.<br><em>Aid Another:</em> Instead of gaining a bonus to a skill check, your ally can roll the check twice and use the higher result.<br><em>Covering Fire:</em> Instead of granting a bonus to the ally’s AC, the next opponent to attack the chosen ally must roll the attack roll twice and use the lower result.<br><em>Harrying Fire:</em> Instead of gaining a bonus to an attack roll, the next ally to attack the chosen opponent can roll the attack roll twice and use the higher result.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Combat Maneuver (Combat)",
+				"name": "Science de la manœuvre offensive (Combat)",
+				"description": "<p>Vous savez particuli&egrave;rement bien ex&eacute;cuter une man&oelig;uvre offensive sp&eacute;cifique.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> choisissez une man&oelig;uvre offensive (bousculade, croc-en-jambe, d&eacute;sarmement, destruction, lutte, repositionnement ou sale coup). Vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; vos jets d&rsquo;attaque effectu&eacute;s pour r&eacute;soudre cette man&oelig;uvre offensive.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre ce don plusieurs fois mais ses effets ne se cumulent pas. Il s&rsquo;applique &agrave; chaque fois &agrave; une man&oelig;uvre offensive diff&eacute;rente.</p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Improved Critical (Combat)",
+				"name": "Science du critique (Combat)",
+				"description": "<p>Il est plus difficile de r&eacute;sister aux attaques effectu&eacute;es avec votre arme favorite.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +8.</p><hr /><p><strong>Avantage :</strong> quand vous obtenez un coup critique avec une arme, augmentez de 2 le DD pour r&eacute;sister &agrave; l&rsquo;effet critique de cette arme.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Improved Demoralize",
+				"name": "Improved Demoralize",
+				"description": "<p>You are skilled at quickly demoralizing your foes.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can use the Intimidate skill to demoralize as a move action.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Energy Resistance",
+				"name": "Improved Energy Resistance",
+				"description": "<p>Your natural resistance to an energy type is more pronounced.<br /><strong>Prerequisites</strong>: Con 13, character level 10th, energy resistance from a racial trait.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Your resistance to one type of energy damage from a racial trait stacks with one other source of energy resistance. If it already stacked, that resistance increases by 5 instead.<br /><br /><strong>Special</strong>: You can take this feat multiple times&mdash;its effects don&rsquo;t stack. Each time you take this feat, it applies to a different energy resistance from a racial trait.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Feint (Combat)",
+				"name": "Science de la feinte (Combat)",
+				"description": "<p>Vous savez comment duper vos adversaires en combat.</p><hr /><p><strong>Avantage : </strong>vous pouvez utiliser la comp&eacute;tence de Bluff pour feinter en combat par une action de mouvement.</p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Improved Great Fortitude",
+				"name": "Science de la vigueur surhumaine",
+				"description": "<p>Vous r&eacute;sistez encore mieux aux maladies, aux poisons et autres dangers de ce type.</p><p><strong>Conditions : </strong>Vigueur surhumaine, personnage de niveau 5.</p><hr /><p><strong>Avantage :</strong> vous pouvez d&eacute;penser 1 PP pour relancer un jet de Vigueur rat&eacute; (voir page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Improved Initiative (Combat)",
+				"name": "Science de l’initiative (Combat)",
+				"description": "<p>Your quick reflexes allow you to react rapidly to danger.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +4 bonus to initiative checks.</span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Improved Iron Will",
+				"name": "Science de la volonté de fer",
+				"description": "<p>Votre clart&eacute; de pens&eacute;e vous permet de r&eacute;sister aux agressions mentales.</p><p><strong>Conditions :</strong> Volont&eacute; de fer, personnage de niveau 5.</p><hr /><p><strong>Avantage :</strong> vous pouvez d&eacute;penser 1 PP pour relancer un jet de Volont&eacute; rat&eacute; (voir page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Improved Kip-Up",
+				"name": "Improved Kip-Up",
+				"description": "<p>You can stand from prone in a blink of an eye.<br><strong>Prerequisites</strong>: Acrobatics 1 rank, Kip-Up feat or moxie racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can stand from prone as a reaction. If you have 5 or more ranks in Acrobatics, you can expend 1 Resolve Point to stand from prone during your turn as part of another full, move, or standard action you take.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Lightning Reflexes",
+				"name": "Science des réflexes surhumains",
+				"description": "<p>Vous avez un don pour &eacute;viter les dangers alentour.</p><p><strong>Conditions :</strong> R&eacute;flexes surhumains, personnage de niveau 5.</p><hr /><p><strong>Avantage :</strong> vous pouvez d&eacute;penser 1 PP pour relancer un jet de R&eacute;flexes rat&eacute; (voir page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Improved Shadow Infusion",
+				"name": "Improved Shadow Infusion",
+				"description": "<p>Your connection to the Shadow Plane has grown stronger.<br /><strong>Prerequisites</strong>: Shadow Infusion, character level 7th.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a swift action, you can shroud yourself in shadow for 1 round. While shrouded in this fashion, you have concealment, even in areas of normal or bright light, against creatures that have no ability to see or otherwise sense you through darkness. You can use this feat for 1 round per day per character level you have. These rounds need not be consecutive.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Sidestep (Combat)",
+				"name": "Science du pas de côté (Combat)",
+				"description": "<p>Vous restez toujours aussi mobile lorsqu&rsquo;il s&rsquo;agit d&rsquo;esquiver les attaques au corps &agrave; corps de vos ennemis.</p><p><strong>Conditions :</strong> Dex 17, Man&oelig;uvrabilit&eacute; ou aptitude de classe feinte offensive, Pas de c&ocirc;t&eacute;.</p><hr /><p><strong>Avantage :</strong> apr&egrave;s avoir fait un pas de c&ocirc;t&eacute; suite &agrave; l&rsquo;attaque rat&eacute;e d&rsquo;un adversaire en utilisant le don Pas de c&ocirc;t&eacute;, vous pouvez encore faire un d&eacute;placement prudent lors de votre prochain tour ou vous pouvez vous d&eacute;placer &agrave; votre vitesse normale si vous effectuez une action pour vous d&eacute;placer lors de votre prochain tour.</p><p><strong>Normal :</strong> si vous utilisez le don Pas de c&ocirc;t&eacute;, vous ne pouvez pas faire un d&eacute;placement prudent lors de votre prochain tour et votre vitesse est r&eacute;duite de 1,50 m&egrave;tre lors de votre prochain tour.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Improved Spell-Like Ability",
+				"name": "Improved Spell-Like Ability",
+				"description": "<p>You have focused on honing your innate magical talents.<br /><strong>Prerequisites</strong>: At least one spell-like ability that is a level-0 or 1st-level spell, character level 4th.</p><hr /><p><strong>Benefit</strong>: Choose one spell-like ability you have that is a 0- or 1st-level spell. Once this choice is made, it cannot be changed. You can use a chosen 0-level spell two additional times per day or the chosen 1st-level spell one additional time per day.</p><p><strong>Special</strong>: You can select this feat more than once. Each time you can either choose the same spell-like ability or pick a different one.&nbsp;</p>",
+				"source": ""
+		},
+		{
+				"id": "Improved Stand Still (Combat)",
+				"name": "Science de l’immobilisation (Combat)",
+				"description": "<p>Vous &ecirc;tes particuli&egrave;rement dou&eacute; pour arr&ecirc;ter net vos ennemis.</p><p><strong>Conditions :</strong> Immobilisation.</p><hr /><p><strong>Avantage :</strong> vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; votre jet d&rsquo;attaque au corps &agrave; corps lorsque vous utilisez Immobilisation.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Improved Unarmed Strike (Combat)",
+				"name": "Science du combat à mains nues (Combat)",
+				"description": "<p>Vous vous &ecirc;tes entra&icirc;n&eacute; pour porter des attaques l&eacute;tales &agrave; mains nues, pour donner des coups de pieds, de t&ecirc;te et effectuer des attaques de ce genre.</p><hr /><p><strong>Avantage :</strong> les d&eacute;g&acirc;ts de vos attaques &agrave; mains nues s&rsquo;&eacute;l&egrave;vent &agrave; 1d6 au niveau 4, 2d6 au niveau 8, 3d6 au niveau 12, 5d6 au niveau 15 et 7d6 au niveau 20. Vous menacez les cases situ&eacute;es &agrave; port&eacute;e de votre allonge naturelle avec vos attaques &agrave; mains nues, m&ecirc;me si vous n&rsquo;avez aucune main de libre pour frapper &agrave; mains nues. Si vous &ecirc;tes immobilis&eacute;, enchev&ecirc;tr&eacute; ou incapable d&rsquo;utiliser vos deux jambes (ou autres membres dont vous disposez, le cas &eacute;ch&eacute;ant, et qui font office de jambes), vous ne pouvez plus faire d&rsquo;attaques &agrave; mains nues sans vos mains. Lorsque vous effectuez une attaque &agrave; mains nues sans vos mains, vous ne pouvez pas utiliser ces attaques pour r&eacute;aliser des man&oelig;uvres offensives ou utiliser des aptitudes similaires, mais seulement pour infliger des d&eacute;g&acirc;ts.</p><p><strong>Normal </strong>: vous ne menacez aucune case &agrave; mains nues et vous devez avoir une main de libre au moins pour attaquer &agrave; mains nues.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "In Harm’s Way (Combat)",
+				"name": "Interception de coups (Combat)",
+				"description": "<p>Vous encaissez les coups &agrave; la place de vos alli&eacute;s pour les sauver.</p><p><strong>Conditions : </strong>Protection rapproch&eacute;e.</p><hr /><p><strong>Avantage :</strong> vous pouvez intercepter une attaque qui touche un alli&eacute; dont vous avez augment&eacute; la classe d&rsquo;armure avec le don Protection rapproch&eacute;e. Vous subissez la totalit&eacute; des d&eacute;g&acirc;ts et des effets associ&eacute;s &agrave; cette attaque et, une fois celle-ci intercept&eacute;e, aucune autre aptitude ne peut la rediriger. Ce don ne n&eacute;cessite aucune action mais vous ne pouvez intercepter qu&rsquo;une seule attaque par round de cette fa&ccedil;on.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Indirect Retreat (Combat)",
+				"name": "Indirect Retreat (Combat)",
+				"description": "<p>You can run through winding corridors and weave your way through grasping claws without pause.<br><strong>Prerequisites</strong>: Dex 13, Mobility.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you run as a full action, you don’t have to move in a straight line, you can run across difficult terrain, and you don’t gain the flat-footed condition.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Instant Crater (Combat)",
+				"name": "Instant Crater (Combat)",
+				"description": "<p>You can calculate the angle and timing of your explosive weapons to damage the ground, making the terrain treacherous.<br><strong>Prerequisites</strong>: Base attack bonus +5.</p><hr><p><strong>Benefit</strong>: As a standard action, you can make a ranged attack using a weapon that has the explode weapon special property, targeting an intersection as normal and choosing one square adjacent to that intersection. If you hit the targeted intersection and your damage roll exceeds the hardness of the material of the chosen square, that square becomes difficult terrain. This is in addition to the normal effects of the weapon.You have trained to make your unarmed attacks lethal and strike with kicks, head-butts, and similar attacks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Your unarmed attack damage increases to 1d6 at 4th level, 2d6 at 8th level, 3d6 at 12th level, 5d6 at 15th level, and 7d6 at 20th level. You threaten squares within your natural reach with your unarmed strikes even when you do not have a hand free for an unarmed strike. If you are immobilized, entangled, or unable to use both legs (or whatever appendages you have in place of legs, where appropriate), you lose the ability to make unarmed strikes without your hands. When making an unarmed strike without your hands, you can’t use such attacks for combat maneuvers or similar abilities—only to deal damage.<br><br><strong>Normal</strong>: You don’t threaten any squares with unarmed attacks, and you must have a hand free to make an unarmed attack.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Intuit Relationships",
+				"name": "Intuit Relationships",
+				"description": "<p>You can quickly sense relationships between others and use that knowledge to manipulate them.<br /><strong>Prerequisites</strong>: Perception 1 rank, Sense Motive 1 rank.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: After 1 minute or more of interaction with or observation of two or more creatures, you can attempt a Sense Motive check to intuit the relationship between or among those creatures. If you don&rsquo;t understand the language they are speaking, you take a &ndash;5 penalty to the check. The DC is equal to 10 + the highest Bluff skill bonus among the creatures or 15 + 1-1/2 &times; the highest CR among the creatures, whichever is higher. If you succeed at this check by 5 or more, for the next hour, you gain a +2 circumstance bonus to Bluff, Diplomacy, and Intimidate checks against the creatures when you use their relationship as part of the interaction. The GM decides if the bonus applies. If you fail the check, you can&rsquo;t attempt to use this benefit on the same creatures again until you gain another rank in Sense Motive.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Iron Will",
+				"name": "Volonté de fer",
+				"description": "<p>Vous &ecirc;tes plus r&eacute;sistant aux agressions mentales.</p><hr /><p><strong>Avantage :</strong> vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 aux jets de sauvegarde de Volont&eacute;.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Jet Charge (Combat)",
+				"name": "Jet Charge (Combat)",
+				"description": "<p>You can boost your charge attacks with jets to move farther.<br><strong>Prerequisites</strong>: Piloting 3 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can activate a jetpack or jump jets armor upgrade (or similar equipment) as part of a charge action. If you do, you can move up to three times the fly speed normally granted by that equipment.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Jet Dash",
+				"name": "Rapidité fulgurante",
+				"description": "<p>Vous courez vite et vos bonds sont particuli&egrave;rement impressionnants.</p><hr /><p><strong>Avantage :</strong> lorsque vous courez, vous pouvez parcourir une distance &eacute;gale &agrave; six fois votre vitesse au sol. Quand vous sautez, doublez la hauteur et la longueur de vos sauts. Vous n&rsquo;&ecirc;tes pas consid&eacute;r&eacute; comme pris au d&eacute;pourvu lorsque vous courez.</p><p><strong>Normal : </strong>vous parcourez une distance &eacute;gale &agrave; quatre fois votre vitesse au sol et &ecirc;tes consid&eacute;r&eacute; comme pris au d&eacute;pourvu lorsque vous courez.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Kasathan Battle Dance (Combat)",
+				"name": "Kasathan Battle Dance (Combat)",
+				"description": "<p>You are a student of the battle dances of kasathan legends. You weave in and out of a fray with grace, moving your arms and body in a flowing motion that confounds your foes.<br><strong>Prerequisites</strong>: Prerequisites: Dex 13, Mobility or trick attack.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you take the withdraw action and have at least two hands free, none of the squares you move through are considered threatened by any opponent whose location you are aware of (see The Four States of Awareness on page 261 of the <em>SFRPG Core Rulebook</em>).<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Normal</strong>: When you withdraw, the square you start out in is not considered threatened by opponents you can see, but squares you subsequently move through may be.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: A solarian with a solar weapon treats the hand holding the solar weapon as being free for purposes of using this feat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Kip Up (Combat)",
+				"name": "Kip Up (Combat)",
+				"description": "<p>Vous pouvez vous relever d&rsquo;un bond.</p><p><strong>Conditions :</strong> 1 rang en Acrobaties.</p><hr /><p><strong>Avantage :</strong> vous pouvez vous relever par une action rapide au lieu d&rsquo;une action de mouvement lorsque vous &ecirc;tes &agrave; terre.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Laugh at Danger (Combat)",
+				"name": "Laugh at Danger (Combat)",
+				"description": "<p>You laugh in the face of peril, inspiring your allies to keep fighting.<br><strong>Prerequisites</strong>: Con 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when you take Hit Point damage from a significant enemy that doesn’t reduce you to 0 Hit Points, you can grant allies within 30 feet a +2 morale bonus to AC until the end of your next turn. This is a sense-dependent effect. Once you’ve used this ability, you can’t use it again until you take a 10-minute rest to regain Stamina.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Lesser Eldritch Lore",
+				"name": "Lesser Eldritch Lore",
+				"description": "<p>You have learned a broad range of additional low-level magic.<br><strong>Prerequisites</strong>: Key ability score 17, Minor Eldritch Lore, caster level 7th, 7 levels in a class with a class spell list.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain one additional 1st-level spell known from your class spell list.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: For every 3 levels by which your caster level exceeds 7th, you can take this feat an additional time. You cannot take this feat more times than you have taken Minor Eldritch Lore. Each time you select this feat, you gain a different 1st-level spell known from your class spell list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Light Armor Proficiency (Combat)",
+				"name": "Port des armures légères (Combat)",
+				"description": "<p>Vous savez comment utiliser les armures l&eacute;g&egrave;res.</p><hr /><p>Avantage : vous &ecirc;tes form&eacute; au port des armures l&eacute;g&egrave;res (voir page 242).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Lightning Reflexes",
+				"name": "Réflexes surhumains",
+				"description": "<p>Vos r&eacute;flexes sont plus aff&ucirc;t&eacute;s que la normale.</p><hr /><p><strong>Avantage :</strong> vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 aux jets de sauvegarde de R&eacute;flexe.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Living Ladder (Combat)",
+				"name": "Living Ladder (Combat)",
+				"description": "<p>When you’re down, you can leverage an upright foe to clamber back up, possibly dragging them down in the process.<br><strong>Prerequisites</strong>: Str 17.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you’re prone and hit a target with an unarmed attack, you can stand without using an action. If the target of your unarmed attack is your size or smaller and your attack roll result exceeds their AC by 5 or more, that target falls prone.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Longarm Proficiency (Combat)",
+				"name": "Maniement des armes longues (Combat)",
+				"description": "<p>Vous savez comment utiliser les armes longues.</p><p><strong>Conditions :</strong> form&eacute; au Maniement des armes l&eacute;g&egrave;res.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des armes longues (voir Maniement des armes &agrave; la page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Lung Puncture (Combat)",
+				"name": "Lung Puncture (Combat)",
+				"description": "<p>You can deliver particularly debilitating piercing attacks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you score a critical hit with a weapon that deals piercing damage, in addition to any other critical hit effect you would apply, you also impose the fatigued condition on the target for 1d4 rounds.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Lunge (Combat)",
+				"name": "Fente (Combat)",
+				"description": "<p>Vous pouvez frapper des adversaires qui seraient normalement hors de port&eacute;e de votre allonge.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +6.</p><hr /><p><strong>Avantage :</strong> vous pouvez augmenter de 1,50 m&egrave;tre l&rsquo;allonge de vos attaques au corps &agrave; corps jusqu&rsquo;&agrave; la fin de votre tour en subissant un malus de -2 &agrave; votre classe d&rsquo;armure jusqu&rsquo;&agrave; la fin de votre prochain tour. Vous devez d&eacute;cider si vous utilisez ce don avant de faire vos attaques du round en cours.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Major Eldritch Lore",
+				"name": "Major Eldritch Lore",
+				"description": "<p>You have learned a broad range of additional powerful magic.<br><strong>Prerequisites</strong>: Key ability score 23, Eldritch Lore, Greater Eldritch Lore, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 16th, 16 levels in a class with a class spell list.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain one additional 4th-level spell known from your class spell list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Major Psychic Power",
+				"name": "Pouvoir psychique majeur",
+				"description": "<p>Vous avez d&eacute;velopp&eacute; un pouvoir psychique naturel significatif.</p><p><strong>Conditions :</strong> Cha 15, Pouvoir psychique mineur, Pouvoir psychique, personnage de niveau 7.</p><hr /><p><strong>Avantage :</strong> s&eacute;lectionnez l&rsquo;un des sorts de niveau 2 suivants : augure ou rapport. Vous pouvez lancer ce sort une fois par jour comme un pouvoir magique, en consid&eacute;rant que votre niveau de lanceur de sorts est &eacute;gal &agrave; votre niveau de personnage.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Major Stage Magic",
+				"name": "Major Stage Magic",
+				"description": "<p>You wield illusions that misdirect, deceive, or entertain an audience.<br><strong>Prerequisites</strong>: Cha 15, Minor Stage Magic, Stage Magic, character level 7th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select one of the following 2nd-level spells: <em>holographic image</em>, <em>invisibility</em>, or <em>mirror image</em>. You can cast this spell once per day as a spell-like ability, using your character level as your caster level. The key ability score for this spell is Charisma. If you select <em>holographic image</em> with this feat and you have already selected <em>holographic image</em> with the Stage Magic feat, you can replace the spell selected with Stage Magic with another spell listed in the Stage Magic feat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Many-Handed Master (Combat)",
+				"name": "Many-Handed Master (Combat)",
+				"description": "<p>You use your many limbs to counter combat maneuvers.<br><strong>Prerequisites</strong>: Four or more arms.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As long as you are not flat-footed, paralyzed, staggered, stunned, or unconscious, you gain a +2 bonus to your KAC against combat maneuvers.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Masked Visage",
+				"name": "Masked Visage",
+				"description": "<p>With your face concealed, you can be inscrutable.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: While a mask obscures your face, you gain a +2 circumstance bonus to Bluff checks to lie. DCs of Sense Motive attempts against you increase by 2, as does the DC of Intimidate attempts to bully you.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Master Crafter",
+				"name": "Maître artisan",
+				"description": "<p>Vous pouvez fabriquer des choses plus vite que la plupart des artisans.</p><p><strong>Conditions :</strong> 5 rangs en Informatique, Ing&eacute;nierie, Mysticisme, Sciences de la vie, Sciences physiques ou une Profession appropri&eacute;e.</p><hr /><p><strong>Avantage :</strong> choisissez une comp&eacute;tence qui vous permet de fabriquer des objets et dans laquelle vous avez investi le nombre de rangs requis. Vous mettez deux fois moins de temps &agrave; fabriquer des objets en utilisant cette comp&eacute;tence.</p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre Ma&icirc;tre artisan plusieurs fois. &Agrave; chaque fois que vous le prenez, il s&rsquo;applique &agrave; une comp&eacute;tence diff&eacute;rente dans laquelle vous avez le nombre de rangs requis.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Medical Expert",
+				"name": "Expert en médecine",
+				"description": "<p>You are an expert at medical science and caring for the ill.<br><strong>Prerequisites</strong>: Life Science 1 rank, Medicine 1 rank, Physical Science 1 rank.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can use the Medicine skill in conjunction with a medpatch or sprayflesh to treat deadly wounds as a full action. If you have an ability that enables you to treat deadly wounds more often but with a longer time frame (such as the envoy’s surgeon expertise talent), you cannot use this feat to use that ability more quickly. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide longterm care with just a medkit.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Normal</strong>: It takes 1 minute to treat deadly wounds, and longterm care requires a medical bay or medical lab.</span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Melt Defenses (Combat)",
+				"name": "Melt Defenses (Combat)",
+				"description": "<p>You can dissolve key portions of your target’s defenses, making them easier to hit.<br><strong>Prerequisites</strong>: Base attack bonus +11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you score a critical hit with an attack that deals acid damage, instead of applying the normal critical hit effect, you can disrupt the target’s defenses for 1d4 rounds. Attacks against a creature whose defenses have been disrupted in this manner target EAC, regardless of the attacks’ damage type.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Memorable Coercer",
+				"name": "Memorable Coercer",
+				"description": "<p>You know how to use coercion to change people’s minds without suffering the consequences.<br><strong>Prerequisites</strong>: Intimidate 1 rank.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +1 insight bonus to Intimidate checks. In addition, when you successfully use Intimidate to bully an opponent, the target must attempt a Will saving throw once the intimidation wears off. The DC is equal to 10 + your number of ranks in Intimidate. If the target fails this save, their attitude toward you becomes indifferent and they won’t report you to any authorities.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Normal</strong>: The target of a successful Intimidate check to bully is unfriendly to you after the duration of the attitude change ends.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Memory Access",
+				"name": "Memory Access",
+				"description": "<p>You can access the physical pathways of even the dimmest memories, whether from previous inhabitants of your body or from your own experiences.<br><strong>Prerequisites</strong>: Construct type, constructed racial trait, exocortex, or head slot augmentation.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 insight bonus to skill checks to identify creatures and recall knowledge.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Minor Eldritch Lore",
+				"name": "Minor Eldritch Lore",
+				"description": "<p>You have learned a broad range of additional minor magic.<br><strong>Prerequisites</strong>: Key ability score 15, caster level 4th, 4 levels in a class with a class spell list.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain one additional 0-level spell from your class spell list.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: For every 3 levels by which your caster level exceeds 4th, you can take this feat an additional time. Each time you select this feat, you gain a different 0-level spell from your class spell list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Minor Psychic Power",
+				"name": "Pouvoir psychique mineur",
+				"description": "<p>Vous avez d&eacute;velopp&eacute; un pouvoir psychique naturel mineur.</p><p><strong>Conditions : </strong>Cha 11.</p><hr /><p><strong>Avantage :</strong> s&eacute;lectionnez l&rsquo;un des sorts de niveau 0 suivants : lumi&egrave;res dansantes, main psychocin&eacute;tique, projectile t&eacute;l&eacute;kin&eacute;sique ou message t&eacute;l&eacute;pathique. Vous pouvez lancer ce sort trois fois par jour comme un pouvoir magique, en consid&eacute;rant que votre niveau de lanceur de sorts est &eacute;gal &agrave; votre niveau de personnage.</p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre ce don plus d&rsquo;une fois. Chaque fois que vous le s&eacute;lectionnez, vous devez choisir un sort diff&eacute;rent de la liste ci-dessus..<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Minor Stage Magic",
+				"name": "Minor Stage Magic",
+				"description": "<p>Entertainers and icons from entertainment houses such as the Hamisfore Theatorium on @Compendium[sfrpg.setting.hepqXl6gFvs5sDQu]{Absalom Station} to @Compendium[sfrpg.setting.0VTtBYDJC5vUC434]{Eox}’s Halls of the Living understand the importance of showmanship. From a famous mentor or through your own inventiveness, you have developed a minor magical trick to entertain or distract.<br><strong>Prerequisites</strong>: Cha 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select one of the following 0-level spells: <em>dancing lights</em>, <em>ghost sound</em>, or <em>token spell</em>. You can cast this spell three times per day as a spell-like ability, using your character level as your caster level. The key ability score for this spell is Charisma.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: You can select this feat more than once. Each time you do, you must choose a different spell from the list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Mobility (Combat)",
+				"name": "Manœuvrabilité (Combat)",
+				"description": "<p>Vous pouvez facilement vous faufiler entre des ennemis dangereux.<br><strong>Conditions</strong>: Dex 13.</p><hr><p><strong>Avantage : </strong>vous bénéficiez d’un bonus de +4 à votre classe d’armure&nbsp;contre les attaques d’opportunité que vous provoquez en&nbsp;quittant une case menacée.</p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Momentous Attack (Combat)",
+				"name": "Momentous Attack (Combat)",
+				"description": "<p>You can use the momentum of a mighty blow to reposition yourself.<br><strong>Prerequisites</strong>: Str 11, Athletics 5 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you score a critical hit with a melee weapon against an adjacent enemy, you can immediately move 5 feet to any square adjacent to both you and your target. This movement does not provoke attacks of opportunity. This effect is in addition to any other critical hit effects.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Multi-Weapon Fighting (Combat)",
+				"name": "Combat à plusieurs armes (Combat)",
+				"description": "<p>Vous savez comment combattre avec plusieurs armes l&eacute;g&egrave;res en m&ecirc;me temps et comment exploiter l&rsquo;avantage conf&eacute;r&eacute; par vos attaques multiples.</p><hr /><p><strong>Avantage :</strong> lorsque vous effectuez une attaque &agrave; outrance avec au moins deux armes l&eacute;g&egrave;res ou deux armes de corps &agrave; corps d&rsquo;agent (voir page 185), r&eacute;duisez de 1 le malus de l&rsquo;attaque &agrave; outrance.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Multifaceted Nature",
+				"name": "Multifaceted Nature",
+				"description": "<p>Through a twist of genetics, magic, or strange fate, you developed another of your race’s traits<br><strong>Prerequisites</strong>: Dimorphic or driftborn racial trait, character level 9th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you gain this feat, choose a racial trait you lack that is available to your race. You gain that trait. If you select an alternate racial trait, it doesn’t replace a racial trait you already have.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Mystic Strike (Combat)",
+				"name": "Assaut mystique (Combat)",
+				"description": "<p>Votre pouvoir mystique se diffuse dans vos armes.</p><p><strong>Conditions :</strong> aptitude d&rsquo;incantation de sorts.</p><hr /><p><strong>Avantage : </strong>vos attaques au corps &agrave; corps et &agrave; distance sont consid&eacute;r&eacute;es comme magiques lorsqu&rsquo;il s&rsquo;agit d&rsquo;ignorer la r&eacute;duction des d&eacute;g&acirc;ts et autres situations telles que l&rsquo;attaque de cr&eacute;atures intangibles.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Nanite Integration",
+				"name": "Nanite Integration",
+				"description": "<p>Nanites responsible for maintaining your constructed body have been upgraded, and a subset of them has been reprogrammed to perform incredible feats.<br><strong>Prerequisites</strong>: Character level 3rd, constructed racial trait or construct type.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Your body has integrated technology that provides you with one of the following benefits, chosen when you gain the feat. Once chosen, the benefit cannot be changed.<br><em>Rebooting Nanites:</em> Whenever you fail a saving throw against an effect that causes you to gain the asleep, blinded, confused, cowering, dazed, dazzled, deafened, exhausted, fatigued, frightened, nauseated, panicked, shaken, sickened, staggered, stunned, or unconscious condition, you can spend 1 Resolve Point as a reaction to attempt a new saving throw against the effect at the same DC. If you succeed, the condition ends, though you still suffer any other effects of the original failed saving throw.<br><em>Repairing Nanites:</em> Whenever you take Hit Point damage, you can spend 1 Resolve Point as a reaction to gain fast healing equal to one-quarter your character level (minimum fast healing 1) for 1 minute.<br><em>Surging Nanites:</em> Before you attempt a skill or ability check, you can spend 1 Resolve Point as a reaction to gain a +2 racial bonus to that check.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: You can select this feat up to three times. Each time, you must select a different benefit.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Nimble Moves (Combat)",
+				"name": "Aisance (Combat)",
+				"description": "<p>Vous pouvez traverser un terrain sem&eacute; d&rsquo;obstacles avec aisance.</p><p><strong>Conditions :</strong> Dex 15.</p><hr /><p><strong>Avantage :</strong> vous pouvez traverser jusqu&rsquo;&agrave; 6 m&egrave;tres de terrain difficile par round comme s&rsquo;il &eacute;tait normal. Ce don vous permet d&rsquo;effectuer un d&eacute;placement prudent sur un terrain difficile.</p>",
+				"source": "RDB p.154"
+		},
+		{
+				"id": "Obnoxious Trickster",
+				"name": "Obnoxious Trickster",
+				"description": "<p>You are particularly skilled with a specific combat maneuver.<br /><strong>Prerequisites</strong>: @Compendium[sfrpg.feats.0Pq35gvSI2JlD682]{Improved Combat Maneuver (Combat)} (dirty trick).</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: </span>When you make a full attack, you can attempt a dirty trick combat maneuver against a target within your reach in place of your final attack. You don&rsquo;t take the usual attack penalty on this maneuver&rsquo;s attack roll. In addition, when you successfully perform a dirty trick combat maneuver, the target must spend a standard action to remove the condition.</p>",
+				"source": ""
+		},
+		{
+				"id": "Opening Volley (Combat)",
+				"name": "Première salve (Combat)",
+				"description": "<p>Vos attaques &agrave; distance d&eacute;sorientent votre adversaire et le rendent vuln&eacute;rable &agrave; votre prochaine attaque au corps &agrave; corps</p><hr /><p><strong> Avantage :</strong> chaque fois que vous infligez des d&eacute;g&acirc;ts &agrave; un adversaire avec une attaque &agrave; distance lors de votre premier tour au cours d&rsquo;un combat, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de circonstances de +2 &agrave; votre prochain jet d&rsquo;attaque au corps &agrave; corps contre lui. Cette attaque au corps &agrave; corps doit avoir lieu avant la fin de votre prochain tour.</p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Oracular Gift",
+				"name": "Oracular Gift",
+				"description": "<p>You have a particular knack for predicting the future.<br><strong>Prerequisites</strong>: Ability to cast&nbsp;augury.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>:&nbsp;</span>You gain a +1 bonus to Perception checks to act in the surprise round, as well as to initiative checks. Additionally, you can cast augury once per day without spending a Resolve Point to do so, and add your caster level to the percentage chance of the spell giving you a meaningful reply.</p>",
+				"source": ""
+		},
+		{
+				"id": "Parting Shot (Combat)",
+				"name": "Tir de repli (Combat)",
+				"description": "<p>Vous &ecirc;tes un expert en mati&egrave;re d&rsquo;escarmouches et pouvez tirer une derni&egrave;re fois en vous repliant.</p><p><strong>Conditions :</strong> Dex 15, Man&oelig;uvrabilit&eacute;, Tir en mouvement, bonus de base &agrave; l&rsquo;attaque +6.</p><hr /><p><strong>Avantage :</strong> lorsque vous effectuez l&rsquo;action de repli, vous pouvez effectuer une unique attaque &agrave; distance &agrave; n&rsquo;importe quel moment au cours de votre d&eacute;placement. Si vous ma&icirc;trisez l&rsquo;aptitude de classe de feinte offensive et que vous maniez une arme appropri&eacute;e, vous pouvez ajouter les d&eacute;g&acirc;ts de cette aptitude &agrave; l&rsquo;attaque que vous effectuez en vous repliant. Une fois ce don utilis&eacute;, vous ne pouvez plus l&rsquo;utiliser &agrave; nouveau tant que vous n&rsquo;avez pas r&eacute;cup&eacute;r&eacute; des points d&rsquo;endurance en vous reposant 10 minutes.</p><p><strong>Normal :</strong> vous ne pouvez pas attaquer lorsque vous effectuez l&rsquo;action de repli.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Penetrating Attack (Combat)",
+				"name": "Attaque perforante (Combat)",
+				"description": "<p>Vous savez attaquer sous le bon angle pour perforer les d&eacute;fenses de vos adversaires.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +12.</p><hr /><p><strong>Avantage :</strong> r&eacute;duisez de 5 les r&eacute;sistances aux &eacute;nergies et la r&eacute;duction des d&eacute;g&acirc;ts de votre cible contre vos attaques avec des armes.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Penetrating Spell",
+				"name": "Sort perforant",
+				"description": "<p>Vous savez comment lancer des sorts de mani&egrave;re &agrave; ce qu&rsquo;ils perforent les d&eacute;fenses de vos adversaires.</p><p><strong>Conditions :</strong> incantation de sorts de niveau 4.</p><hr /><p><strong>Avantage : </strong>r&eacute;duisez de 5 les r&eacute;sistances aux &eacute;nergies destructives et la r&eacute;duction des d&eacute;g&acirc;ts de votre cible contre les d&eacute;g&acirc;ts de vos sorts.</p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Percussive Maintenance",
+				"name": "Percussive Maintenance",
+				"description": "<p>You excel at the tried-and-true repair technique of delivering a solid whack at just the right spot to get malfunctioning technology to work.<br><strong>Prerequisites</strong>: Str 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Once per day, you can reroll an Engineering check to repair an item. In addition, you can reroll one engineer crew action per starship combat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Periastra Training",
+				"name": "Periastra Training",
+				"description": "<p>Through sheer force of will, you can gain the effects of being fully attuned to your current stellar mode.<br><strong>Prerequisites</strong>: Cha 13, Mysticism 5 ranks, <a href=\"https://www.aonsrd.com/Classes.aspx?ItemName=Solarian\">stellar mode</a> class feature.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you have 1 or 2 attunement points and use a stellar revelation, you can spend 1 Resolve Point to use that revelation as if you were fully attuned to your current mode. You cannot benefit from this feat if you have disproportionate revelations.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Pinpoint Hurler (Combat)",
+				"name": "Pinpoint Hurler (Combat)",
+				"description": "<p>You can hurl weapons with greater accuracy.<br><strong>Prerequisites</strong>: Str 15.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: If you miss on a ranged attack with a thrown weapon, you can reduce the result of the d4 roll to determine how many squares away the weapon lands by 1.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Poison Adaptation",
+				"name": "Poison Adaptation",
+				"description": "<p>Your body is especially resistant to toxins.<br><strong>Prerequisites</strong>: Con 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 enhancement bonus to saving throws against poison, and you take half damage from initial exposure to poisons.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Poison Rejection",
+				"name": "Poison Rejection",
+				"description": "<p>Your body purges toxins quickly.<br><strong>Prerequisites</strong>: Con 17, Poison Adaptation.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you fulfill a poison’s cure condition (or reach the end of its duration), you move one step toward healthy. You also move one step toward healthy for each night of normal rest; this can be increased as normal using the long-term care task of Medicine.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Polymorph Adept",
+				"name": "Polymorph Adept",
+				"description": "<p>You are adept at changing forms using polymorph.<br><strong>Prerequisites</strong>: You know the <a href=\"https://www.aonsrd.com/SpellDisplay.aspx?ItemName=polymorph\"><em>polymorph</em></a> spell as a 3rd-level spell or higher.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: While your <a href=\"https://www.aonsrd.com/SpellDisplay.aspx?ItemName=polymorph\"><em>polymorph</em></a> spell targeting yourself lasts, as a standard action, you can change into another form you know from that level of the spell or any lower-level version. This does not affect the duration of the spell.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Positive Conduit",
+				"name": "Positive Conduit",
+				"description": "<p>Your body resonates with positive energy, absorbing more benefit than usual from healing effects.<br><strong>Prerequisites</strong>: Con 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you regain Hit Points from a magical effect or serum, you regain an additional amount of Hit Points equal to your Constitution modifier. Once you use this ability, you can’t use it again until you take a 10-minute rest to regain Stamina Points.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Powered Armored Proficiency (Combat)",
+				"name": "Port des armures assistées (Combat)",
+				"description": "<p>Vous savez comment utiliser les armures assist&eacute;es.</p><p><strong>Conditions :</strong> For 13, bonus de base &agrave; l&rsquo;attaque +5, form&eacute; au port des armures l&eacute;g&egrave;res et lourdes.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au port des armures assist&eacute;es (voir Le port des armures &agrave; la page 242).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Profession Mastery",
+				"name": "Profession Mastery",
+				"description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">Your deep exploration of the multiple cultures has taught you to use your professional know-how to great effect.<br></span></p><p><strong>Prerequisites</strong>: Cha 13, Int 13, or Wis 13 (see text); Profession (any) 1 rank, cultural fascination racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Choose one Profession skill that you have at least 1 rank in. You must also have a minimum ability score of 13 in the ability score associated with the chosen Profession skill. You can use the chosen Profession skill to attempt skill tasks associated with one of the two skills associated with your chosen Profession. Each common profession skill appears below after its associated ability score, and each skill lists two skills you can select between when you take this feat. Once made, this decision cannot be changed.<br><em>Charisma-Based Profession Skills:</em> Actor (Bluff, Disguise), artist (Culture, Disguise), comedian (Bluff, Intimidate), courtesan (Acrobatics, Bluff), dancer (Acrobatics, Athletics), musician (Bluff, Sense Motive), orator (Diplomacy, Sense Motive), poet (Bluff, Culture), politician (Diplomacy, Intimidate), video personality (Computers, Diplomacy), writer (Culture, Diplomacy)<br><em>Intelligence-Based Profession Skills:</em> Accountant (Computers, Perception), archaeologist (Culture, Life Science), architect (Engineering, Physical Science), corporate professional (Diplomacy, Intimidate), electrician (Disable Device, Engineering), lab technician (Life Science, Physical Science), lawyer (Culture, Intimidate), mathematician (Computers, Physical Science), philosopher (Bluff, Culture), professor (Intimidate, Sense Motive), psychologist (Diplomacy, Sense Motive), vidgamer (Computers, Culture).<br><em>Wisdom-Based Profession Skills:</em> Bounty hunter (Intimidate, Survival), cook (Life Science, Physical Science), counselor (Diplomacy, Sense Motive), dockworker (Athletics, Engineering), farmer (Life Science, Survival), gambler (Bluff, Sense Motive), general contractor (Diplomacy, Engineering), herbalist (Life Science, Medicine), maintenance worker (Athletics, Engineering), manager (Diplomacy, Intimidate), mercenary (Culture, Survival), merchant (Culture, Diplomacy), miner (Athletics, Physical Science), smuggler (Sleight of Hand, Stealth).<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: You can take this feat twice. The second time, you can use the chosen Profession skill to attempt tasks associated with both skills associated with that Profession skill.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Protective Fur",
+				"name": "Protective Fur",
+				"description": "<p>Your thick fur protects you from certain environmental hazards and makes you resistant to some types of poisons.<br><strong>Prerequisites</strong>: Skittermander or ysoki.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 circumstance bonus to Fortitude saves against cold and heat dangers. In addition, you gain a +4 circumstance bonus to Fortitude saves made to avoid contracting contact diseases and poisons.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: At the GM’s discretion, other furred races might meet the prerequisites for this feat.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Protector of Kahlannal",
+				"name": "Protector of Kahlannal",
+				"description": "<p>You are one of the eight ordained Protectors of the anassanoi people of Kahlannal. You have a unique psychic bond with your own Protector chariot.<br><strong>Prerequisites</strong>: Anassanoi, any non-chaotic and non-evil alignment</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You form a psychic bond with a <a href=\"https://www.aonsrd.com/LandVehicles.aspx?ItemName=Protector%20Chariot\">Protector chariot</a>, which allows you to pilot the vehicle. As a standard action, you can summon your chariot from a distance of up to 1 mile. If you do so, the vehicle moves toward you on autopilot as quickly as it can, unless an insurmountable obstacle stands between you. If you become chaotic or evil, you lose access to this feat while you have such an alignment.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Psychic Insight",
+				"name": "Psychic Insight",
+				"description": "<p>Telepathic contact gives you social insight.<br><strong>Prerequisites</strong>: Limited telepathy or telepathy.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 insight bonus to Bluff, Diplomacy, Intimidation, and Sense Motive checks against creatures you are successfully communicating with using your limited telepathy or telepathy.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Psychic Power",
+				"name": "Pouvoir psychique",
+				"description": "<p>Vous avez d&eacute;velopp&eacute; un pouvoir psychique naturel.</p><p><strong>Conditions :</strong> Cha 13, Pouvoir psychique mineur, personnage de niveau 4.</p><hr /><p><strong>Avantage : </strong>s&eacute;lectionnez l&rsquo;un des sorts de niveau 1 suivants : compr&eacute;hension des langages, d&eacute;tection des pens&eacute;es ou lien mental. Vous pouvez lancer ce sort une fois par jour comme un pouvoir magique, en consid&eacute;rant que votre niveau de lanceur de sorts est &eacute;gal &agrave; votre niveau de personnage.</p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre ce don plus d&rsquo;une fois. Chaque fois que vous le s&eacute;lectionnez, vous devez choisir un sort diff&eacute;rent de la liste ci-dessus.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Psychic Sense",
+				"name": "Psychic Sense",
+				"description": "<p>You can sense nearby creatures using your telepathy.<br><strong>Prerequisites</strong>: Limited telepathy or telepathy.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You have blindsense (thought) with a range equal to the range of your limited telepathy or telepathy.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Pull the Pin (Combat)",
+				"name": "Retirer la goupille (Combat)",
+				"description": "<p>Vous pouvez d&eacute;clencher la grenade d&rsquo;un adversaire.</p><p><strong>Conditions :</strong> Science de la man&oelig;uvre offensive.</p><hr /><p><strong>Avantage :</strong> quand vous r&eacute;ussissez une man&oelig;uvre offensive de d&eacute;sarmement contre un adversaire dont vous savez qu&rsquo;il poss&egrave;de des grenades, au lieu de le d&eacute;sarmer, vous pouvez d&eacute;clencher une grenade en sa possession. Vous ne pouvez d&eacute;clencher qu&rsquo;une grenade pr&ecirc;te &agrave; &ecirc;tre d&eacute;gain&eacute;e et lanc&eacute;e (et non une grenade rang&eacute;e dans un sac &agrave; dos, par exemple). La grenade explose &agrave; la fin de votre tour actuel, &agrave; moins qu&rsquo;elle ne soit dot&eacute;e d&rsquo;un d&eacute;tonateur &agrave; retardement qui provoque son explosion 1 round ou plus apr&egrave;s avoir &eacute;t&eacute; d&eacute;goupill&eacute;e.</p><p>L&rsquo;adversaire subit un malus de -2 au jet de sauvegarde contre cette grenade et la zone d&rsquo;effet de l&rsquo;explosion de la grenade est r&eacute;duite de moiti&eacute;.</p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Quick Draw (Combat)",
+				"name": "Arme en main (Combat)",
+				"description": "<p>Vous pouvez d&eacute;gainer vos armes plus vite que la plupart de vos rivaux.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> vous pouvez d&eacute;gainer une arme par une action rapide. De plus, lorsque vous effectuez une attaque simple ou une attaque &agrave; outrance avec une arme de jet, vous pouvez d&eacute;gainer une arme au cours de l&rsquo;action qui vous permet d&rsquo;effectuer une attaque &agrave; distance avec elle. Vous pouvez d&eacute;gainer une arme dissimul&eacute;e (voir Escamotage &agrave; la page 140) par une action de mouvement.</p><p><strong>Normal :</strong> vous pouvez d&eacute;gainer une arme par une action de mouvement ou au cours d&rsquo;une action de mouvement si votre bonus de base &agrave; l&rsquo;attaque est sup&eacute;rieur ou &eacute;gal &agrave; +1, et vous pouvez d&eacute;gainer une arme dissimul&eacute;e par une action simple.</p>",
+				"source": "RDB p.154"
+		},
+		{
+				"id": "Quicker Trickler",
+				"name": "Quicker Trickler",
+				"description": "<p>You are skilled at administering serums.<br><strong>Prerequisites</strong>: Medicine 3 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can trickle serums down the throats of other creatures as a standard action instead of as a full action.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Reality Glimmer",
+				"name": "Reality Glimmer",
+				"description": "<p>You gain a thread of control over alternate realities.<br><strong>Prerequisites</strong>: Cha 15, character level 5th, no levels in witchwarper.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Choose two 0-level witchwarper spells and one 1st-level witchwarper spell. You can cast the 0-level spells at will and the 1st-level spell once per day for every 3 character levels you have. For these spells, your caster level is equal to your character level and the key ability score is Charisma. If you later gain levels in witchwarper, you lose the benefits of this feat and can replace it with either Spell Focus or Spell Penetration.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Reflect Projectiles (Combat)",
+				"name": "Renvoi de projectiles (Combat)",
+				"description": "<p>Vous pouvez utiliser votre arme de corps &agrave; corps pour rediriger des attaques.</p><p><strong>Conditions :</strong> D&eacute;viation de projectiles, bonus de base &agrave; l&rsquo;attaque +16.</p><hr /><p><strong>Avantage :</strong> quand vous parvenez &agrave; d&eacute;vier une attaque avec le don D&eacute;viation de projectiles, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance suppl&eacute;mentaire pour rediriger l&rsquo;attaque vers une cible dans un rayon de 18 m&egrave;tres sur laquelle vous avez une ligne d&rsquo;effet. Effectuez une attaque &agrave; distance avec un malus de -4 contre la classe d&rsquo;armure appropri&eacute;e de la nouvelle cible. Si votre attaque r&eacute;ussit, la cible subit les d&eacute;g&acirc;ts comme si elle avait &eacute;t&eacute; la cible de l&rsquo;attaque initiale.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Reject Chains",
+				"name": "Reject Chains",
+				"description": "<p>Shirrens threw off the Swarm’s hold on their collective psyche, and the embers of that strength still burn within you.<br><strong>Prerequisites</strong>: @Compendium[sfrpg.races.VIJ6pdOVTJle3vJx]{Shirren}.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 insight bonus to saving throws against charm and compulsion effects, and once per day you can reroll a save against such an effect.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Relocate Vitals",
+				"name": "Relocate Vitals",
+				"description": "<p>In times of danger, you can alter your body to protect your most vulnerable organs.<br /><strong>Prerequisites</strong>: Early stage adaptation racial trait.</p><hr /><p><strong>Benefit</strong>: Once per round when you are hit by a critical hit, you can move your vitals as a reaction. You don&rsquo;t take additional damage from the critical hit, but you do take any special critical effects.</p>",
+				"source": ""
+		},
+		{
+				"id": "Retrotech",
+				"name": "Retrotech",
+				"description": "<p>You have a talent for dealing with ancient technology.</p><hr /><p><strong>Benefit</strong>: Once per day, you can reroll a skill check to destroy, operate, or repair pre-Gap technology. This usually applies to an Engineering check, but it also can apply to a Computers check to hack a pre-Gap computer, a Medicine check to safely deactivate eons-old stasiscoffers, a Piloting check to fly an ancient vessel, or other similar situations. If you&rsquo;ve already used retrotech today, you can spend 1 Resolve Point to regain a use of this ability</p>",
+				"source": ""
+		},
+		{
+				"id": "Ricochet Grenade (Combat)",
+				"name": "Ricochet Grenade (Combat)",
+				"description": "<p>You can use your environment to place a grenade in just the right spot.<br><strong>Prerequisites</strong>: Proficiency with grenades, base attack bonus +7.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a standard action, you can make a ranged attack with a grenade, targeting an intersection that’s adjacent to a wall or large object. If you hit, you can pick a direction for the grenade to travel and then roll 1d4 to determine how far from the targeted intersection the grenade lands. The direction must be away from the wall or object, and not parallel to or through it. If you miss, use the normal rules for missing with a thrown weapon.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Sacred Strike (Combat)",
+				"name": "Sacred Strike (Combat)",
+				"description": "<p>You imbue your weapons with the essence of your deity to strike down opposing forces.<br><strong>Prerequisites</strong>: Worship a deity of an alignment within one step of your own.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you make an attack as a standard action against a creature, your attack is treated as having the same alignment as the deity you worship for the purposes of overcoming damage reduction.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: If you change which deity you worship, this feat gives you no benefit until you next gain a character level, and then only if you still meet the prerequisite.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Scoundrel's Finesse",
+				"name": "Scoundrel's Finesse",
+				"description": "<p>You&rsquo;re adept at using a variety of weapons with panache.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>:&nbsp;</span>You treat unarmed strikes and one-handed basic and advanced melee weapons that are whiplike (such as a @Compendium[sfrpg.equipment.i1TzAckpWM4zydbT]{Taclash} or @Compendium[sfrpg.equipment.1zQAoizLdbKvMvQ3]{Neural lash}) or glove- like (such as a @Compendium[sfrpg.equipment.c5r8NO1jCHPWRCx8]{Battleglove} or @Compendium[sfrpg.equipment.FtRaCkCuJsSCZelm]{Shell knuckles}) as though they had the operative quality; the GM has final say on whether a weapon fits this description. In addition, if you have the trick attack or @Compendium[sfrpg.class-features.wk7Xp5wzUdELgTel]{Stunt and Strike (Ex)} class feature (Starfinder Character Operations Manual 80), you can use those class features with such weapons. You don&rsquo;t add trick attack damage to your attack, but the target is still @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{Flat-Footed}, and you can use debilitating tricks. When you attack using this feat&rsquo;s benefit, you never add more than your level to damage as a result of Weapon Specialization, even if you would do so as a result of another ability.</p>",
+				"source": ""
+		},
+		{
+				"id": "Scurry",
+				"name": "Scurry",
+				"description": "<p>Your small size affords you superior tactical positioning.<br><strong>Prerequisites</strong>: Racial bonus to Dexterity, size Small.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain the compression universal creature rule. In addition, you can occupy the same space as an ally of your size or larger without you or your ally taking any penalties for your doing so.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Sense Assumptions",
+				"name": "Sense Assumptions",
+				"description": "<p>You can easily intuit a person&rsquo;s preconceptions.<br /><strong>Prerequisites</strong>: Sense Motive 1 rank.</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +1 insight bonus to Sense Motive checks. In addition, you can attempt a Sense Motive check to discern some of another person&rsquo;s assumptions after 1 minute of conversation, allowing you to assess the difficulty of lying to them. The DC of this check is equal to 10 + the target&rsquo;s Bluff skill bonus or 15 + 1-1/2 &times; the target&rsquo;s CR, whichever is higher. If you succeed, you learn whether you would take a penalty to Bluff checks when attempting to convince that target of one falsehood of your choice related to the topic of conversation. If you fail by 4 or less, you learn nothing. If you fail by 5 or more, the target realizes you are trying to glean information from them. You can retry this check, but the DC increases by 5 for each previous failure on this check against that target.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Shadow Infusion",
+				"name": "Shadow Infusion",
+				"description": "<p>After enduring contact with the Shadow Plane, you have become infused with its energies.<br><strong>Prerequisites</strong>: You must spend a significant time on the Shadow Plane or otherwise become infused with its energies, such as by dying there or gaining shadow corruption. The GM determines whether you qualify for this feat.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain low-light vision and darkvision to a range of 60 feet. If you already have darkvision, you gain the <a href=\"https://www.aonsrd.com/UniversalMonsterRules.aspx?ItemName=See%20in%20Darkness\">see in darkness ability</a>.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Shelter Ally (Combat)",
+				"name": "Shelter Ally (Combat)",
+				"description": "<p>You use your size and reach to better defend other creatures.<br><strong>Prerequisites</strong>: Bodyguard, natural reach of 10 feet or more.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can use Bodyguard to protect an ally within your natural reach, rather than just an adjacent ally. The bonus and penalty to AC from the Bodyguard feat are each increased by 1 when you use the ability on a smaller ally.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Shield Block (Combat)",
+				"name": "Shield Block (Combat)",
+				"description": "<p>You can position your shield to protect against area effects.<br><strong>Prerequisites</strong>: Proficiency with shields.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when you would take damage from an effect that allows a Reflex save, you can spend a Resolve Point to reduce the damage you take from that effect by an amount equal to your shield’s item level.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Shield Proficiency (Combat)",
+				"name": "Shield Proficiency (Combat)",
+				"description": "<p>You are trained in the use of shields.<br><strong>Benefit</strong>: You gain proficiency with shields.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Special</strong>: Mechanics with an exocortex, solarians, soldiers, and vanguards gain proficiency with shields automatically at 1st level.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Shot on the Run (Combat)",
+				"name": "Tir en mouvement (Combat)",
+				"description": "<p>Vous pouvez vous d&eacute;placer, faire feu avec une arme de tir et vous d&eacute;placer &agrave; nouveau avant que vos ennemis ne r&eacute;agissent.</p><p><strong>Conditions :</strong> Dex 15, Man&oelig;uvrabilit&eacute;, bonus de base &agrave; l&rsquo;attaque +4.</p><hr /><p><strong>Avantage : </strong>par une action complexe, vous pouvez vous d&eacute;placer d&rsquo;une distance maximale &eacute;gale &agrave; votre vitesse et effectuer une unique attaque &agrave; distance &agrave; n&rsquo;importe quel moment lors de votre d&eacute;placement. Si vous ma&icirc;trisez l&rsquo;aptitude de classe feinte offensive, vous pouvez effectuer votre d&eacute;placement gr&acirc;ce &agrave; la feinte offensive &agrave; n&rsquo;importe quel moment pendant cette feinte (voir page 61) si vous attaquez avec une arme &agrave; distance (au lieu de vous d&eacute;placer seulement avant la feinte selon les r&egrave;gles normales).</p><p><strong>Normal : </strong>vous ne pouvez vous d&eacute;placer qu&rsquo;avant ou apr&egrave;s une attaque avec une arme &agrave; distance, mais pas avant et apr&egrave;s.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Sidestep (Combat)",
+				"name": "Pas de côté (Combat)",
+				"description": "<p>Vous pouvez vous repositionner apr&egrave;s l&rsquo;attaque rat&eacute;e d&rsquo;un adversaire.</p><p><strong>Conditions :</strong> Dex 15, Man&oelig;uvrabilit&eacute; ou aptitude de classe de feinte offensive.</p><hr /><p><strong>Avantage :</strong> chaque fois qu&rsquo;un adversaire rate contre vous une attaque au corps &agrave; corps, en r&eacute;action, vous pouvez effectuer un d&eacute;placement prudent tant que vous restez dans les cases qu&rsquo;il menace.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Skill Focus",
+				"name": "Talent",
+				"description": "<p>Vous &ecirc;tes un expert dans l&rsquo;utilisation d&rsquo;une comp&eacute;tence en particulier.</p><hr /><p><strong>Avantage : </strong>choisissez une comp&eacute;tence. Vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +3 aux tests concernant la comp&eacute;tence choisie.</p><p><strong>Sp&eacute;cial : </strong>vous pouvez prendre ce don plusieurs fois mais ses effets ne se cumulent pas. Il s&rsquo;applique &agrave; chaque fois &agrave; une comp&eacute;tence diff&eacute;rente.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Skill Synergy",
+				"name": "Compétence synergique",
+				"description": "<p>Vous savez comment exploiter les avantages de deux comp&eacute;tences qui fonctionnent bien ensemble.</p><hr /><p><strong>Avantage :</strong> choisissez deux comp&eacute;tences. Elles deviennent des comp&eacute;tences de classe pour vous. Si l&rsquo;une ou les deux sont d&eacute;j&agrave; des comp&eacute;tences de classe, vous b&eacute;n&eacute;ficiez &agrave; la place d&rsquo;un bonus d&rsquo;intuition de +2 aux tests de ces comp&eacute;tences.</p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre ce don plusieurs fois mais ses effets ne se cumulent pas. Il s&rsquo;applique &agrave; chaque fois &agrave; deux comp&eacute;tences diff&eacute;rentes.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Sky Jockey",
+				"name": "Fonceur aérien",
+				"description": "<p>Vous savez comment faire le meilleur usage des engins technologiques volants.</p><p><strong>Conditions :</strong> 5 rangs en Pilotage.</p><hr /><p><strong>Avantage :</strong> quand vous utilisez un appareil pour voler (y compris des objets magiques, mais pas des sorts ou une capacit&eacute; de vol naturelle), votre vitesse en vol augmente de 3 m&egrave;tres. Si vous pilotez un engin volant, sa vitesse de vol augmente de 3 (mais ce don n&rsquo;a aucun impact sur sa vitesse normale ou sur sa vitesse de d&eacute;placement sur longue distance). Quand vous endossez le r&ocirc;le de pilote lors d&rsquo;un combat de vaisseaux spatiaux, la vitesse de votre engin augmente de 1.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Slam Down (Combat)",
+				"name": "Slam Down (Combat)",
+				"description": "<p>You can deliver particularly potent bludgeoning attacks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you score a critical hit with a weapon that deals bludgeoning damage, in addition to any other critical hit effect you would apply, you also apply the knockdown critical hit effect. If the attack would already apply a knockdown critical hit effect, you can choose to also move the target 1d4×5 feet directly away from you.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Slippery Shooter (Combat)",
+				"name": "Tireur insaisissable (Combat)",
+				"description": "<p>Vous laissez &agrave; vos ennemis peu d&rsquo;occasions de vous agresser lorsque vous attaquez &agrave; distance.</p><p><strong>Conditions :</strong> Dex 15, bonus de base &agrave; l&rsquo;attaque +6.</p><hr /><p><strong>Avantage :</strong> vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +3 &agrave; votre classe d&rsquo;armure contre les attaques d&rsquo;opportunit&eacute; que vous provoquez lorsque vous attaquez &agrave; distance.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Small Arm Proficiency (Combat)",
+				"name": "Maniement des armes légères (Combat)",
+				"description": "<p>Vous savez comment utiliser les armes l&eacute;g&egrave;res.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des armes l&eacute;g&egrave;res (voir Le maniement des armes &agrave; la page 243).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Sniper Weapon Proficiency (Combat)",
+				"name": "Maniement des armes de précision (Combat)",
+				"description": "<p>Vous savez comment utiliser les armes de pr&eacute;cision.</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement des armes de pr&eacute;cision (voir Maniement des armes &agrave; la page 243).</p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Solid Stance (Combat)",
+				"name": "Solid Stance (Combat)",
+				"description": "<p>You are difficult to move or knock down.<br><strong>Prerequisites</strong>: Con 15.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Once per combat when an attack or effect would knock you prone, you can ignore that effect as a reaction. In addition, the distance that any nonmagical effect that would move you against your will is reduced by 5 feet.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Soothing Telepathy",
+				"name": "Soothing Telepathy",
+				"description": "<p>Your psychic abilities bolster your mental defenses, and you can extend that strength to nearby allies.<br><strong>Prerequisites</strong>: Limited telepathy or telepathy.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 insight bonus to saving throws against mind-affecting effects. Once per day as a reaction, you can grant allies within range of your telepathic communication a +2 insight bonus to saving throws against mind-affecting effects until the end of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Special Weapon Proficiency (Combat)",
+				"name": "Maniement d’une arme spéciale (Combat)",
+				"description": "<p>Vous savez comment utiliser une arme sp&eacute;ciale.</p><p><strong>Conditions :</strong> form&eacute; au Maniement des armes de corps &agrave; corps simples ou des armes l&eacute;g&egrave;res (voir ci-dessous).</p><hr /><p><strong>Avantage :</strong> vous &ecirc;tes form&eacute; au Maniement d&rsquo;une arme de sp&eacute;ciale de votre choix (voir Maniement des armes &agrave; la page 243). Si l&rsquo;arme sp&eacute;ciale que vous choisissez est une arme sp&eacute;ciale de corps &agrave; corps, vous devez ma&icirc;triser le Maniement des armes de corps &agrave; corps simples. Si l&rsquo;arme sp&eacute;ciale que vous choisissez est une arme &agrave; disance, vous devez ma&icirc;triser le Maniement des armes l&eacute;g&egrave;res. Si des armes sp&eacute;ciales formant un ensemble sont toutes des mod&egrave;les diff&eacute;rents d&rsquo;une m&ecirc;me arme, la ma&icirc;trise du maniement d&rsquo;une telle arme conf&egrave;re la ma&icirc;trise du maniement de toutes les armes de l&rsquo;ensemble.</p><p><strong>Sp&eacute;cial :</strong> vous pouvez prendre ce don plusieurs fois. Il s&rsquo;applique &agrave; chaque fois &agrave; une arme sp&eacute;ciale diff&eacute;rente.</p><p>&nbsp;</p><p>&nbsp;</p><p>You know how to use a special weapon.<br />Prerequisites: Proficiency in basic melee weapons or small arms (see below).</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">Benefit: You gain proficiency in a single special weapon of your choice (see Weapon Proficiency on page 243). If the special weapon you choose is a melee special weapon, you must have proficiency in basic melee weapons. If the special weapon you choose is a ranged weapon, you must have proficiency in small arms. If a set of special weapons are all different models of the same weapon, proficiency in one such weapon grants proficiency with all weapons in the set.<br /></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">Special: You can take this feat multiple times. Each time you do, select a different special weapon.</span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Spell Feint",
+				"name": "Spell Feint",
+				"description": "<p>Your distractions create openings for your spells.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you succeed at a feint combat maneuver, instead of the normal effects, your opponent takes a –1 penalty to saving throws against the next spell you cast before the end of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Spell Focus",
+				"name": "Magie renforcée",
+				"description": "<p>Vos adversaires &eacute;prouvent plus de difficult&eacute;s &agrave; r&eacute;sister &agrave; certains sorts que vous avez &eacute;tudi&eacute;s plus que les autres.</p><p><strong>Conditions :</strong> aptitude d&rsquo;incantation de sorts, personnage de niveau 3.</p><hr /><p><strong>Avantage :</strong> le DD des sorts que vous lancez augmente de 1. Au niveau 11, le DD de vos sorts augmente &agrave; la place de 2, et au niveau 17, le DD des sorts que vous lancez augmente &agrave; la place de 3. Ce bonus ne s&rsquo;applique pas aux pouvoirs magiques.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Spell Penetration",
+				"name": "Efficacité des sorts accrue",
+				"description": "<p>Vos sorts ignorent la r&eacute;sistance &agrave; la magie de vos adversaires plus efficacement que ceux des autres lanceurs de sorts.</p><hr /><p><strong>Avantage :</strong> vous gagnez un bonus de +2 aux tests de lanceur de sorts pour ignorer la r&eacute;sistance &agrave; la magie d&rsquo;une cr&eacute;ature (voir page 264).<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Spellbane",
+				"name": "Protection contre la magie",
+				"description": "<p>Votre esprit et votre corps r&eacute;sistent mieux &agrave; la magie.</p><p><strong>Conditions :</strong> incapacit&eacute; &agrave; lancer des sorts ou &agrave; utiliser des pouvoirs magiques.</p><hr /><p><strong>Avantage : </strong>vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +2 aux jets de sauvegarde contre les sorts et les pouvoirs magiques. Si vous apprenez par la suite &agrave; lancer des sorts ou &agrave; utiliser des pouvoirs magiques, vous perdez les avantages de ce don que vous pouvez remplacer par Vigueur surhumaine, R&eacute;flexes surhumains ou Volont&eacute; de fer, ou par la version am&eacute;lior&eacute;e de l&rsquo;un de ces dons si vous remplissez leurs conditions d&rsquo;acquisition.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.160"
+		},
+		{
+				"id": "Spellguard",
+				"name": "Spellguard",
+				"description": "<p>You can ward an ally against a spell at the cost of your own mystical defenses.<br><strong>Prerequisites</strong>: Mysticism 3 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a reaction when an adjacent ally is targeted by a spell or spell-like ability, you can create a minor protective ward, granting that ally a +2 insight bonus to their saving throw against that effect. This effect distracts you from your own defenses, and you take a –2 penalty to saving throws against spells and spell-like abilities until the beginning of your next turn. Once you use this ability, you can’t use it again until you regain Stamina Points with a 10-minute rest.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Spot of Luck",
+				"name": "Spot of Luck",
+				"description": "<p>When escaping tight spots, you defy the odds.<br><strong>Prerequisites</strong>: Any racial trait or feat that grants a d20 reroll, character level 5th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you use an ability to reroll one d20 roll, you can spend 1 Resolve Point to reroll twice and use the highest of all three results. Once you use this ability, you can do so again only after a 10-minute rest to regain Stamina Points.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Spring Attack (Combat)",
+				"name": "Attaque surprise (Combat)",
+				"description": "<p>Vous pouvez vous d&eacute;placer avec agilit&eacute; vers un ennemi, l&rsquo;attaquer et vous replier avant qu&rsquo;il ne r&eacute;agisse.</p><p><strong>Conditions :</strong> Dex 15, Man&oelig;uvrabilit&eacute;, bonus de base &agrave; l&rsquo;attaque +4.</p><hr /><p><strong>Avantage :</strong> par une action complexe, vous pouvez vous d&eacute;placer sur une distance &eacute;gale ou inf&eacute;rieure &agrave; votre vitesse et effectuer une unique attaque au corps &agrave; corps ou une man&oelig;uvre offensive sans provoquer d&rsquo;attaques d&rsquo;opportunit&eacute; de la part de votre cible. Vous pouvez vous d&eacute;placer avant et apr&egrave;s l&rsquo;attaque mais vous devez vous d&eacute;placer d&rsquo;une distance minimale de 3 m&egrave;tres avant l&rsquo;attaque et la distance totale que vous parcourez ne peut pas &ecirc;tre sup&eacute;rieure &agrave; votre vitesse de d&eacute;placement. Vous ne pouvez pas utiliser ce don pour attaquer un adversaire adjacent &agrave; vous au d&eacute;but de votre tour. Si vous poss&eacute;dez l&rsquo;aptitude de classe de feinte offensive, vous pouvez effectuer votre d&eacute;placement conf&eacute;r&eacute; par cette aptitude &agrave; n&rsquo;importe quel moment pendant une feinte offensive avec une arme de corps &agrave; corps (et plus uniquement avant), et ce, sans provoquer d&rsquo;attaques d&rsquo;opportunit&eacute;s de la part de votre cible.</p><p><strong>Normal :</strong> vous ne pouvez vous d&eacute;placer qu&rsquo;avant ou apr&egrave;s une attaque, mais pas avant et apr&egrave;s.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Spry Cover (Combat)",
+				"name": "Tir de couverture en appui (Combat)",
+				"description": "<p>Vous pouvez effectuer un tir de couverture pour faciliter le d&eacute;placement d&rsquo;un alli&eacute;.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> au lieu des avantages habituels du tir de couverture, vous pouvez effectuer un tir de couverture pour conf&eacute;rer &agrave; un alli&eacute; un bonus de +4 &agrave; son prochain test d&rsquo;Acrobaties pour effectuer un d&eacute;placement acrobatique avant la fin de son prochain tour.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Squox Companion",
+				"name": "Squox Companion",
+				"description": "<p>Your squox is a well-trained companion.<br><strong>Prerequisites</strong>: You own a trained squox that has an attitude of friendly or helpful toward you.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can designate your trained squox as your companion, which obeys your instructions, orders, and suggestions to the best of its ability. It won’t follow a command that would bring significant harm to itself, but it has your interests at heart and does what it can to aid you. While your squox companion is within 30 feet of you, you gain a +1 insight bonus to Perception checks to notice and search when the GM determines your squox could help you accomplish these tasks.<br><br>Your Tiny squox companion can share your space and end its movement there. Outside your space, your squox has evasion, as the operative class feature. While in your space, your squox has evasion, improved evasion (as the operative exploit), and cover. In addition, when your squox is adjacent to you or in your space and would take damage, you can use your reaction to intercede and take the damage instead.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">In addition, your adorable companion is distracting. While it is in your space, you gain a +1 insight bonus to Bluff checks to feint. If your squox is in your space or within 10 feet of you, you can instead gain this insight bonus to Bluff checks to create a diversion, which can allow you or your squox to attempt to hide (your choice of which when you attempt the Bluff check).</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Stage Magic",
+				"name": "Stage Magic",
+				"description": "<p>You have learned new magical tricks to deceive or entertain.<br><strong>Prerequisites</strong>: Cha 13, Minor Stage Magic, character level 4th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Select one of the following 1st-level spells: <em>disguise self</em>, <em>holographic image</em>, or <em>unseen servant</em>. You can cast this spell once per day as a spell-like ability, using your character level as your caster level. The key ability score for this spell is Charisma.<br></span></p><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Normal</strong>: You can select this feat more than once. Each time you do, you must choose a different spell from the list.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Stand Still (Combat)",
+				"name": "Immobilisation (Combat)",
+				"description": "<p>Vous pouvez immobiliser des adversaires qui tentent de se d&eacute;placer &agrave; c&ocirc;t&eacute; de vous.</p><hr /><p><strong>Avantage : </strong>quand un adversaire provoque une attaque d&rsquo;opportunit&eacute; en quittant une case que vous menacez, en r&eacute;action, vous pouvez effectuer une attaque au corps &agrave; corps contre sa classe d&rsquo;armure cin&eacute;tique + 8. Si vous la r&eacute;ussissez, l&rsquo;ennemi ne peut plus continuer son d&eacute;placement jusqu&rsquo;&agrave; la fin de son tour. L&rsquo;ennemi peut toujours effectuer le reste de ses actions mais il ne peut plus quitter la case qu&rsquo;il occupe actuellement.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.158"
+		},
+		{
+				"id": "Startled Scream",
+				"name": "Startled Scream",
+				"description": "<p>When something bad is about to go down, you scream to let everyone know.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: Before initiative is rolled during an encounter, you can scream as part of <a href=\"https://www.aonsrd.com/Rules.aspx?Name=Other%20Actions&amp;Category=Actions%20in%20Combat\">combat banter</a> even if you’re surprised. If you do, allies who are surprised but can hear you don’t gain the flat-footed condition, while allies who aren’t surprised gain a +1 insight bonus to initiative checks. You gain the appropriate benefit depending on whether you are surprised or not. However, your scream is loud, possibly drawing the attention of foes that can hear you and alerting others within earshot. You’re also shaken until the end of your next turn.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Steady Footing",
+				"name": "Steady Footing",
+				"description": "<p>You use your multiple legs to your advantage.<br /><strong>Prerequisites</strong>: More than two legs or similar limbs.</p><hr /><p><strong>Benefit</strong>: You gain a +2 bonus to KAC against the bull rush, reposition, and trip combat maneuvers. In addition, you gain a +2 bonus to saving throws against effects that would knock you prone.</p>",
+				"source": ""
+		},
+		{
+				"id": "Steel Nerves",
+				"name": "Steel Nerves",
+				"description": "<p>You retain your reason when you’re scared.<br><strong>Prerequisites</strong>: Wis 13, character level 3rd.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You gain a +2 bonus to saving throws against fear effects. In addition, when you have the frightened condition, you can choose to fight rather than flee. When you have the panicked condition, you don’t drop what you’re holding.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Step Up (Combat)",
+				"name": "S’avancer (Combat)",
+				"description": "<p>Vous pouvez vous rapprocher d&rsquo;un adversaire qui tente de s&rsquo;&eacute;loigner.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> quand un adversaire adjacent tente d&rsquo;effectuer un d&eacute;placement prudent pour s&rsquo;&eacute;loigner de vous, en r&eacute;action, vous pouvez vous aussi faire un d&eacute;placement prudent &agrave; condition de le terminer &agrave; c&ocirc;t&eacute; &agrave; l&rsquo;adversaire ayant d&eacute;clench&eacute; l&rsquo;utilisation de ce don.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Step Up and Strike (Combat)",
+				"name": "Avance et frappe (Combat)",
+				"description": "<p>Quand un adversaire tente de s&rsquo;&eacute;loigner, vous pouvez le suivre et effectuer une attaque d&rsquo;opportunit&eacute;.</p><p><strong>Conditions :</strong> Dex 13, S&rsquo;avancer, bonus de base &agrave; l&rsquo;attaque +6.</p><hr /><p><strong>Avantage :</strong> quand vous utilisez le don S&rsquo;avancer pour suivre un adversaire adjacent, vous pouvez vous d&eacute;placer d&rsquo;une distance maximale de 3 m&egrave;tres. Vous pouvez &eacute;galement effectuer une attaque d&rsquo;opportunit&eacute; contre lui ou attendre pour voir s&rsquo;il provoque une autre attaque d&rsquo;opportunit&eacute; &agrave; n&rsquo;importe quel moment avant la fin de son tour. Quoi qu&rsquo;il en soit, cette attaque d&rsquo;opportunit&eacute; n&rsquo;est pas d&eacute;compt&eacute;e du nombre d&rsquo;actions par round que vous pouvez effectuer normalement ; elle fait partie de la r&eacute;action S&rsquo;avancer.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.155"
+		},
+		{
+				"id": "Strike Back (Combat)",
+				"name": "Riposte (Combat)",
+				"description": "<p>Vous pouvez frapper les ennemis qui vous attaquent et qui sont dot&eacute;s d&rsquo;une allonge sup&eacute;rieure en prenant pour cible leurs membres ou armes.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1.</p><hr /><p><strong>Avantage :</strong> vous pouvez pr&eacute;parer une action pour effectuer une attaque au corps &agrave; corps contre un adversaire qui vous attaque avec une arme de corps &agrave; corps, m&ecirc;me si cet adversaire n&rsquo;est pas &agrave; port&eacute;e de votre allonge.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Suppressive Fire (Combat)",
+				"name": "Tir de suppression (Combat)",
+				"description": "<p>Vous pouvez utiliser des armes automatiques pour effectuer un tir de couverture ou de diversion sous forme de c&ocirc;ne.</p><p><strong>Conditions :</strong> bonus de base &agrave; l&rsquo;attaque +1, form&eacute; au Maniement des armes lourdes.</p><hr /><p><strong>Avantage :</strong> par une action complexe, vous pouvez utiliser une arme &agrave; distance dot&eacute;e de la propri&eacute;t&eacute; arme automatique pour effectuer un tir de couverture ou de diversion sous forme de c&ocirc;ne dont la port&eacute;e est &eacute;gale &agrave; la moiti&eacute; du facteur de port&eacute;e de l&rsquo;arme. Vous devez d&eacute;penser 10 charges ou munitions pour utiliser ce don. Vous d&eacute;cidez si vous effectuez un tir de couverture ou de diversion. Faites un seul jet d&rsquo;attaque &agrave; distance avec un bonus de +4 et comparez-le &agrave; la CA de toutes les cr&eacute;atures dans la zone. Les cr&eacute;atures dont la CA est &eacute;gale ou inf&eacute;rieure &agrave; votre jet d&rsquo;attaque sont affect&eacute;es par l&rsquo;effet s&eacute;lectionn&eacute;. Si vous s&eacute;lectionnez le tir de couverture, choisissez un seul alli&eacute; qui b&eacute;n&eacute;ficie alors du bonus &agrave; sa CA conf&eacute;r&eacute; par ce type de tir.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Survivalist",
+				"name": "Survivalist",
+				"description": "<p>You know how to live off the land.<br><strong>Prerequisites</strong>: Self-sufficient racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you attempt a Survival check to live off the land, you are not limited to moving only half your overland speed. If you succeed at the check, you can provide food and water for five more creatures than normal.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Swimming Master",
+				"name": "Expert en natation",
+				"description": "<p>Vous nagez comme un poisson dans l&rsquo;eau.</p><p><strong>Conditions :</strong> 5 rangs en Athl&eacute;tisme.</p><hr /><p><strong>Avantage :</strong> vous obtenez une vitesse de nage &eacute;gale &agrave; votre vitesse au sol.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.157"
+		},
+		{
+				"id": "Tactful Advisor",
+				"name": "Tactful Advisor",
+				"description": "<p>You provide succinct but effective advice when aiding allies.<br><strong>Prerequisites</strong>: Cha 11.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you aid another, if the result of your check is 20 or higher, you provide an additional +1 enhancement bonus to your ally’s skill check.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Tailored Serum",
+				"name": "Tailored Serum",
+				"description": "<p>You can modify a <em>serum of healing</em> to synergize with your target’s genetic code.<br><strong>Prerequisites</strong>: Life Science 5 ranks.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: With 1 minute of work, you can modify a <em>serum of healing</em> so that when it’s consumed by or administered to a specific creature, it restores a number of additional Hit Points equal to the serum’s item level. You can modify a number of serums this way each day equal to your Intelligence modifier. These modifications expire after 24 hours, returning the serum to its normal function.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Technomantic Dabbler",
+				"name": "Technomancien amateur",
+				"description": "<p>Vous vous d&eacute;brouillez en mati&egrave;re de codage du langage magique.</p><p><strong>Conditions :</strong> Intelligence 15, personnage de niveau 5, aucun niveau de technomancien.</p><hr /><p><strong>Avantage :</strong> choisissez deux sorts de technomancien de niveau 0 et un sort de technomancien de niveau 1. Vous pouvez lancer les sorts de niveau 0 &agrave; volont&eacute; et le sort de niveau 1 une fois par jour par tranche de 3 niveaux de personnage que vous poss&eacute;dez. Votre niveau de lanceur de sorts est &eacute;gal &agrave; votre niveau de personnage et la valeur de caract&eacute;ristique essentielle pour ces sorts est l&rsquo;Intelligence. Si vous obtenez par la suite des niveaux de technomancien, vous perdez les avantages de ce don et pouvez le remplacer par Magie renforc&eacute;e ou Efficacit&eacute; des sorts accrue.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Telepathic Scream",
+				"name": "Telepathic Scream",
+				"description": "<p>You can create a distressing telepathic scream to unnerve nearby creatures.<br><strong>Prerequisites</strong>: Intimidate 3 ranks; limited telepathy or telepathy.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a standard action, you can broadcast a jarring telepathic screech into the minds of nearby enemies. You can use this ability on one target creature per character level, all of which must be within range of your telepathy. If you succeed at an Intimidate check (DC = 15 + 1 per target + 1-1/2 × the CR of the highest CR target), all targets are shaken for 1 round, plus 1 additional round for every 5 by which your result exceeds the DC. This is a mind-affecting effect. Once you have targeted a creature with this feat, that foe is immune to this ability for 24 hours.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Telepathic Spy",
+				"name": "Telepathic Spy",
+				"description": "<p>Your telepathy is sensitive enough to detect similar psychic communication nearby.<br><strong>Prerequisites</strong>: Limited telepathy or telepathy.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When a creature within range of your telepathy uses telepathy, receives telepathic communication (such as <a href=\"https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Telepathic%20Message&amp;Family=None\">telepathic message</a>), or employs a mind-reading effect (such as the <a href=\"https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Detect%20Thoughts&amp;Family=None\">detect thoughts</a> spell), you notice the attempt with a successful DC 20 Sense Motive check. If you succeed by 5 or more, you glean three pieces of information about the communication, such as the identity of its source, its general nature, the emotional state of the sender or the recipient, and so on. If you succeed by 10 or more, you can listen in on the communication by concentrating each round (a standard action) to maintain your eavesdropping. However, although unaware of your spying, the subject can attempt a saving throw (DC = 10 + half your level + your Charisma modifier) to prevent it. Succeeding by 5 or more at this save also alerts the subject to your snooping.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Terrifying Presence (Combat)",
+				"name": "Terrifying Presence (Combat)",
+				"description": "<p>Your fearsome displays instill fear longer.<br><strong>Prerequisites</strong>: Intimidating racial trait.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you succeed at an Intimidate check to demoralize, the duration is 1d4 rounds longer than normal.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Three-Point Stance",
+				"name": "Three-Point Stance",
+				"description": "<p>You have learned the value of using an extra limb to help stabilize yourself in combat.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As long as you have one free hand (not being used to wield a weapon or hold anything), you take 1d6 less damage from falls and do not fall prone when you take damage from a fall unless you are unconscious. You also gain a +2 bonus to your KAC against grapple and trip attempts when you have a free hand, as well as to Acrobatics and Athletics checks to move in zero-g.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Through the Lines",
+				"name": "Through the Lines",
+				"description": "<p>You charge through your allies to reach your foes.<br><strong>Prerequisites</strong>: Dex 13.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When taking the charge action, you can move through one ally’s space. All other restrictions on movement during a charge still apply, and you can’t end your charge in a space occupied by an ally.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Tight Fit",
+				"name": "Tight Fit",
+				"description": "<p>Time spent navigating spaces designed for smaller creatures has taught you to fit through tight spaces more efficiently.<br><strong>Prerequisites</strong>: Large size or larger.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: While you’re squeezing, you don’t gain the entangled condition and your speed is reduced by 5 feet instead of halved. You still can’t run or charge while squeezing.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Toughness",
+				"name": "Robustesse",
+				"description": "<p>Vous avez am&eacute;lior&eacute; votre r&eacute;sistance physique, et les conditions difficiles ou les efforts prolong&eacute;s vous fatiguent moins rapidement.</p><hr /><p><strong>Avantage :</strong> vous obtenez 1 point d&rsquo;endurance pour chaque niveau que votre personnage poss&egrave;de (et &agrave; chaque fois qu&rsquo;il gagne un nouveau niveau). De plus, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 aux tests de Constitution pour continuer &agrave; courir, pour &eacute;viter les d&eacute;g&acirc;ts d&rsquo;une marche forc&eacute;e, pour retenir votre respiration et pour &eacute;viter les d&eacute;g&acirc;ts de la faim ou de la soif. Vous b&eacute;n&eacute;ficiez &eacute;galement d&rsquo;un bonus de +4 aux jets de sauvegarde de Vigueur pour &eacute;viter de subir les d&eacute;g&acirc;ts inflig&eacute;s par des environnements froids ou chauds, pour r&eacute;sister aux effets nocifs des atmosph&egrave;res &eacute;paisses et fines, pour &eacute;viter de suffoquer en respirant dans un environnement extr&ecirc;mement enfum&eacute; et pour &eacute;viter de vous fatiguer &agrave; cause du manque de sommeil.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.161"
+		},
+		{
+				"id": "Tripping Rush (Combat)",
+				"name": "Tripping Rush (Combat)",
+				"description": "<p>You bull rush opponents into obstacles that knock them down.<br><strong>Prerequisites</strong>: Improved Combat Maneuver (trip), base attack bonus +5.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you succeed at a bull rush combat maneuver and the target’s movement is stopped by an obstacle, the target falls prone (or becomes off-kilter in zero gravity).</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Underfoot",
+				"name": "Underfoot",
+				"description": "<p>You use your small size against larger foes.<br><strong>Prerequisites</strong>: Scurry, Acrobatics 10 ranks, racial bonus to Dexterity, size Small.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: As a move action, you can try to slip into the space of an adjacent foe larger than you are. To do so, attempt an Acrobatics check (DC = 15 + 1-1/2 × opponent’s CR). If you succeed, you enter your opponent’s space. If you fail, you remain in your starting position, and you are flat-footed and off-target until the end of your next turn.<br>While you occupy a foe’s space, that foe is flat-footed and off-target, and it treats its space as difficult terrain. If your opponent tries to move out of your space, it provokes an attack of opportunity from you.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Underhanded Snare",
+				"name": "Underhanded Snare",
+				"description": "<p>You're a storm of grasping limbs or winding coils, ensnaring foes in underhanded ways.<br /><strong>Prerequisites</strong>:&nbsp; @Compendium[sfrpg.feats.0Pq35gvSI2JlD682]{Improved Combat Maneuver (Combat)} (dirty trick); constrictor&rsquo;s grasp, enveloping grip, grappler, or snag racial trait).</p><hr /><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: </span>When you perform a successful dirty trick combat maneuver as a melee attack and the target gains the entangled condition as a result, you can choose to have the affected target be unable to move from its square until it takes the move action to end the condition, but the condition ends immediately if the target is no longer within your reach. In addition, you gain a +4 circumstance bonus to grapple a creature entangled due to your dirty trick.</p>",
+				"source": ""
+		},
+		{
+				"id": "Unfriendly Fire (Combat)",
+				"name": "Tir hostile (Combat)",
+				"description": "<p>Vous pouvez tromper vos adversaires de mani&egrave;re &agrave; ce qu&rsquo;ils tirent sur une autre cible de mani&egrave;re fortuite.</p><p><strong>Conditions : </strong>5 rangs en Bluff.</p><hr /><p><strong>Avantage : </strong>en r&eacute;action, quand un assaillant effectue une attaque &agrave; distance contre vous et la rate, vous pouvez effectuer un test de Bluff pour rediriger l&rsquo;attaque vers une cible diff&eacute;rente. La nouvelle cible doit &ecirc;tre adjacente &agrave; vous et dans la ligne de vue et d&rsquo;effet de l&rsquo;agresseur initial. Le DD de ce test est &eacute;gal &agrave; la plus haute valeur entre 10 + le bonus de comp&eacute;tence total en Psychologie de l&rsquo;attaquant ou 15 + 1,5 &times; le FP de l&rsquo;attaquant. Vous ne pouvez pas faire 10 sur ce test. Si vous r&eacute;ussissez, l&rsquo;attaquant initial relance le jet d&rsquo;attaque (voir page 243) avec les m&ecirc;mes bonus contre la classe d&rsquo;armure appropri&eacute;e de la nouvelle cible.</p><p>D&egrave;s qu&rsquo;une cr&eacute;ature a remarqu&eacute; que vous avez utilis&eacute; ce don, m&ecirc;me si elle n&rsquo;est ni l&rsquo;attaquant ni la nouvelle cible, vous ne pouvez plus utiliser ce don pendant 24 heures pour tenter de rediriger les attaques de cette cr&eacute;ature.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.163"
+		},
+		{
+				"id": "Veiled Threat",
+				"name": "Menace voilée",
+				"description": "<p>You can be so subtle not even the people you threaten are entirely sure you threatened them.<br><strong>Prerequisites</strong>: Cha 15, Intimidate 1 rank.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you successfully use the Intimidate skill to bully a creature, after the duration of its helpful attitude ends, its attitude toward you becomes indifferent rather than hostile.</span></p>",
+				"source": "RDB p.159"
+		},
+		{
+				"id": "Versatile Fighting (Combat)",
+				"name": "Versatile Fighting (Combat)",
+				"description": "<p>You draw upon your resolve to quickly change tactics in the heat of battle.<br><strong>Prerequisites</strong>: Adaptive Fighting, character level 5th.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: You can spend 1 Resolve Point to use the Adaptive Fighting feat after you have already used it in the same day. If you use Adaptive Fighting again before the duration of a previous use expires, you replace the previous combat feat gained with another choice from Adaptive Fighting. If a combat feat you chose with Adaptive Fighting has a daily use limitation, you cannot use Versatile Fighting to use that feat more often than its daily limit.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Versatile Focus (Combat)",
+				"name": "Concentration polyvalente (Combat)",
+				"description": "<p>Vous &ecirc;tes pr&eacute;cis avec toutes les armes que vous savez manier.</p><p><strong>Conditions :</strong> Arme de pr&eacute;dilection (n&rsquo;importe quelle arme).</p><hr /><p><strong>Avantage :</strong> les avantages du don Arme de pr&eacute;dilection s&rsquo;appliquent &agrave; toutes les armes dont vous ma&icirc;trisez le maniement.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.156"
+		},
+		{
+				"id": "Versatile Specialization (Combat)",
+				"name": "Spécialisation polyvalente (Combat)",
+				"description": "<p>Vous savez comment utiliser au mieux des types d&rsquo;armes que votre classe n&rsquo;utilise pas en temps normal.</p><p><strong>Conditions : </strong>Sp&eacute;cialisation martiale, personnage de niveau 3.</p><hr /><p><strong>Avantage :</strong> vous obtenez une sp&eacute;cialisation (voir la page 243) pour toutes les armes auxquelles vous &ecirc;tes form&eacute; au maniement et que vous pouvez choisir avec la Sp&eacute;cialisation martiale.<span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"></span></p>",
+				"source": "RDB p.162"
+		},
+		{
+				"id": "Vidgame Aficionado",
+				"name": "Vidgame Aficionado",
+				"description": "<p>Through dedication, you&rsquo;ve honed your skill at games and employed them in your daily life.</p><p><strong>Prerequisites</strong>: Profession (vidgamer) 7 ranks</p><hr /><p><strong>Benefit</strong>: Your dedication to vidgames of all types has provided you an eclectic array of trivia and skills. You can attempt any Intelligence- or Wisdom-based Profession skill check using your Profession (vidgamer) modifier with a &ndash;5 penalty, and you&rsquo;re treated as trained in those Profession skills. Once per day, you can attempt a Profession (vidgamer) check to identify a creature in place of using Engineering, Life Science, or Mysticism.</p>",
+				"source": ""
+		},
+		{
+				"id": "Wary Withdrawal (Combat)",
+				"name": "Wary Withdrawal (Combat)",
+				"description": "<p>You know how to withdraw with great caution.<br><strong>Prerequisites</strong>: Dex 13, Wis 13, Mobility.</p><hr><p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\"><strong>Benefit</strong>: When you use the total defense action, you can also withdraw as a move action. If you do so, you can move only up to your speed.</span></p>",
+				"source": ""
+		},
+		{
+				"id": "Weapon Focus (Combat)",
+				"name": "Arme de prédilection (Combat)",
+				"description": "<p>Vous vous &ecirc;tes davantage entra&icirc;n&eacute; au maniement d&rsquo;un type d&rsquo;armes en particulier, ce qui vous permet de toucher plus facilement vos cibles.</p><p><strong>Conditions :</strong> form&eacute; au maniement du type d&rsquo;armes s&eacute;lectionn&eacute;.</p><hr /><p><strong>Avantage :</strong> choisissez un type d&rsquo;armes (armes l&eacute;g&egrave;res, armes longues, armes lourdes, etc.). Vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +1 aux jets d&rsquo;attaque effectu&eacute;s avec ce type d&rsquo;armes. Vous b&eacute;n&eacute;ficiez &agrave; la place d&rsquo;un bonus de +2 si votre bonus de base &agrave; l&rsquo;attaque est inf&eacute;rieur &agrave; votre niveau de personnage (ou &agrave; votre niveau de classe de m&eacute;cano, si vous &ecirc;tes un drone) de 3 points au moins.</p>",
+				"source": "RDB p.154"
+		},
+		{
+				"id": "Weapon Specialization (Combat)",
+				"name": "Spécialisation martiale (Combat)",
+				"description": "<p>Au niveau 3, toutes les classes conf&egrave;rent une sp&eacute;cialisation dans le maniement de certains groupes d&rsquo;armes, ce qui augmente les d&eacute;g&acirc;ts que vous infligez avec celles-ci. Voir le don Sp&eacute;cialisation martiale &agrave; la page 162 pour plus d&rsquo;informations. </p>",
+				"source": "RDB p.162"
+		}
+	]
+}
