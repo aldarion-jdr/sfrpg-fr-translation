@@ -3,7 +3,7 @@
 This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg).
 Many thanks to all our dedicated contributors :
 AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen.
-A special thanks to Decad7Never for the core translation.
+A special thanks to Decad7Never for the system core translation.
   
 The goal of this module is to use [Babele](https://foundryvtt.com/packages/babele/) to translate compendia embedded with the Foundry VTT Starfinder System.
   
@@ -20,15 +20,17 @@ Vous pourrez aussi bientôt le trouver dans la liste des modules à installer di
 Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés dans votre monde, n'oubliez pas de vérifier que votre interface soit bien en français dans les paramètres.
   
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
-* Actions de vaisseaux *items*
+* Cadre
 * Classes *items*
 * Conditions *items*
 * Dons *items*
 * Equipement *items*
 * Races *items*
+* Règles Universelles de Créatures
 * Sorts *items*
 * Thèmes *items*
 * Véhicules *acteurs*
+* Vaisseaux - Actions *items*
 * Vaisseaux - Composants *items*
 
 ## Contribuer
