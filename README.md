@@ -9,10 +9,12 @@ The goal of this module is to use [Babele](https://foundryvtt.com/packages/babel
   
 ## Installation
 Installez au préalable le module `Babele` (si vous ne l'avez pas déjà fait).
-Ajouter ensuite le `manifest` suivant à vos modules : https://github.com/aldarion-jdr/sfrpg-fr-translation/raw/main/module.json
+Ensuite vous pouvez depuis l'onglet `modules` de Foundry VTT :
+* soit rechercher directement "sfrpg-fr-translation" ou "Starfinder - Traduction en Français" et cliquer sur le bouton `installation` à droite de la vigentte du module trouvé.
+* soit ajouter en copiant-collant l'url https://github.com/aldarion-jdr/sfrpg-fr-translation/raw/main/module.json dans la partie basse `URL du Manifest` et cliquer sur `installation` en bas à droite.
   
 ### Page du Module sur le Wiki français de Foundry VTT
-Pour plus de détails sur l'installation, merci de vous rendre sur la page dédié sur le Wiki Français à l'adresse suivante : https://foundryvtt.wiki/e/fr/systemes/starfinder
+Pour plus de détails sur l'installation, merci de vous rendre sur la page dédié sur le Wiki Français à l'adresse suivante : https://foundryvtt.wiki/fr/systemes/starfinder
   
 Vous pourrez aussi bientôt le trouver dans la liste des modules à installer directement dans Foundry VTT
   
