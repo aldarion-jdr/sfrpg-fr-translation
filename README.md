@@ -3,7 +3,7 @@
 This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg).
 Many thanks to all our dedicated contributors :
 AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen.
-A special thanks to Decad7Never for the system core translation.
+A special thanks to Decad7Never for the Starfinder system localization.
   
 The goal of this module is to use [Babele](https://foundryvtt.com/packages/babele/) to translate compendia embedded with the Foundry VTT Starfinder System.
   
