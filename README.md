@@ -22,13 +22,13 @@ Vous pourrez aussi bientôt le trouver dans la liste des modules à installer di
 Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés dans votre monde, n'oubliez pas de vérifier que votre interface soit bien en français dans les paramètres.
   
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
-* Cadre
+* Cadre *journaux*
 * Classes *items*
-* Conditions *items*
+* Etats *items*
 * Dons *items*
 * Equipement *items*
 * Races *items*
-* Règles Universelles de Créatures
+* Règles Universelles de Créatures *items*
 * Sorts *items*
 * Thèmes *items*
 * Véhicules *acteurs*
@@ -40,8 +40,8 @@ Pour toute suggestion ou demande de correction de coquille dans la traduction, m
 https://discord.gg/pPSDNJk
   
 ## Compatibility
-Foundry : 0.6.0+
-SFRPG : v0.9.0
+Foundry : 0.7.0+
+SFRPG : v0.11.4
 Babele : 1.9+
 
 ## Feedback
