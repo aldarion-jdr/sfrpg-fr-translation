@@ -1,5 +1,5 @@
 {
-	"label": "Conditions",
+	"label": "Etats",
 	"mapping": {
 		"name": "name",
 		"description": "data.description.value",
