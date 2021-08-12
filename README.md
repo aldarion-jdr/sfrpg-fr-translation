@@ -24,9 +24,9 @@ Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés d
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
 * Cadre *journaux*
 * Classes *items*
-* Etats *items*
 * Dons *items*
 * Equipement *items*
+* Etats *items*
 * Races *items*
 * Règles Universelles de Créatures *items*
 * Sorts *items*
