@@ -28,6 +28,7 @@ Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés d
 * Equipement *items*
 * Etats *items*
 * Races *items*
+* Règles *articles de journal*
 * Règles Universelles de Créatures *items*
 * Sorts *items*
 * Thèmes *items*
