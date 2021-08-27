@@ -1,0 +1,679 @@
+{
+	"label": "Classes - Aptitudes",
+	"mapping": {
+		"frName": "name",
+		"frDescription": "data.description.value",
+		"frSource": "data.source",
+		"activType": "data.activation.type",
+		"activCost": "data.activation.cost",
+		"frRequirements": "data.requirements"
+	},
+	"entries": {
+		"Additional Skill Expertise (Ex)": {
+			"frName": "Maîtrise de compétence supplémentaire (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Alien Archive (Ex)": {
+			"frName": "Xéno-archives (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Votre grande exp&eacute;rience vous permet d&rsquo;identifier plus facilement les nouvelles cr&eacute;atures. Doublez vos bonus d&rsquo;avantage de l&rsquo;agent pour vos tests de comp&eacute;tence quand vous tentez d&rsquo;identifier une cr&eacute;ature et ses pouvoirs. Si vous r&eacute;ussissez &agrave; identifier une cr&eacute;ature, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;alt&eacute;ration de +2 &agrave; votre test de comp&eacute;tence quand vous effectuez une @Compendium[sfrpg.class-features.MBNI94tbMoqizPUk]{feinte offensive} contre elle.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Altered Bearing (Ex; Disguise)": {
+			"frName": "Changement d’allure (Ext ; Déguisement)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Analyst (Ex; Sense Motive)": {
+			"frName": "Analyste (Ext ; Psychologie)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Bleeding Shot (Ex)": {
+			"frName": "Attaque sanglante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez infliger &agrave; la cible un nombre de d&eacute;g&acirc;ts @Compendium[sfrpg.conditions.v9RNVTqyTyaPchvd]{h&eacute;morragiques} &eacute;gal &agrave; votre niveau d&rsquo;agent.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Cautious Expertise (Ex; see below)": {
+			"frName": "Expertise méticuleuse (Ext ; voir ci-dessous)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Certainty (Ex)": {
+			"frName": "Certitude (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>En r&eacute;action, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour relancer un test d&rsquo;une comp&eacute;tence associ&eacute;e &agrave; votre sp&eacute;cialisation (voir page 243).</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Clever Attack (Ex)": {
+			"frName": "Attaque habile (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Clever Feint (Ex)": {
+			"frName": "Feinte habile (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Clever Improvisations (Ex)": {
+			"frName": "Improvisations habiles (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "6ème niveau"
+		},
+		"Cloaking Field (Ex)": {
+			"frName": "Champ de camouflage (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez manipuler la lumi&egrave;re autour de vous et &eacute;touffer les faibles bruits que vous pouvez &eacute;mettre, ce qui vous permet, quand vous &ecirc;tes immobile, de dispara&icirc;tre presque compl&egrave;tement. M&ecirc;me quand vous vous d&eacute;placez, vous n&rsquo;&ecirc;tes qu&rsquo;une silhouette aux contours flous. Ce champ de camouflage ne vous rend pas invisible mais il vous permet de vous faufiler plus discr&egrave;tement. Activer ce pouvoir est une action de mouvement. Tant que le champ est actif, vous pouvez utiliser Discr&eacute;tion pour vous cacher m&ecirc;me si vous &ecirc;tes directement observ&eacute; et que vous n&rsquo;avez aucun endroit o&ugrave; vous dissimuler. Attaquer ne met pas un terme &agrave; ce pouvoir mais interrompt juste cette tentative pr&eacute;cise. Si vous demeurez totalement immobile pendant 1 round, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +10 &agrave; vos tests de Discr&eacute;tion (ce n&rsquo;est pas cumulatif avec <em>invisibilit&eacute;</em>) jusqu&rsquo;&agrave; ce que vous vous d&eacute;placiez.</p> <p>Le champ est actif pendant un maximum de 10 rounds. Tant qu&rsquo;il est inactif, il se recharge automatiquement au rythme de 1 round de camouflage en 1 minute.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Combat Trick (Ex)": {
+			"frName": "Botte secrète (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous gagnez un don de combat bonus. Vous devez respecter tous les pr&eacute;requis de ce don.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Convincing Liar (Ex; Bluff)": {
+			"frName": "Menteur persuasif (Ext ; Bluff)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Cultural Savant (Ex; Culture)": {
+			"frName": "Mémoire culturelle (Ex ; Culture)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Cunning Disguise (Ex; Disguise)": {
+			"frName": "Déguisement ingénieux (Ext ; Déguisement)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Daredevil": {
+			"frName": "Casse-cou",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Vous &ecirc;tes sp&eacute;cialis&eacute; dans les missions n&eacute;cessitant du courage et des comp&eacute;tences athl&eacute;tiques.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Acrobaties et Athl&eacute;tisme. Vous pouvez tenter un test d&rsquo;Acrobaties pour effectuer une feinte offensive.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.qfdLaLl6DqIG0oyC]{D&eacute;placement polyvalent}.</li> <li><strong>Avantage du terrain (Ext) :</strong> Au niveau 11, quand votre adversaire et vous-m&ecirc;me &ecirc;tes en &eacute;quilibre, en train de nager, de voler ou d&rsquo;escalader, vous r&eacute;ussissez automatiquement tous les tests de Bluff n&eacute;cessaires pour effectuer une feinte offensive contre cet adversaire.</li> </ul>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Deactivating Shot": {
+			"frName": "Attaque de désactivation (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez tenter de temporairement d&eacute;sactiver une arme, une partie d&rsquo;un appareil, une am&eacute;lioration d&rsquo;armure ou un objet magique utilis&eacute; par une cible ou en sa possession. Lancez 1d20 + votre niveau d&rsquo;agent ; le DD est &eacute;gal &agrave; 10 + le niveau de l&rsquo;objet. Si vous r&eacute;ussissez, vous d&eacute;sactivez l&rsquo;objet (ou vous suspendez ses propri&eacute;t&eacute;s magiques) jusqu&rsquo;au d&eacute;but de votre prochain tour. Le propri&eacute;taire de l&rsquo;&eacute;quipement peut utiliser une action de mouvement et tenter un test d&rsquo;Ing&eacute;nierie (pour des appareils technologiques) ou de Mysticisme (pour des objets magiques) contre le DD de votre exploit d&rsquo;agent pour essayer de le r&eacute;activer.</p> <p>Vous pouvez aussi utiliser s&eacute;quelle handicapante pour d&eacute;sactiver temporairement une cr&eacute;ature artificielle qui a soit le sous-type magique (comme un golem), soit technologique (comme un robot). Vous n&rsquo;avez pas besoin d&rsquo;effectuer un test mais la cr&eacute;ature peut tenter un jet de Vigueur pour ignorer l&rsquo;effet @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{handicapant}. Si elle &eacute;choue, elle est sonn&eacute;e jusqu&rsquo;au d&eacute;but de votre prochain tour. Une fois que vous avez utilis&eacute; ce pouvoir pour tenter de d&eacute;sactiver une cr&eacute;ature artificielle, cette derni&egrave;re est immunis&eacute;e contre vos attaques de d&eacute;sactivation pendant 24 heures.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Debilitating Sniper (Ex)": {
+			"frName": "Tir de précision incapacitant (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez utiliser @Compendium[sfrpg.class-features.MBNI94tbMoqizPUk]{feinte offensive} avec des armes de pr&eacute;cision. Vous n&rsquo;ajoutez pas les d&eacute;g&acirc;ts de la @Compendium[sfrpg.class-features.MBNI94tbMoqizPUk]{feinte offensive} &agrave; votre attaque mais la cible est prise au d&eacute;pourvu et vous pouvez utiliser @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Debilitating Trick (Ex)": {
+			"frName": "Séquelle handicapante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous touchez un ennemi avec une feinte offensive, vous choisissez si la cr&eacute;ature est @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{prise au d&eacute;pourvu} ou impr&eacute;cise jusqu&rsquo;au d&eacute;but de votre prochain tour. Vous pouvez apprendre des exploits qui vous accordent d&rsquo;autres options pour s&eacute;quelle handicapante mais vous ne pouvez choisir qu&rsquo;une seule option &agrave; chaque fois que vous touchez avec feinte offensive.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "4ème niveau"
+		},
+		"Desperate Defense (Ex)": {
+			"frName": "Défense désespérée (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "8ème niveau"
+		},
+		"Detective": {
+			"frName": "Détective",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Votre talent pour cerner les gens et pour faire des d&eacute;ductions vous aide &agrave; conna&icirc;tre la v&eacute;rit&eacute; dans n&rsquo;importe quelle situation.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Culture et Psychologie. Vous pouvez tenter un test de Psychologie avec un bonus de +4 pour effectuer une feinte offensive en interpr&eacute;tant le comportement de votre adversaire.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.ISaVcxApeHWdY767]{Esquisse de v&eacute;rit&eacute; (Ext)}.</li> <li><strong>Sagacit&eacute; du d&eacute;tective (Ext) :</strong> Au niveau 11, votre incroyable perspicacit&eacute; vous aide &agrave; faire progresser vos enqu&ecirc;tes quand les investigations plus classiques &eacute;chouent. Une fois par jour, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour r&eacute;fl&eacute;chir &agrave; un myst&egrave;re, ou &agrave; un dilemme, pendant 10 minutes pour b&eacute;n&eacute;ficier d&rsquo;une r&eacute;v&eacute;lation comme si vous aviez lanc&eacute; un sort de <em>divination</em> (bien que cette r&eacute;v&eacute;lation soit souvent assez &eacute;nigmatique).</li> </ul>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Dispiriting Taunt (Ex)": {
+			"frName": "Raillerie déprimante (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Don't Quit (Ex)": {
+			"frName": "N’abandonne pas (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Double Debilitation (Ex)": {
+			"frName": "Double handicap (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous touchez un ennemi avec une feinte offensive, il subit deux des effets de séquelle handicapante.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "17ème niveau"
+		},
+		"Draw Fire (Ex) (Envoy)": {
+			"frName": "Sous le feu (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "6ème niveau"
+		},
+		"Duck Under (Ex)": {
+			"frName": "Franchir la garde (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Efficient Cloaking Field (Ex)": {
+			"frName": "Champ de camouflage optimisé (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Votre @Compendium[sfrpg.class-features.WkZqCJUS19WvgeHA]{champ de camouflage} est actif pendant 100 rounds (10 minutes) et, quand il est inactif, il se recharge au rythme de 2 rounds de camouflage par minute. En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour le recharger de 20 rounds imm&eacute;diatement et vous pouvez le faire m&ecirc;me quand le champ est actif. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.WkZqCJUS19WvgeHA]{champ de camouflage} pour pouvoir apprendre celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "14ème niveau"
+		},
+		"Elusive Hacker (Ex)": {
+			"frName": "Hacker insaisissable (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vos comp&eacute;tences de piratage font que votre code de programmation est incroyablement difficile &agrave; isoler par les syst&egrave;mes de contre-mesure. En piratant un syst&egrave;me, &agrave; chaque fois que vous devriez d&eacute;clencher une de ses contre-mesures, il y a 50 % de chances pour que vous &eacute;chappiez au syst&egrave;me d&eacute;fensif et qu&rsquo;il ne soit pas activ&eacute;. La contre-mesure n&rsquo;est cependant pas d&eacute;sactiv&eacute;e et elle peut de nouveau se d&eacute;clencher ult&eacute;rieurement.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Engineering Adept (Ex; Engineering)": {
+			"frName": "Expert en Ingénierie (Ext ; Ingénierie)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Enhanced Quick Movement (Ex)": {
+			"frName": "Déplacement rapide amélioré (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous vous d&eacute;placez encore plus rapidement que les autres agents. Vous doublez les avantages de votre pouvoir de d&eacute;placement rapide jusqu&rsquo;&agrave; une augmentation suppl&eacute;mentaire maximale de + 6 m&egrave;tres. Vous devez avoir mouvement rapide pour apprendre cet exploit.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Enhanced Senses (Ex)": {
+			"frName": "Sens améliorés (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez percevoir votre environnement sans avoir besoin de le voir. Vous b&eacute;n&eacute;ficiez de perception aveugle sur 18 m&egrave;tres. Pour apprendre cet exploit, vous devez avoir vision dans le noir et vision nocturne ou l&rsquo;exploit vision de nuit.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Envoy Improvisation": {
+			"frName": "Improvisation de l’émissaire",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>En gagnant de l&rsquo;exp&eacute;rience, vous apprenez des improvisations de l&rsquo;&eacute;missaire, des petites astuces qui, par la ruse, l&rsquo;inspiration ou la chance, stimulent vos alli&eacute;s, d&eacute;concertent vos adversaires ou modifient le d&eacute;roulement d&rsquo;un combat. Vous apprenez votre premi&egrave;re improvisation au niveau 1 et vous en obtenez une de plus au niveau 2 et tous les 2 niveaux suivants. La liste des improvisations est indiqu&eacute;e page 70.</p> <p>Si une improvisation vous permet d&rsquo;accorder un effet &agrave; un alli&eacute;, vous ne pouvez en b&eacute;n&eacute;ficier vous-m&ecirc;me &agrave; moins que l&rsquo;improvisation n&rsquo;indique le contraire. Si une improvisation autorise un jet de sauvegarde pour r&eacute;sister &agrave; ses effets ou n&eacute;cessite que l&rsquo;adversaire effectue un test de comp&eacute;tence, le DD est &eacute;gal &agrave; 10 + la moiti&eacute; du niveau de l&rsquo;&eacute;missaire + votre modificateur de Charisme.</p> <p>Certaines improvisations de l&rsquo;&eacute;missaire sont @Compendium[sfrpg.rules.PqV3OCbUTyk2upPD]{d&eacute;pendantes du langage}, des @Compendium[sfrpg.rules.PqV3OCbUTyk2upPD]{sens}, @Compendium[sfrpg.rules.PqV3OCbUTyk2upPD]{affectent l&rsquo;esprit} ou sont une combinaison de ces trois facteurs. Ceci est d&eacute;fini page 269.</p> <p><sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"25\" height=\"25\" />&nbsp;</sub>Improvisation d&eacute;pendante du langage</p> <p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"25\" height=\"25\" /></sub> Improvisation affectant l&rsquo;esprit</p> <p><sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"25\" height=\"25\" /></sub> Improvisation d&eacute;pendante des sens</p> <h2>Improvisations</h2> <ul> <li>@Compendium[sfrpg.class-features.HOrXDdOzJp6PBMt9]{Concentrez-vous (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.DnxRPchqE3GzivCf]{Expression universelle (Ext)}</li> <li>@Compendium[sfrpg.class-features.YMCpBDLSA6feLBen]{Feinte habile (Ext)}&nbsp;<sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.bP820PAOJUQ1dcLP]{Finissons-en (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.33CfLYJdpez5zw0P]{Harmonisation &eacute;tendue (Ext)}</li> <li>@Compendium[sfrpg.class-features.YPMVnilamc13U679]{Pas le visage (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.g9lqwwFDk0LSePnz]{Prudence (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.spGhGxCjrJUQP9v8]{Raillerie d&eacute;primante (Ext)}&nbsp;<sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub>&nbsp;<sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.4i1U9YQgb2tgN748]{Stimulation inspirante (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.tGuyrrTGMRiCzTNx]{N&rsquo;abandonne pas (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul> <p>&nbsp;</p> <ul> <li>@Compendium[sfrpg.class-features.30HDurfreWNKFwVf]{Phalanx Fighting (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.z04FooJgOQlWOeF9]{Sow Discontent (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.A5FSctrFqNO3opB9]{Spell Gem Understanding (Su)}</li> <li>@Compendium[sfrpg.class-features.1hJ2e9WFt0UFYbd1]{Superior Covering Fire (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul> <h2>Niveau 4</h2> <ul> <li>@Compendium[sfrpg.class-features.atS6oD5VjJKjstMU]{&Agrave; terre (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.tL68g6bfFLpA9JMF]{Attaque habile (Ext)}</li> <li>@Compendium[sfrpg.class-features.C67aAPs0OwEppnWF]{Focalisation (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.8BIBiw83araPNtx8]{Franchir la garde (Ext)}</li> <li>@Compendium[sfrpg.class-features.GVqy1BqtYojohT9x]{H&acirc;te (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.pscgY25aoWbLRvmM]{Improvisation longue port&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.l04AlDeVKUoMjPSQ]{Rapide raillerie d&eacute;primante (Ext)}</li> <li>@Compendium[sfrpg.class-features.d78wlEO6jQKEDpOd]{Rapide stimulation inspirante (Ext)}</li> </ul> <h2>4th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.A3wKXuGTTwdL1WuY]{False Flanking (Ex)}</li> <li>@Compendium[sfrpg.class-features.RHtYxBT3akQnEHo5]{Martyr&rsquo;s Improvisation (Ex)}</li> <li>@Compendium[sfrpg.class-features.CyhANnSvaEl5whGW]{Sudden Shift (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul> <h2>Niveau 6</h2> <ul> <li>@Compendium[sfrpg.class-features.JJkrDKji5glIcHCN]{Attention (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.4Yu1Bg6fgzedcEda]{Finissons-en am&eacute;lior&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.4pbO2QvvJnOKdFWj]{Improvisations habiles (Ext)}</li> <li>@Compendium[sfrpg.class-features.cDTGl7g2ZvJfrccz]{Sous le feu (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul> <h2>6th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.FoajpcjZHcJzMrOw]{Coordinated Barrage (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.HDObzHpv3g7JQM5t]{Coordinated Flankers (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.HjRQBxyqDxCIotGl]{Inspiring Oration (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul> <h2>Niveau 8</h2> <ul> <li>@Compendium[sfrpg.class-features.VQJ68qx5UIbzz8oK]{Adaptation conjoncturelle (Ext)}</li> <li>@Compendium[sfrpg.class-features.TiZk92hHuM9XNWTZ]{Attaque ma&icirc;tris&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.vx89ejxyd6TrQAJA]{D&eacute;fense d&eacute;sesp&eacute;r&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.4BWw2UOsjJBTlsNp]{H&acirc;te am&eacute;lior&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.TQ2bp29Gdbvhru6r]{D&eacute;termination in&eacute;branlable (Ext)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.zYajE8DDFbnd2WqV]{Intention cach&eacute;e (Ext)}</li> </ul> <h2>8th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.z5PCrshtIyimPuHm]{Coordinated Maneuvers (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.TumaOjCjpNEtbvCD]{Scapegoat (Ex)}<sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> <li>@Compendium[sfrpg.class-features.nwrC46hJkt6Moidb]{Seize the Advantage (Ex)} <sub><img src=\"systems/sfrpg/images/cup/gameplay/language.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/mind.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> <sub><img src=\"systems/sfrpg/images/cup/gameplay/sense.png\" alt=\"\" width=\"20\" height=\"20\" /></sub></li> </ul>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Evasion (Ex) (Operative)": {
+			"frName": "Esquive totale (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p> <p>Si vous r&eacute;ussissez un jet de R&eacute;flexes contre un effet qui, normalement, ne serait que partiel &agrave; cause d&rsquo;une sauvegarde r&eacute;ussie, vous &eacute;chappez totalement &agrave; cet effet. Vous b&eacute;n&eacute;ficiez de cet avantage uniquement lorsque vous n&rsquo;&ecirc;tes pas encombr&eacute; et que vous ne portez aucune armure ou une armure l&eacute;g&egrave;re. Vous perdez cet avantage quand vous &ecirc;tes sans d&eacute;fense ou incapable de bouger.</p>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Ever Vigilant (Ex)": {
+			"frName": "Vigilance constante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous avez effectu&eacute; suffisamment de missions en solitaire pour savoir que vous ne devez jamais baisser votre garde m&ecirc;me quand vous dormez. Vous ne subissez aucun malus aux tests de Perception quand vous &ecirc;tes endormi bien que vous ne puissiez cependant pas avoir recours &agrave; la vue. Vous pouvez toujours agir au cours du round de surprise mais si vous le faites alors que vous auriez normalement &eacute;t&eacute; surpris, vous utilisez le r&eacute;sultat le plus faible entre votre initiative ou celle de la premi&egrave;re cr&eacute;ature qui vous aurait surpris &ndash; 1.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Expanded Attunement (Ex)": {
+			"frName": "Harmonisation étendue (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Expert Attack (Ex)": {
+			"frName": "Attaque maîtrisée (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "8ème niveau"
+		},
+		"Expert Forger (Ex; Computers)": {
+			"frName": "Expert en contrefaçons (Ext ; Informatique)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Expertise (Ex)": {
+			"frName": "Maîtrise (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>Vous &ecirc;tes un expert pour surmonter les &eacute;v&eacute;nements qui mettent &agrave; l&rsquo;&eacute;preuve vos comp&eacute;tences, que ces &eacute;preuves soient d&rsquo;ordre social ou pas. Au niveau 1, quand vous tentez un test de Psychologie, vous pouvez lancer 1d6 (votre d&eacute; de ma&icirc;trise) et ajouter le chiffre obtenu au r&eacute;sultat de votre test en tant que bonus d&rsquo;intuition. Vous pouvez utiliser cette aptitude et toutes autres capacit&eacute;s de ma&icirc;trise tant que vous avez encore au moins 1 point de pers&eacute;v&eacute;rance. Au niveau 5, &agrave; chaque fois que vous utilisez votre d&eacute; de ma&icirc;trise, vous obtenez un bonus de +1 au r&eacute;sultat.</p> <p>Aux niveaux 9, 17 et 20, ce bonus augmente de 1. Au niveau 13, vous lancez 1d8 pour votre d&eacute; de ma&icirc;trise au lieu d&rsquo;1d6. &Agrave; partir du niveau 9, vous ma&icirc;trisez encore mieux les comp&eacute;tences pour lesquelles vous pouvez utiliser votre d&eacute; de ma&icirc;trise et pour lesquelles vous avez s&eacute;lectionn&eacute; le don Talent. Pour chacune de ces comp&eacute;tences, une fois par jour quand vous lancez votre d&eacute; de ma&icirc;trise, vous pouvez le lancer deux fois et choisir le meilleur r&eacute;sultat.</p>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Expertise Talent": {
+			"frName": "Savoir-faire maîtrisé",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>Vous gagnez un savoir-faire au niveau 3 puis tous les quatre niveaux suivants. &Agrave; l&rsquo;exception de ma&icirc;trises de comp&eacute;tences suppl&eacute;- mentaires, ces savoir-faire n&eacute;cessitent que vous ayez la ma&icirc;trise de comp&eacute;tence associ&eacute;e &agrave; celle qu&rsquo;ils affectent, comme cela est indiqu&eacute; entre parenth&egrave;ses apr&egrave;s leur nom.</p> <h2>Savoir-faire ma&icirc;tris&eacute;s</h2> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"DGZB1xqmmR0GOcJN\"> Additional Skill Expertise (Ex)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"tZr2H468rKN8zDg3\"> Altered Bearing (Ex; Disguise)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"fmT9gOQhFwMwk1K1\"> Analyst (Ex; Sense Motive)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"pmia9rZKrX6Gs5dA\"> Cautious Expertise (Ex; see below)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"7oAN67N73slk45WW\"> Convincing Liar (Ex; Bluff)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"EmBTeKQTcbWNkWXY\"> Cultural Savant (Ex; Culture)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"2jHpPQZsGfNyn7uX\"> Cunning Disguise (Ex; Disguise)</a></p> <p>@Compendium[sfrpg.class-features.ap1WeVUtXKtSH9Xt]{Effortless Innuendo (Ex; Bluff)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"Ec0AiVESVgtWCUbL\"> Engineering Adept (Ex; Engineering)</a></p> <p>@Compendium[sfrpg.class-features.im7htoCz9yJhexj3]{Expert Distraction (Ex; Bluff)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"ag5efuDpZBBsgbOz\"> Expert Forger (Ex; Computers)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"XwYm3pQg1V53Q1wJ\"> Fast Hack (Ex; Computers)</a></p> <p>@Compendium[sfrpg.class-features.8fURuuBmBKCMphQp]{Gregarious Mien (Ex; Diplomacy)}</p> <p>@Compendium[sfrpg.class-features.JwHTRdVO2uOVKID6]{Improvise Surgery (Ex; Medicine)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"492iiQG0ndLRp8Bq\"> Inspired Medic (Ex; Medicine)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"UXeVNfhnnkWSRd3M\"> Keen Observer (Ex; Sense Motive)</a></p> <p>@Compendium[sfrpg.class-features.baAR5ECreywAFOnt]{Maneuver Expertise (Ex; Combat Expertise)}</p> <p>@Compendium[sfrpg.class-features.eRkaT4sePHSJoG2O]{Master of Disguise (Ex; Disguise)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"sjFFaSqEqY6ZzUhP\"> Menacing Gaze (Ex; Intimidate)</a></p> <p>@Compendium[sfrpg.class-features.f5PNjLPsmVwQC3YJ]{Miracle Worker (Ex; Medicine)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"txTltWe7FjKBFYXd\"> Rattling Presence (Ex; Intimidate)</a></p> <p>@Compendium[sfrpg.class-features.C7bBiPO5wWMzth8W]{Saving Expertise (Ex; Special)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"P4Jq2Yfcub9ymNFc\"> Skilled Linguist (Ex; Culture)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"BdpINItLBysoK0D9\"> Slick Customer (Ex; Diplomacy)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"E2fUqI6LAzVaGBBJ\"> Student of Technology (Ex; Engineering)</a></p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"Qw5SyAvI1cjflB4r\"> Surgeon (Ex; Medicine)</a></p> <p>@Compendium[sfrpg.class-features.JT12TIfVAk73Ryzx]{Universal Diplomat (Ex; Diplomacy)}</p> <p><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"nZylmmJHSgVnbrRZ\"> Well Informed (Ex; Diplomacy)</a></p>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Explorer": {
+			"frName": "Explorateur",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Gr&acirc;ce &agrave; vos connaissances et vos comp&eacute;tences de survie, vous &ecirc;tes sp&eacute;cialis&eacute; dans l&rsquo;exploration des sites dangereux.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Culture et Survie. Vous pouvez tenter un test de Survie avec un bonus de +4 pour effectuer une feinte offensive en utilisant votre environnement &agrave; votre avantage.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.tJrt3OsZ3UVPvFEi]{Vigilance constante (Ext)}.</li> <li><strong>Au c&oelig;ur de l&rsquo;inconnu (Ext) :</strong> au niveau 11, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; vos tests de Culture et de Survie. Tant que vous &ecirc;tes &agrave; la fois hors de votre syst&egrave;me stellaire d&rsquo;origine et des Mondes du Pacte (si ce ne sont pas les m&ecirc;mes), vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 &agrave; vos tests d&rsquo;initiative. &Agrave; la discr&eacute;tion du MJ, au cours de parties centr&eacute;es sur un syst&egrave;me stellaire autre que celui des Mondes du Pacte, remplacez les Mondes du Pacte par ce syst&egrave;me stellaire.</li> </ul>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Fast Hack (Ex; Computers)": {
+			"frName": "Piratage accéléré (Ext ; Informatique)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Field Treatment (Ex)": {
+			"frName": "Traitement de terrain (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez passer 1 minute &agrave; vous occuper de vos blessures et d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour r&eacute;cup&eacute;rer un nombre de points de vie &eacute;gal &agrave; trois fois votre niveau d&rsquo;agent.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Focus (Ex)": {
+			"frName": "Focalisation (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Get 'Em (Ex)": {
+			"frName": "Finissons-en (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Ghost": {
+			"frName": "Fantôme",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Vous pouvez aller d&rsquo;un endroit &agrave; un autre sans &ecirc;tre remarqu&eacute;.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Acrobaties et Discr&eacute;tion. Quand vous utilisez Discr&eacute;tion pour effectuer une feinte offensive, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 au test de comp&eacute;tence.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.WkZqCJUS19WvgeHA]{Champ de camouflage (Ext)}.</li> <li><strong>D&eacute;phasage corporel (Ext) :</strong> au niveau 11, vous pouvez traverser la mati&egrave;re solide en d&eacute;phasant votre corps pendant un bref moment. En tant qu&rsquo;action complexe, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour traverser un maximum d&rsquo;1,50 m de mati&egrave;re solide. Si vous tentez de franchir une mati&egrave;re trop &eacute;paisse, vous d&eacute;pensez le point de pers&eacute;v&eacute;rance et effectuez l&rsquo;action mais votre tentative &eacute;choue. Vous ne pouvez franchir des effets de force comme un champ de force ou une barri&egrave;re engendr&eacute;e par le sort de <em>@Compendium[sfrpg.spells.dVM22xx7CiYWY8XX]{mur de force}</em>. Apr&egrave;s avoir utilis&eacute; ce pouvoir, vous ne pouvez y avoir de nouveau recours avant de vous &ecirc;tre repos&eacute; pendant 8 heures.</li> </ul>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Glimpse the Truth (Ex)": {
+			"frName": "Esquisse de vérité (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>En notant des indices subtils et des traces cach&eacute;es dans votre environnement imm&eacute;diat, vous pouvez voir les choses comme elles sont r&eacute;ellement. En tant qu&rsquo;action complexe, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour b&eacute;n&eacute;ficier des effets de&nbsp;<em>@Compendium[sfrpg.spells.VvCP8MdSZtXREp2x]{vision lucide}</em> pendant 1 round sur une port&eacute;e de 18 m&egrave;tres.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Hacker": {
+			"frName": "Hacker",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Que ce soit un syst&egrave;me informatique ou un appareil &eacute;lectronique ou m&eacute;canique, vous pouvez le pirater.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Informatique et Ing&eacute;nierie. Vous pouvez tenter un test d&rsquo;Informatique avec un bonus de +4 pour effectuer une feinte offensive en cr&eacute;ant une diversion informatis&eacute;e (vous ne pouvez utiliser cette option si vous ne poss&eacute;dez aucun &eacute;quipement informatique dans une zone sans ordinateur).</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.ROKksmxjvBSC1bEH]{Hacker insaisissable (Ext)}.</li> <li><strong>Piratage contr&ocirc;l&eacute; (Ext) :</strong> au Niveau 11, quand vous d&eacute;passez d&rsquo;au moins 5 points le DD d&rsquo;un test d&rsquo;Informatique ou d&rsquo;Ing&eacute;nierie pour d&eacute;sactiver un appareil ou un syst&egrave;me informatique, &agrave; la place vous pouvez en prendre le contr&ocirc;le. Tous les 5 points au-dessus du DD, typiquement l&rsquo;appareil ou le syst&egrave;me effectuera une t&acirc;che de votre choix, &agrave; la discr&eacute;tion du MJ. Une fois que l&rsquo;appareil a effectu&eacute; ce que vous lui avez demand&eacute;, vous d&eacute;cidez s&rsquo;il est d&eacute;sactiv&eacute; ou s&rsquo;il fonctionne de nouveau normalement.</li> </ul>",
+			"frSource": "RDB p.63 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Hampering Shot (Ex)": {
+			"frName": "Attaque gênante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez r&eacute;duire la vitesse de votre cible de moiti&eacute; et l&rsquo;emp&ecirc;cher d&rsquo;utiliser l&rsquo;action d&eacute;placement prudent jusqu&rsquo;au d&eacute;but de votre prochain tour.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Heads Up (Ex)": {
+			"frName": "Attention (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "6ème niveau"
+		},
+		"Hidden Agenda (Ex)": {
+			"frName": "Intention cachée (Ext)",
+			"frDescription": "",
+			"frSource": "None",
+			"frRequirements": "8ème niveau"
+		},
+		"Holographic Clone (Ex)": {
+			"frName": "Clone holographique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez cr&eacute;er des r&eacute;pliques holographiques ou des projections psychiques de vous-m&ecirc;me qui masquent l&rsquo;endroit o&ugrave; vous vous trouvez vraiment. Une fois par jour, en tant qu&rsquo;action simple, vous pouvez g&eacute;n&eacute;rer 1d4 images de vous-m&ecirc;me qui durent pendant un nombre de minutes &eacute;gal &agrave; votre niveau d&rsquo;agent. Ce pouvoirfonctionne comme le sort <em>@Compendium[sfrpg.spells.qpyB7SxHlTBx0H6a]{image miroir}</em>. Au niveau 6, vous pouvez utiliser ce pouvoir une fois de plus chaque jour et jusqu&rsquo;&agrave; trois fois par jour au niveau 10.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Holographic Distraction (Ex)": {
+			"frName": "Diversion holographique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour cr&eacute;er une r&eacute;plique holographique ou une projection psychique de vous-m&ecirc;me. Elle s&rsquo;&eacute;loigne de vous pendant un nombre de rounds &eacute;gal &agrave; votre niveau d&rsquo;agent. Ce double escalade les murs, saute par-dessus des fosses ou passe simplement &agrave; travers les obstacles en se d&eacute;pla&ccedil;ant &agrave; deux fois votre vitesse dans une seule direction que vous indiquez quand vous activez ce pouvoir. Sa trajectoire ne peut &ecirc;tre modifi&eacute;e. Ceux qui interagissent avec le double peuvent tenter un jet de Volont&eacute; pour comprendre qu&rsquo;il n&rsquo;est pas r&eacute;el. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.ejMFotFoC7gbTqvh]{clone holographique} pour apprendre celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Hurry (Ex)": {
+			"frName": "Hâte (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Improved Get 'Em (Ex)": {
+			"frName": "Finissons-en amélioré (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "6ème niveau"
+		},
+		"Improved Hurry (Ex)": {
+			"frName": "Hâte améliorée (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "8ème niveau"
+		},
+		"Improved Uncanny Mobility (Ex)": {
+			"frName": "Mobilité instinctive améliorée (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Quand vous utilisez l&rsquo;action @Compendium[sfrpg.class-features.MBNI94tbMoqizPUk]{feinte offensive} ou que vous effectuez une action simple pour vous d&eacute;placer &agrave; votre vitesse, votre d&eacute;placement ne provoque pas d&rsquo;attaques d&rsquo;opportunit&eacute;. Comme &agrave; la normale, vous provoquez toujours des attaques d&rsquo;opportunit&eacute; quand vous effectuez une attaque &agrave; distance ou que vous lancez des sorts. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.Suznr1WSCjd8lRMo]{mobilit&eacute; instinctive} pour apprendre celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Inoculation (Ex)": {
+			"frName": "Inoculation (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous &ecirc;tes entra&icirc;n&eacute; pour r&eacute;sister &agrave; diff&eacute;rentes armes chimiques et biologiques, &agrave; des toxines et &agrave; des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} auxquelles vous avez &eacute;t&eacute; confront&eacute; au cours de vos missions. Vous ajoutez votre bonus d&rsquo;avantage de l&rsquo;agent &agrave; vos jets de Vigueur contre le @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison} et les @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies}.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Inspired Medic (Ex; Medicine)": {
+			"frName": "Toubib inspiré (Ext ; Médecine)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Inspiring Boost (Ex)": {
+			"frName": "Stimulation inspirante (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Interfering Shot (Ex)": {
+			"frName": "Attaque perturbante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez emp&ecirc;cher votre cible d&rsquo;avoir recours &agrave; des actions de r&eacute;action (voir page 244) jusqu&rsquo;&agrave; la fin de votre prochain tour.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Jack of All Trades (Ex)": {
+			"frName": "Touche-à-tout (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous avez appris &agrave; vous en sortir dans n&rsquo;importe quelle situation. Vous pouvez utiliser toutes les comp&eacute;tences dans lesquelles vous n&rsquo;&ecirc;tes pas form&eacute; et vous doublez votre bonus d&rsquo;avantage de l&rsquo;agent quand vous utilisez une comp&eacute;tence dans laquelle vous n&rsquo;avez aucun rang.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Keen Observer (Ex; Sense Motive)": {
+			"frName": "Observateur attentif (Ext ; Psychologie)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Knockout Shot (Ex)": {
+			"frName": "Attaque assommante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez tenter d&rsquo;assommer votre cible en un seul coup. La cible doit r&eacute;ussir un jet de Vigueur ou &ecirc;tre inconsciente pendant 1 minute. Une fois que vous avez utilis&eacute; ce pouvoir pour assommer une cr&eacute;ature, elle est immunis&eacute;e contre vos attaques assommantes pendant 24 heures. Vous devez avoir les exploits @Compendium[sfrpg.class-features.o2GDNS1g87yquIMS]{attaque renversante}  et @Compendium[sfrpg.class-features.baRuU23mPo6lkVbn]{attaque &eacute;tourdissante} pour apprendre celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "14ème niveau"
+		},
+		"Long-Range Improvisation (Ex)": {
+			"frName": "Improvisation longue portée (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Look Alive (Ex)": {
+			"frName": "Concentrez-vous (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Master of Disguise (Ex) (Operative)": {
+			"frName": "Maître des déguisements (Ext) (Agent)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez prendre l&rsquo;apparence d&rsquo;autres cr&eacute;atures et m&ecirc;me d&rsquo;individus pr&eacute;cis. Cela fonctionne comme l&rsquo;exploit d&eacute;guisement rapide mais la dur&eacute;e est de 10 minutes par niveau d&rsquo;agent. Vous pouvez aussi, pendant 1 minute par niveau d&rsquo;agent, prendre l&rsquo;apparence d&rsquo;un individu pr&eacute;cis que vous avez d&eacute;j&agrave; vu. Si vous l&rsquo;avez entendu parler et que vous pouvez vous exprimer dans sa langue, vous pouvez aussi imiter sa voix. Ce d&eacute;guisement est tellement convaincant que les cr&eacute;atures qui connaissent cet individu doivent r&eacute;ussir un jet de Volont&eacute; avant de pouvoir tenter un test de Perception pour se rendre compte de la supercherie. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.Z3MPGoaXFFLHxv35]{d&eacute;guisement rapide} pour choisir celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Menacing Gaze (Ex; Intimidate)": {
+			"frName": "Regard menaçant (Ext ; Intimidation)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Mentalist's Bane": {
+			"frName": "Renfort mental (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Si vous ratez un jet de Volont&eacute; contre un effet mental ayant une dur&eacute;e d&rsquo;au moins 1 round, vous pouvez tenter un autre jet de sauvegarde contre cet effet avec le m&ecirc;me DD 1 round plus tard. Vous n&rsquo;avez qu&rsquo;une seule chance suppl&eacute;mentaire de r&eacute;sister &agrave; chaque effet.</p> <p>Si vous r&eacute;ussissez un jet de sauvegarde contre un effet de @Compendium[sfrpg.rules.PqV3OCbUTyk2upPD]{charme} ou de coercition, vous pouvez &eacute;viter que celui qui en est &agrave; l&rsquo;origine le sache. Vous savez &agrave; peu pr&egrave;s ce que cet effet mental vous aurez oblig&eacute; &agrave; faire ou &agrave; ressentir et vous pouvez tenter un test de Bluff pour faire semblant d&rsquo;en &ecirc;tre victime. Si l&rsquo;effet mental devait cr&eacute;er un lien entre vous et celui qui en est &agrave; l&rsquo;origine (comme avec le sort <em>@Compendium[sfrpg.spells.J14mFZezYHIGHVhO]{domination}</em>), vous pouvez autoriser la cr&eacute;ation du lien mais sans l&rsquo;effet de contr&ocirc;le.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Multiattack Mastery (Ex)": {
+			"frName": "Maîtrise des attaques multiples (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Quand vous utilisez @Compendium[sfrpg.class-features.YXdfeYmufD6OWP7J]{triple attaque (Ext)} ou @Compendium[sfrpg.class-features.scbcE4mjiHoNK7Wi]{quadruple attaque (Ext)} en portant tous vos coups contre la m&ecirc;me cible, une fois que vous avez termin&eacute; votre attaque &agrave; outrance, si au moins deux de vos coups ont touch&eacute;, vous pouvez affecter la cible avec une s&eacute;quelle handicapante.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "14ème niveau"
+		},
+		"Nightvision (Ex)": {
+			"frName": "Vision de nuit (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez voir dans le noir sur une distance de 18 m&egrave;tres, comme si vous aviez vision nocturne et vision dans le noir.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Not in the Face (Ex)": {
+			"frName": "Pas le visage (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Operative Exploit": {
+			"frName": "Exploit d’agent",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>En gagnant de l&rsquo;exp&eacute;rience, vous apprenez des techniques sp&eacute;ciales appel&eacute;es des exploits d&rsquo;agent. Vous obtenez le premier au niveau 2 et vous en apprenez un de plus, tous les 2 niveaux suivants. Si un exploit d&rsquo;agent autorise un jet de sauvegarde pour r&eacute;sister &agrave; ses effets, le DD est &eacute;gal &agrave; 10 + la moiti&eacute; de votre niveau d&rsquo;agent + votre modificateur de Dext&eacute;rit&eacute;. S&rsquo;il n&eacute;cessite qu&rsquo;un ennemi tente un test de comp&eacute;tence, le DD est &eacute;gal &agrave; 10 + 1,5 &times; votre niveau d&rsquo;agent + votre modificateur de Dext&eacute;rit&eacute;. La liste des exploits d&rsquo;agent se trouve page 63. Vous ne pouvez apprendre le m&ecirc;me exploit plus d&rsquo;une fois &agrave; moins que le contraire ne soit indiqu&eacute;.</p> <h2>Niveau 2</h2> <ul> <li>@Compendium[sfrpg.class-features.uZa83E9JvgkMLtzW]{Botte secr&egrave;te (Ext)}</li> <li>@Compendium[sfrpg.class-features.ejMFotFoC7gbTqvh]{Clone holographique (Ext)}</li> <li>@Compendium[sfrpg.class-features.Z3MPGoaXFFLHxv35]{D&eacute;guisement rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.FdhfWip1bVpjOHOp]{Inoculation (Ext)}</li> <li>@Compendium[sfrpg.class-features.Suznr1WSCjd8lRMo]{Mobilit&eacute; instinctive (Ext)}</li> <li>@Compendium[sfrpg.class-features.NaGCVIyrwQsH8bV5]{Pilote exceptionnel (Ext)}</li> <li>@Compendium[sfrpg.class-features.eseniVOUmdIC9kAe]{Touche-&agrave;-tout (Ext)}</li> <li>@Compendium[sfrpg.class-features.wlrYsn05dMaEpe5K]{Traitement de terrain (Ext)}</li> <li>@Compendium[sfrpg.class-features.P6aQ6Wpt5KOZEjIF]{Vision de nuit (Ext)}</li> <li>@Compendium[sfrpg.class-features.c84usvQez3sMyhmj]{X&eacute;no-archives (Ext)}</li> </ul> <h2>2nd Level</h2> <ul> <li><a draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"QJjE9tvp0YFNhjfg\">Armor Optimizer (Ex)</a></li> <li>@Compendium[sfrpg.class-features.N8E9qYb7SgeXN9XO]{Death Strike (Ex)}</li> <li>@Compendium[sfrpg.class-features.UrjjbL5MKr0HQFsJ]{Feign Death (Ex)}</li> <li>@Compendium[sfrpg.class-features.39NjCmzw2Tq62sVc]{Kick It Up (Ex)}</li> <li>@Compendium[sfrpg.class-features.HtyPUSKEX9s6GSYs]{Shuriken Assassin (Ex)}</li> <li>@Compendium[sfrpg.class-features.AOHkbIjjeez1xyd8]{Without a Trace (Ex)}</li> </ul> <h2>Niveau 6</h2> <ul> <li>@Compendium[sfrpg.class-features.s7Ky6ciGqZo76ufI]{Attaque g&ecirc;nante (Ext)}</li> <li>@Compendium[sfrpg.class-features.iXNufpth6OcQ3cxp]{Attaque perturbante (Ext)}</li> <li>@Compendium[sfrpg.class-features.o2GDNS1g87yquIMS]{Attaque renversante (Ext)}</li> <li>@Compendium[sfrpg.class-features.OAVc1W07QUCBNS94]{Attaque sanglante (Ext)}</li> <li>@Compendium[sfrpg.class-features.rKRXkuuYb1KXP8wG]{Certitude (Ext)}</li> <li>@Compendium[sfrpg.class-features.]{D&eacute;placement rapide am&eacute;lior&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.GQ1CfD6EuVcaj5vW]{Hacker rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.53vvS3ogfOHTmtEz]{Pied s&ucirc;r (Ext)}</li> <li>@Compendium[sfrpg.class-features.76pPNAgYq34lJGJz]{Renfort mental (Ext)}</li> <li>@Compendium[sfrpg.class-features.zHvk8K9j9J16Pq7d]{Sens am&eacute;lior&eacute;s (Ext)}</li> <li>@Compendium[sfrpg.class-features.KHg9HjJVua1BA6ti]{Tir de pr&eacute;cision incapacitant (Ext)}</li> <li>@Compendium[sfrpg.class-features.rKdRBoMFfRWWPU4B]{Tireur exceptionnel (Ext)}</li> <li>@Compendium[sfrpg.class-features.COMSo09Fc4dT1oy7]{Vaillant (Ext)}</li> </ul> <h2>6th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.pQyvikDN4ygzK3XW]{Disrupting Shot (Ex)}</li> <li>@Compendium[sfrpg.class-features.7jMP5sAgsJWIDV9F]{Soft Movement (Ex)}</li> </ul> <h2>Niveau 10</h2> <ul> <li>@Compendium[sfrpg.class-features.RWsWmKuo1dvfF3X5]{Attaque de d&eacute;sactivation (Sur)}</li> <li>@Compendium[sfrpg.class-features.baRuU23mPo6lkVbn]{Attaque &eacute;tourdissante (Ext)}</li> <li>@Compendium[sfrpg.class-features.WkZqCJUS19WvgeHA]{Champ de camouflage (Ext)}</li> <li>@Compendium[sfrpg.class-features.qfdLaLl6DqIG0oyC]{D&eacute;placement polyvalent (Ext)}</li> <li>@Compendium[sfrpg.class-features.YjDe1a16TvdF232b]{Diversion holographique (Ext)}</li> <li>@Compendium[sfrpg.class-features.ISaVcxApeHWdY767]{Esquisse de v&eacute;rit&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.SpG4uN6bOeAJcBhH]{Esquive surnaturelle (Ext) D}</li> <li>@Compendium[sfrpg.class-features.ROKksmxjvBSC1bEH]{Hacker insaisissable (Ext)}</li> <li>@Compendium[sfrpg.class-features.92c1eOFEI5CQy2y4]{Ma&icirc;tre des d&eacute;guisements (Ext)}</li> <li>@Compendium[sfrpg.class-features.a7OzSFRznAqvqyNC]{Mobilit&eacute; instinctive am&eacute;lior&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.tJrt3OsZ3UVPvFEi]{Vigilance constante (Ext)}</li> </ul> <h2>10th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.ZxQ5PHUhMXg7tzzc]{Intelligence Network (Ex)}</li> <li>@Compendium[sfrpg.class-features.uxOdzER7HJu4GEZz]{Psychokinetic Skills (Sp)}</li> <li>@Compendium[sfrpg.class-features.WIPXaqsgvZt9cLU9]{Spider Climber (Su)}</li> </ul> <h2>Niveau 14</h2> <ul> <li>@Compendium[sfrpg.class-features.DBLjsVe5tkMG7Qoo]{Attaque assommante (Ext)}</li> <li>@Compendium[sfrpg.class-features.FFhU2gNfYWtPm7oq]{Champ de camouflage optimis&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.C82WDji3fMQmvWH0]{Ma&icirc;trise des attaques multiples (Ext)}</li> <li>@Compendium[sfrpg.class-features.AHFqNCWYiq0xUjNM]{Sens surhumains (Ext)}</li> </ul> <h2>14th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.ItE5wzk3HJFz9xaF]{Audacity (Ex)}</li> <li>@Compendium[sfrpg.class-features.IbnGI8G3EtQ0FMtH]{Dual Specialization (Ex)}</li> <li>@Compendium[sfrpg.class-features.UPpUSE3BLhDOzr8Z]{Shadow Slide (Sp)}</li> </ul>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Operative's Edge (Ex)": {
+			"frName": "Avantage de l’agent (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p> <p>Vos divers entra&icirc;nements en tant qu&rsquo;agent vous octroient un bonus d&rsquo;intuition de +1 aux tests d&rsquo;initiative et aux tests de comp&eacute;tence. Ce bonus augmente de 1 au niveau 3 et tous les 4 niveaux suivants.</p>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Quad Attack (Ex)": {
+			"frName": "Quadruple attaque (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous effectuez une attaque &agrave; outrance en utilisant uniquement des armes de corps &agrave; corps ayant la propri&eacute;t&eacute; sp&eacute;ciale agent ou des armes l&eacute;g&egrave;res, vous pouvez effectuer jusqu&rsquo;&agrave; quatre attaques au lieu de deux.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "13ème niveau"
+		},
+		"Quick Disguise (Ex)": {
+			"frName": "Déguisement rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Une fois par jour, en tant qu&rsquo;action simple, vous pouvez rapidement modifier votre apparence. Cela fonctionne comme un sort de <em>@Compendium[sfrpg.spells.HGg3fIQGDzUwueVa]{d&eacute;guisement}</em> et dure pendant un nombre de minutes &eacute;gal &agrave; votre niveau d&rsquo;agent. Au niveau 6, vous pouvez utiliser ce pouvoir une fois de plus chaque jour et jusqu&rsquo;&agrave; trois fois par jour au niveau 10.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Quick Dispiriting Taunt (Ex)": {
+			"frName": "Rapide raillerie déprimante (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Quick Inspiring Boost (Ex)": {
+			"frName": "Rapide stimulation inspirante (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Quick Movement (Ex)": {
+			"frName": "Déplacement rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p> <p>Tant que vous n&rsquo;&ecirc;tes pas encombr&eacute; et que vous portez une armure l&eacute;g&egrave;re ou aucune armure, votre vitesse de mouvement est augment&eacute;e de 3 m&egrave;tres au niveau 3, de 6 m&egrave;tres au niveau 9 et de 9 m&egrave;tres au niveau 15.</p>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "3ème niveau"
+		},
+		"Rattling Presence (Ex; Intimidate)": {
+			"frName": "Présence intimidante (Ext ; Intimidation)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Situational Awareness (Ex)": {
+			"frName": "Adaptation conjoncturelle (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "8ème niveau"
+		},
+		"Skill Expertise (Ex)": {
+			"frName": "Maîtrise de compétence (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>Au 1er niveau puis tous les 4 niveaux suppl&eacute;mentaires, vous pouvez utiliser Ma&icirc;trise avec une comp&eacute;tence de classe suppl&eacute;mentaire. Vous devez avoir au moins un rang 1 dans la comp&eacute;tence pour la s&eacute;lectionner et elle doit faire partie de la liste suivante : Bluff (Cha), Informatique (Int), Culture (Int), Diplomatie (Cha), D&eacute;guisement (Cha), Ing&eacute;nierie (Int), Intimidation (Cha) et M&eacute;decine (Int).</p>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Skilled Linguist (Ex; Culture)": {
+			"frName": "Linguiste talentueux (Ext ; Culture)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Slick Customer (Ex; Diplomacy)": {
+			"frName": "Client habile (Ext ; Diplomatie)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Specialization": {
+			"frName": "Spécialisation",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Votre sp&eacute;cialisation repr&eacute;sente votre principal domaine de pr&eacute;dilection. D&egrave;s le niveau 1 de la classe d&rsquo;agent, choisissez une sp&eacute;cialisation. Une fois que vous avez fait votre choix, vous ne pouvez en changer. Les sp&eacute;cialisations sont d&eacute;crites page 62 <em>(ci-dessous)</em>. Votre sp&eacute;cialisation vous octroie le don de Talent (voir page 162) pour les comp&eacute;tences qui lui sont associ&eacute;es et vous gagnez un rang gratuit de comp&eacute;tence dans chacune de ces comp&eacute;tences &agrave; chaque niveau d&rsquo;agent (cela ne vous autorise pas &agrave; exc&eacute;der le nombre maximum de rangs dans une m&ecirc;me comp&eacute;tence).</p> <h2>Exploit de sp&eacute;cialisation - Niveau 5</h2> <p>Vous gagnez l&rsquo;exploit indiqu&eacute; pour votre sp&eacute;cialisation en tant qu&rsquo;exploit d&rsquo;agent bonus m&ecirc;me si vous n&rsquo;avez pas les pr&eacute;requis n&eacute;cessaires.</p> <h2>Ma&icirc;trise de sp&eacute;cialisation - Niveau 7</h2> <p>Vous &ecirc;tes tellement &agrave; l&rsquo;aise avec certaines comp&eacute;tences que vous pouvez les utiliser efficacement m&ecirc;me dans les pires conditions. Quand vous tentez un test avec une comp&eacute;tence pour laquelle vous b&eacute;n&eacute;ficiez du don de Talent, vous pouvez faire 10 m&ecirc;me si le stress et les distractions vous en emp&ecirc;cheraient normalement.</p> <h2>Pouvoir de sp&eacute;cialisation - Niveau 11th</h2> <p>Vous gagnez un pouvoir sp&eacute;cial en fonction de la sp&eacute;cialisation que vous avez choisie au niveau 1.</p> <h2>Sp&eacute;cialisations</h2> <ul> <li>@Compendium[sfrpg.class-features.3zkJILkaP6Ua3YWe]{Casse-cou}</li> <li>@Compendium[sfrpg.class-features.zKnRX8ZuVhyvC29H]{D&eacute;tective}</li> <li>@Compendium[sfrpg.class-features.M8fM2cZz8pTEN6wP]{Explorateur}</li> <li>@Compendium[sfrpg.class-features.nJxXUlTGdZ7Lc5ms]{Fant&ocirc;me}</li> <li>@Compendium[sfrpg.class-features.SWNQ1uqSQbAJlVng]{Hacker}</li> <li>@Compendium[sfrpg.class-features.RmU5en0JokeQXJyP]{Espion}</li> <li>@Compendium[sfrpg.class-features.7jvvARPoLgBv3xBA]{Voleur}</li> </ul>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Speed Hacker (Ex)": {
+			"frName": "Hacker rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec un ordinateur vous pouvez d&eacute;sactiver des appareils m&eacute;caniques dot&eacute;s de syst&egrave;mes &eacute;lectroniques ou informatiques en moiti&eacute; moins de temps qu&rsquo;&agrave; la normale. Dans les rares cas o&ugrave; cela n&eacute;cessiterait une action complexe, vous pouvez le faire avec une action simple et si cela n&eacute;cessitait une action simple, vous n&rsquo;avez besoin que d&rsquo;une action de mouvement.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Spy": {
+			"frName": "Espion",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Vous pouvez voler et prendre de nouvelles identit&eacute;s aussi facilement que les gens changent de v&ecirc;tements, ce qui vous permet de vous infiltrer dans n&rsquo;importe quel cercle.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Bluff et D&eacute;guisement. Quand vous utilisez Bluff pour effectuer une feinte offensive, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; votre test de comp&eacute;tence.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.92c1eOFEI5CQy2y4]{Ma&icirc;tre des d&eacute;guisements (Ext)}.</li> <li><strong>D&eacute;sinformation (Ext) :</strong> au niveau 11, &agrave; chaque fois que vous r&eacute;ussissez un jet de sauvegarde contre un sort, un appareil technologique ou une capacit&eacute; qui fournirait des informations &agrave; votre sujet (comme <em>@Compendium[sfrpg.spells.moyeAHT4yzZVWmmg]{d&eacute;tection des pens&eacute;es})</em>, au lieu d&rsquo;en annuler les effets, vous pouvez fournir de fausses informations qui correspondent &agrave; votre fausse identit&eacute;. Si un tel effet n&rsquo;autorise pas de jet de sauvegarde, vous pouvez tenter un test de Bluff oppos&eacute; au test de Psychologie de votre adversaire et, si vous le remportez, fournir de fausses informations.</li> </ul>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Staggering Shot (Ex)": {
+			"frName": "Attaque renversante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez tenter de faire chanceler votre victime. La cible doit r&eacute;ussir un jet de Vigueur ou &ecirc;tre consid&eacute;r&eacute;e comme chancelante jusqu&rsquo;au d&eacute;but de votre prochain tour. Une fois que vous avez utilis&eacute; ce pouvoir pour tenter de faire chanceler une cible, cette derni&egrave;re est immunis&eacute;e contre vos attaques renversantes pendant 24 heures.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Stalwart (Ex)": {
+			"frName": "Vaillant (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Si vous r&eacute;ussissez un jet de Vigueur contre un effet qui, normalement, n&eacute;cessite plusieurs jets de sauvegarde r&eacute;ussis pour &ecirc;tre soign&eacute; (comme la @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladie} ou le @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}), cet effet cesse imm&eacute;diatement et il est soign&eacute; avec un seul jet de sauvegarde r&eacute;ussi.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Student of Technology (Ex; Engineering)": {
+			"frName": "Étudiant en technologie (Ext ; Ingénierie)",
+			"frDescription": "",
+			"frSource": "RDB p.73 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Stunning Shot (Ex)": {
+			"frName": "Attaque étourdissante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec s&eacute;quelle handicapante, vous pouvez tenter d&rsquo;&eacute;tourdir votre cible. Cette derni&egrave;re doit r&eacute;ussir un test de Vigueur ou &ecirc;tre &eacute;tourdie jusqu&rsquo;au d&eacute;but de votre prochain tour. Une fois que vous avez utilis&eacute; ce pouvoir pour @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdir} une cr&eacute;ature, elle est immunis&eacute;e contre vos attaques &eacute;tourdissantes pendant 24 heures. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.o2GDNS1g87yquIMS]{attaque renversante} pour apprendre celui-ci.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Supreme Operative (Ex)": {
+			"frName": "Agent suprême (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p> <p>&Agrave; chaque fois que vous tentez un test avec une des comp&eacute;tences associ&eacute;es &agrave; votre sp&eacute;cialisation, vous pouvez lancer deux fois le d&eacute; et prendre le meilleur r&eacute;sultat. Une fois par jour, en tant qu&rsquo;action de mouvement, vous pouvez &eacute;changer temporairement un de vos exploits contre un autre exploit du m&ecirc;me niveau ou inf&eacute;rieur. Cet &eacute;change dure 24 heures. Si l&rsquo;exploit que vous &eacute;changez est un pr&eacute;requis pour d&rsquo;autres pouvoirs, vous ne pouvez plus utiliser ces derni&egrave;res pendant toute la dur&eacute;e de l&rsquo;&eacute;change.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "20ème niveau "
+		},
+		"Sure-Footed (Ex)": {
+			"frName": "Pied sûr (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous vous d&eacute;placez sur des terrains difficiles &agrave; votre pleine vitesse et vous ne subissez pas de p&eacute;nalit&eacute;s quand vous utilisez Acrobaties ou Discr&eacute;tion &agrave; pleine vitesse.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Surgeon (Ex; Medicine)": {
+			"frName": "Chirurgien (Ext ; Médecine)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Sustained Determination (Ex)": {
+			"frName": "Détermination inébranlable (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "8ème niveau"
+		},
+		"Thief": {
+			"frName": "Voleur",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Vous ma&icirc;trisez aussi bien les techniques de vol &agrave; la tire que celles de braquages beaucoup plus ambitieux.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Perception et Escamotage. Vous pouvez utiliser Escamotage pour effectuer une feinte offensive en dissimulant vos armes et en agissant sans qu&rsquo;on le remarque.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.YjDe1a16TvdF232b]{Diversion holographique (Ext)}.</li> <li><strong>Plan de secours (Ext) :</strong> au niveau 11, vous avez effectu&eacute; suffisamment de cambriolages pour comprendre que les choses ne se passent jamais exactement comme pr&eacute;vu. Quand quelque chose d&rsquo;inattendu se produit au cours d&rsquo;un vol ou d&rsquo;une infiltration, vous pouvez d&eacute;penser 2 points de pers&eacute;v&eacute;rance et annoncer un plan de secours que vous avez &eacute;tabli par avance pour cette &eacute;ventualit&eacute;. Vous avez alors soit le bon accessoire (comme une identification ou un fichier informatique mais jamais un objet tr&egrave;s on&eacute;reux), la bonne information ou un agent que vous avez engag&eacute; pour effectuer une seule t&acirc;che au bon moment. Vous tentez alors un test de comp&eacute;- tence. La comp&eacute;tence appropri&eacute;e et le DD sont &agrave; la discr&eacute;tion du MJ mais plus le plan est complexe et improbable plus le DD sera &eacute;lev&eacute; (voir DD des comp&eacute;tences page 392 pour d&eacute;finir ces DD). Si vous r&eacute;ussissez, vous avez cet objet, cette connaissance ou votre confr&egrave;re r&eacute;alise la t&acirc;che sp&eacute;cifi&eacute;e. Si vous &eacute;chouez, soit vous n&rsquo;avez pas ce dont vous avez besoin, soit votre plan &eacute;choue.</li> </ul>",
+			"frSource": "RDB p.63 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Trick Attack (Ex)": {
+			"frName": "Feinte offensive (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Vous pouvez tromper ou surprendre un ennemi puis l’attaquer quand il baisse sa garde. En tant qu’action complexe, vous pouvez vous déplacer de votre vitesse de mouvement. Que vous vous soyez déplacé ou non, vous pouvez alors effectuer une attaque avec une arme de corps à corps ayant la propriété spéciale agent ou avec n’importe quelle arme légère. Juste avant de porter votre attaque, tentez un test de Bluff, d’Intimidation ou de Discrétion (ou un test associé à votre spécialisation ; voir page 62) avec un DD de 20 + le FP de la cible. Si vous réussissez ce test, vous infligez 1d4 points de dégâts supplémentaires et la cible est @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{prise au dépourvu} contre cette attaque. Ces dégâts supplémentaires sont de 1d8 au niveau 3, 3d8 au niveau 5 puis augmentent de 1d8 tous les 2 niveaux suivants. Vous ne pouvez utiliser ce pouvoir avec une arme qui a la propriété spéciale peu maniable ou qui nécessite une action complexe pour effectuer une seule attaque.</p>",
+			"frSource": "RDB p.61 – Agent",
+			"frRequirements": "1er niveau"
+		},
+		"Triple Attack (Ex)": {
+			"frName": "Triple attaque (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous effectuez une attaque &agrave; outrance en utilisant uniquement des armes de corps &agrave; corps ayant la propri&eacute;t&eacute; sp&eacute;ciale agent ou des armes l&eacute;g&egrave;res, vous pouvez effectuer jusqu&rsquo;&agrave; trois attaques au lieu de deux.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "8ème niveau"
+		},
+		"True Expertise (Ex)": {
+			"frName": "Maîtrise totale (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>Vous obtenez la ma&icirc;trise totale d&rsquo;une de vos improvisations et vous pouvez l&rsquo;utiliser d&rsquo;une simple pens&eacute;e. Quand vous obtenez cette aptitude, choisissez une improvisation que vous connaissez et qui a un effet quand vous d&eacute;pensez 1 point de pers&eacute;v&eacute;rance.</p> <p>Tant qu&rsquo;il vous reste au moins 1 point de pers&eacute;v&eacute;rance, vous pouvez b&eacute;n&eacute;ficier de l&rsquo;effet de l&rsquo;improvisation sans d&eacute;penser de point de pers&eacute;v&eacute;rance. Cette aptitude n&rsquo;est pas applicable si l&rsquo;improvisation n&eacute;cessite plus d&rsquo;un point de pers&eacute;v&eacute;rance.</p> <p>De plus, quand vous lancez votre d&eacute; de ma&icirc;trise, vous pouvez ajouter au r&eacute;sultat de votre test de comp&eacute;tence 2d8 au lieu de 1d8+4. Si, pour une raison ou pour une autre, le bonus de ma&icirc;trise n&rsquo;est pas 1d8+4, vous ne pouvez pas opter pour cette option.</p>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "20ème niveau "
+		},
+		"Uncanny Agility (Ex) (Operative)": {
+			"frName": "Agilité surhumaine (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p> <p>Vous &ecirc;tes insensible &agrave; l&rsquo;&eacute;tat @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{pris au d&eacute;pourvu} et votre adversaire ne b&eacute;n&eacute;ficie d&rsquo;aucun bonus &agrave; ses jets d&rsquo;attaque contre vous quand vous &ecirc;tes pris en tenaille ou qu&rsquo;il vous attaque alors que vous &ecirc;tes @Compendium[sfrpg.conditions.XeRGqHVtcZ7vsgJ0]{&agrave; terre}. De plus, les tirs de couverture et les tirs de diversion ne conf&egrave;rent aucun avantage contre vous.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "7ème niveau"
+		},
+		"Uncanny Mobility (Ex)": {
+			"frName": "Mobilité instinctive (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Quand vous effectuez une @Compendium[sfrpg.class-features.MBNI94tbMoqizPUk]{feinte offensive}, si vous choisissez la cible de votre attaque avant de vous d&eacute;placer, votre mouvement ne provoque pas d&rsquo;attaque d&rsquo;opportunit&eacute; de la part de cette cible. Quand vous utilisez votre action normale de mouvement, vous pouvez choisir une cr&eacute;ature ; ce mouvement ne provoque pas d&rsquo;attaque d&rsquo;opportunit&eacute; de la part de cette cr&eacute;ature.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Uncanny Pilot (Ex)": {
+			"frName": "Pilote exceptionnel (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Quand vous attaquez alors que vous pilotez un v&eacute;hicule, vous r&eacute;duisez de moiti&eacute; le malus du v&eacute;hicule qui est appliqu&eacute; &agrave; votre jet d&rsquo;attaque (si un v&eacute;hicule impose normalement un malus de -1, vous ne subissez aucune p&eacute;nalit&eacute;). Quand vous participez &agrave; une poursuite, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 &agrave; vos tests de comp&eacute;tence quand vous avez recours aux actions de pilotage manoeuvre d&rsquo;&eacute;vitement et manoeuvre agressive.</p>",
+			"frSource": "RDB p.63 – Exploits d’agent",
+			"frRequirements": "2ème niveau"
+		},
+		"Uncanny Senses (Ex)": {
+			"frName": "Sens surhumains (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vos sens d&eacute;j&agrave; surd&eacute;velopp&eacute;s sont encore plus efficaces. Votre perception aveugle devient vision aveugle avec une port&eacute;e de 18 m&egrave;tres. Si vous avez vision dans le noir, la port&eacute;e est augment&eacute;e de 9 m&egrave;tres. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.zHvk8K9j9J16Pq7d]{sens am&eacute;lior&eacute;s} pour apprendre celui-ci.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "14ème niveau"
+		},
+		"Uncanny Shooter (Ex)": {
+			"frName": "Tireur exceptionnel (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vos attaques &agrave; distance avec des armes l&eacute;g&egrave;res ne provoquent pas d&rsquo;attaques d&rsquo;opportunit&eacute;.</p>",
+			"frSource": "RDB p.64 – Exploits d’agent",
+			"frRequirements": "6ème niveau"
+		},
+		"Universal Expression (Ex)": {
+			"frName": "Expression universelle (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Versatile Movement (Ex)": {
+			"frName": "Déplacement polyvalent (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous gagnez une vitesse d&rsquo;escalade et de nage &eacute;gale &agrave; votre vitesse au sol. Cette vitesse n&rsquo;est pas augment&eacute;e par l&rsquo;aptitude de classe d&eacute;placement rapide ou l&rsquo;exploit d&eacute;placement rapide am&eacute;lior&eacute;.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		},
+		"Watch Out (Ex)": {
+			"frName": "À terre (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.71 – Émissaire",
+			"frRequirements": "4ème niveau"
+		},
+		"Watch Your Step (Ex)": {
+			"frName": "Prudence (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Weapon Specialization (Ex) (Envoy)": {
+			"frName": "Spécialisation martiale (Ext) (Émissaire)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.fqYiP2f9oSfcmrwC]{&Eacute;missaire}</p> <p>Vous obtenez le don bonus de Sp&eacute;cialisation martiale pour chaque type d&rsquo;armes que vous savez manier gr&acirc;ce &agrave; cette classe.</p>",
+			"frSource": "RDB p.69 – Émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"Weapon Specialization (Ex) (Operative)": {
+			"frName": "Spécialisation martiale (Ext) (Agent)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Vous obtenez le don bonus de @Compendium[sfrpg.feats.9Us7Eg9cAoq3BcS5]{Sp&eacute;cialisation martiale} pour chaque type d&rsquo;armes que vous savez manier gr&acirc;ce &agrave; cette classe.</p>",
+			"frSource": "RDB p.62 – Agent",
+			"frRequirements": "3ème niveau"
+		},
+		"Well Informed (Ex; Diplomacy)": {
+			"frName": "Bien informé (Ext ; Diplomatie)",
+			"frDescription": "",
+			"frSource": "RDB p.72 – émissaire",
+			"frRequirements": "3ème niveau"
+		},
+		"": {
+			"frName": "Esquive surnaturelle (Ext) D",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Quand vous ratez un jet de R&eacute;flexes contre un effet qui n&rsquo;est que partiel en cas de r&eacute;ussite du jet de sauvegarde, vous ne subissez que cet effet partiel. Vous devez avoir @Compendium[sfrpg.class-features.EpLSSSdLcqVQKcSM]{esquive totale} pour apprendre cet exploit.</p>",
+			"frSource": "RDB p.65 – Exploits d’agent",
+			"frRequirements": "10ème niveau"
+		}
+	}
+}
