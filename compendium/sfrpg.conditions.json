@@ -68,8 +68,8 @@
 		},
 		{
 			"id": "Dazed",
-			"name": "Étourdi",
-			"description": "<p>&gt;@Compendium[sfrpg.rules.0yJjfyvWg5pDLcVR]{Conditions}</p><hr /><p>Vous l&acirc;chez tout ce que vous tenez, vous ne pouvez pas faire d&rsquo;actions&nbsp;et vous &ecirc;tes @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{Pris au d&eacute;pourvu}.</p>",
+			"name": "Hébété",
+			"description": "<p>&gt;@Compendium[sfrpg.rules.0yJjfyvWg5pDLcVR]{Conditions}</p><hr /><p>Vous &ecirc;tes incapable d&rsquo;agir normalement. Vous ne pouvez entreprendre aucune action mais ne subissez aucun malus &agrave; la CA. L&rsquo;&eacute;tat h&eacute;b&eacute;t&eacute; dure g&eacute;n&eacute;ralement 1 round.</p>",
 			"source":"RDB p.276"
 		},
 		{
