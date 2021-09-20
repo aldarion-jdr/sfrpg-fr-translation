@@ -27,6 +27,18 @@
 			"frSource": "RDB p.107 – Solarien",
 			"frRequirements": "9ème niveau"
 		},
+		"Access Akashic Record (Su)": {
+			"frName": "Accès aux Archives akashiques (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "3ème niveau"
+		},
+		"Animal Adaptation (Su)": {
+			"frName": "Adaptation animale (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "6ème niveau"
+		},
 		"Situational Awareness (Ex)": {
 			"frName": "Adaptation conjoncturelle (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.hIhgdXnqGHBm0A64]{Improvisations de l'&eacute;missaire}</p><p>Si vous pr&eacute;parez une action, avant que le d&eacute;clencheur que vous avez choisi ne se produise, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour modifier aussi bien le d&eacute;clencheur que l&rsquo;action pr&eacute;par&eacute;e. Vous devez pr&eacute;parer une action de la m&ecirc;me cat&eacute;gorie que celle que vous aviez pr&eacute;vue ou d&rsquo;une cat&eacute;gorie inf&eacute;rieure (par exemple, si vous aviez pr&eacute;par&eacute; une action simple, vous pouvez choisir une autre action simple, une action de mouvement ou une action rapide ; si vous aviez pr&eacute;par&eacute; une action de mouvement, vous pouvez choisir une autre action de mouvement ou une action rapide).</p>",
@@ -51,6 +63,18 @@
 			"frSource": "RDB p.62 – Agent",
 			"frRequirements": "7ème niveau"
 		},
+		"Nimble Fusillade (Ex) (2nd)": {
+			"frName": "Aisance au combat (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</p> <p>Quand vous effectuez une attaque &agrave; outrance, vous pouvez aussi soit effectuer un d&eacute;placement prudent, soit vous d&eacute;placez &agrave; la moiti&eacute; de votre vitesse. Ce d&eacute;placement peut s&rsquo;effectuer avant, apr&egrave;s ou entre vos deux attaques mais il ne peut &ecirc;tre fractionn&eacute;.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "5ème niveau"
+		},
+		"Akashic": {
+			"frName": "Akashique",
+			"frDescription": "",
+			"frSource": "RDB p.93",
+			"frRequirements": "1er niveau"
+		},
 		"Portable Power (Ex)": {
 			"frName": "Alimentation de secours (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YMGOKoZtKgJqIsAD]{Astuce de M&eacute;cano}</p> <p>Vous pouvez utiliser votre @Compendium[sfrpg.class-features.uWZ3LvxQ3yezLB4j]{interface personnalis&eacute;e} pour fournir une quantit&eacute; limit&eacute;e d&rsquo;&eacute;nergie pendant un maximum d&rsquo;une minute &agrave; un ordinateur ou &agrave; un syst&egrave;me d&rsquo;un vaisseau spatial qui en manque. Si ce syst&egrave;me fait partie d&rsquo;un r&eacute;seau plus vaste, cette astuce n&rsquo;alimente pas tout le r&eacute;seau, juste un seul point d&rsquo;acc&egrave;s (g&eacute;n&eacute;ralement un terminal) ce qui peut grandement limiter son fonctionnement. Une fois que vous avez utilis&eacute; l&rsquo;alimentation de secours sur un syst&egrave;me, vous ne pouvez plus y avoir de nouveau recours pour ce syst&egrave;me pendant 24 heures.</p>",
@@ -62,6 +86,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.IvLuq2pxKkHJJpae]{Technomancien}</p> <p>Vous avez &eacute;tudi&eacute; avec soin les forces qui d&eacute;finissent la magie et vous pouvez les manipuler. Vous apprenez votre premi&egrave;re alt&eacute;ration magique au niveau 2 et vous en apprenez une de plus tous les 3 niveaux suivants. Quand vous lancez un sort, vous ne pouvez utiliser qu&rsquo;une seule alt&eacute;ration magique qui modifie ses attributs (tel que sort distant ou sort prolong&eacute;). Si une alt&eacute;ration magique autorise un jet de sauvegarde pour r&eacute;sister &agrave; ses effets, le DD est &eacute;gal &agrave; 10 + la moiti&eacute; de votre niveau de technomancien + votre modificateur d&rsquo;Intelligence. La liste des alt&eacute;rations magiques commence page 120.</p> <h2>Niveau 2</h2> <ul> <li>@Compendium[sfrpg.class-features.L4BCfIhyNqvvO5fS]{Analyse rapide (Sur)}</li> <li>@Compendium[sfrpg.class-features.Y1v8LR6kmelZOjRJ]{Arme surcharg&eacute;e (Sur)}</li> <li>@Compendium[sfrpg.class-features.fAwqXByzLKw120jR]{Ciblage s&eacute;lectif (Ext)}</li> <li>@Compendium[sfrpg.class-features.lFR3rA9m6ltgVXZF]{Contre-mesures anti-sorts (Ext)}</li> <li>@Compendium[sfrpg.class-features.ZKiHelN35R04UH8X]{Cr&eacute;ation technologique (Mag)}</li> <li>@Compendium[sfrpg.class-features.ZKiHelN35R04UH8X]{Cr&eacute;ation technologique (Mag)}</li> <li>@Compendium[sfrpg.class-features.V7UpT4PWsXmFN5x9]{Influence robotique (Ext)}</li> <li>@Compendium[sfrpg.class-features.TBIzd27ZlnFp6eyS]{Ma&icirc;trise technomancienne (Ext)}</li> <li>@Compendium[sfrpg.class-features.6mV2OToxzRLgXwab]{Sort aliment&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.IyG50mhWfEdEyNaa]{Sorts offensifs (Ext)}</li> </ul> <h2>2nd Level</h2> <ul> <li>@Compendium[sfrpg.class-features.p7Y5OM04hvrMajCf]{Calculate Trajectory (Ex)}</li> <li>@Compendium[sfrpg.class-features.gCkrRgaHFL7VZPun]{Direct Denial of Shapechanging (Su)}</li> <li>@Compendium[sfrpg.class-features.bK9vtuy0v50jTM3t]{Magic Trajectories (Su)}</li> </ul> <h2>Niveau 5</h2> <ul> <li>@Compendium[sfrpg.class-features.ugzxYKdUIAsuuyIs]{Choc de recharge (Sur)}</li> <li>@Compendium[sfrpg.class-features.fdcoRN7r7QXpa4zl]{D&eacute;bogage de sort (Ext)}</li> <li>@Compendium[sfrpg.class-features.6VgSouSQyQ7oYVrJ]{Fabrication d&rsquo;armes (Sur)}</li> <li>@Compendium[sfrpg.class-features.PXuedwnKWs6zkwyU]{Grenade enchant&eacute;e (Mag)}</li> <li>@Compendium[sfrpg.class-features.lCU7nIfqUnz6JGOG]{N&eacute;gation de la magie (Mag)}</li> <li>@Compendium[sfrpg.class-features.9xtiYkZJOdFyJtTo]{Sort distant (Ext)}</li> <li>@Compendium[sfrpg.class-features.UJx5Gk6p6SdlTcHl]{Sort prolong&eacute; (Ext)}</li> </ul> <h2>5th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.lAnZmQdEfR0DspQf]{Adaptable Spell Knowledge (Ex)}</li> <li>@Compendium[sfrpg.class-features.nRmTp13PXbyD95Au]{Cache Concentration (Su)}</li> <li>@Compendium[sfrpg.class-features.lSGAIOOgI1TW0nUK]{Energy Alteration (Su)}</li> <li>@Compendium[sfrpg.class-features.peWQgdWXW3bKSCZY]{Glitch Step (Su)}</li> <li>@Compendium[sfrpg.class-features.pgDZ24xRLCzyAAkx]{Shadow Grenade (Su)}</li> </ul> <h2>Niveau 8</h2> <ul> <li>@Compendium[sfrpg.class-features.eu0rZBqxaQJfst1U]{Contre-mesures technologiques (Sur)}</li> <li>@Compendium[sfrpg.class-features.bREtI7lPsNOLzhQM]{&Eacute;coute divinatoire (Sur)}</li> <li>@Compendium[sfrpg.class-features.qvzQlvZGQHceu2Dm]{Marque mentale (Sur)}</li> <li>@Compendium[sfrpg.class-features.1XeFlxWHAOvgrI1K]{Sort &eacute;largi (Ext)}</li> <li>@Compendium[sfrpg.class-features.He1aSFpFlCH6pvP6]{T&eacute;l&eacute;portation &eacute;clair (Mag)}</li> <li>@Compendium[sfrpg.class-features.uD5oeps79sKG205O]{Tir de sortil&egrave;ge (Mag)}</li> </ul> <h2>8th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.EJIrVeOaHL5Yep8X]{Brain Hacker (Su)}</li> <li>@Compendium[sfrpg.class-features.V8AwA3H6lU3FyO7S]{Drone Summoner (Su)}</li> <li>@Compendium[sfrpg.class-features.OYd8WcvniXfBt0D3]{Extend Runtime (Su)}</li> <li>@Compendium[sfrpg.class-features.9cgYfRNMncyL0TNB]{Translocational Recall (Su)}</li> </ul> <h2>Niveau 11</h2> <ul> <li>@Compendium[sfrpg.class-features.hgKdip2zBuIURYW9]{R&eacute;initialisation mentale (Sur)}</li> <li>@Compendium[sfrpg.class-features.xBl8ejVWKP34EBsY]{Sentinelle de contre-technologie (Sur)}</li> <li>@Compendium[sfrpg.class-features.DGd0iTFGqwwoQQpt]{Sort &eacute;ternel (Ext)}</li> <li>@Compendium[sfrpg.class-features.fr3oZaGsdlBI3QHp]{Tir autoguid&eacute; (Sur)}</li> </ul> <h2>11th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.LlrbKthJa9ApdCzg]{Diminish Spell Runtime (Su)}</li> <li>@Compendium[sfrpg.class-features.tmSdPgxBNoepRzrh]{Reactive Counter (Su)}</li> </ul> <h2>Niveau 14</h2> <ul> <li>@Compendium[sfrpg.class-features.73ppmcKyJqgR8jBp]{Biblioth&egrave;que de sorts (Ext)}</li> <li>@Compendium[sfrpg.class-features.xhvVbc8XuXN7CAER]{Pluie de feu (Sur)}</li> <li>@Compendium[sfrpg.class-features.mx0FBkNGOR3oL0h1]{Sort rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.rEZt5hlJTC9BJj5D]{Tir d&eacute;phas&eacute; (Sur)}</li> </ul>",
 			"frSource": "RDB p.119 – Technomancien",
 			"frRequirements": "2ème niveau"
+		},
+		"Forced Amity (Sp)": {
+			"frName": "Amitié forcée (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "3ème niveau"
+		},
+		"Greater Forced Amity (Sp)": {
+			"frName": "Amitié forcée supérieure (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "9ème niveau"
 		},
 		"Overcharge (Ex)": {
 			"frName": "Amplificateur (Ext)",
@@ -105,6 +141,12 @@
 			"frSource": "RDB p.105 – Solarien",
 			"frRequirements": "6ème niveau"
 		},
+		"Anchoring Arcana (Su; 7th Level)": {
+			"frName": "Arcane d’ancrage (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>En tant qu&rsquo;action complexe, vous pouvez effectuer une seule attaque avec une arme magique contre un unique adversaire. S&rsquo;il s&rsquo;agit d&rsquo;une attaque &agrave; distance, la cible doit se trouver dans le premier facteur de port&eacute;e. M&ecirc;me si l&rsquo;attaque devrait normalement affecter une zone ou plusieurs victimes, elle n&rsquo;affecte que la cible que vous avez choisie. Si votre attaque touche, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour forcer la cible &agrave; tenter un jet de Volont&eacute; (DD = 10 + la moiti&eacute; de votre niveau de soldat + le modificateur de votre caract&eacute;ristique essentielle). Si la cible rate ce jet, elle ne peut quitter volontairement son espace actuel pendant 1d4 rounds. Cela n&rsquo;a aucun effet sur les d&eacute;placements involontaires mais cela emp&ecirc;che une cr&eacute;ature de se t&eacute;l&eacute;porter ou d&rsquo;acc&eacute;der &agrave; un autre plan. Une fois que vous avez touch&eacute; un adversaire avec cette attaque, qu&rsquo;elle ait r&eacute;ussi ou non, il est immunis&eacute; contre ce pouvoir pendant 24 heures.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "7ème niveau"
+		},
 		"Solar Weapon": {
 			"frName": "Arme solaire",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.7ilyZdE0yZi2F3SQ]{Manifestation solaire (Sur)}</p> <p>D&rsquo;une main, vous pouvez modeler votre fragment solaire pour lui donner la forme d&rsquo;une arme de corps &agrave; corps constitu&eacute;e d&rsquo;&eacute;nergie stellaire. Cette arme est faite de lumi&egrave;re ou de t&eacute;n&egrave;bres solides, en fonction de l&rsquo;apparence choisie pour votre manifestation solaire, mais elle peut avoir la forme de votre choix. Des armes de corps &agrave; corps normales comme les haches, les &eacute;p&eacute;es et les lances sont les plus communes mais d&rsquo;autres formes, comme une grande rune d&rsquo;&eacute;nergie stellaire, une masse de vrilles &eacute;clatantes ou un gant de puissance recouvrant votre main, sont &eacute;galement possibles. L&rsquo;aspect g&eacute;n&eacute;ral de votre arme n&rsquo;a aucune influence sur son fonctionnement et ne vous conf&egrave;re aucun pouvoir sp&eacute;cial comme une allonge. Une fois que vous avez d&eacute;fini son aspect g&eacute;n&eacute;ral, vous ne pouvez en changer tant que vous n&rsquo;avez pas gagn&eacute; un niveau de solarien.</p> <p>Votre arme solaire s&rsquo;utilise comme une arme de corps &agrave; corps cin&eacute;- tique &eacute;volu&eacute;e &agrave; une main et vous savez automatiquement la manier. Au niveau 1, d&eacute;terminez si votre arme inflige des d&eacute;g&acirc;ts contondants, tranchants ou perforants. Vous pouvez modifier le type de d&eacute;g&acirc;ts inflig&eacute;s &agrave; chaque fois que vous gagnez un niveau de solarien. Votre arme solaire inflige des d&eacute;g&acirc;ts &eacute;gaux &agrave; 1d6 + votre modificateur de Force. Ces d&eacute;g&acirc;ts augmentent de +1d6 aux niveaux 6, 9, 12 puis &agrave; chaque niveau suppl&eacute;mentaire. Les cristaux de combat solariens (voir page 170) peuvent augmenter les d&eacute;g&acirc;ts de votre arme solaire.</p> <p>Former ou disperser votre arme solaire est une action de mouvement qui demande le m&ecirc;me effort que de d&eacute;gainer ou de rengainer une arme (et peut &ecirc;tre combin&eacute;e avec un d&eacute;placement en une seule action de mouvement ou utilis&eacute;e avec le don Arme en main). Votre arme solaire se dissipe automatiquement si vous la l&acirc;chez.</p> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong>NIVEAU</strong></td> <td><strong>ARME SOLAIRE<br /></strong></td> </tr> <tr> <td>1</td> <td>1d6</td> </tr> <tr> <td>2</td> <td>1d6</td> </tr> <tr> <td>3</td> <td>1d6</td> </tr> <tr> <td>4</td> <td>1d6</td> </tr> <tr> <td>5</td> <td>1d6</td> </tr> <tr> <td>6</td> <td>2d6</td> </tr> <tr> <td>7</td> <td>2d6</td> </tr> <tr> <td>8</td> <td>2d6</td> </tr> <tr> <td>9</td> <td>3d6</td> </tr> <tr> <td>10</td> <td>3d6</td> </tr> <tr> <td>11</td> <td>3d6</td> </tr> <tr> <td>12</td> <td>4d6</td> </tr> <tr> <td>13</td> <td>5d6</td> </tr> <tr> <td>14</td> <td>6d6</td> </tr> <tr> <td>15</td> <td>7d6</td> </tr> <tr> <td>16</td> <td>8d6</td> </tr> <tr> <td>17</td> <td>9d6</td> </tr> <tr> <td>18</td> <td>10d6</td> </tr> <tr> <td>19</td> <td>11d6</td> </tr> <tr> <td>20</td> <td>12d6</td> </tr> </tbody> </table>",
@@ -117,10 +159,22 @@
 			"frSource": "RDB p.121 – Technomancien",
 			"frRequirements": "2ème niveau"
 		},
+		"Mobile Army (Ex) (4th)": {
+			"frName": "Armée mobile (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temp&ecirc;te blind&eacute;e}</p> <p>Vous &ecirc;tes pass&eacute; ma&icirc;tre dans l&rsquo;utilisation des armes de votre armure. Vous infligez 1d6 points de d&eacute;g&acirc;ts suppl&eacute;mentaires avec toute attaque effectu&eacute;e avec une arme qui est int&eacute;gr&eacute;e &agrave; votre armure ce qui inclut les attaques &agrave; mains nues en utilisant le pouvoir de marteau-pilon et les armes install&eacute;es comme des am&eacute;liorations d&rsquo;armure. Les d&eacute;g&acirc;ts suppl&eacute;mentaires sont du m&ecirc;me type que ceux inflig&eacute;s par l&rsquo;arme. De plus, quand vous utilisez une armure lourde ou assist&eacute;e, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 &agrave; votre CAC contre les man&oelig;uvres offensives.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "13ème niveau"
+		},
 		"Solar Armor": {
 			"frName": "Armure solaire",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.7ilyZdE0yZi2F3SQ]{Manifestation solaire (Sur)}</p> <p>Vous pouvez modeler votre fragment solaire pour qu&rsquo;il se transforme en armure constitu&eacute;e d&rsquo;&eacute;nergie stellaire qui enveloppe votre corps. Cette armure semble faite de lumi&egrave;re ou de t&eacute;n&egrave;bres solides, en fonction de l&rsquo;apparence choisie pour votre manifestation solaire. Cependant, elle peut prendre la forme g&eacute;n&eacute;rale de votre choix que ce soit des plaques d&rsquo;armures brillantes d&rsquo;&eacute;nergie stellaire solidifi&eacute;e, une tenue d&rsquo;&eacute;nergie cr&eacute;pitante moul&eacute;e sur votre corps ou une aura de plasma stellaire. L&rsquo;aspect g&eacute;n&eacute;ral de votre armure n&rsquo;influe pas sur son fonctionnement et ne lui conf&egrave;re pas la moindre propri&eacute;t&eacute; sp&eacute;ciale. Une fois que vous avez choisi son aspect g&eacute;n&eacute;ral, vous ne pouvez le modifier tant que vous ne gagnez pas un niveau de solarien.</p> <p>Votre armure solaire vous octroie un bonus d&rsquo;alt&eacute;ration de +1 aussi bien &agrave; votre classe d&rsquo;armure cin&eacute;tique qu&rsquo;&agrave; votre classe d&rsquo;armure &eacute;nerg&eacute;tique. Ce bonus est de +2 au niveau 10. Votre armure est compatible avec une armure l&eacute;g&egrave;re mais elle ne vous accorde aucun avantage si vous portez une armure lourde. Au niveau 5, vous gagnez &eacute;galement une r&eacute;sistance aux &eacute;nergies de 5 tant que votre armure est activ&eacute;e. Quand vous l&rsquo;activez, vous choisissez entre une r&eacute;sistance au froid et une r&eacute;sistance au feu et, en tant qu&rsquo;action de mouvement, vous pouvez modifier le type d&rsquo;&eacute;nergie auquel vous voulez r&eacute;sister. Cette r&eacute;sistance augmente de 5 points au niveau 10 puis de 5 points suppl&eacute;mentaires tous les 5 niveaux.</p> <p>Activer ou d&eacute;sactiver votre armure solaire est une action de mouvement.</p> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong>NIVEAU</strong></td> <td><strong>ARMURE SOLAIRE<br /></strong></td> </tr> <tr> <td>1</td> <td>+1 CAC et CAE</td> </tr> <tr> <td>2</td> <td>+1 CAC et CAE</td> </tr> <tr> <td>3</td> <td>+1 CAC et CAE</td> </tr> <tr> <td>4</td> <td>+1 CAC et CAE</td> </tr> <tr> <td>5</td> <td>+1 CAC et CAE, r&eacute;sistance 5</td> </tr> <tr> <td>6</td> <td>+1 CAC et CAE, r&eacute;sistance 5</td> </tr> <tr> <td>7</td> <td>+1 CAC et CAE, r&eacute;sistance 5</td> </tr> <tr> <td>8</td> <td>+1 CAC et CAE, r&eacute;sistance 5</td> </tr> <tr> <td>9</td> <td>+1 CAC et CAE, r&eacute;sistance 5</td> </tr> <tr> <td>10</td> <td>+2 CAC et CAE, r&eacute;sistance 10</td> </tr> <tr> <td>11</td> <td>+2 CAC et CAE, r&eacute;sistance 10</td> </tr> <tr> <td>12</td> <td>+2 CAC et CAE, r&eacute;sistance 10</td> </tr> <tr> <td>13</td> <td>+2 CAC et CAE, r&eacute;sistance 10</td> </tr> <tr> <td>14</td> <td>+2 CAC et CAE, r&eacute;sistance 10</td> </tr> <tr> <td>15</td> <td>+2 CAC et CAE, r&eacute;sistance 15</td> </tr> <tr> <td>16</td> <td>+2 CAC et CAE, r&eacute;sistance 15</td> </tr> <tr> <td>17</td> <td>+2 CAC et CAE, r&eacute;sistance 15</td> </tr> <tr> <td>18</td> <td>+2 CAC et CAE, r&eacute;sistance 15</td> </tr> <tr> <td>19</td> <td>+2 CAC et CAE, r&eacute;sistance 15</td> </tr> <tr> <td>20</td> <td>+2 CAC et CAE, r&eacute;sistance 20</td> </tr> </tbody> </table> <p>&nbsp;</p>",
 			"frSource": "RDB p.101 – Solarien",
+			"frRequirements": "1er niveau"
+		},
+		"Walk the Void (Su)": {
+			"frName": "Arpenteur du vide (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
 			"frRequirements": "1er niveau"
 		},
 		"Coordinated Assault (Ex)": {
@@ -135,11 +189,35 @@
 			"frSource": "RDB p.103 – Solarien",
 			"frRequirements": "13ème niveau"
 		},
+		"Soldier's Onslaught (Ex)": {
+			"frName": "Assaut du soldat",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Quand vous effectuez une attaque &agrave; outrance, vous pouvez porter jusqu&rsquo;&agrave; trois attaques au lieu de deux. Ces attaques subissent un malus de -6 au lieu de &ndash;4.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "11ème niveau"
+		},
+		"Heavy Onslaught (Ex; 11th Level)": {
+			"frName": "Assaut massif (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Vos attaques avec des armes lourdes ignorent une partie de la R&eacute;duction des d&eacute;g&acirc;ts de la cible. Si votre arme lourde ne surpasse pas d&eacute;j&agrave; la R&eacute;duction des d&eacute;g&acirc;ts de la cible, r&eacute;duisez-la de 5 points. Au niveau 15, vous r&eacute;duisez la R&eacute;duction des d&eacute;g&acirc;ts de la cible de 10 points.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "11ème niveau"
+		},
 		"Mechanic Trick": {
 			"frName": "Astuce de mécano",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.HNCQFSPw4DVTATHv]{M&eacute;cano}</p> <p>En gagnant de l&rsquo;exp&eacute;rience, vous apprenez des astuces qui vous permettent d&rsquo;accomplir des merveilles d&rsquo;ing&eacute;nierie, de vous aider &agrave; p&eacute;n&eacute;trer les syst&egrave;mes &eacute;lectroniques et &agrave; optimiser vos &eacute;quipements. Bien que certaines de ces astuces soient des choses que vous apprenez, d&rsquo;autres sont des petites am&eacute;liorations cybern&eacute;tiques que vous vous fabriquez (aucune n&rsquo;a un co&ucirc;t ou ne compte pour votre limite d&rsquo;augmentations). Certaines astuces n&eacute;cessitent l&rsquo;utilisation d&rsquo;une interface personnalis&eacute;e ou d&rsquo;autres outils.</p> <p>Vous apprenez votre premi&egrave;re astuce de m&eacute;cano au niveau 2 et vous en apprenez une de plus au niveau 4 puis tous les 2 niveaux suivants. Si une astuce de m&eacute;cano autorise un jet de sauvegarde pour qu&rsquo;un adversaire r&eacute;siste &agrave; ses effets, le DD est &eacute;gal &agrave; 10 + la moiti&eacute; de votre niveau de m&eacute;cano + votre modificateur d&rsquo;Intelligence. Si une astuce de m&eacute;cano n&eacute;cessite que votre adversaire effectue un test de comp&eacute;tence, le DD est &eacute;gal &agrave; 10 + 1,5 &times; votre niveau de classe + votre modificateur d&rsquo;Intelligence.</p> <p>&Agrave; moins que le contraire ne soit pr&eacute;cis&eacute;, vous ne pouvez apprendre la m&ecirc;me astuce plus d&rsquo;une fois. La liste des astuces de m&eacute;cano se trouve page 71.</p> <h2>Niveau 2</h2> <ul> <li>@Compendium[sfrpg.class-features.3EmKYtHl8CRzGLzE]{Alimentation de secours (Ext)}</li> <li>@Compendium[sfrpg.class-features.cHiFkhnxdxD5CXCD]{Amplificateur (Ext)}</li> <li>@Compendium[sfrpg.class-features.xcIBsW8VL3DD9rVU]{Bouclier d&rsquo;&eacute;nergie (Ext)}</li> <li>@Compendium[sfrpg.class-features.oDdKLj7uTD6KEMjc]{Bricolage rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.Qgq6QKKqTfFASsxf]{D&eacute;rivation neurale (Ext)}</li> <li>@Compendium[sfrpg.class-features.LMpCEjgjUpue6Lv3]{Piratage de diversion (Ext)}</li> <li>@Compendium[sfrpg.class-features.zCw8qqx7G6XCCZUx]{Piratage intelligent (Ext)}</li> <li>@Compendium[sfrpg.class-features.C0D3yPSOtK8ON6y7]{Processeur de donn&eacute;es visuelles (Ext)}</li> <li>@Compendium[sfrpg.class-features.lNaMPmjBpodCiucx]{Processeur de vision de nuit (Ext)}</li> <li>@Compendium[sfrpg.class-features.Aqf1lHE27aCYn9Du]{R&eacute;paration du drone (Ext)}</li> <li>@Compendium[sfrpg.class-features.s8QuUMHbPDfYEJ1k]{Surcaden&ccedil;age (Ext)}</li> <li>@Compendium[sfrpg.class-features.uadlMjEdMh8EAmQS]{Surcharge d&rsquo;arme (Ext)}</li> </ul> <h2>2nd Level</h2> <ul> <li>@Compendium[sfrpg.class-features.gespoEXQJSK6rhZF]{Portable Charging Station (Ex)}</li> <li>@Compendium[sfrpg.class-features.mhCiaZNxuTqcFj48]{Protective Programming (Ex)}</li> <li>@Compendium[sfrpg.class-features.2adQRhUYsrAo9Kfu]{Technological Medic (Ex)}</li> </ul> <h2>Niveau 8</h2> <ul> <li>@Compendium[sfrpg.class-features.SWU8kc6giwSN38PS]{Amplificateur am&eacute;lior&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.kcKUNRKT59Ql2CG5]{Bouclier renforc&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.vKizgDpw42XO6BQm]{&Eacute;nergie r&eacute;siduelle (Ext)}</li> <li>@Compendium[sfrpg.class-features.VBUwdNhZStP54DTN]{Instinct de l&rsquo;ing&eacute;nieur (Ext)}</li> <li>@Compendium[sfrpg.class-features.jfLjrzJE2hOQxDfC]{Int&eacute;gration du drone (Ext)}</li> <li>@Compendium[sfrpg.class-features.o2g35M188EpB273a]{Intrusion fant&ocirc;me (Ext)}</li> <li>@Compendium[sfrpg.class-features.fCrvMgmCaALorrZW]{Hypercaden&ccedil;age (Ext)}</li> <li>@Compendium[sfrpg.class-features.7f0FuxZuOwqREwLO]{Processeur de d&eacute;tection de l&rsquo;invisibilit&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.sOP7UdTk4XTVhlpA]{Projecteur holographique (Ext)}</li> <li>@Compendium[sfrpg.class-features.7Cnp0Vs4uzJuuh8R]{Robot &eacute;claireur (Ext)}</li> </ul> <h2>8th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.WyGLXPo8tk4ANfwt]{Bolster Armor (Ex)}</li> <li>@Compendium[sfrpg.class-features.KQcdZyEMkqvrwy2q]{Shocking Overload (Ex)}</li> </ul> <h2>Niveau 14</h2> <ul> <li>@Compendium[sfrpg.class-features.AtWIrO6jKqmGr0sm]{Amplificateur sup&eacute;rieur (Ext)}</li> <li>@Compendium[sfrpg.class-features.SGi1n3O5ZURJ4iic]{&Eacute;nergie r&eacute;siduelle am&eacute;lior&eacute;e (Ext)}</li> <li>@Compendium[sfrpg.class-features.Z6S1WCr0zED69htF]{Module suppl&eacute;mentaire (Ext)}</li> <li>@Compendium[sfrpg.class-features.EepVScicHMPsbFzH]{Projecteur d&rsquo;annulation de l&rsquo;invisibilit&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.dt7OBzwQUWHnnvcx]{Reconfiguration des modules (Ext)}</li> <li>@Compendium[sfrpg.class-features.B8mBYlYI1Ll1jhvG]{Saboteur (Ext)}</li> <li>@Compendium[sfrpg.class-features.pKnTl3BS8kvcAZ6U]{Ultracaden&ccedil;age (Ext)}</li> </ul> <h2>14th Level</h2> <ul> <li>@Compendium[sfrpg.class-features.stsKbvU1SqjqwU8E]{Inventive Engineer (Ex)}</li> <li>@Compendium[sfrpg.class-features.TMCWeXtSXaZHEKBH]{Prototype Tinkerer (Ex)}</li> <li>@Compendium[sfrpg.class-features.XSHMFxXEYQ3UOFhP]{Superior Science Officer (Ex)}</li> </ul>",
 			"frSource": "RDB p.78 – Mécano",
 			"frRequirements": "2ème niveau"
+		},
+		"Armored Advantage (Ex)": {
+			"frName": "Atout d’armure (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Quand vous portez une armure, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +1 &agrave; votre classe d&rsquo;armure cin&eacute;tique.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
+		"Arcane Attack (Su) (5th)": {
+			"frName": "Attaque arcane (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour utiliser une arme enchant&eacute;e avec la rune du chevalier sorcier pour effectuer une attaque qui frappe juste. Cette attaque ignore tous les abris et les camouflages ce qui inclut le camouflage total (mais vous devez au moins &ecirc;tre conscient de la pr&eacute;sence de la cr&eacute;ature pour la cibler avec cette attaque). S&rsquo;il s&rsquo;agit d&rsquo;une attaque &agrave; distance, la cible doit se trouver dans le premier facteur de port&eacute;e. L&rsquo;attaque n&rsquo;affecte que la cible choisie m&ecirc;me si, normalement, elle devait affecter une zone ou plusieurs cibles. Vous devez tout de m&ecirc;me effectuer un jet d&rsquo;attaque normal et, si vous ratez, il n&rsquo;y a aucun effet.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "17ème niveau"
 		},
 		"Knockout Shot (Ex)": {
 			"frName": "Attaque assommante (Ext)",
@@ -153,11 +231,23 @@
 			"frSource": "RDB p.64 – Exploits d’agent",
 			"frRequirements": "10ème niveau"
 		},
+		"Harrying Shot (Ex) (5th)": {
+			"frName": "Attaque de diversion (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</p> <p>En tant qu&rsquo;action complexe, vous pouvez effectuer une attaque qui b&eacute;n&eacute;ficiera des avantages d&rsquo;un tir de diversion (voir page 246) contre la cr&eacute;ature que vous touchez avec cette attaque. Si vous utilisez une arme avec la propri&eacute;t&eacute; sp&eacute;ciale dispersion ou automatique, l&rsquo;avantage s&rsquo;applique contre toutes les cibles touch&eacute;es. Vous pouvez aussi effectuer votre d&eacute;placement accompagnant attaque de diversion avant ou apr&egrave;s cette attaque.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "17ème niveau"
+		},
 		"Stunning Shot (Ex)": {
 			"frName": "Attaque étourdissante (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec s&eacute;quelle handicapante, vous pouvez tenter d&rsquo;&eacute;tourdir votre cible. Cette derni&egrave;re doit r&eacute;ussir un test de Vigueur ou &ecirc;tre &eacute;tourdie jusqu&rsquo;au d&eacute;but de votre prochain tour. Une fois que vous avez utilis&eacute; ce pouvoir pour @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdir} une cr&eacute;ature, elle est immunis&eacute;e contre vos attaques &eacute;tourdissantes pendant 24 heures. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.o2GDNS1g87yquIMS]{attaque renversante} pour apprendre celui-ci.</p>",
 			"frSource": "RDB p.64 – Exploits d’agent",
 			"frRequirements": "10ème niveau"
+		},
+		"Kill Shot (Ex)": {
+			"frName": "Attaque fatale",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>En tant qu&rsquo;action simple, vous pouvez effectuer une seule attaque contre un adversaire. Si cette attaque touche et ne le tue pas, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour obliger la cr&eacute;ature &agrave; r&eacute;ussir un jet de Vigueur ou mourir. Une fois que vous avez utilis&eacute; ce pouvoir sur une cible (qu&rsquo;elle ait ou non &eacute;t&eacute; forc&eacute;e de tenter un jet de Vigueur), elle est immunis&eacute;e contre votre attaque fatale pendant 24 heures.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "20ème niveau "
 		},
 		"Flashing Strikes (Ex) (Solarian)": {
 			"frName": "Attaque foudroyantes (Ext)",
@@ -177,17 +267,35 @@
 			"frSource": "RDB p.71 – Émissaire",
 			"frRequirements": "4ème niveau"
 		},
+		"Debilitating Attack (Ex) (3rd)": {
+			"frName": "Attaque incapacitante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</p> <p>Quand vous touchez un ennemi avec une attaque &agrave; distance ou une attaque effectu&eacute;e avec une arme dot&eacute;e de la propri&eacute;t&eacute; sp&eacute;- ciale dispersion ou explosion, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour infliger un effet incapacitant &agrave; cet adversaire pendant un nombre de rounds &eacute;gal &agrave; votre bonus de Force. Vous pouvez choisir entre @Compendium[sfrpg.conditions.D8JvCEmOiWKe2UDx]{surdit&eacute;}, @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{pris au d&eacute;pourvu} ou @Compendium[sfrpg.conditions.yUtkoIshf4dPruNd]{impr&eacute;cis} (voir pages 276&ndash;277), ou vous pouvez r&eacute;duire sa vitesse de moiti&eacute; (minimum 3 m&egrave;tres). La cible peut annuler cet effet en r&eacute;ussissant un jet de Vigueur (DD = 10 + la moiti&eacute; de votre niveau de soldat + votre modificateur de Force).</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "9ème niveau"
+		},
 		"Expert Attack (Ex)": {
 			"frName": "Attaque maîtrisée (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.hIhgdXnqGHBm0A64]{Improvisations de l'&eacute;missaire}</p><p>En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 2 points de pers&eacute;v&eacute;rance pour ajouter votre bonus de ma&icirc;trise &agrave; votre prochain jet d&rsquo;attaque effectu&eacute; avant la fin de votre tour.</p>",
 			"frSource": "RDB p.72 – émissaire",
 			"frRequirements": "8ème niveau"
 		},
+		"Impactful Attack (Ex) (5th)": {
+			"frName": "Attaque percutante (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</p> <p>En tant qu&rsquo;action complexe, vous pouvez effectuer une attaque &agrave; distance qui fait reculer vos ennemis. Les cibles que vous touchez reculent de 1,50 m&egrave;tre en s&rsquo;&eacute;loignant de vous. Si vous utilisez une arme avec la propri&eacute;t&eacute; sp&eacute;ciale explosion, toutes les cibles qui ratent leur jet de sauvegarde reculent de 1,50 m&egrave;tre par rapport au centre de l&rsquo;explosion. Un adversaire contre lequel vous avez obtenu un r&eacute;sultat critique ou qui obtient un 1 naturel &agrave; son jet de sauvegarde est &eacute;galement @Compendium[sfrpg.conditions.XeRGqHVtcZ7vsgJ0]{mis &agrave; terre}. Vous ne pouvez pas effectuer une attaque percutante avec une arme automatique mais vous pouvez utiliser ce pouvoir avec une arme qui a la propri&eacute;t&eacute; sp&eacute;ciale dispersion.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "17ème niveau"
+		},
 		"Interfering Shot (Ex)": {
 			"frName": "Attaque perturbante (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Avec @Compendium[sfrpg.class-features.bhSrjkuWxz2DQHXC]{s&eacute;quelle handicapante}, vous pouvez emp&ecirc;cher votre cible d&rsquo;avoir recours &agrave; des actions de r&eacute;action (voir page 244) jusqu&rsquo;&agrave; la fin de votre prochain tour.</p>",
 			"frSource": "RDB p.64 – Exploits d’agent",
 			"frRequirements": "6ème niveau"
+		},
+		"Prepared Shot (Ex) (5th)": {
+			"frName": "Attaque préparée (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</p> <p>En tant qu&rsquo;action simple, vous pouvez examiner attentivement une cible avant de l&rsquo;attaquer. Cette derni&egrave;re doit &ecirc;tre dans votre ligne de vue et soit @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{prise au d&eacute;pourvu}, soit inconsciente de votre pr&eacute;sence. Pour la premi&egrave;re attaque que vous effectuez contre cette cible &agrave; votre prochain tour, vous gagnez un bonus de +2 &agrave; votre jet d&rsquo;attaque. Si vous touchez, la cible est @Compendium[sfrpg.conditions.aAQ6SW6iK0EVq8Ce]{chancelante} pendant 1 round ; si vous obtenez un r&eacute;sultat critique, la cible est @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdie} pendant 1 round. Une fois que vous avez utilis&eacute; attaque pr&eacute;par&eacute;e, vous ne pouvez y avoir recours une nouvelle fois contre la m&ecirc;me cible pendant 24 heures. Vous ne pouvez pas effectuer d&rsquo;attaque au cours du round pendant lequel vous examinez votre cible m&ecirc;me si un pouvoir vous permettrait d&rsquo;attaquer sans utiliser une action simple ou complexe.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "5ème technique"
 		},
 		"Staggering Shot (Ex)": {
 			"frName": "Attaque renversante (Ext)",
@@ -224,6 +332,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p> <p>Vous vous tenez le mieux inform&eacute; possible des &eacute;v&eacute;nements et des personnages majeurs de la r&eacute;gion dans laquelle vous vous trouvez. Une fois que vous avez &eacute;t&eacute; dans une communaut&eacute; ou dans une r&eacute;gion pendant au moins 24 heures, quand vous tentez un test de Diplomatie pour r&eacute;unir des informations, vous pouvez renoncer &agrave; votre d&eacute; de ma&icirc;trise pour que ce test n&rsquo;exige qu&rsquo;une action rapide (au lieu des 1d4 heures requises normalement).</p>",
 			"frSource": "RDB p.72 – émissaire",
 			"frRequirements": "3ème niveau"
+		},
+		"Blitz": {
+			"frName": "Blitz",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat blitz se base sur l&rsquo;utilisation de la vitesse et de l&rsquo;agressivit&eacute; pour se retrouver au coeur de la m&ecirc;l&eacute;e. Vous augmentez votre vitesse et votre r&eacute;activit&eacute;, vous gagnez des capacit&eacute;s qui vous permettent d&rsquo;&ecirc;tre meilleur que vos ennemis au combat au corps &agrave; corps et vous continuez de combattre m&ecirc;me quand vous &ecirc;tes entour&eacute; d&rsquo;adversaires.</p> <ul> <li>@Compendium[sfrpg.class-features.bLPXnEXunSrwnIGT]{R&eacute;ponse rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.yolCeVEzPKF4p6q1]{Charge offensive (Ext)}</li> <li>@Compendium[sfrpg.class-features.m8OEzHyK2fs79LAP]{Pers&eacute;v&eacute;rance martiale (Ext)}</li> <li>@Compendium[sfrpg.class-features.IlyzRIm03pslJJh6]{Opportunit&eacute; optimale (Ext)}</li> <li>@Compendium[sfrpg.class-features.0uRrPeGV84fu4cQ7]{Contre toute attente (Ext)}</li> </ul>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Bombard": {
+			"frName": "Bombardement",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat bombardement est bas&eacute; sur l&rsquo;attaque de plusieurs cibles, souvent gr&acirc;ce &agrave; l&rsquo;utilisation de grenades, et l&rsquo;optimisation de la force physique pour manipuler des armes lourdes ayant un important recul. &Agrave; haut niveau, vous pouvez utiliser des lanceurs, des missiles et d&rsquo;autres armes lourdes.</p> <ul> <li>@Compendium[sfrpg.class-features.ahLmUCaB97j4WhHi]{Expert en grenades (Ext)}</li> <li>@Compendium[sfrpg.class-features.a7D1U298AYzqWEIt]{D&eacute;luge de feu (Ext)}</li> <li>@Compendium[sfrpg.class-features.SKhlSgd0VTfnaWQd]{Attaque incapacitante (Ext)}</li> <li>@Compendium[sfrpg.class-features.ObVT1gwBgW0hFPiO]{Expert en explosifs (Ext)}</li> <li>@Compendium[sfrpg.class-features.JPnLLa46kmzibkGl]{Attaque percutante (Ext)}</li> </ul>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "1er niveau"
 		},
 		"Combat Trick (Ex)": {
 			"frName": "Botte secrète (Ext)",
@@ -279,6 +399,12 @@
 			"frSource": "RDB p.80 – Mécano",
 			"frRequirements": "2ème niveau"
 		},
+		"Mindbreaker": {
+			"frName": "Briseur d’esprit",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "1er niveau"
+		},
 		"Smuggler's Compartment (Ex)": {
 			"frName": "Cache à contrebande (Ext; Drone)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.QsCRXffpsDoMvPnT]{Modules basiques}</p> <p>Votre drone est &eacute;quip&eacute; d&rsquo;un compartiment secret qui peut contenir un seul objet avec un volume faible ou inf&eacute;rieur. Pour remarquer et trouver ce compartiment, il faut r&eacute;ussir un test de Perception (DD = 15 + votre niveau de m&eacute;cano). Acc&eacute;der &agrave; ce compartiment n&eacute;cessite une action de mouvement.</p>",
@@ -321,6 +447,12 @@
 			"frSource": "RDB p.64 – Exploits d’agent",
 			"frRequirements": "6ème niveau"
 		},
+		"Star Shaman": {
+			"frName": "Chaman stellaire",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "1er niveau"
+		},
 		"Invisibility Field (Ex)": {
 			"frName": "Champ d’invisibilité (Ext; Drone)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.cQtmz297P5g6g5xv]{Modules avanc&eacute;s}</p> <p>Une fois par jour, en tant qu&rsquo;action simple, votre drone peut devenir invisible pendant 10 minutes comme avec le sort <em>@Compendium[sfrpg.spells.YDXegEus8p0BnsH1]{invisibilit&eacute;}</em>. Si pendant ce temps il effectue une attaque, il redevient visible. Votre drone peut d&eacute;penser 2 points de pers&eacute;v&eacute;rance pour utiliser &agrave; nouveau ce pouvoir le m&ecirc;me jour. Votre drone doit disposer du module camouflage r&eacute;actif pour pouvoir choisir celui-ci.</p>",
@@ -344,6 +476,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p>\n<p>Vous pouvez rapidement modifier votre posture, votre d&eacute;marche, votre attitude et l&rsquo;arrangement de vos v&ecirc;tements et &eacute;quipements pour que des observateurs peu attentifs ne vous reconnaissent pas. Quand vous tentez un test de D&eacute;guisement pour modifier des d&eacute;tails mineurs de votre apparence, vous pouvez renoncer &agrave; votre d&eacute; de ma&icirc;trise pour tenter le test en tant qu&rsquo;action de mouvement. Vous ne r&eacute;duisez pas le DD de 5 points quand vous modifiez des d&eacute;tails mineurs et si un observateur r&eacute;ussit un test oppos&eacute; de Perception qui r&eacute;v&egrave;le votre d&eacute;guisement, il se rend &eacute;galement compte de votre v&eacute;- ritable nature et des &eacute;l&eacute;ments que vous avez d&eacute;guis&eacute;s. Vous ne pouvez utiliser ce savoir-faire pour des d&eacute;guisements plus complexes.</p>",
 			"frSource": "RDB p.72 – émissaire",
 			"frRequirements": "3ème niveau"
+		},
+		"Smash Through (Ex) (3rd)": {
+			"frName": "Charge irresistible (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temp&ecirc;te blind&eacute;e}</p> <p>Quand vous &ecirc;tes &eacute;quip&eacute; d&rsquo;une armure lourde ou d&rsquo;une armure assist&eacute;e, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; vos jets d&rsquo;attaque pour effectuer la man&oelig;uvre offensive bousculade (voir page 246). Si vous r&eacute;ussissez &agrave; faire reculer la cible d&rsquo;au moins 3 m&egrave;tres, vous pouvez aussi effectuer contre elle une attaque &agrave; mains nues (et vous pouvez utiliser &agrave; cette occasion votre technique de marteau-pilon).</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "9ème niveau"
+		},
+		"Charge Attack (Ex) (2nd)": {
+			"frName": "Charge offensive (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</p> <p>En tant qu&rsquo;action simple, vous pouvez effectuer une charge sans le malus qui lui est associ&eacute; (voir page 248) et vous pouvez remplacer l&rsquo;attaque de corps &agrave; corps par bousculade. Quand vous gagnez l&rsquo;aptitude de classe assaut du soldat, vous pouvez effectuer deux attaques au lieu d&rsquo;une apr&egrave;s la charge. Ces deux attaques ont un malus de &ndash;4.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "5ème niveau"
 		},
 		"Stellar Rush (Su)": {
 			"frName": "Charge stellaire (Sur)",
@@ -375,6 +519,12 @@
 			"frSource": "RDB p.121 – Technomancien",
 			"frRequirements": "2ème niveau"
 		},
+		"Elusive Target (Ex) (4th)": {
+			"frName": "Cible insaisissable (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</p> <p>&Agrave; n&rsquo;importe quel tour au cours duquel vous vous d&eacute;placez, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +1 &agrave; votre CA jusqu&rsquo;au d&eacute;but de votre prochain tour.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "13ème niveau"
+		},
 		"Slick Customer (Ex; Diplomacy)": {
 			"frName": "Client habile (Ext ; Diplomatie)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p>\n<p>Quand vous tentez un jet de Diplomatie, vous pouvez ne pas lancer tout de suite votre d&eacute; de ma&icirc;trise. Apr&egrave;s avoir d&eacute;termin&eacute; les r&eacute;sultats du test, vous pouvez soit choisir de lancer votre d&eacute; de ma&icirc;trise et d&rsquo;ajouter le r&eacute;sultat au total, soit d&rsquo;y renoncer et de retenter le test (voir page 243). Au niveau 9, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour relancer le test et ajouter le r&eacute;sultat de votre d&eacute; de ma&icirc;trise.</p>",
@@ -387,10 +537,46 @@
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
 		},
+		"Arcane Assailant": {
+			"frName": "Combat arcane",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le combat arcane permet au combattant de renforcer son efficacit&eacute; gr&acirc;ce &agrave; des pouvoirs magiques en s&rsquo;inspirant de la tradition des guerriers- mages, une tradition remontant bien avant la Faille. Ces techniques permettent l&rsquo;utilisation de runes magiques pour augmenter la puissance de vos armes. De plus, vous avez acc&egrave;s &agrave; des pouvoirs l&eacute;gendaires qui vous conf&egrave;rent des options magiques quand vous n&rsquo;avez pas d&rsquo;arme enchant&eacute;e en votre possession.</p> <ul> <li>@Compendium[sfrpg.class-features.5FhYKMqOjwIFJJlQ]{Rune du chevalier sorcier (Sur)}</li> <li>@Compendium[sfrpg.class-features.pCfJfn8TQKboG6ni]{Secret du thaumaturge (Sur)}</li> <li>@Compendium[sfrpg.class-features.SGPPU23Z2VIKJtGH]{Puissance l&eacute;gendaire (Sur)}</li> <li>@Compendium[sfrpg.class-features.eJ3llvKb8nmO8lb0]{Secret de l&rsquo;archimage (Sur)}</li> <li>@Compendium[sfrpg.class-features.mB0V4cPLp7OI9MgN]{Attaque arcane (Sur)}</li> </ul>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Speak with Animals (Su)": {
+			"frName": "Communication avec les animaux (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "1er niveau"
+		},
+		"Channel Skill (Su)": {
+			"frName": "Compétence focalisée (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "2ème niveau"
+		},
+		"Inexplicable Commands (Su)": {
+			"frName": "Compulsions inexplicables (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "1er niveau"
+		},
+		"Intense Focus (Ex) (3rd)": {
+			"frName": "Concentration intensive (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</p> <p>Quand vous effectuez une attaque &agrave; distance contre une cible b&eacute;n&eacute;ficiant d&rsquo;un abri ou d&rsquo;un camouflage, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour annuler son bonus de CA d&ucirc; &agrave; son abri ou r&eacute;duire d&rsquo;une cat&eacute;gorie son camouflage (de camouflage total &agrave; camouflage ou de camouflage &agrave; aucun camouflage). Cet avantage s&rsquo;applique &agrave; toutes les attaques &agrave; distance que vous effectuez contre cette cible au cours de ce round. Vous ne pouvez utiliser concentration intensive plus d&rsquo;une fois par round et contre un ennemi b&eacute;n&eacute;ficiant d&rsquo;un abri total.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "9ème niveau"
+		},
 		"Look Alive (Ex)": {
 			"frName": "Concentrez-vous (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.hIhgdXnqGHBm0A64]{Improvisations de l'&eacute;missaire}</p><p>Quand vous d&eacute;pensez un point de pers&eacute;v&eacute;rance pour regagner des points d&rsquo;endurance apr&egrave;s un repos de 10 minutes, tous les alli&eacute;s situ&eacute;s &agrave; 18 m&egrave;tres de vous qui restent avec vous pendant tout ce temps b&eacute;n&eacute;ficient d&rsquo;un bonus de moral de +2 aux tests de Perception et d&rsquo;initiative pendant la prochaine heure ou jusqu&rsquo;&agrave; la prochaine p&eacute;riode de repos de 10 minutes.</p>",
 			"frSource": "RDB p.70 – Émissaire",
+			"frRequirements": "1er niveau"
+		},
+		"Connection": {
+			"frName": "Connexion",
+			"frDescription": "",
+			"frSource": "RDB p.91",
 			"frRequirements": "1er niveau"
 		},
 		"Building Your Drone": {
@@ -398,6 +584,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.cA0NuGh484BwlDjX]{Drone}</p> <p>Construire un drone est un processus en plusieurs &eacute;tapes. Tout d&rsquo;abord, vous devez choisir son ch&acirc;ssis qui, avec votre niveau de m&eacute;- cano, d&eacute;termine ses caract&eacute;ristiques. Ensuite, choisissez ses pouvoirs sp&eacute;ciaux et ses dons. Enfin, s&eacute;lectionnez les modules de votre drone (parfois abr&eacute;g&eacute;s &laquo; mods &raquo;) qui lui octroient des pouvoirs suppl&eacute;mentaires et vous permettent de le personnaliser compl&egrave;tement.</p> <p>Mis &agrave; part les aspects d&eacute;termin&eacute;s par le ch&acirc;ssis et les modules de votre drone, vous &ecirc;tes libre de choisir les d&eacute;tails exacts de son apparence et de sa personnalit&eacute;.</p> <h2>@Compendium[sfrpg.class-features.Y4ajp13ACVnzaS5s]{Ch&acirc;ssis de drone}</h2> <p>Chaque drone est con&ccedil;u &agrave; partir d&rsquo;un des trois types de ch&acirc;ssis et c&rsquo;est ce qui va d&eacute;terminer sa taille, ses caract&eacute;ristiques de d&eacute;part, ses modules initiaux ainsi que son th&egrave;me et son apparence g&eacute;n&eacute;rale. Les trois types de ch&acirc;ssis sont : combat, volant et furtif. Ils sont pr&eacute;sent&eacute;s page 83.</p> <h2>Caract&eacute;ristiques de base du drone</h2> <p>Les caract&eacute;ristiques de votre drone sont d&eacute;termin&eacute;es par votre niveau de m&eacute;cano (ou le niveau que vous lui assignez par l&rsquo;interm&eacute;diaire de votre capacit&eacute; de r&eacute;seau de contr&ocirc;le) et par les modules choisis pour lui. Sur la table 4&ndash;4 page 84 sont d&eacute;termin&eacute;es bon nombre des caract&eacute;ristiques de base de votre drone qui modifient celles qui sont d&eacute;termin&eacute;es par son ch&acirc;ssis. Les termes utilis&eacute;s dans la table 4&ndash;4 sont expliqu&eacute;s ci-dessous.</p> <ul> <li><strong>Niveau de classe :</strong> il est &eacute;gal &agrave; votre niveau de m&eacute;cano. Si vous utilisez l&rsquo;aptitude de classe r&eacute;seau de contr&ocirc;le et que vous assignez &agrave; votre drone moins de niveaux que vous n&rsquo;en avez, ses caract&eacute;ristiques de base sont d&eacute;termin&eacute;es par les niveaux que vous lui avez assign&eacute;s.</li> <li><strong>Points de vie :</strong> c&rsquo;est le nombre maximum de points de vie du drone. Pour les sorts et les autres effets qui d&eacute;pendent du nombre de d&eacute;s de vie ou du niveau, ces valeurs sont &eacute;gales &agrave; votre niveau de m&eacute;cano (ou au niveau que vous avez assign&eacute; &agrave; votre drone avec le don de classe r&eacute;seau de contr&ocirc;le). Les drones n&rsquo;ont pas de points d&rsquo;endurance.</li> <li><strong>Bonus de base &agrave; l&rsquo;attaque :</strong> c&rsquo;est le bonus de base &agrave; l&rsquo;attaque de votre drone.</li> <li><strong>Classe d&rsquo;armure :</strong> ajoutez le bonus indiqu&eacute; et le modificateur de Dext&eacute;rit&eacute; du drone &agrave; ses valeurs de classe d&rsquo;armure d&eacute;pendant de son ch&acirc;ssis pour d&eacute;terminer les CAE et CAC totales de votre drone. Il ne peut porter aucune armure et vous ne pouvez augmenter sa CA sans choisir les modules appropri&eacute;s.</li> <li><strong>Bonus de meilleur jet de sauvegarde, bonus de mauvais jet de sauvegarde :</strong> ce sont les bonus de base du drone &agrave; ses jets de sauvegarde. Pour chaque ch&acirc;ssis sont indiqu&eacute;s quels jets de sauvegarde utilisent le bonus de meilleur jet de sauvegarde ou le bonus de mauvais jet de sauvegarde.</li> <li><strong>Augmentation de caract&eacute;ristiques :</strong> augmenter de ce montant deux des valeurs de caract&eacute;ristiques de votre drone en fonction de son ch&acirc;ssis.</li> <li><strong>Dons :</strong> c&rsquo;est le nombre total de dons du drone. Vous pouvez les choisir dans la liste des Dons de drone page 84. Un drone ne peut choisir un don qui n&eacute;cessite un bonus de base &agrave; l&rsquo;attaque de +1 jusqu&rsquo;&agrave; ce qu&rsquo;il gagne son second don au niveau 3.</li> <li><strong>Modules :</strong> c&rsquo;est le nombre de modules personnalis&eacute;s que vous pouvez ajouter &agrave; votre drone.</li> <li><strong>Sp&eacute;cial :</strong> votre drone gagne ces pouvoirs quand vous atteignez (ou que vous lui assignez via le r&eacute;seau de contr&ocirc;le) le niveau appropri&eacute;. Ces pouvoirs sp&eacute;ciaux sont d&eacute;crits ci-apr&egrave;s.</li> </ul> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong> <span class=\"fontstyle0\">NIV. DE<br />CLASSE</span></strong> </td> <td><strong>PV</strong></td> <td><strong> <span class=\"fontstyle0\">BONUS<br />DE BASE<br />&Agrave; L&rsquo;AT</span>.</strong></td> <td><strong>CA</strong></td> <td><strong> <span class=\"fontstyle0\">BONUS<br />MEILLEUR<br />JET DE SAUV.</span></strong></td> <td><strong> <span class=\"fontstyle0\">BONUS<br />MAUVAIS JET<br />DE SAUV.</span> </strong></td> <td><strong> <span class=\"fontstyle0\">AUGMENTATION<br />DE CARAC.</span><br /></strong></td> <td><strong> <span class=\"fontstyle0\">DONS</span> </strong></td> <td><strong> <span class=\"fontstyle0\">MODULES</span> </strong></td> <td><strong> <span class=\"fontstyle0\">POUVOIRS SP&Eacute;CIAUX</span></strong></td> </tr> <tr> <td>1</td> <td>10</td> <td>+1</td> <td>+0</td> <td>+2</td> <td>+0</td> <td>&mdash;</td> <td>1</td> <td>1</td> <td><span class=\"fontstyle0\">Modules de base, IA limit&eacute;e, ma&icirc;tre contr&ocirc;le, module de comp&eacute;tence</span> </td> </tr> <tr> <td>2</td> <td>20</td> <td>+2</td> <td>+1</td> <td>+3</td> <td>+0</td> <td>&mdash;</td> <td>1</td> <td>1</td> </tr> <tr> <td>3</td> <td>30</td> <td>+3</td> <td>+2</td> <td>+3</td> <td>+1</td> <td>&mdash;</td> <td>2</td> <td>2</td> </tr> <tr> <td>4</td> <td>40</td> <td>+3</td> <td>+3</td> <td>+3</td> <td>+1</td> <td>+1</td> <td>2</td> <td>2</td> </tr> <tr> <td>5</td> <td>50</td> <td>+4</td> <td>+4</td> <td>+4</td> <td>+1</td> <td>&mdash;</td> <td>2</td> <td>3</td> </tr> <tr> <td>6</td> <td>60</td> <td>+5</td> <td>+5</td> <td>+4</td> <td>+1</td> <td>&mdash;</td> <td>3</td> <td>3</td> </tr> <tr> <td>7</td> <td>70</td> <td>+6</td> <td>+6</td> <td>+5</td> <td>+2</td> <td>+1</td> <td>3</td> <td>4</td> <td><span class=\"fontstyle0\">IA avanc&eacute;e</span> </td> </tr> <tr> <td>8</td> <td>80</td> <td>+6</td> <td>+7</td> <td>+5</td> <td>+2</td> <td>&mdash;</td> <td>3</td> <td>4</td> </tr> <tr> <td>9</td> <td>90</td> <td>+7</td> <td>+8</td> <td>+5</td> <td>+2</td> <td>&mdash;</td> <td>4</td> <td>5</td> </tr> <tr> <td>10</td> <td>100</td> <td>+8</td> <td>+9</td> <td>+6</td> <td>+2</td> <td>+1</td> <td>4</td> <td>5</td> <td><span class=\"fontstyle0\">Noyau d&rsquo;&eacute;nergie am&eacute;lior&eacute;</span> </td> </tr> <tr> <td>11</td> <td>110</td> <td>+9</td> <td>+9</td> <td>+6</td> <td>+3</td> <td>&mdash;</td> <td>5</td> <td>6</td> <td><span class=\"fontstyle0\">Modules avanc&eacute;s</span> </td> </tr> <tr> <td>12</td> <td>120</td> <td>+9</td> <td>+10</td> <td>+6</td> <td>+3</td> <td>&mdash;</td> <td>5</td> <td>6</td> </tr> <tr> <td>13</td> <td>130</td> <td>+10</td> <td>+11</td> <td>+7</td> <td>+3</td> <td>+1</td> <td>5</td> <td>7</td> </tr> <tr> <td>14</td> <td>140</td> <td>+11</td> <td>+12</td> <td>+7</td> <td>+3</td> <td>&mdash;</td> <td>6</td> <td>7</td> </tr> <tr> <td>15</td> <td>150</td> <td>+12</td> <td>+13</td> <td>+8</td> <td>+4</td> <td>&mdash;</td> <td>6</td> <td>8</td> </tr> <tr> <td>16</td> <td>160</td> <td>+12</td> <td>+14</td> <td>+8</td> <td>+4</td> <td>+1</td> <td>6</td> <td>8</td> </tr> <tr> <td>17</td> <td>170</td> <td>+13</td> <td>+15</td> <td>+8</td> <td>+4</td> <td>&mdash;</td> <td>7</td> <td>9</td> </tr> <tr> <td>18</td> <td>190</td> <td>+14</td> <td>+16</td> <td>+9</td> <td>+4</td> <td>&mdash;</td> <td>7</td> <td>9</td> </tr> <tr> <td>19</td> <td>210</td> <td>+15</td> <td>+17</td> <td>+9</td> <td>+5</td> <td>+1</td> <td>8</td> <td>10</td> </tr> <tr> <td>20</td> <td>230</td> <td>+15</td> <td>+18</td> <td>+9</td> <td>+5</td> <td>&mdash;</td> <td>8</td> <td>10</td> <td><span class=\"fontstyle0\">V&eacute;ritable IA</span> </td> </tr> </tbody> </table>",
 			"frSource": "RDB p.82 – Mécano",
 			"frRequirements": "1er niveau"
+		},
+		"Healing Touch (Su)": {
+			"frName": "Contact guérisseur (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "1er niveau"
+		},
+		"Against the Odds (Ex) (5th)": {
+			"frName": "Contre toute attente (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</p> <p>Vous gagnez un bonus aux jets de d&eacute;g&acirc;ts au corps &agrave; corps &eacute;gal au double du nombre d&rsquo;ennemis situ&eacute;s &agrave; moins de 3 m&egrave;tres de vous. Les adversaires qui ne constituent pas une menace suffisante (ceux ayant un FP &eacute;gal &agrave; votre niveau -4 ou moins, ou au choix du MJ) ne comptent pas pour calculer ce bonus.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "17ème niveau"
 		},
 		"Spell Countermeasures (Ex)": {
 			"frName": "Contre-mesures anti-sorts (Ext)",
@@ -417,6 +615,18 @@
 			"frSource": "RDB p.121 – Technomancien",
 			"frRequirements": "2ème niveau"
 		},
+		"Backlash (Su)": {
+			"frName": "Contrecoup (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "3ème niveau"
+		},
+		"Absolute Control (Su)": {
+			"frName": "Contrôle absolu (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "18ème niveau"
+		},
 		"Corona (Su)": {
 			"frName": "Couronne solaire (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action simple, vous pouvez vous envelopper d&rsquo;une aura de plasma incandescent. Vous gagnez r&eacute;sistance au froid 10 et toute cr&eacute;ature adjacente qui vous touche avec une arme naturelle ou une arme de corps &agrave; corps subit 2d6 points de d&eacute;g&acirc;ts de feu. La couronne solaire dure 1 round ou jusqu&rsquo;&agrave; ce que vous quittiez le mode photon. Au niveau 12, les d&eacute;g&acirc;ts sont de 3d6 et la r&eacute;sistance au froid est de 15. Au niveau 18, les d&eacute;g&acirc;ts sont de 4d6 et la r&eacute;sistance au froid est de 20.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, toute cr&eacute;ature qui commence son tour adjacente &agrave; vous alors que votre couronne est activ&eacute;e subit des d&eacute;g&acirc;ts de feu &eacute;gaux &agrave; la moiti&eacute; de votre niveau de solarien.</p>",
@@ -435,11 +645,29 @@
 			"frSource": "RDB p.122 – Technomancien",
 			"frRequirements": "5ème niveau"
 		},
+		"Guard's Protection (Ex) (2nd)": {
+			"frName": "Défense de proximité (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</p> <p>Quand un alli&eacute; qui vous est adjacent subit les d&eacute;g&acirc;ts d&rsquo;une attaque, vous pouvez utiliser l&rsquo;action r&eacute;action pour en absorber une partie. Vous subissez la moiti&eacute; des d&eacute;g&acirc;ts et votre alli&eacute; subit l&rsquo;autre moiti&eacute;. Ce pouvoir n&rsquo;a aucun effet sur les sorts et sur les &eacute;tats qui peuvent d&eacute;couler de cette attaque aussi bien sur votre alli&eacute; que sur vous. De plus, vous &ecirc;tes d&eacute;sormais form&eacute; au port des armures assist&eacute;es.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "5ème niveau"
+		},
 		"Desperate Defense (Ex)": {
 			"frName": "Défense désespérée (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.hIhgdXnqGHBm0A64]{Improvisations de l'&eacute;missaire}</p><p>En tant qu&rsquo;action de mouvement, vous pouvez faire en sorte qu&rsquo;un de vos alli&eacute;s &agrave; c&ocirc;t&eacute; de vous ne soit pas consid&eacute;r&eacute; comme sans d&eacute;fense (voir page 277) pour les actions qui peuvent &ecirc;tre effectu&eacute;es contre des cr&eacute;atures sans d&eacute;fense (comme coup de gr&acirc;ce). Cet effet prend fin si la cr&eacute;ature n&rsquo;est plus adjacente &agrave; vous ou au d&eacute;but de votre prochain tour.</p>",
 			"frSource": "RDB p.72 – émissaire",
 			"frRequirements": "8ème niveau"
+		},
+		"Impenetrable Defense (Ex) (5th)": {
+			"frName": "Défense impénétrable (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</p> <p>En tant qu&rsquo;action simple, vous pouvez vous positionner pour &eacute;tablir une puissante d&eacute;fense pour vous et un alli&eacute; qui vous est adjacent. Jusqu&rsquo;au d&eacute;but de votre prochain tour, vous b&eacute;n&eacute;ficiez de trois avantages : votre R&eacute;duction des d&eacute;g&acirc;ts est de RD 10/&mdash;; vous et l&rsquo;alli&eacute; de votre choix gagnez chacun un bonus de +4 &agrave; votre CA ; et si vous utilisez d&eacute;fense de proximit&eacute;, vous subissez tous les d&eacute;g&acirc;ts et votre alli&eacute; aucun.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "17ème niveau"
+		},
+		"Focused Damage (Ex) (4th)": {
+			"frName": "Dégâts concentrés (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</p> <p>Quand vous utilisez tir concentr&eacute;, chaque attaque contre la premi&egrave;re cible inflige 2d6 points de d&eacute;g&acirc;ts suppl&eacute;mentaires. Les cr&eacute;atures additionnelles que vous attaquez apr&egrave;s avoir tu&eacute; ou neutralis&eacute; la premi&egrave;re cible ne subissent pas ces d&eacute;g&acirc;ts suppl&eacute;mentaires.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "13ème niveau"
 		},
 		"Cunning Disguise (Ex; Disguise)": {
 			"frName": "Déguisement ingénieux (Ext ; Déguisement)",
@@ -452,6 +680,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Une fois par jour, en tant qu&rsquo;action simple, vous pouvez rapidement modifier votre apparence. Cela fonctionne comme un sort de <em>@Compendium[sfrpg.spells.HGg3fIQGDzUwueVa]{d&eacute;guisement}</em> et dure pendant un nombre de minutes &eacute;gal &agrave; votre niveau d&rsquo;agent. Au niveau 6, vous pouvez utiliser ce pouvoir une fois de plus chaque jour et jusqu&rsquo;&agrave; trois fois par jour au niveau 10.</p>",
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
+		},
+		"Heavy Fire (Ex) (2nd)": {
+			"frName": "Déluge de feu (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</p> <p>Vous pouvez utiliser votre puissance physique pour stabiliser votre arme et rendre vos attaques plus dangereuses. En tant qu&rsquo;action complexe, vous pouvez effectuer une seule attaque &agrave; distance qui inflige des d&eacute;g&acirc;ts suppl&eacute;mentaires &agrave; toutes les cibles, &eacute;gaux &agrave; votre bonus de Force. Vous pouvez utiliser ce pouvoir en conjonction avec les propri&eacute;t&eacute;s sp&eacute;ciales automatique, explosion et peu maniable (voir pages 181&ndash;182).</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "5ème niveau"
 		},
 		"Versatile Movement (Ex)": {
 			"frName": "Déplacement polyvalent (Ext)",
@@ -477,6 +711,24 @@
 			"frSource": "RDB p.80 – Mécano",
 			"frRequirements": "2ème niveau"
 		},
+		"Emotionsense (Su)": {
+			"frName": "Détection des émotions (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "6ème niveau"
+		},
+		"Greater Emotionsense (Su)": {
+			"frName": "Détection des émotions supérieure (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "12ème niveau"
+		},
+		"Discern Lies (Sp)": {
+			"frName": "Détection des mensonges (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "9ème niveau"
+		},
 		"Detective": {
 			"frName": "Détective",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Votre talent pour cerner les gens et pour faire des d&eacute;ductions vous aide &agrave; conna&icirc;tre la v&eacute;rit&eacute; dans n&rsquo;importe quelle situation.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Culture et Psychologie. Vous pouvez tenter un test de Psychologie avec un bonus de +4 pour effectuer une feinte offensive en interpr&eacute;tant le comportement de votre adversaire.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.ISaVcxApeHWdY767]{Esquisse de v&eacute;rit&eacute; (Ext)}.</li> <li><strong>Sagacit&eacute; du d&eacute;tective (Ext) :</strong> Au niveau 11, votre incroyable perspicacit&eacute; vous aide &agrave; faire progresser vos enqu&ecirc;tes quand les investigations plus classiques &eacute;chouent. Une fois par jour, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour r&eacute;fl&eacute;chir &agrave; un myst&egrave;re, ou &agrave; un dilemme, pendant 10 minutes pour b&eacute;n&eacute;ficier d&rsquo;une r&eacute;v&eacute;lation comme si vous aviez lanc&eacute; un sort de <em>divination</em> (bien que cette r&eacute;v&eacute;lation soit souvent assez &eacute;nigmatique).</li> </ul>",
@@ -495,6 +747,12 @@
 			"frSource": "RDB p.107 – Solarien",
 			"frRequirements": "9ème niveau"
 		},
+		"Brutal Blast (Ex)": {
+			"frName": "Dispersion dévastatrice (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Vous gagnez un bonus d&rsquo;intuition de +2 aux d&eacute;g&acirc;ts que vous infligez avec des armes qui ont la propri&eacute;t&eacute; sp&eacute;ciale dispersion (comme le fusil &agrave; dispersion). Ces d&eacute;g&acirc;ts suppl&eacute;mentaires ne s&rsquo;appliquent qu&rsquo;aux cibles situ&eacute;es &agrave; moins de 3 m&egrave;tres de vous ; les cr&eacute;atures plus &eacute;loign&eacute;es subissent des d&eacute;g&acirc;ts normaux. Ce bonus augmente de 1 point tous les 4 niveaux de soldat.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
 		"Flight System (Ex)": {
 			"frName": "Dispositif de vol (Ext; Drone)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.cQtmz297P5g6g5xv]{Modules avanc&eacute;s}</p> <p>Votre drone gagne une vitesse de vol &eacute;gale &agrave; la moiti&eacute; de sa vitesse au sol avec une man&oelig;uvrabilit&eacute; moyenne pendant une dur&eacute;e maximale de 10 minutes par jour. Il n&rsquo;est pas n&eacute;cessaire d&rsquo;utiliser toute son autonomie en une seule fois mais chaque utilisation doit &ecirc;tre en multiple d&rsquo;1 minute. Vous pouvez choisir ce module une seconde fois ; dans ce cas, la vitesse de vol du drone est &eacute;gale &agrave; sa vitesse au sol et son temps de vol est illimit&eacute;.</p>",
@@ -512,6 +770,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour cr&eacute;er une r&eacute;plique holographique ou une projection psychique de vous-m&ecirc;me. Elle s&rsquo;&eacute;loigne de vous pendant un nombre de rounds &eacute;gal &agrave; votre niveau d&rsquo;agent. Ce double escalade les murs, saute par-dessus des fosses ou passe simplement &agrave; travers les obstacles en se d&eacute;pla&ccedil;ant &agrave; deux fois votre vitesse dans une seule direction que vous indiquez quand vous activez ce pouvoir. Sa trajectoire ne peut &ecirc;tre modifi&eacute;e. Ceux qui interagissent avec le double peuvent tenter un jet de Volont&eacute; pour comprendre qu&rsquo;il n&rsquo;est pas r&eacute;el. Vous devez avoir l&rsquo;exploit @Compendium[sfrpg.class-features.ejMFotFoC7gbTqvh]{clone holographique} pour apprendre celui-ci.</p>",
 			"frSource": "RDB p.65 – Exploits d’agent",
 			"frRequirements": "10ème niveau"
+		},
+		"Combat Feat": {
+			"frName": "Don de combat",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Au niveau 2 puis tous les 2 niveaux suivants, vous gagnez un don bonus en plus de ceux que vous gagnez normalement en progressant. Ces dons bonus doivent &ecirc;tre choisis parmi les dons de combat.</p> <p>&Agrave; chaque fois que vous gagnez un nouveau don bonus, vous pouvez aussi choisir de remplacer un des dons bonus que vous avez d&eacute;j&agrave; obtenus par un don bonus diff&eacute;rent. Le don que vous remplacez ne peut pas &ecirc;tre l&rsquo;un des pr&eacute;requis pour un autre don ou une autre aptitude. &Agrave; chaque niveau, vous ne pouvez remplacer qu&rsquo;un seul don et vous devez d&eacute;cider de le faire au moment o&ugrave; vous gagnez un nouveau don bonus.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "2ème niveau"
 		},
 		"Double Debilitation (Ex)": {
 			"frName": "Double handicap (Ext)",
@@ -555,10 +819,22 @@
 			"frSource": "RDB p.86 – Mécano",
 			"frRequirements": "11ème niveau"
 		},
+		"Echoes of Obedience (Su)": {
+			"frName": "Échos d’obéissance (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "6ème niveau"
+		},
 		"Glow of Life (Su)": {
 			"frName": "Éclat de vie (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour r&eacute;cup&eacute;rer un nombre de points de vie &eacute;gal &agrave; deux fois votre niveau de solarien. Une fois que vous avez utilis&eacute; cette r&eacute;v&eacute;lation, vous ne pouvez y avoir de nouveau recours avant d&rsquo;avoir r&eacute;cup&eacute;r&eacute; des points d&rsquo;endurance au cours d&rsquo;un repos de 10 minutes.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, vous pouvez r&eacute;cup&eacute;rer un nombre de points de vie &eacute;gal &agrave; trois fois votre niveau de solarien.</p>",
 			"frSource": "RDB p.105 – Solarien",
+			"frRequirements": "6ème niveau"
+		},
+		"Stargazer (Su)": {
+			"frName": "Éclat des étoiles (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
 			"frRequirements": "6ème niveau"
 		},
 		"Diviner's Tap (Su)": {
@@ -572,6 +848,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action simple, vous pouvez augmenter les effets de la gravit&eacute; sur les organes internes ou les fonctions vitales d&rsquo;une cible situ&eacute;e &agrave; moins de 9 m&egrave;tres qui aura du mal &agrave; agir normalement. La cible doit r&eacute;ussir un jet de Vigueur ou &ecirc;tre @Compendium[sfrpg.conditions.aAQ6SW6iK0EVq8Ce]{chancelante} pendant 1 round. Cette r&eacute;v&eacute;lation affecte &eacute;galement les cr&eacute;atures artificielles. Vous pouvez maintenir cet effet &agrave; chaque round avec une action de mouvement mais la cible peut tenter un nouveau jet de sauvegarde &agrave; chaque fois pour y mettre un terme. Une fois qu&rsquo;une cr&eacute;ature a r&eacute;ussi un jet de sauvegarde ou une fois l&rsquo;effet termin&eacute;, vous ne pouvez la prendre de nouveau pour cible pendant 24 heures.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour &eacute;galement @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdir} la cible pendant 1 round. Si vous maintenez l&rsquo;effet de round en round, la victime reste @Compendium[sfrpg.conditions.aAQ6SW6iK0EVq8Ce]{chancelante} mais cela ne prolonge pas l&rsquo;effet @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{d&rsquo;&eacute;tourdissement}.</p>",
 			"frSource": "RDB p.105 – Solarien",
 			"frRequirements": "6ème niveau"
+		},
+		"Empath": {
+			"frName": "Empathe",
+			"frDescription": "",
+			"frSource": "RDB p.93",
+			"frRequirements": "1er niveau"
+		},
+		"Empathy (Su)": {
+			"frName": "Empathie (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "1er niveau"
 		},
 		"Weapon Mount (Ex)": {
 			"frName": "Emplacement d’arme (Ext; Drone)",
@@ -591,6 +879,12 @@
 			"frSource": "RDB p.104 – Solarien",
 			"frRequirements": "2ème niveau"
 		},
+		"Glean Spell (Su)": {
+			"frName": "Emprunt de sort (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "18ème niveau"
+		},
 		"Resistant Energy (Ex)": {
 			"frName": "Énergie résiduelle (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YMGOKoZtKgJqIsAD]{Astuce de M&eacute;cano}</p> <p>M&ecirc;me quand votre @Compendium[sfrpg.class-features.xcIBsW8VL3DD9rVU]{bouclier d&rsquo;&eacute;nergie} est inactif, l&rsquo;&eacute;nergie r&eacute;siduelle vous prot&egrave;ge d&rsquo;un type d&rsquo;attaque d&rsquo;&eacute;nergie. Choisissez entre l&rsquo;acide, le froid, l&rsquo;&eacute;lectricit&eacute;, le feu ou le son. Vous b&eacute;n&eacute;ficiez d&rsquo;une r&eacute;sistance 5 contre ce type d&rsquo;&eacute;nergie. Vous devez avoir l&rsquo;astuce de m&eacute;cano @Compendium[sfrpg.class-features.xcIBsW8VL3DD9rVU]{bouclier d&rsquo;&eacute;nergie} pour choisir celle-ci.</p>",
@@ -602,6 +896,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YMGOKoZtKgJqIsAD]{Astuce de M&eacute;cano}</p> <p>Choisissez un autre type d&rsquo;&eacute;nergie suppl&eacute;mentaire pour @Compendium[sfrpg.class-features.vKizgDpw42XO6BQm]{&eacute;nergie r&eacute;siduelle}. Vous gagnez r&eacute;sistance 15 contre cette &eacute;nergie et la premi&egrave;re que vous avez choisie. Vous devez avoir l&rsquo;astuce de m&eacute;cano @Compendium[sfrpg.class-features.vKizgDpw42XO6BQm]{&eacute;nergie r&eacute;siduelle} pour pouvoir choisir celle-ci.</p>",
 			"frSource": "RDB p.81 – Mécano",
 			"frRequirements": "14ème niveau"
+		},
+		"Armor Training (Ex) (1st)": {
+			"frName": "Entraînement aux armures (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</p> <p>Vous r&eacute;duisez de 1 point le malus aux tests des armures que vous portez (minimum 0) et vous augmentez de 1 point le bonus maximum de Dext&eacute;rit&eacute; autoris&eacute; par votre armure.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "1er niveau"
 		},
 		"Spy": {
 			"frName": "Espion",
@@ -627,6 +927,12 @@
 			"frSource": "RDB p.61 – Agent",
 			"frRequirements": "2ème niveau"
 		},
+		"Duck and Weave (Ex) (3rd)": {
+			"frName": "Esquives et zigzagues (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</p> <p>Quand vous vous d&eacute;placez ou que vous effectuez une attaque &agrave; distance, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour &eacute;viter de provoquer des attaques d&rsquo;opportunit&eacute; &agrave; cause de ce d&eacute;placement ou de cette attaque.&nbsp;</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "9ème niveau"
+		},
 		"Miniature Star (Su)": {
 			"frName": "Étoile miniature (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.UVNOjH2ERlQjcGnU]{R&eacute;v&eacute;lations ultimes}</p> <p>Quand vous &ecirc;tes harmonis&eacute; avec les photons, en tant qu&rsquo;action simple, vous pouvez cr&eacute;er un simulacre d&rsquo;&eacute;toile. C&rsquo;est une sph&egrave;re d&rsquo;un rayon de 3 m&egrave;tres qui remplit votre case (ou une de vos cases si vous &ecirc;tes plus grand qu&rsquo;une taille M) et tous les espaces &agrave; 1,50 m&egrave;tre de celui-ci. Toute cr&eacute;ature qui d&eacute;bute son tour dans un des espaces occup&eacute;s par l&rsquo;&eacute;toile subit 1d6 points de d&eacute;g&acirc;ts de feu tous les 2 niveaux de solarien. Toute cr&eacute;ature qui commence son tour &agrave; 1,50 m&egrave;tre des espaces occup&eacute;s par l&rsquo;&eacute;toile subit la moiti&eacute; de ces d&eacute;g&acirc;ts. Au niveau 17, vous pouvez cr&eacute;er une &eacute;toile de 4,5 m&egrave;tres de rayon qui affecte votre espace et tous les espaces situ&eacute;s &agrave; 3 m&egrave;tres de rayon (pour un total de 21 espaces).</p> <p>Les cr&eacute;atures peuvent traverser l&rsquo;&eacute;toile mais elle exerce une attraction gravitationnelle et toute cr&eacute;ature qui se trouve &agrave; l&rsquo;int&eacute;rieur ou &agrave; moins de 1,50 m&egrave;tre d&rsquo;elle doit d&eacute;penser deux fois plus de potentiel de mouvement pour chaque espace travers&eacute; qui l&rsquo;&eacute;loigne du coeur de l&rsquo;&eacute;toile. L&rsquo;astre perdure pendant 1d4+1 rounds et ne se d&eacute;place pas m&ecirc;me si vous vous en &eacute;loignez ult&eacute;rieurement. Vous &ecirc;tes immunis&eacute; contre tous les effets de votre &eacute;toile miniature.</p>",
@@ -651,11 +957,29 @@
 			"frSource": "RDB p.87 – Mécano",
 			"frRequirements": "1er niveau"
 		},
+		"Melee Striker (Ex)": {
+			"frName": "Expert du corps à corps (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Avec vos armes de corps &agrave; corps, ajoutez un bonus aux d&eacute;g&acirc;ts suppl&eacute;mentaire &eacute;gal &agrave; la moiti&eacute; de votre bonus de Force.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
 		"Expert Forger (Ex; Computers)": {
 			"frName": "Expert en contrefaçons (Ext ; Informatique)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p> <p>Vous disposez d&rsquo;une base de donn&eacute;es de tampons &eacute;lectroniques et de formulaires et certificats pr&eacute;-remplis qui vous permet d&rsquo;imiter rapidement des documents officiels. Quand vous tentez un test d&rsquo;Informatique pour cr&eacute;er une contrefa&ccedil;on, tant que vous avez acc&egrave;s &agrave; un ordinateur, vous pouvez renoncer &agrave; votre d&eacute; de ma&icirc;trise pour tenter ce test comme une action complexe (au lieu du temps normal de 1d4 minutes).</p>",
 			"frSource": "RDB p.73 – émissaire",
 			"frRequirements": "3ème niveau"
+		},
+		"Explosives Acumen (Ex) (4th)": {
+			"frName": "Expert en explosifs (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</p> <p>Vous augmentez de 1 le DD pour &eacute;viter les attaques que vous effectuez avec des armes dot&eacute;es de la propri&eacute;t&eacute; sp&eacute;ciale explosion. Vous r&eacute;duisez de votre bonus de Force les d&eacute;g&acirc;ts que vous subissez &agrave; cause d&rsquo;armes dot&eacute;es de la propri&eacute;t&eacute; sp&eacute;ciale explosion.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "13ème niveau"
+		},
+		"Grenade Expert (Ex) (1st)": {
+			"frName": "Expert en grenades (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</p> <p>Vous augmentez le facteur de port&eacute;e des grenades que vous lancez de 5 x votre bonus de Force. De plus, vous pouvez r&eacute;cup&eacute;rer suffisamment de mat&eacute;riel pour fabriquer une grenade sans en payer le co&ucirc;t. Fabriquer une grenade prend 10 minutes. Vous pouvez fabriquer n&rsquo;importe quelle grenade dont le niveau d&rsquo;objet est inf&eacute;rieur ou &eacute;gal &agrave; votre niveau de soldat, mais elle sera instable et vous &ecirc;tes le seul &agrave; pouvoir l&rsquo;utiliser efficacement. Si quelqu&rsquo;un d&rsquo;autre essaie, il &eacute;choue. Vous ne pouvez avoir qu&rsquo;une seule grenade &agrave; la fois fabriqu&eacute;e avec ce pouvoir (si vous en cr&eacute;ez une autre en utilisant ce pouvoir, l&rsquo;ancienne grenade ne fonctionne plus).</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "1er niveau"
 		},
 		"Engineering Adept (Ex; Engineering)": {
 			"frName": "Expert en ingénierie (Ext ; Ingénierie)",
@@ -680,6 +1004,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Gr&acirc;ce &agrave; vos connaissances et vos comp&eacute;tences de survie, vous &ecirc;tes sp&eacute;cialis&eacute; dans l&rsquo;exploration des sites dangereux.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Culture et Survie. Vous pouvez tenter un test de Survie avec un bonus de +4 pour effectuer une feinte offensive en utilisant votre environnement &agrave; votre avantage.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.tJrt3OsZ3UVPvFEi]{Vigilance constante (Ext)}.</li> <li><strong>Au c&oelig;ur de l&rsquo;inconnu (Ext) :</strong> au niveau 11, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; vos tests de Culture et de Survie. Tant que vous &ecirc;tes &agrave; la fois hors de votre syst&egrave;me stellaire d&rsquo;origine et des Mondes du Pacte (si ce ne sont pas les m&ecirc;mes), vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +2 &agrave; vos tests d&rsquo;initiative. &Agrave; la discr&eacute;tion du MJ, au cours de parties centr&eacute;es sur un syst&egrave;me stellaire autre que celui des Mondes du Pacte, remplacez les Mondes du Pacte par ce syst&egrave;me stellaire.</li> </ul>",
 			"frSource": "RDB p.62 – Agent",
 			"frRequirements": "1er niveau"
+		},
+		"Explode Head (Su)": {
+			"frName": "Explosion crânienne (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "18ème niveau"
 		},
 		"Universal Expression (Ex)": {
 			"frName": "Expression universelle (Ext)",
@@ -735,11 +1065,29 @@
 			"frSource": "RDB p.71 – Émissaire",
 			"frRequirements": "4ème niveau"
 		},
+		"Healing Channel (Su)": {
+			"frName": "Focalisation curative (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "1er niveau"
+		},
+		"Channel Life (Su)": {
+			"frName": "Focalisation de la vie (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "15ème niveau"
+		},
 		"Override (Ex)": {
 			"frName": "Forçage (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PU3uwrAcmGXMGo2n]{Sp&eacute;cialisation}</p> <p>Vous ma&icirc;trisez aussi bien les techniques de vol &agrave; la tire que celles de braquages beaucoup plus ambitieux.</p> <ul> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Perception et Escamotage. Vous pouvez utiliser Escamotage pour effectuer une feinte offensive en dissimulant vos armes et en agissant sans qu&rsquo;on le remarque.</li> <li><strong>Exploit de sp&eacute;cialisation :</strong> @Compendium[sfrpg.class-features.YjDe1a16TvdF232b]{Diversion holographique (Ext)}.</li> <li><strong>Plan de secours (Ext) :</strong> au niveau 11, vous avez effectu&eacute; suffisamment de cambriolages pour comprendre que les choses ne se passent jamais exactement comme pr&eacute;vu. Quand quelque chose d&rsquo;inattendu se produit au cours d&rsquo;un vol ou d&rsquo;une infiltration, vous pouvez d&eacute;penser 2 points de pers&eacute;v&eacute;rance et annoncer un plan de secours que vous avez &eacute;tabli par avance pour cette &eacute;ventualit&eacute;. Vous avez alors soit le bon accessoire (comme une identification ou un fichier informatique mais jamais un objet tr&egrave;s on&eacute;reux), la bonne information ou un agent que vous avez engag&eacute; pour effectuer une seule t&acirc;che au bon moment. Vous tentez alors un test de comp&eacute;- tence. La comp&eacute;tence appropri&eacute;e et le DD sont &agrave; la discr&eacute;tion du MJ mais plus le plan est complexe et improbable plus le DD sera &eacute;lev&eacute; (voir DD des comp&eacute;tences page 392 pour d&eacute;finir ces DD). Si vous r&eacute;ussissez, vous avez cet objet, cette connaissance ou votre confr&egrave;re r&eacute;alise la t&acirc;che sp&eacute;cifi&eacute;e. Si vous &eacute;chouez, soit vous n&rsquo;avez pas ce dont vous avez besoin, soit votre plan &eacute;choue.</li> </ul>",
 			"frSource": "RDB p.78 – Mécano",
 			"frRequirements": "9ème niveau"
+		},
+		"Starlight Form (Su)": {
+			"frName": "Forme stellaire (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "3ème niveau"
 		},
 		"Soul Furnace (Su)": {
 			"frName": "Fournaise spirituelle (Sur)",
@@ -765,6 +1113,18 @@
 			"frSource": "RDB p.85 – Mécano",
 			"frRequirements": "1er niveau"
 		},
+		"Guard": {
+			"frName": "Garde",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat garde est bas&eacute; sur la d&eacute;fense. Vous devenez un expert en port d&rsquo;armure, pour vous prot&eacute;ger des attaques et pour encaisser les d&eacute;g&acirc;ts et autres revers dus aux attaques qui franchissent vos d&eacute;fenses.</p> <ul> <li>@Compendium[sfrpg.class-features.uAGN9sfUbx66jeqt]{Entra&icirc;nement aux armures (Ext)}</li> <li>@Compendium[sfrpg.class-features.ISYvFdFkCBIeq5od]{D&eacute;fense de proximit&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.WLaJMhMcVxUPbr0C]{R&eacute;tablissement rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.bCvtws4aTTuKgfwm]{R&eacute;sistance cin&eacute;tique (Ext)}</li> <li>@Compendium[sfrpg.class-features.wKKEJBJGT2S82JFO]{D&eacute;fense imp&eacute;n&eacute;trable (Ext)}</li> </ul>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Flash Freeze (Ex; 7th Level)": {
+			"frName": "Gel rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Quand vous touchez une cr&eacute;ature avec une arme cryog&eacute;nique, la vitesse de cette cr&eacute;ature est r&eacute;duite de 3 m&egrave;tres pendant 1 round pour un minimum de 3 m&egrave;tres.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "7ème niveau"
+		},
 		"Ultimate Graviton (Su)": {
 			"frName": "Graviton ultime (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>Alors que votre capacit&eacute; &agrave; manipuler la gravit&eacute; augmente, la port&eacute;e de toutes vos r&eacute;v&eacute;lations li&eacute;es aux gravitons (mais pas les @Compendium[sfrpg.class-features.UVNOjH2ERlQjcGnU]{r&eacute;v&eacute;lation ultimes}) est doubl&eacute;e. Toutes les r&eacute;v&eacute;lations gravitationnelles (mais pas les @Compendium[sfrpg.class-features.UVNOjH2ERlQjcGnU]{r&eacute;v&eacute;lation ultimes}) que vous avez et qui ciblent une seule cr&eacute;ature peuvent d&eacute;sormais en cibler deux simultan&eacute;ment qui doivent &ecirc;tre &agrave; moins de 6 m&egrave;tres l&rsquo;une de l&rsquo;autre. Vous augmentez aussi la puissance des r&eacute;v&eacute;lations gravitationnelles suivantes :</p> <ul> <li><strong>@Compendium[sfrpg.class-features.nL0Ns1wXXtXa20nf]{Ancrage gravitationnel} :</strong> en tant qu&rsquo;action de mouvement, vous pouvez utiliser les deux types d&rsquo;ancrage gravitationnel simultan&eacute;ment.</li> <li><strong>@Compendium[sfrpg.class-features.xlDhH4ABvqHyAj44]{Anti-gravit&eacute;} :</strong> votre vitesse en vol augmente de 6 m&egrave;tres.</li> <li><strong>@Compendium[sfrpg.class-features.MrUxuOjsr9O1zMVj]{Reflet} :</strong> si vous r&eacute;ussissez &agrave; d&eacute;vier une attaque en r&eacute;action, vous pouvez continuer &agrave; d&eacute;vier d&rsquo;autres attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Vous subissez un malus cumulatif de &ndash;2 &agrave; votre jet pour chaque tentative suppl&eacute;mentaire de renvoi apr&egrave;s la premi&egrave;re. Si une attaque renvoy&eacute;e &eacute;choue, vous ne pouvez plus en renvoyer d&rsquo;autre tant que vous n&rsquo;utilisez pas de nouveau cette r&eacute;v&eacute;lation.</li> <li><strong>@Compendium[sfrpg.class-features.9WEHzzi4iCib2ja5]{Variation gravitationnelle} :</strong> votre bonus s&rsquo;applique &agrave; tous les tests d&rsquo;Acrobaties et vous ne subissez aucun d&eacute;g&acirc;t &agrave; cause de la chute.</li> </ul>",
@@ -781,6 +1141,18 @@
 			"frName": "Griffes d’escalade (Ext; Drone)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.QsCRXffpsDoMvPnT]{Modules basiques}</p> <p>Votre drone b&eacute;n&eacute;ficie d&rsquo;une vitesse d&rsquo;escalade &eacute;gale &agrave; la moiti&eacute; de sa vitesse au sol. Ce module ne peut &ecirc;tre utilis&eacute; que pour des @Compendium[sfrpg.class-features.fqPvefrdTRleRF81]{drones de combat} et des @Compendium[sfrpg.class-features.UZjMSvXesViIrJl8]{drones furtifs}.</p>",
 			"frSource": "RDB p.85 – Mécano",
+			"frRequirements": "1er niveau"
+		},
+		"Hit-and-Run": {
+			"frName": "Guérilla",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat gu&eacute;rilla est bas&eacute; sur les d&eacute;placements tactiques, que ceux-ci vous conduisent au coeur du combat ou &agrave; distance de tir. Vous utilisez des armes &agrave; distance mais vous combattez &agrave; proximit&eacute; de l&rsquo;action et vous pouvez m&ecirc;me avoir recours &agrave; des armes de corps &agrave; corps. Vos capacit&eacute;s vous permettent de vous d&eacute;placer quand vous effectuez des attaques &agrave; outrance et pour &eacute;viter d&rsquo;&ecirc;tre accul&eacute; par vos ennemis.</p> <ul> <li>@Compendium[sfrpg.class-features.MjdqehkkqcLHUKOb]{Premi&egrave;re salve (Ext)}</li> <li>@Compendium[sfrpg.class-features.FCZRkTVJsURxIZ8f]{Aisance au combat (Ext)}</li> <li>@Compendium[sfrpg.class-features.ZcGKsH2zDFkLJPeY]{Esquives et zigzagues (Ext)}</li> <li>@Compendium[sfrpg.class-features.0IXriaVqmSfrmYNb]{Cible insaisissable (Ext)}</li> <li>@Compendium[sfrpg.class-features.4ZWW1sHsYvhZ06Hi]{Attaque de diversion (Ext)}</li> </ul>",
+			"frSource": "RDB p.115 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Healer": {
+			"frName": "Guérisseur",
+			"frDescription": "",
+			"frSource": "RDB p.94",
 			"frRequirements": "1er niveau"
 		},
 		"Hacker": {
@@ -849,11 +1221,23 @@
 			"frSource": "RDB p.86 – Mécano",
 			"frRequirements": "1er niveau"
 		},
+		"Enlightenment (Su)": {
+			"frName": "Illumination (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "20ème niveau "
+		},
 		"Flare (Su)": {
 			"frName": "Illumination (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez &eacute;clairer une zone de 9 m&egrave;tres de rayon pendant 1 minute. &Agrave; chaque fois que vous activez cette r&eacute;v&eacute;lation, vous choisissez entre un &eacute;clairage vif, normal ou faible. En tant qu&rsquo;action simple, vous pouvez provoquer un flash de lumi&egrave;re vive qui oblige une cr&eacute;ature &agrave; moins de 9 m&egrave;tres &agrave; r&eacute;ussir un jet de R&eacute;flexes ou &ecirc;tre @Compendium[sfrpg.conditions.tOpF6qjnlnKc10t7]{aveugl&eacute;e} pendant 1 round. Une fois que vous avez pris pour cible une cr&eacute;ature avec illumination, vous ne pouvez plus utiliser cette r&eacute;v&eacute;lation contre elle pendant 10 minutes. Les cr&eacute;atures aveugles ou d&eacute;pourvues d&rsquo;organes visuels ne peuvent &ecirc;tre affect&eacute;es.</p> <p>Quand vous produisez un flash de lumi&egrave;re en tant qu&rsquo;action simple et que vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, vous pouvez choisir @Compendium[sfrpg.conditions.YjE6UGzwOTfO9p4g]{d&rsquo;&eacute;blouir} pendant 1 round tous vos adversaires &agrave; port&eacute;e (pas de jet de sauvegarde).</p>",
 			"frSource": "RDB p.104 – Solarien",
 			"frRequirements": "2ème niveau"
+		},
+		"Plasma Immolation (Ex; 7th Level)": {
+			"frName": "Immolation plasmique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Vous &ecirc;tes un expert pour incendier les choses avec des attaques au plasma. Si votre jet d&rsquo;attaque avec une arme &agrave; plasma est &eacute;gal &agrave; 19 (19 sur le d20) et que l&rsquo;attaque touche la cible, cette derni&egrave;re est enflamm&eacute;e. Cet &eacute;tat inflige 1d4 points de d&eacute;g&acirc;ts de feu si l&rsquo;arme est de niveau 1-6, 1d8 si l&rsquo;arme est de niveau 7-14 et 2d8 si l&rsquo;arme est au moins de niveau 15.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "7ème niveau"
 		},
 		"Envoy Improvisation": {
 			"frName": "Improvisation de l’émissaire",
@@ -890,6 +1274,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous &ecirc;tes entra&icirc;n&eacute; pour r&eacute;sister &agrave; diff&eacute;rentes armes chimiques et biologiques, &agrave; des toxines et &agrave; des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} auxquelles vous avez &eacute;t&eacute; confront&eacute; au cours de vos missions. Vous ajoutez votre bonus d&rsquo;avantage de l&rsquo;agent &agrave; vos jets de Vigueur contre le @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison} et les @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies}.</p>",
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
+		},
+		"Sow Doubt (Su)": {
+			"frName": "Instiller le doute (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "6ème niveau"
 		},
 		"Engineer's Eye (Ex)": {
 			"frName": "Instinct de l’ingénieur (Ext)",
@@ -951,6 +1341,54 @@
 			"frSource": "RDB p.81 – Mécano",
 			"frRequirements": "8ème niveau"
 		},
+		"Channel Bond (Su)": {
+			"frName": "Lien de focalisation (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "12ème niveau"
+		},
+		"Mindbreaking Link (Su)": {
+			"frName": "Lien de fracture mentale (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "12ème niveau"
+		},
+		"Lifelink (Su)": {
+			"frName": "Lien de vie (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "3ème niveau"
+		},
+		"Healer’s Bond (Sp)": {
+			"frName": "Lien du guérisseur (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "6ème niveau"
+		},
+		"Mindlink (Sp)": {
+			"frName": "Lien mental (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "2ème niveau"
+		},
+		"Greater Mindlink (Su)": {
+			"frName": "Lien mental supérieur (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "3ème niveau"
+		},
+		"Starry Bond (Su)": {
+			"frName": "Lien stellaire (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "12ème niveau"
+		},
+		"Telepathic Bond (Sp)": {
+			"frName": "Lien télépathique (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "11ème niveau"
+		},
 		"Skilled Linguist (Ex; Culture)": {
 			"frName": "Linguiste talentueux (Ext ; Culture)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p> <p>Vous pouvez parler et lire un nombre de langues suppl&eacute;mentaires &eacute;gal &agrave; votre rang en Culture. De plus, quand vous tentez un test de Culture pour d&eacute;chiffrer un &eacute;crit d&rsquo;environ 250 mots, vous pouvez renoncer &agrave; votre d&eacute; de ma&icirc;trise pour tenter ce test comme une action complexe (au lieu de la dur&eacute;e normale de 1 minute).</p>",
@@ -1011,6 +1449,12 @@
 			"frSource": "RDB p.65 – Exploits d’agent",
 			"frRequirements": "14ème niveau"
 		},
+		"Empathic Mastery (Sp)": {
+			"frName": "Maîtrise empathique (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "20ème niveau "
+		},
 		"Technomantic Proficiency (Ex)": {
 			"frName": "Maîtrise technomancienne (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour apprendre temporairement comment utiliser une arme en combat. Choisissez une seule arme ; vous savez la manier (ainsi que toutes les armes identiques) pendant un nombre de minutes &eacute;gal &agrave; votre niveau de technomancien. Chaque round d&rsquo;utilisation de cette arme r&eacute;duit la dur&eacute;e d&rsquo;une minute. Par exemple, au niveau 4, vous pouvez apprendre &agrave; manier les fusils laser corona pendant 4 minutes. Si vous tirez avec cette arme pendant 2 rounds, vous savez encore la manier pendant 2 minutes.</p>",
@@ -1041,6 +1485,12 @@
 			"frSource": "RDB p.122 – Technomancien",
 			"frRequirements": "8ème niveau"
 		},
+		"Hammer Fist (Ex) (1st)": {
+			"frName": "Marteau-pilon (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temp&ecirc;te blind&eacute;e}</p> <p>Quand vous &ecirc;tes &eacute;quip&eacute; d&rsquo;une armure lourde ou d&rsquo;une armure assist&eacute;e, vous consid&eacute;rez toutes les attaques &agrave; mains nues que vous effectuez comme si elles &eacute;taient effectu&eacute;es avec un gant de combat (voir page 189) avec un niveau d&rsquo;objet &eacute;gal ou inf&eacute;rieur &agrave; votre niveau de soldat et vous calculez les d&eacute;g&acirc;ts comme si vous aviez l&rsquo;optimisation d&rsquo;&eacute;quipement expert du corps &agrave; corps (voir page 112). Si vous avez l&rsquo;optimisation d&rsquo;&eacute;quipement expert du corps &agrave; corps, quand vous utilisez ce pouvoir, vous gagnez un bonus de +2 aux jets de d&eacute;g&acirc;ts avec vos attaques &agrave; mains nues. Ces attaques ne b&eacute;n&eacute;ficient pas d&rsquo;autres capacit&eacute;s qui s&rsquo;appliquent sp&eacute;cifiquement aux attaques &agrave; mains nues (tel que le don Science du combat &agrave; mains nues).</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "1er niveau"
+		},
 		"Dark Matter (Su)": {
 			"frName": "Matière noire (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez puiser dans les propri&eacute;t&eacute;s de la mati&egrave;re noire pour augmenter votre densit&eacute;, ce qui vous permet de r&eacute;sister aux d&eacute;g&acirc;ts physiques. Vous obtenez R&eacute;- duction des d&eacute;g&acirc;ts 1/&mdash;, puis RD 2/&mdash; au niveau 6 et cette valeur augmente de 1 point de plus tous les 3 niveaux suppl&eacute;mentaires de solarien. Cet avantage perdure 1 round ou jusqu&rsquo;&agrave; la fin de votre mode graviton.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, votre RD gagn&eacute; gr&acirc;ce &agrave; mati&egrave;re noire est &eacute;gal &agrave; la moiti&eacute; de votre niveau de solarien.</p>",
@@ -1053,11 +1503,23 @@
 			"frSource": "RDB p.73 – émissaire",
 			"frRequirements": "3ème niveau"
 		},
+		"Telepathic Memories (Su)": {
+			"frName": "Mémoires télépathiques (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "12ème niveau"
+		},
 		"Convincing Liar (Ex; Bluff)": {
 			"frName": "Menteur persuasif (Ext ; Bluff)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p> <p>Quand vous tentez un test de Bluff, vous pouvez attendre avant d&rsquo;utiliser votre d&eacute; de ma&icirc;trise. Apr&egrave;s avoir d&eacute;termin&eacute; le r&eacute;sultat de ce test, vous pouvez choisir soit de lancer votre d&eacute; de ma&icirc;trise et d&rsquo;ajouter le r&eacute;sultat au total, soit de renoncer &agrave; ce d&eacute; pour refaire le test (voir page 243). Au niveau 9, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour refaire le test et ajouter le r&eacute;sultat de votre d&eacute; de ma&icirc;trise.</p>",
 			"frSource": "RDB p.73 – émissaire",
 			"frRequirements": "3ème niveau"
+		},
+		"On the Bounce (Ex) (5th)": {
+			"frName": "Mobilité blindée (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temp&ecirc;te blind&eacute;e}</p> <p>Vous avez appris &agrave; contr&ocirc;ler votre armure avec une telle aisance que vous man&oelig;uvrez mieux avec que sans. Quand vous &ecirc;tes &eacute;quip&eacute; d&rsquo;une armure lourde ou assist&eacute;e, vous pouvez vous d&eacute;placer &agrave; votre vitesse quand vous effectuez une attaque &agrave; outrance. Vous pouvez vous d&eacute;placer avant ou apr&egrave;s vos attaques mais pas les deux. Si vous avez le don Tir en mouvement, vous pouvez r&eacute;- partir votre potentiel de mouvement pour vous d&eacute;placer avant et apr&egrave;s une attaque &agrave; outrance tant que vous n&rsquo;effectuez que des attaques &agrave; distance. Si vous avez le don Attaque &eacute;clair vous pouvez r&eacute;partir votre potentiel de mouvement pour vous d&eacute;placer avant et apr&egrave;s une attaque &agrave; outrance tant que vous n&rsquo;effectuez que des attaques au corps &agrave; corps. Si vous avez les deux dons, vos attaques peuvent &ecirc;tre une combinaison d&rsquo;attaques &agrave; distance et de corps &agrave; corps.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "17ème niveau"
 		},
 		"Uncanny Mobility (Ex)": {
 			"frName": "Mobilité instinctive (Ext)",
@@ -1161,11 +1623,41 @@
 			"frSource": "RDB p.87 – Mécano",
 			"frRequirements": "11ème niveau"
 		},
+		"Perfect Opportunity (Ex) (4th)": {
+			"frName": "Opportunité optimale (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</p> <p>Quand vous touchez une cr&eacute;ature avec une attaque d&rsquo;opportunit&eacute;, cette cr&eacute;ature ne peut quitter les cases que vous menacez avant le d&eacute;but de son prochain tour. De plus, quand un adversaire effectue un d&eacute;placement prudent (voir page 247) hors d&rsquo;un espace que vous menacez, vous pouvez effectuer une attaque d&rsquo;opportunit&eacute; contre lui avec un malus de &ndash;2 au jet d&rsquo;attaque. Si une cible provoque une attaque d&rsquo;opportunit&eacute; en se d&eacute;pla&ccedil;ant, toucher avec votre attaque d&rsquo;opportunit&eacute; met imm&eacute;diatement un terme &agrave; son d&eacute;placement ce qui l&rsquo;emp&ecirc;che de poursuivre son mouvement.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "13ème niveau"
+		},
+		"Enhanced Tank (Ex) (2nd)": {
+			"frName": "Optimisation d’armure (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temp&ecirc;te blind&eacute;e}</p> <p>Vous gagnez le don Port des armures assist&eacute;es et vous pouvez am&eacute;liorer votre armure. Cela peut &ecirc;tre d&ucirc; &agrave; vos propres capacit&eacute;s de technicien, &agrave; vos contacts aupr&egrave;s de personnes qui peuvent vous fournir du mat&eacute;riel exp&eacute;rimental ou parce que vous avez un puissant m&eacute;c&egrave;ne qui partage vos objectifs et qui vous fournit des &eacute;quipements &agrave; acc&egrave;s restreint. Vous pouvez ajouter une am&eacute;lioration d&rsquo;armure suppl&eacute;mentaire en plus des emplacements d&rsquo;am&eacute;lioration normaux de votre armure. Si vous am&eacute;liorez une armure lourde, vous pouvez choisir une am&eacute;lioration r&eacute;serv&eacute;e normalement aux armures assist&eacute;es. Une am&eacute;lioration install&eacute;e dans cet emplacement co&ucirc;te moiti&eacute; moins cher.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "5ème niveau"
+		},
+		"Gear Boost": {
+			"frName": "Optimisation d’équipement",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Au niveau 3 puis tous les 4 niveaux suivants, vous apprenez une astuce appel&eacute;e optimisation d&rsquo;&eacute;quipement qui vous permet d&rsquo;&ecirc;tre plus performant avec un type pr&eacute;cis d&rsquo;armes ou d&rsquo;armures. Choisissez parmi la liste des optimisations d&rsquo;&eacute;quipement ci-dessous. Certaines optimisations n&eacute;cessitent que vous ayez atteint un certain niveau pour les choisir ; ce niveau est indiqu&eacute; apr&egrave;s le nom de l&rsquo;optimisation.</p> <h2>Optimisations d'&eacute;quipement</h2> <ul> <li>@Compendium[sfrpg.class-features.XjGuTb3vud4CeLQB]{Arcane d&rsquo;ancrage (Sur)}</li> <li>@Compendium[sfrpg.class-features.cBujK5UWCKmqam60]{Assaut massif (Ext)}</li> <li>@Compendium[sfrpg.class-features.QQ5lHJOrIZpgcbBQ]{Atout d&rsquo;armure (Ext)}</li> <li>@Compendium[sfrpg.class-features.9OrlXfTxMDP4GKjW]{Dispersion d&eacute;vastatrice (Ext)}</li> <li>@Compendium[sfrpg.class-features.GoXXOPGD32mckcuD]{Expert du corps &agrave; corps (Ext)}</li> <li>@Compendium[sfrpg.class-features.M9YzLGbJCL2fMlWl]{Gel rapide (Ext)}</li> <li>@Compendium[sfrpg.class-features.p9r7NTZOUcw9ci81]{Immolation plasmique (Ext)}</li> <li>@Compendium[sfrpg.class-features.IjvpIo3oGJJRPw2s]{Pluie de balles (Ext)}</li> <li>@Compendium[sfrpg.class-features.Olymbfyy5k2JY8hB]{Pr&eacute;cision laser (Ext)}</li> <li>@Compendium[sfrpg.class-features.1r0WJ0Adq0f1C78e]{Propagation &eacute;lectrique (Ext)}</li> <li>@Compendium[sfrpg.class-features.zPeO9VWyAKI4LRII]{Puissante explosion (Ext)}</li> <li>@Compendium[sfrpg.class-features.0lPCh8embCwjt2ii]{R&eacute;sonance sonique (Ext)}</li><li>@Compendium[sfrpg.class-features.]{}</li> </ul> <h2>Gear boost</h2> <ul> <li>@Compendium[sfrpg.class-features.tEcu9gFQgVC36OG5]{Finesse Striker (Ex)}</li> <li>@Compendium[sfrpg.class-features.nNmBcWpfc1jcc9Dz]{Nimble Juggernaut (Ex)}</li> <li>@Compendium[sfrpg.class-features.exoQg2UhwxELRmAI]{Unburdened Shield (Ex)}/li> </ul>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
 		"Blazing Orbit (Su)": {
 			"frName": "Orbite ardente (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez vous d&eacute;placer &agrave; votre vitesse en b&eacute;n&eacute;ficiant d&rsquo;un camouflage contre toute attaque effectu&eacute;e contre vous pendant ce mouvement et vous pouvez laisser derri&egrave;re vous une tra&icirc;n&eacute;e de feu dans chaque espace travers&eacute;. Les flammes durent 1 round et infligent 2d6 points de d&eacute;g&acirc;ts de feu &agrave; quiconque les traverse. Vous ne pouvez vous d&eacute;placer dans l&rsquo;espace occup&eacute; par une cr&eacute;ature pendant ce d&eacute;placement. Si vous utilisez orbite ardente une nouvelle fois, toutes les flammes pr&eacute;c&eacute;demment g&eacute;n&eacute;r&eacute;es se dissipent. Les d&eacute;g&acirc;ts inflig&eacute;s augmentent de 1d6 au niveau 8 et tous les 2 niveaux suivants.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, toute cr&eacute;ature qui subit des d&eacute;g&acirc;ts &agrave; cause des flammes est enflamm&eacute;e (1d6 d&eacute;g&acirc;ts de feu ; voir page 275).</p>",
 			"frSource": "RDB p.105 – Solarien",
 			"frRequirements": "6ème niveau"
+		},
+		"Forceful Commands (Su)": {
+			"frName": "Ordre impérieux (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "15ème niveau"
+		},
+		"Memory Palace (Su)": {
+			"frName": "Palais mémoriel (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "15ème niveau"
 		},
 		"Stellar Paragon (Su)": {
 			"frName": "Paragon stellaire (Sur)",
@@ -1190,6 +1682,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.IvLuq2pxKkHJJpae]{Technomancien}</p> <p>Vous r&eacute;cup&eacute;rez vos points de pers&eacute;v&eacute;rance quand vous utilisez une puissante magie. &Agrave; chaque fois que vous utilisez un sort de niveau 6, vous regagnez 1 point de pers&eacute;v&eacute;rance jusqu&rsquo;&agrave; votre niveau maximum. Ceci n&rsquo;est applicable qu&rsquo;avec ceux que vous lancez en utilisant vos emplacements normaux de sorts pas avec ceux que vous lancez avec un objet magique ou par d&rsquo;autres m&eacute;thodes comme fusion de sorts.</p>",
 			"frSource": "RDB p.120 – Technomancien",
 			"frRequirements": "19ème niveau"
+		},
+		"Keep Fighting (Ex) (3rd)": {
+			"frName": "Persévérance martiale (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour r&eacute;cup&eacute;rer un nombre de points d&rsquo;endurance &eacute;gal &agrave; 2d6 + votre niveau de soldat. Vous ne pouvez utiliser &agrave; nouveau ce pouvoir tant que vous n&rsquo;avez pas r&eacute;cup&eacute;r&eacute; des points d&rsquo;endurance apr&egrave;s un repos de 10 minutes. Le nombre de points d&rsquo;endurance que vous r&eacute;cup&eacute;rez augmente de 1d6 au niveau 10, au niveau 15 et au niveau 20.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "9ème niveau"
 		},
 		"Ultimate Photon (Su)": {
 			"frName": "Photon ultime (Sur)",
@@ -1245,17 +1743,47 @@
 			"frSource": "RDB p.87 – Mécano",
 			"frRequirements": "11ème niveau"
 		},
+		"Bullet Barrage (Ex)": {
+			"frName": "Pluie de balles (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Vous gagnez un bonus d&rsquo;intuition de +1 aux d&eacute;g&acirc;ts inflig&eacute;s avec les armes &agrave; projectiles. Ce bonus augmente de 1 point tous les 4 niveaux de soldat.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
 		"Rain of Fire (Su)": {
 			"frName": "Pluie de feu (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>Une fois par jour, en tant qu&rsquo;action complexe, vous pouvez d&eacute;penser 2 points de pers&eacute;v&eacute;rance pour attaquer plusieurs cibles &agrave; port&eacute;e avec une arme de tir ; le nombre maximum de cibles est &eacute;gal &agrave; la moiti&eacute; de votre niveau de technomancien ou le nombre de tirs possibles avec votre arme, le plus faible des deux. Chaque attaque b&eacute;n&eacute;ficie de votre bonus &agrave; l&rsquo;attaque le plus &eacute;lev&eacute; et chaque cible ne peut subir qu&rsquo;un seul tir.</p>",
 			"frSource": "RDB p.123 – Technomancien",
 			"frRequirements": "14ème niveau"
 		},
+		"Meteor Shower (Su)": {
+			"frName": "Pluie de météores (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "15ème niveau"
+		},
 		"Gravity Surge (Su)": {
 			"frName": "Poussée gravitationnelle (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>En tant qu&rsquo;action complexe, vous pouvez effectuer une manoeuvre offensive d&eacute;sarmement ou croc-en-jambe contre une cible situ&eacute;e &agrave; moins de 9 m&egrave;tres. Utilisez votre modificateur de Charisme au lieu de votre modificateur de Force et vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de +4 &agrave; ce jet d&rsquo;attaque qui n&rsquo;est pas cumulable avec le bonus accord&eacute; par le don Science de la manoeuvre offensive.</p> <p>Quand vous &ecirc;tes synchronis&eacute; ou harmonis&eacute;, si vous d&eacute;sarmez une cible avec ce pouvoir et que vous avez les mains libres, l&rsquo;objet l&acirc;ch&eacute; s&rsquo;envole vers vous et vous pouvez le rattraper. Si vous effectuez un croc-en-jambe avec ce pouvoir, vous pouvez attirer la cible de 3 m&egrave;tres dans votre direction.</p>",
 			"frSource": "RDB p.105 – Solarien",
 			"frRequirements": "6ème niveau"
+		},
+		"Laser Accuracy (Ex)": {
+			"frName": "Précision laser (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Vous gagnez un bonus d&rsquo;intuition de +1 avec les armes laser.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "3ème niveau"
+		},
+		"Sharpshoot": {
+			"frName": "Précision offensive",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat pr&eacute;cision offensive vous permet d&rsquo;exceller dans l&rsquo;art d&rsquo;effectuer des attaques pr&eacute;cises, g&eacute;n&eacute;ralement avec des armes &agrave; longue distance. Vous pouvez ignorer les abris et les autres obstacles susceptibles de vous g&ecirc;ner. De plus, votre intense concentration vous permet d&rsquo;am&eacute;liorer vos attaques.</p> <ul> <li>@Compendium[sfrpg.class-features.0sdN8YxzJrN6CXW8]{Vis&eacute;e du tireur d&rsquo;&eacute;lite (Ext)}</li> <li>@Compendium[sfrpg.class-features.9ESXrnuB1KiSZVKh]{Tir concentr&eacute; (Ext)}</li> <li>@Compendium[sfrpg.class-features.pDHan7m22IJqR0NR]{Concentration intensive (Ext)}</li> <li>@Compendium[sfrpg.class-features.N8Qqdeeerofp1eTg]{D&eacute;g&acirc;ts concentr&eacute;s (Ext)}</li> <li>@Compendium[sfrpg.class-features.F50g3pNpPhT5n9f3]{Attaque pr&eacute;par&eacute;e (Ext)}</li> </ul>",
+			"frSource": "RDB p.115 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Opening Volley (Ex) (1st)": {
+			"frName": "Première salve (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</p> <p>Quand vous effectuez une attaque &agrave; outrance, vous pouvez aussi soit effectuer un Vous gagnez le don bonus de Premi&egrave;re salve. Si vous avez d&eacute;j&agrave; ce don, choisissez &agrave; la place un don bonus de combat. Au niveau 9, vous pouvez utiliser Premi&egrave;re salve &agrave; votre 1er et second tour de combat.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "1er niveau"
 		},
 		"Rattling Presence (Ex; Intimidate)": {
 			"frName": "Présence intimidante (Ext ; Intimidation)",
@@ -1299,11 +1827,29 @@
 			"frSource": "RDB p.81 – Mécano",
 			"frRequirements": "8ème niveau"
 		},
+		"Electric Arc (Ex; 7th Level)": {
+			"frName": "Propagation électrique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Quand vous touchez une cible avec une arme de choc, des arcs &eacute;lectriques jaillissent de la victime pour infliger des d&eacute;g&acirc;ts d&rsquo;&eacute;lectricit&eacute; &agrave; une seconde cible situ&eacute;e &agrave; moins de 3 m&egrave;tres d&rsquo;elle. Ces d&eacute;g&acirc;ts sont &eacute;gaux au niveau de l&rsquo;arme. La cible secondaire doit &ecirc;tre la cr&eacute;ature la plus proche de la cible d&rsquo;origine (vous choisissez si plusieurs victimes se trouvent &agrave; la m&ecirc;me distance).</p> <p>Cette optimisation d&rsquo;&eacute;quipement ne fonctionne pas pour des armes dot&eacute;es des propri&eacute;t&eacute;s sp&eacute;ciales dispersion et explosion. Si vous utilisez cette optimisation avec une arme ayant l&rsquo;effet critique propagation (voir page 182), la seconde cible de la propagation &eacute;lectrique doit &ecirc;tre la m&ecirc;me que la cible secondaire de l&rsquo;effet critique propagation.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "7ème niveau"
+		},
 		"Watch Your Step (Ex)": {
 			"frName": "Prudence (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.hIhgdXnqGHBm0A64]{Improvisations de l'&eacute;missaire}</p><p>Quand un alli&eacute; situ&eacute; &agrave; moins de 18 m&egrave;tres doit r&eacute;ussir un jet de R&eacute;flexes pour &eacute;viter un effet n&eacute;faste, en r&eacute;action avant que votre alli&eacute; ne fasse ce jet, vous pouvez lui accorder un bonus de +2 &agrave; son jet de sauvegarde.</p><p>Au niveau 6, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour que votre alli&eacute; jette deux fois le d&eacute; de son jet de sauvegarde et garde le meilleur r&eacute;sultat. Ces deux jets b&eacute;n&eacute;ficient du bonus de +2 accord&eacute; par cette aptitude.</p>",
 			"frSource": "RDB p.70 – Émissaire",
 			"frRequirements": "1er niveau"
+		},
+		"Power of Legend (Su) (3rd)": {
+			"frName": "Puissance légendaire (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</p> <p>Vous pouvez faire appel au lien qui vous unit aux h&eacute;ros l&eacute;gendaires qui, il y a une &eacute;ternit&eacute;, utilisaient de puissantes armes magiques pour surmonter l&rsquo;adversit&eacute;. En tant qu&rsquo;action de mouvement, quand vous maniez une arme magique ou une arme enchant&eacute;e avec la rune du chevalier sorcier, vous pouvez d&eacute;penser 1 point de pers&eacute;- v&eacute;rance pour mettre un terme &agrave; un des &eacute;tats suivants qui vous affecte : @Compendium[sfrpg.conditions.v9RNVTqyTyaPchvd]{h&eacute;morragie}, @Compendium[sfrpg.conditions.8LdyXZl9PeXXFE8O]{enflamm&eacute;}, @Compendium[sfrpg.conditions.8rIj0ewW4bL8Uph5]{confus}, @Compendium[sfrpg.conditions.33ynSbmexuxC3cAQ]{&eacute;puis&eacute;}, @Compendium[sfrpg.conditions.JGFn4MrDZ6X5vrzU]{fatigu&eacute;}, @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{pris au d&eacute;pourvu}, @Compendium[sfrpg.conditions.yUtkoIshf4dPruNd]{impr&eacute;cis}, @Compendium[sfrpg.conditions.nywSVEeDvp1bk7L3]{secou&eacute;} ou @Compendium[sfrpg.conditions.ZacF0l6IwqBwToTJ]{fi&eacute;vreux}. Vous pouvez aussi d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour modifier l&rsquo;&eacute;tat @Compendium[sfrpg.conditions.4WXJOFZ4s7TJUW6D]{recroquevill&eacute;} en @Compendium[sfrpg.conditions.DtwiUWi8dpzkq4tM]{effray&eacute;} ou changer l&rsquo;&eacute;tat @Compendium[sfrpg.conditions.DtwiUWi8dpzkq4tM]{effray&eacute;} en @Compendium[sfrpg.conditions.nywSVEeDvp1bk7L3]{secou&eacute;}. Dans ce cas, le nouvel &eacute;tat dure aussi longtemps que la pr&eacute;c&eacute;dente condition et ne peut plus &ecirc;tre affect&eacute; par ce pouvoir.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "9ème niveau"
+		},
+		"Powerful Explosive (Ex; 7th Level)": {
+			"frName": "Puissante explosion (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Quand vous attaquez avec une arme ayant la propri&eacute;t&eacute; sp&eacute;ciale explosion et une zone d&rsquo;effet d&rsquo;au moins 3 m&egrave;tres de rayon, vous pouvez augmenter cette zone d&rsquo;effet de 1,50 m&egrave;tre de rayon.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "7ème niveau"
 		},
 		"Quad Attack (Ex)": {
 			"frName": "Quadruple attaque (Ext)",
@@ -1371,6 +1917,12 @@
 			"frSource": "RDB p.106 – Solarien",
 			"frRequirements": "6ème niveau"
 		},
+		"Deny Death (Su)": {
+			"frName": "Refuser la mort (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "18ème niveau"
+		},
 		"Menacing Gaze (Ex; Intimidate)": {
 			"frName": "Regard menaçant (Ext ; Intimidation)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.DR8JvF0xiwsXggxj]{Savoir-faire ma&icirc;tris&eacute;}</p> <p>Quand vous tentez un test d&rsquo;Intimidation pour d&eacute;moraliser des adversaires, vous pouvez renoncer &agrave; votre d&eacute; de ma&icirc;trise pour tenter de bri&egrave;vement d&eacute;moraliser un petit groupe avec une action complexe. Vous tentez un test d&rsquo;Intimidation contre tous vos adversaires situ&eacute;s &agrave; moins de 18 m&egrave;tres qui ne doivent pas &ecirc;tre distants les uns des autres de plus de 6 m&egrave;tres. Le DD de ce test est &eacute;gal au plus haut DD n&eacute;cessaire pour d&eacute;moraliser l&rsquo;un de ces adversaires. Si vous r&eacute;ussissez, les victimes sont @Compendium[sfrpg.conditions.nywSVEeDvp1bk7L3]{secou&eacute;es} (voir page 277) pendant 1 round (m&ecirc;me si votre r&eacute;sultat exc&egrave;de le DD d&rsquo;au moins 5 points). Une fois que vous avez utilis&eacute; ce pouvoircontre une cr&eacute;ature, elle est immunis&eacute;e contre ce savoir-faire pendant 24 heures.</p>",
@@ -1382,6 +1934,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>Vous lib&eacute;rez quelqu&rsquo;un d&rsquo;un contr&ocirc;le magique mental ou d&rsquo;un &eacute;tat. En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance et toucher une cr&eacute;ature volontaire. Cela va r&eacute;initialiser le cerveau du sujet, mettant un terme &agrave; tous les effets affectant son esprit ainsi qu&rsquo;aux &eacute;tats qui peuvent &ecirc;tre neutralis&eacute;s par neutralisation d&rsquo;&eacute;tat majeur et auxquels la victime a &eacute;t&eacute; soumise par les effets mentaux. Cependant, le sujet est @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdi} jusqu&rsquo;&agrave; la fin de son prochain tour. Une fois que vous avez r&eacute;initialis&eacute; un cerveau, vous ne pouvez plus utiliser ce pouvoir avant 24 heures.</p> <p>Vous pouvez tenter de r&eacute;initialiser l&rsquo;esprit d&rsquo;un alli&eacute; qui n&rsquo;est pas volontaire &agrave; cause de l&rsquo;influence d&rsquo;un effet mental. Dans ce cas, votre alli&eacute; peut tenter un nouveau jet de sauvegarde contre cet effet avec le m&ecirc;me DD. S&rsquo;il r&eacute;ussit, il peut autoriser la r&eacute;initialisation de son esprit mais, s&rsquo;il rate, vous perdez le point de pers&eacute;v&eacute;rance d&eacute;pens&eacute; et votre action.</p> <p>Vous pouvez utiliser ce pouvoir pour r&eacute;initialiser votre propre cerveau. Si vous &ecirc;tes incapable d&rsquo;agir, vous pouvez avoir recours &agrave; ce pouvoir sans utiliser d&rsquo;action mais cela doit &ecirc;tre la premi&egrave;re chose que vous faites au d&eacute;but de votre tour et vous &ecirc;tes @Compendium[sfrpg.conditions.CvsDp0GvojxiF2jz]{&eacute;tourdi} jusqu&rsquo;&agrave; la fin de votre prochain tour.</p>",
 			"frSource": "RDB p.123 – Technomancien",
 			"frRequirements": "11ème niveau"
+		},
+		"Guided Rebirth (Su)": {
+			"frName": "Renaissance contrôlée (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "18ème niveau"
 		},
 		"Enhanced Armor (Ex)": {
 			"frName": "Renfort d’armure (Ext; Drone)",
@@ -1407,6 +1965,12 @@
 			"frSource": "RDB p.80 – Mécano",
 			"frRequirements": "2ème niveau"
 		},
+		"Rapid Response (Ex) (1st)": {
+			"frName": "Réponse rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</p> <p>Vous gagnez un bonus de +4 &agrave; vos tests d&rsquo;initiative et vous augmentez votre vitesse au sol de 3 m&egrave;tres.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "1er niveau"
+		},
 		"Control Net (Ex)": {
 			"frName": "Réseau de contrôle (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.HNCQFSPw4DVTATHv]{M&eacute;cano}</p> <p>Vous &ecirc;tes capable d&rsquo;utiliser plusieurs IA, une dans un @Compendium[sfrpg.class-features.cA0NuGh484BwlDjX]{drone} et une dans un @Compendium[sfrpg.class-features.cM54UpNXExgDSbq4]{exocortex}. Vous devez r&eacute;partir vos niveaux de m&eacute;cano entre ces diff&eacute;rentes IA et chacune d&rsquo;elles gagne des capacit&eacute;s en fonction du niveau assign&eacute;. &Agrave; chaque fois que vous gagnez un niveau de m&eacute;cano, vous pouvez modifier la r&eacute;partition des niveaux entre les IA en utilisant votre interface personnalis&eacute;e et en y travaillant sans interruption pendant 24 heures. Bien que les IA puissent agir de mani&egrave;re autonome, dans la limite de leurs possibilit&eacute;s, vous pouvez les contr&ocirc;ler normalement (bien que vous ne puissiez contr&ocirc;ler directement qu&rsquo;une seule IA &agrave; la fois). Si le niveau assign&eacute; &agrave; votre @Compendium[sfrpg.class-features.cM54UpNXExgDSbq4]{exocortex} est inf&eacute;rieur &agrave; votre niveau de m&eacute;cano, le bonus de base &agrave; l&rsquo;attaque en utilisant verrouillage de cible (voir page 87) accord&eacute; par votre @Compendium[sfrpg.class-features.cM54UpNXExgDSbq4]{exocortex} est r&eacute;duit comme cela est indiqu&eacute; dans le tableau ci-dessous. Comme d&rsquo;habitude, vous gagnez de nouveaux pouvoirs pour votre @Compendium[sfrpg.class-features.cM54UpNXExgDSbq4]{exocortex}, telles que @Compendium[sfrpg.class-features.bczND131fy2XFpN0]{piratage sans fil} et @Compendium[sfrpg.class-features.R9W0ZkZezXLci357]{multit&acirc;ches}, en vous basant sur le niveau que vous lui avez assign&eacute;.</p> <table style='text-align: center;'> <tbody> <tr> <td><strong>NIVEAUX ASSIGN&Eacute;S</strong></td> <td><strong>BONUS DE BASE &Agrave; L&rsquo;ATTAQUE</strong></td> </tr> <tr> <td>1-4</td> <td>+1</td> </tr> <tr> <td>5-8</td> <td>+2</td> </tr> <tr> <td>9-12</td> <td>+3</td> </tr> <tr> <td>13-16</td> <td>+4</td> </tr> <tr> <td>17-20</td> <td>+5</td> </tr> </tbody> </table> <p>&nbsp;</p>",
@@ -1419,11 +1983,47 @@
 			"frSource": "RDB p.86 – Mécano",
 			"frRequirements": "1er niveau"
 		},
+		"Kinetic Resistance (Ex) (4th)": {
+			"frName": "Résistance cinétique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</p> <p>Vous gagnez RD 3/&mdash;. Au niveau 17, votre RD augmente &agrave; 5/&mdash;.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "13ème niveau"
+		},
+		"Share Resistance (Su)": {
+			"frName": "Résistance partagée (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "12ème niveau"
+		},
+		"Reactive Resistance (Su)": {
+			"frName": "Résistance réactive (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "9ème niveau"
+		},
 		"Greater Resistance (Ex)": {
 			"frName": "Résistance supérieure (Ext; Drone)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.cQtmz297P5g6g5xv]{Modules avanc&eacute;s}</p> <p>Choisissez une forme d&rsquo;&eacute;nergie contre laquelle votre drone b&eacute;n&eacute;ficie du module r&eacute;sistance. Augmentez sa r&eacute;sistance &agrave; cette &eacute;nergie de 5 points. Vous pouvez choisir ce module plusieurs fois mais, &agrave; chaque fois, ses effets s&rsquo;appliquent &agrave; une forme d&rsquo;&eacute;nergie diff&eacute;rente pour laquelle votre drone b&eacute;n&eacute;ficie du module r&eacute;sistance.</p>",
 			"frSource": "RDB p.87 – Mécano",
 			"frRequirements": "11ème niveau"
+		},
+		"Sonic Resonance (Ex; 7th Level)": {
+			"frName": "Résonance sonique (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.wFTC0sGqdpnZUib4]{Optimisation d'&eacute;quipement}</p> <p>Quand vous touchez une cr&eacute;ature &agrave; moins de 9 m&egrave;tres de vous avec une arme sonique, l&rsquo;&eacute;nergie sonique continue &agrave; r&eacute;sonner dans le corps de la cr&eacute;ature qui est prise au d&eacute;pourvue pendant 1 round. Si vous touchez plusieurs cr&eacute;atures en m&ecirc;me temps (comme avec une arme automatique, &agrave; dispersion ou explosive), seule celle qui est la plus proche de vous ou qui se trouve au centre de l&rsquo;explosion est affect&eacute;e (vous choisissez si plusieurs cibles sont concern&eacute;es).</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "7ème niveau"
+		},
+		"Rapid Recovery (Ex) (3rd)": {
+			"frName": "Rétablissement rapide (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</p> <p>Vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour ignorer des &eacute;tats n&eacute;fastes. En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour annuler les effets d&rsquo;un des &eacute;tats suivants pendant 10 minutes : @Compendium[sfrpg.conditions.aAQ6SW6iK0EVq8Ce]{chancelant}, @Compendium[sfrpg.conditions.DtwiUWi8dpzkq4tM]{effray&eacute;}, @Compendium[sfrpg.conditions.33ynSbmexuxC3cAQ]{&eacute;puis&eacute;}, @Compendium[sfrpg.conditions.JGFn4MrDZ6X5vrzU{fatigu&eacute;}, @Compendium[sfrpg.conditions.ZacF0l6IwqBwToTJ{fi&eacute;vreux}, @Compendium[sfrpg.conditions.LoRydw1D4bqlbkA2]{naus&eacute;eux} ou @Compendium[sfrpg.conditions.nywSVEeDvp1bk7L3]{secou&eacute;} (voir pages 276&ndash;277). Au bout de 10 minutes, si la dur&eacute;e de cet &eacute;tat n&rsquo;est pas termin&eacute;e, ses effets se font de nouveau sentir. Vous ne pouvez annuler les effets que d&rsquo;un seul &eacute;tat &agrave; la fois ; si vous &ecirc;tes &agrave; la fois @Compendium[sfrpg.conditions.JGFn4MrDZ6X5vrzU]{fatigu&eacute;} et @Compendium[sfrpg.conditions.nywSVEeDvp1bk7L3]{secou&eacute;}, vous ne pouvez &eacute;viter les effets que d&rsquo;un seul de ces deux &eacute;tats et si vous &ecirc;tes affect&eacute; deux fois par le m&ecirc;me &eacute;tat, vous subissez toujours les effets de l&rsquo;un des deux.</p>",
+			"frSource": "RDB p.114 – Soldat",
+			"frRequirements": "9ème niveau"
+		},
+		"Retrocognition (Sp)": {
+			"frName": "Rétrocognition (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "15ème niveau"
 		},
 		"Stellar Revelation": {
 			"frName": "Révélation stellaire",
@@ -1449,11 +2049,23 @@
 			"frSource": "RDB p.80 – Mécano",
 			"frRequirements": "8ème niveau"
 		},
+		"Rune of the Eldritch Knight (Su) (1st)": {
+			"frName": "Rune du chevalier sorcier (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</p> <p>Vous pouvez enchanter une arme avec un symbole magique, la rune du chevalier sorcier, ce qui lui permet d&rsquo;agir comme une arme magique pour ce qui est d&rsquo;affecter des cr&eacute;atures intangibles et de franchir leur R&eacute;duction des d&eacute;g&acirc;ts. Cela demande 10 minutes et vous ne pouvez enchanter qu&rsquo;une seule arme &agrave; la fois. Si vous enchantez une autre arme avec la rune, celle qui avait &eacute;t&eacute; enchant&eacute;e pr&eacute;c&eacute;demment en perd les avantages. Quand vous calculez les points de vie et la solidit&eacute; d&rsquo;une arme dot&eacute;e de cette rune, son niveau d&rsquo;objet est augment&eacute; de 5 points.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "1er niveau"
+		},
 		"Saboteur (Ex)": {
 			"frName": "Saboteur (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.YMGOKoZtKgJqIsAD]{Astuce de M&eacute;cano}</p> <p>&Agrave; chaque fois que vous utilisez la comp&eacute;tence Ing&eacute;nierie pour saboter ou d&eacute;sactiver un appareil, vous pouvez lancer deux fois le jet et choisir le meilleur r&eacute;sultat. De plus, si vous avez les outils appropri&eacute;s (y compris votre interface personnalis&eacute;e), vous effectuez ces t&acirc;ches en moiti&eacute; moins de temps avec un minimum d&rsquo;une action de mouvement.</p>",
 			"frSource": "RDB p.82 – Mécano",
 			"frRequirements": "14ème niveau"
+		},
+		"Akashic Knowledge (Ex)": {
+			"frName": "Savoir akashique (Ext)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "1er niveau"
 		},
 		"Expertise Talent": {
 			"frName": "Savoir-faire maîtrisé",
@@ -1472,6 +2084,18 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.UVNOjH2ERlQjcGnU]{R&eacute;v&eacute;lations ultimes}</p> <p>Quand vous &ecirc;tes harmonis&eacute; avec les gravitons, vous pouvez g&eacute;n&eacute;rer en vous d&eacute;pla&ccedil;ant une violente ondulation pour renverser vos adversaires. En tant qu&rsquo;action de mouvement, vous pouvez vous d&eacute;placer &agrave; votre vitesse au sol sans provoquer d&rsquo;attaque d&rsquo;opportunit&eacute;. Toute cr&eacute;ature &agrave; laquelle vous vous retrouvez adjacent &agrave; n&rsquo;importe quel moment de votre parcours subit 1d8 points de d&eacute;g&acirc;ts contondants et doit r&eacute;ussir un jet de R&eacute;flexes ou @Compendium[sfrpg.conditions.XeRGqHVtcZ7vsgJ0]{tomber}. La cr&eacute;ature affect&eacute;e n&rsquo;a pas besoin de se tenir sur une surface solide pour @Compendium[sfrpg.conditions.XeRGqHVtcZ7vsgJ0]{tomber} et celles qui se trouvent dans les airs, mais adjacentes &agrave; vous, tombent par terre si elles ratent leur jet. Les d&eacute;g&acirc;ts augmentent de 1d8 tous les 3 niveaux de solarien au-del&agrave; du niveau 7. Au niveau 17, vous doublez votre vitesse au sol avec cette r&eacute;v&eacute;lation.</p>",
 			"frSource": "RDB p.107 – Solarien",
 			"frRequirements": "9ème niveau"
+		},
+		"Secret of the Magi (Su) (2nd)": {
+			"frName": "Secret de l’archimage (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</p> <p>Vous pouvez enchanter deux armes avec la rune du chevalier sorcier. Si vous tentez d&rsquo;en enchanter une troisi&egrave;me, la premi&egrave;re qui a &eacute;t&eacute; enchant&eacute;e perd la rune et ses avantages. En plus des avantages normaux, les runes conf&egrave;rent &agrave; ces armes au moins une des fusions d&rsquo;arme suivantes (voir page 191) : <em>fatale</em>, <em>corrosive</em>, <em>spectrale</em>, <em>enflamm&eacute;e</em>, <em>glac&eacute;e</em>, <em>sanctifi&eacute;e</em>, <em>mis&eacute;ricordieuse</em>, <em>foudroyante</em>, <em>assourdissante</em> ou <em>impie</em>. Vous ne pouvez attribuer plus de 10 niveaux de fusion r&eacute;partis entre les deux armes et la fusion fatale compte ici comme une fusion de niveau 10.</p>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "13ème niveau"
+		},
+		"Secret of the Archmagi (Su) (4th)": {
+			"frName": "Secret du thaumaturge (Sur)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</p><p>Quand vous enchantez une arme avec la rune du chevalier sorcier, en plus des avantages normaux, la rune octroie &agrave; l&rsquo;arme une des fusions d&rsquo;arme suivantes : <em>spectrale</em>, <em>enflamm&eacute;e</em>, <em>glac&eacute;e</em>, <em>mis&eacute;ricordieuse</em> ou <em>foudroyante</em>. L&rsquo;arme ne peut pas gagner une fusion qu&rsquo;elle poss&egrave;de d&eacute;j&agrave; et cette fusion bonus ne compte pas dans le nombre maximum de niveaux de fusion qu&rsquo;une arme peut avoir en m&ecirc;me temps. La fusion bonus se termine quand l&rsquo;arme n&rsquo;est plus enchant&eacute;e avec la rune. Pour plus d&rsquo;informations sur les fusions, voir page 191.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "5ème niveau"
 		},
 		"Enhanced Senses (Ex; Drone)": {
 			"frName": "Sens améliorés (Ext; Drone)",
@@ -1502,6 +2126,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous touchez un ennemi avec une feinte offensive, vous choisissez si la cr&eacute;ature est @Compendium[sfrpg.conditions.MZ8OoH1GE9qDMyCD]{prise au d&eacute;pourvu} ou impr&eacute;cise jusqu&rsquo;au d&eacute;but de votre prochain tour. Vous pouvez apprendre des exploits qui vous accordent d&rsquo;autres options pour s&eacute;quelle handicapante mais vous ne pouvez choisir qu&rsquo;une seule option &agrave; chaque fois que vous touchez avec feinte offensive.</p>",
 			"frSource": "RDB p.62 – Agent",
 			"frRequirements": "4ème niveau"
+		},
+		"Mind Probe (Su)": {
+			"frName": "Sonde mentale (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "9ème niveau"
 		},
 		"Energize Spell (Su)": {
 			"frName": "Sort alimenté (Ext)",
@@ -1539,6 +2169,12 @@
 			"frSource": "RDB p.123 – Technomancien",
 			"frRequirements": "14ème niveau"
 		},
+		"Spells (Mystic)": {
+			"frName": "Sorts (Mystique)",
+			"frDescription": "",
+			"frSource": "RDB p.91",
+			"frRequirements": "1er niveau"
+		},
 		"Spells (Technomancer)": {
 			"frName": "Sorts (Technomancien)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.IvLuq2pxKkHJJpae]{Technomancien}</p> <p>@Compendium[sfrpg.rules.FOAXKvY33y1NVOPS]{Technomancien - Sorts}</p> <p>Vous lancez des sorts choisis dans la liste de sorts des technomanciens (voir page 338). Pour lancer ou apprendre un sort, vous devez avoir une valeur d&rsquo;Intelligence d&rsquo;au moins 10 + le niveau du sort. Le Degr&eacute; de Difficult&eacute; d&rsquo;un jet de sauvegarde contre vos sorts est &eacute;gal &agrave; 10 + le niveau du sort + votre modificateur d&rsquo;Intelligence.</p> <p>Chaque jour, vous ne pouvez lancer qu&rsquo;un nombre limit&eacute; de sorts de chaque niveau. Ce nombre est indiqu&eacute; sur la table 4&ndash;10 : Technomancien (<em>ci-dessous</em>). De plus, vous recevez des sorts suppl&eacute;mentaires chaque jour si vous avez un modificateur d&rsquo;Intelligence d&rsquo;au moins +1, comme cela est indiqu&eacute; sur la table 4&ndash;11 : Sorts suppl&eacute;mentaires de technomancien (<em>ci-dessous</em>). Notez que vous ne recevez ces sorts suppl&eacute;mentaires que si vous pouvez normalement en lancer de ce niveau. Vous pouvez aussi utiliser des sorts de niveau 0. Ils s&rsquo;utilisent comme les autres mais vous pouvez en lancer autant que vous voulez chaque jour.</p> <p>Votre choix de sorts est limit&eacute;. Vous commencez le jeu en connaissant quatre sorts de niveau 0 et deux sorts de niveau 1 de votre choix. &Agrave; chaque nouveau niveau de technomancien, vous apprenez au moins un nouveau sort comme cela est indiqu&eacute; sur la table 4&ndash;12 : Sorts connus de technomancien (<em>ci-dessous</em>). Contrairement au nombre de sorts utilisables chaque jour, votre modificateur d&rsquo;Intelligence n&rsquo;influe pas sur le nombre de sorts que vous connaissez.</p> <p>&Agrave; chaque fois que vous gagnez un niveau, vous pouvez &eacute;changer un sort que vous connaissez d&eacute;j&agrave; et apprendre un nouveau sort du m&ecirc;me niveau. Vous perdez l&rsquo;usage de l&rsquo;ancien sort en &eacute;change du nouveau. Vous devez choisir ou non d&rsquo;&eacute;changer un sort au moment o&ugrave; vous gagnez de nouveaux sorts connus de ce niveau.</p> <p>Vous pouvez lancer n&rsquo;importe quel sort de technomancien que vous connaissez &agrave; n&rsquo;importe quel moment tant que vous n&rsquo;avez pas utilis&eacute; la totalit&eacute; des sorts de ce niveau attribu&eacute;s par jour. Vous pouvez aussi lancer un sort en utilisant un emplacement de sort de niveau sup&eacute;rieur. Par exemple, si vous voulez lancer un sort de niveau 1 mais que vous avez utilis&eacute; tous vos emplacements de ce niveau pour la journ&eacute;e, vous pouvez utiliser un emplacement de sort de niveau 2 s&rsquo;il vous en reste un.</p> <p>Vous pouvez aussi d&eacute;chiffrer les inscriptions magiques incompr&eacute;hensibles ou, avec une action complexe, identifier tous les sorts d&rsquo;une gemme &agrave; sorts. G&eacute;n&eacute;ralement, cela ne lib&egrave;re pas la magie qu&rsquo;elle contient bien que cela puisse se produire avec une gemme &agrave; sorts pi&eacute;- g&eacute;e ou maudite.</p> <h2>Nombres de sorts par jour</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong>NIVEAU</strong></td> <td><strong>1er</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1er</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3&egrave;me</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4&egrave;me</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5&egrave;me</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6&egrave;me</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7&egrave;me</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8&egrave;me</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9&egrave;me</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10&egrave;me</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11&egrave;me</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>12&egrave;me</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>13&egrave;me</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>14&egrave;me</td> <td>5</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> </tr> <tr> <td>15&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> </tr> <tr> <td>16&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> </tr> <tr> <td>17&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> </tr> <tr> <td>18&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> </tr> <tr> <td>19&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> </tr> <tr> <td>20&egrave;me</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> </tr> </tbody> </table> <h2>TABLE 4&ndash;11 : Sorts de Technomancien suppl&eacute;mentaires</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td colspan=\"8\"><strong> SORTS SUPPL&Eacute;MENTAIRES PAR JOUR (PAR NIVEAU DE SORT) </strong></td> </tr> <tr> <td><strong> VALEUR D&rsquo;INT. </strong></td> <td><strong>0</strong></td> <td><strong>1er</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1-11</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12-13</td> <td>-</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>14-15</td> <td>-</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>16-17</td> <td>-</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>18-19</td> <td>-</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>20-21</td> <td>-</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>22-23</td> <td>-</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>24-25</td> <td>-</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>26-27</td> <td>-</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>28-29</td> <td>-</td> <td>3</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> </tr> <tr> <td>30-31</td> <td>-</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> </tr> </tbody> </table> <h2>TABLE 4&ndash;12 : Sorts de Technomancien connus</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td rowspan=\"2\"><strong> NIVEAU<br />DE CLASSE </strong></td> <td colspan=\"7\"><strong>SORTS CONNUS (PAR NIVEAU DE SORT)</strong></td> </tr> <tr> <td><strong>0</strong></td> <td><strong>1er</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2</td> <td>5</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3</td> <td>6</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4</td> <td>6</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5</td> <td>6</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6</td> <td>6</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7</td> <td>6</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>12</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> </tr> <tr> <td>13</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> </tr> <tr> <td>14</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> </tr> <tr> <td>15</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> </tr> <tr> <td>16</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> </tr> <tr> <td>17</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> </tr> <tr> <td>18</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> </tr> <tr> <td>19</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> </tr> <tr> <td>20</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> </tr> </tbody> </table>",
@@ -1550,6 +2186,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>Quand vous lancez un sort instantan&eacute; qui inflige des d&eacute;g&acirc;ts, vous pouvez augmenter ces d&eacute;g&acirc;ts d&rsquo;un nombre de points &eacute;gal &agrave; la moiti&eacute; de votre niveau de technomancien. Cette augmentation s&rsquo;applique &agrave; toutes les cr&eacute;atures affect&eacute;es par un sort &agrave; effet de zone mais pour des sorts qui ciblent plusieurs cr&eacute;atures avec plusieurs rayons ou d&rsquo;autres attaques (comme <em>@Compendium[sfrpg.spells.jUTs9R52bL7SuHwY]{projectile magique}</em>), elle ne s&rsquo;applique qu&rsquo;&agrave; un seul rayon ou missile. Ces d&eacute;g&acirc;ts suppl&eacute;mentaires ne s&rsquo;appliquent pas non plus aux effets continus d&rsquo;un sort (comme avec les effets @Compendium[sfrpg.conditions.v9RNVTqyTyaPchvd]{h&eacute;morragie} et @Compendium[sfrpg.rules.O5GDQUKPCJ9Zbnfj]{enflamm&eacute;}). Cette alt&eacute;ration magique n&rsquo;augmente pas les d&eacute;g&acirc;ts inflig&eacute;s aux caract&eacute;ristiques ou d&rsquo;autres effets de sorts, uniquement ceux qui affectent les points de vie et l&rsquo;endurance.</p>",
 			"frSource": "RDB p.121 – Technomancien",
 			"frRequirements": "2ème niveau"
+		},
+		"Share Pain (Su)": {
+			"frName": "Souffrance partagée (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "1er niveau"
 		},
 		"Draw Fire (Ex) (Envoy)": {
 			"frName": "Sous le feu (Ext)",
@@ -1593,10 +2235,22 @@
 			"frSource": "RDB p.78 – Mécano",
 			"frRequirements": "3ème niveau"
 		},
+		"Weapon Specialization (Ex) (Mystic)": {
+			"frName": "Spécialisation martiale (Ext) (Mystique)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "3ème niveau"
+		},
 		"Weapon Specialization (Ex) (Solarian)": {
 			"frName": "Spécialisation martiale (Ext) (Solarien)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.kuEdVbzv5zXIO4wk]{Solarien}</p> <p>Vous obtenez le don bonus de @Compendium[sfrpg.feats.9Us7Eg9cAoq3BcS5]{Sp&eacute;cialisation martiale} pour chaque type d&rsquo;arme que vous savez manier gr&acirc;ce &agrave; cette classe. Si vous avez s&eacute;lectionn&eacute; l&rsquo;arme solaire pour votre manifestation solaire, elle b&eacute;n&eacute;- ficie des avantages de Sp&eacute;cialisation martiale comme si elle &eacute;tait une arme de corps &agrave; corps &eacute;volu&eacute;e.</p>",
 			"frSource": "RDB p.103 – Solarien",
+			"frRequirements": "3ème niveau"
+		},
+		"Weapon Specialization (Ex) (Soldier)": {
+			"frName": "Spécialisation martiale (Ext) (Soldat)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Vous obtenez le don bonus de @Compendium[sfrpg.feats.9Us7Eg9cAoq3BcS5]{Sp&eacute;cialisation martiale} pour chaque type d&rsquo;arme que vous savez manier gr&acirc;ce &agrave; cette classe.</p>",
+			"frSource": "RDB p.112 – Soldat",
 			"frRequirements": "3ème niveau"
 		},
 		"Weapon Specialization (Ex) (Technomancer)": {
@@ -1611,11 +2265,23 @@
 			"frSource": "RDB p.70 – Émissaire",
 			"frRequirements": "1er niveau"
 		},
+		"Fighting Style": {
+			"frName": "Style de combat",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Vous avez un style de combat pr&eacute;f&eacute;r&eacute; qui indique quel type de soldat vous &ecirc;tes. Chaque style de combat regroupe plusieurs techniques de combat que vous apprenez au fur et &agrave; mesure que vous gagnez de l&rsquo;exp&eacute;rience. Vous devez choisir un style de combat &agrave; votre premier niveau de soldat et une fois que vous avez fait ce choix, vous ne pouvez plus en changer. La description des styles de combat que vous pouvez choisir se trouve pages 112&ndash;115 <em>(ou ci-dessous).</em></p> <h2>VF</h2> <h3>@Compendium[sfrpg.class-features.AKI0TQ3pSwmU5twg]{Blitz}</h3> <p>Le style de combat blitz se base sur l&rsquo;utilisation de la vitesse et de l&rsquo;agressivit&eacute; pour se retrouver au coeur de la m&ecirc;l&eacute;e. Vous augmentez votre vitesse et votre r&eacute;activit&eacute;, vous gagnez des capacit&eacute;s qui vous permettent d&rsquo;&ecirc;tre meilleur que vos ennemis au combat au corps &agrave; corps et vous continuez de combattre m&ecirc;me quand vous &ecirc;tes entour&eacute; d&rsquo;adversaires.</p> <h3>@Compendium[sfrpg.class-features.YHaMYdptLi3fXfVH]{Bombardement}</h3> <p>Le style de combat bombardement est bas&eacute; sur l&rsquo;attaque de plusieurs cibles, souvent gr&acirc;ce &agrave; l&rsquo;utilisation de grenades, et l&rsquo;optimisation de la force physique pour manipuler des armes lourdes ayant un important recul. &Agrave; haut niveau, vous pouvez utiliser des lanceurs, des missiles et d&rsquo;autres armes lourdes.</p> <h3>@Compendium[sfrpg.class-features.33fxlqpShtqndjry]{Combat arcane}</h3> <p>Le combat arcane permet au combattant de renforcer son efficacit&eacute; gr&acirc;ce &agrave; des pouvoirs magiques en s&rsquo;inspirant de la tradition des guerriers-mages, une tradition remontant bien avant la Faille. Ces techniques permettent l&rsquo;utilisation de runes magiques pour augmenter la puissance de vos armes. De plus, vous avez acc&egrave;s &agrave; des pouvoirs l&eacute;gendaires qui vous conf&egrave;rent des options magiques quand vous n&rsquo;avez pas d&rsquo;arme enchant&eacute;e en votre possession.</p> <h3>@Compendium[sfrpg.class-features.oHKHSbFfmBgFfvW8]{Garde}</h3> <p>Le style de combat garde est bas&eacute; sur la d&eacute;fense. Vous devenez un expert en port d&rsquo;armure, pour vous prot&eacute;ger des attaques et pour encaisser les d&eacute;g&acirc;ts et autres revers dus aux attaques qui franchissent vos d&eacute;fenses.</p> <h3>@Compendium[sfrpg.class-features.Jba9qeZX5QgjZvwQ]{Gu&eacute;rilla}</h3> <p>Le style de combat gu&eacute;rilla est bas&eacute; sur les d&eacute;placements tactiques, que ceux-ci vous conduisent au coeur du combat ou &agrave; distance de tir. Vous utilisez des armes &agrave; distance mais vous combattez &agrave; proximit&eacute; de l&rsquo;action et vous pouvez m&ecirc;me avoir recours &agrave; des armes de corps &agrave; corps. Vos capacit&eacute;s vous permettent de vous d&eacute;placer quand vous effectuez des attaques &agrave; outrance et pour &eacute;viter d&rsquo;&ecirc;tre accul&eacute; par vos ennemis.</p> <h3>@Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</h3> <p>Le style de combat pr&eacute;cision offensive vous permet d&rsquo;exceller dans l&rsquo;art d&rsquo;effectuer des attaques pr&eacute;cises, g&eacute;n&eacute;ralement avec des armes &agrave; longue distance. Vous pouvez ignorer les abris et les autres obstacles susceptibles de vous g&ecirc;ner. De plus, votre intense concentration vous permet d&rsquo;am&eacute;liorer vos attaques.</p> <h3>@Compendium[sfrpg.class-features.DAMcKQ3EGXdh8CGe]{Temb&ecirc;te blind&eacute;e}</h3> <p>Le style de combat temp&ecirc;te blind&eacute;e se focalise sur l&rsquo;utilisation de l&rsquo;armure en tant qu&rsquo;arme pour maximiser les d&eacute;g&acirc;ts des armes &eacute;quipant cette armure tout en encaissant les tirs adverses. Vous apprenez &agrave; augmenter l&rsquo;efficacit&eacute; des attaques effectu&eacute;es avec votre armure et y ajoutez plus d&rsquo;&eacute;quipements qu&rsquo;elle ne peut normalement en accepter.</p> <h2>VO</h2> <h3>@Compendium[sfrpg.class-features.wqpDgnxCVh0K1pbU]{Ambusher}</h3> <p>The ambusher fighting style focuses on stealth, tactical positioning, and superior reflexes to gain an edge. You must have Stealth as a class skill to select this fighting style.</p> <h3>@Compendium[sfrpg.class-features.oo4MlB56sziHi0lB]{Battlemaster}</h3> <p>The battlemaster fighting style focuses on adapting your natural advantages to new dangers and situations as they arise. By anticipating particular threats or adjusting mid-combat to deal with specific foes, you can assure your survival and gain the advantage. The following soldier fighting style is an adaptation of this technique that has made its way to the Pact Worlds. You must have the armor savant and natural weapons racial traits to take this fighting style.</p> <p>&nbsp;</p> <h3>@Compendium[sfrpg.class-features.qjAwXnudUtBHdZCe]{Fourfold Tactician}</h3> <p>A fourfold tactician is a master of making use of multiple weapons and still having a spare hand. You must have four or more arms to select or use this fighting style.</p> <p>&nbsp;</p> <h3>@Compendium[sfrpg.class-features.GvubHqBOlV1CsWvz]{Hunter}</h3> <p>You&rsquo;re a master of hunting all sorts of creatures, from big-game animals to runaway criminals and similar marks. You may use this expertise as a sniper, trophy hunter, sport enthusiast, or fugitive tracer. Far more focused on skills than other soldiers, your unique talents combine experience in the field with refined combat ability.</p> <h3>@Compendium[sfrpg.class-features.2C2NBundSvw79yKG]{Qi Adept}</h3> <p>You are able to tap into your personal life force, enabling you to unleash incredible strikes upon your foes. Whether you&rsquo;ve discovered these techniques on your own or studied at ancient monasteries and temples devoted to these lost arts, yours is a power cultivated through intense training and skill.</p> <p>&nbsp;</p> <h3>@Compendium[sfrpg.class-features.f34cpBT3OiXKXssf]{Squad}</h3> <p>Soldiers in large organizations, such as the Stewards, learn to fight effectively together in small squads. You have mastered these techniques, and your combat skills focus on aiding your allies. Halfelves epitomize the cooperative spirit this style taps into.</p> <h3>@Compendium[sfrpg.class-features.HiI3JMXX6crpsWDN]{Wrathful Warrior}</h3> <p>The wrathful warrior style draws upon your emotions&mdash;specifically your rage and wrath&mdash;to enable devastating attacks. You may have trained yourself to intentionally overload your fight-or-flight adrenaline response, or may just come from a long line of berserker warriors. At higher levels, you&rsquo;re able to use your anger to ignore damage and strike with impudence.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "1er niveau"
+		},
 		"Supernova (Su)": {
 			"frName": "Supernova (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{R&eacute;v&eacute;lations stellaires}</p> <p>Quand vous &ecirc;tes harmonis&eacute; avec les photons, en tant qu&rsquo;action simple, vous pouvez infliger 1d6 points de d&eacute;g&acirc;ts de feu plus 1d6 de d&eacute;g&acirc;ts de feu suppl&eacute;mentaires par niveau de solarien &agrave; toutes les cr&eacute;atures situ&eacute;es &agrave; moins de 3 m&egrave;tres de vous. Une cr&eacute;ature qui r&eacute;ussit un jet de R&eacute;flexes r&eacute;duit les d&eacute;g&acirc;ts de moiti&eacute;.</p> <p>Au niveau 9, toutes les cr&eacute;atures sur 4,5 m&egrave;tres autour de vous sont affect&eacute;es et, au niveau 17, vous pouvez augmenter cette port&eacute;e &agrave; 6 m&egrave;tres. Apr&egrave;s avoir utilis&eacute; cette r&eacute;v&eacute;lation, vous &ecirc;tes imm&eacute;diatement d&eacute;synchronis&eacute;. Supernova s&rsquo;utilise comme une r&eacute;v&eacute;lation ultime pour tous les pouvoirs qui y font r&eacute;f&eacute;rence.</p>",
 			"frSource": "RDB p.103 – Solarien",
 			"frRequirements": "1er niveau"
+		},
+		"Mental Anguish (Su)": {
+			"frName": "Supplice mental (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "9ème niveau"
 		},
 		"Overclocking (Ex)": {
 			"frName": "Surcadençage (Ext)",
@@ -1635,17 +2301,59 @@
 			"frSource": "RDB p.80 – Mécano",
 			"frRequirements": "2ème niveau"
 		},
+		"Overlord": {
+			"frName": "Suzerain",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "1er niveau"
+		},
+		"Jealous Overlord (Su)": {
+			"frName": "Suzerain possessif (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "12ème niveau"
+		},
+		"Primary Style Technique": {
+			"frName": "Technique du style de combat principal",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Au niveau 1 puis tous les 4 niveaux suivants, vous gagnez une technique du style de combat propre &agrave; votre style de combat principal.</p>",
+			"frSource": "RDB p.111 – Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Secondary Style Technique": {
+			"frName": "Technique du style de combat secondaire",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.cCZQpV0NmYE9qZoL]{Soldat}</p> <p>Au niveau 9 puis tous les 4 niveaux suivants, vous gagnez une technique du style de combat propre &agrave; votre style de combat secondaire. Pour ces techniques, votre niveau de soldat est &eacute;gal &agrave; votre niveau actuel &ndash;8.</p>",
+			"frSource": "RDB p.112 – Soldat",
+			"frRequirements": "9ème niveau"
+		},
 		"Flash Teleport (Sp)": {
 			"frName": "Téléportation éclair (Mag)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>En tant qu&rsquo;action de mouvement, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour vous t&eacute;l&eacute;porter jusqu&rsquo;&agrave; 9 m&egrave;tres. Vous devez avoir votre destination en ligne de vue. Ce d&eacute;placement ne provoque pas d&rsquo;attaques d&rsquo;opportunit&eacute;.</p>",
 			"frSource": "RDB p.123 – Technomancien",
 			"frRequirements": "8ème niveau"
 		},
+		"Interplanetary Teleport (Sp)": {
+			"frName": "Téléportation interplanétaire (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "18ème niveau"
+		},
+		"Armor Storm": {
+			"frName": "Tempête blindée",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.oKlwvc1HcIsg7Q7a]{Style de combat}</p> <p>Le style de combat temp&ecirc;te blind&eacute;e se focalise sur l&rsquo;utilisation de l&rsquo;armure en tant qu&rsquo;arme pour maximiser les d&eacute;g&acirc;ts des armes &eacute;quipant cette armure tout en encaissant les tirs adverses. Vous apprenez &agrave; augmenter l&rsquo;efficacit&eacute; des attaques effectu&eacute;es avec votre armure et y ajoutez plus d&rsquo;&eacute;quipements qu&rsquo;elle ne peut normalement en accepter.</p> <ul> <li>@Compendium[sfrpg.class-features.bMrNOiFOJYntHFVF]{Marteau-pilon (Ext)}</li> <li>@Compendium[sfrpg.class-features.J2ihxKAsF68ol0vr]{Optimisation d&rsquo;armure (Ext)}</li> <li>@Compendium[sfrpg.class-features.1qKKHF31zMkzTYBd]{Charge irresistible (Ext)}</li> <li>@Compendium[sfrpg.class-features.fwWAQ71KPxQjEIpV]{Arm&eacute;e mobile (Ext)}</li> <li>@Compendium[sfrpg.class-features.J1yTIeNG1ed1RZqB]{Mobilit&eacute; blind&eacute;e (Ext)}</li> </ul>",
+			"frSource": "RDB p.113 – Soldat",
+			"frRequirements": "1er niveau"
+		},
 		"Seeking Shot (Su)": {
 			"frName": "Tir autoguidé (Sur)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.sobLlAGQkmWcFBFx]{Alt&eacute;rations magiques}</p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour effectuer un seul tir avec une arme &agrave; distance contre une cible que vous savez &ecirc;tre &agrave; port&eacute;e. Le tir se d&eacute;place vers la cible m&ecirc;me dans les angles. Seul un obstacle in&eacute;vitable ou la limite de port&eacute;e de l&rsquo;arme peut emp&ecirc;cher le tir d&rsquo;atteindre sa cible. Ce pouvoir annule les modificateurs des abris et des camouflages mais, autrement, l&rsquo;attaque est effectu&eacute;e normalement.</p>",
 			"frSource": "RDB p.123 – Technomancien",
 			"frRequirements": "11ème niveau"
+		},
+		"Focus Fire (Ex) (2nd)": {
+			"frName": "Tir concentré (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</p> <p>Quand vous effectuez une attaque &agrave; outrance avec une arme de tir, vous pouvez effectuer les deux attaques avec un malus de &ndash;3 au lieu de &ndash;4 si vos deux attaques ciblent la m&ecirc;me cr&eacute;ature. Si votre premi&egrave;re attaque tue ou neutralise la cible, vous pouvez effectuer la seconde contre une autre cr&eacute;ature mais avec un malus de &ndash;4. Une fois que vous b&eacute;n&eacute;ficiez de l&rsquo;aptitude de classe assaut du soldat (voir page 112), vous pouvez utiliser ce pouvoir avec celle-ci et effectuer trois attaques contre la m&ecirc;me cr&eacute;ature avec un malus de &ndash;5 ; si votre premi&egrave;re ou seconde attaque tue ou neutralise la cible, vous pouvez effectuer celles qui vous restent contre une autre cr&eacute;ature mais avec un malus de &ndash;6.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "5ème niveau"
 		},
 		"Debilitating Sniper (Ex)": {
 			"frName": "Tir de précision incapacitant (Ext)",
@@ -1689,6 +2397,18 @@
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
 		},
+		"Transcendence (Sp)": {
+			"frName": "Transcendance (Mag)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "19ème niveau"
+		},
+		"Plant Transport (Su)": {
+			"frName": "Transport végétal (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "15ème niveau"
+		},
 		"Triple Attack (Ex)": {
 			"frName": "Triple attaque (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.uf8ADOAeBrtUkPVl]{Agent}</p><p>Quand vous effectuez une attaque &agrave; outrance en utilisant uniquement des armes de corps &agrave; corps ayant la propri&eacute;t&eacute; sp&eacute;ciale agent ou des armes l&eacute;g&egrave;res, vous pouvez effectuer jusqu&rsquo;&agrave; trois attaques au lieu de deux.</p>",
@@ -1706,6 +2426,12 @@
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.UVNOjH2ERlQjcGnU]{R&eacute;v&eacute;lations ultimes}</p> <p>Quand vous &ecirc;tes harmonis&eacute; avec les gravitons, en tant qu&rsquo;action simple, vous pouvez cr&eacute;er deux trous de ver reli&eacute;s entre eux. Vous devez &ecirc;tre adjacent &agrave; un des trous et l&rsquo;autre appara&icirc;t n&rsquo;importe o&ugrave; dans votre ligne de vue &agrave; port&eacute;e moyenne (30 m&egrave;tres + 3 m&egrave;tres par niveau de solarien). Chaque trou de ver est large de 1,50 m&egrave;tre et appara&icirc;t &agrave; l&rsquo;intersection de deux espaces. Vous et n&rsquo;importe quelles cr&eacute;atures de taille G ou de taille inf&eacute;rieure que vous d&eacute;signez mentalement (vous pouvez d&eacute;signer &laquo; toutes les cr&eacute;atures &raquo;, &laquo; tous les lashuntas &raquo; ou des cat&eacute;gories similaires) pouvez vous d&eacute;placer entre ces trous de ver. Ceci est consid&eacute;r&eacute; comme un d&eacute;placement extradimensionel. Entrer dans un trou de ver transporte instantan&eacute;ment une cr&eacute;ature sur un espace adjacent &agrave; l&rsquo;autre trou de ver o&ugrave; la cr&eacute;ature peut continuer son d&eacute;placement. Les trous de ver perdurent pendant 1 round tous les 2 niveaux de solarien. Au niveau 17, vous pouvez cr&eacute;er trois trous de ver et, en entrant dans l&rsquo;un d&rsquo;eux, une cr&eacute;ature d&eacute;cide par lequel elle ressortira.</p>",
 			"frSource": "RDB p.107 – Solarien",
 			"frRequirements": "9ème niveau"
+		},
+		"Mindkiller (Su)": {
+			"frName": "Tueur mental (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.95",
+			"frRequirements": "15ème niveau"
 		},
 		"Ultraclocking (Ex)": {
 			"frName": "Ultracadençage (Ext)",
@@ -1743,11 +2469,41 @@
 			"frSource": "RDB p.65 – Exploits d’agent",
 			"frRequirements": "10ème niveau"
 		},
+		"Grasping Vines (Su)": {
+			"frName": "Vignes agrippantes (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.97",
+			"frRequirements": "3ème niveau"
+		},
+		"Sniper's Aim (Ex) (1st)": {
+			"frName": "Visée du tireur d’élite (Ext)",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.PSAr1JTGPZQ9g1j8]{Pr&eacute;cision offensive}</p> <p>Quand vous effectuez une attaque &agrave; distance contre une cible b&eacute;n&eacute;ficiant d&rsquo;un abri, r&eacute;duisez de 2 points son bonus &agrave; sa CA. Vous ne pouvez utiliser vis&eacute;e du tireur d&rsquo;&eacute;lite contre un adversaire b&eacute;n&eacute;ficiant d&rsquo;un abri total.</p>",
+			"frSource": "RDB p.115– Soldat",
+			"frRequirements": "1er niveau"
+		},
+		"Peer into the Future (Su)": {
+			"frName": "Vision de l’avenir (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.92",
+			"frRequirements": "6ème niveau"
+		},
 		"Nightvision (Ex)": {
 			"frName": "Vision de nuit (Ext)",
 			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.On2ZrPJTe8FURsXY]{Exploit d'agent}</p> <p>Vous pouvez voir dans le noir sur une distance de 18 m&egrave;tres, comme si vous aviez vision nocturne et vision dans le noir.</p>",
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
+		},
+		"Steal Life (Su)": {
+			"frName": "Vol de vie (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.94",
+			"frRequirements": "9ème niveau"
+		},
+		"Starflight (Su)": {
+			"frName": "Vol stellaire (Sur)",
+			"frDescription": "",
+			"frSource": "RDB p.96",
+			"frRequirements": "9ème niveau"
 		},
 		"Thief": {
 			"frName": "Voleur",
@@ -1761,47 +2517,11 @@
 			"frSource": "RDB p.63 – Exploits d’agent",
 			"frRequirements": "2ème niveau"
 		},
-		"Combat Feat": {
-			"frName": "Don de combat",
+		"Xenodruid": {
+			"frName": "Xéno-druide",
 			"frDescription": "",
-			"frSource": "RDB p.111 – Soldat",
-			"frRequirements": "2ème niveau"
-		},
-		"Fighting Style": {
-			"frName": "Style de combat principal",
-			"frDescription": "",
-			"frSource": "RDB p.111 – Soldat",
+			"frSource": "RDB p.97",
 			"frRequirements": "1er niveau"
-		},
-		"Gear Boost": {
-			"frName": "Optimisation d’équipement",
-			"frDescription": "",
-			"frSource": "RDB p.111 – Soldat",
-			"frRequirements": "3ème niveau"
-		},
-		"Kill Shot (Ex)": {
-			"frName": "Attaque fatale",
-			"frDescription": "",
-			"frSource": "RDB p.112 – Soldat",
-			"frRequirements": "20ème niveau "
-		},
-		"Primary Style Technique": {
-			"frName": "Technique du style de combat principal",
-			"frDescription": "",
-			"frSource": "RDB p.111 – Soldat",
-			"frRequirements": "1er niveau"
-		},
-		"Secondary Style Technique": {
-			"frName": "Technique du style de combat secondaire",
-			"frDescription": "",
-			"frSource": "RDB p.112 – Soldat",
-			"frRequirements": "9ème niveau"
-		},
-		"Soldier's Onslaught (Ex)": {
-			"frName": "Assaut du soldat",
-			"frDescription": "",
-			"frSource": "RDB p.112 – Soldat",
-			"frRequirements": "11ème niveau"
 		}
 	}
 }
