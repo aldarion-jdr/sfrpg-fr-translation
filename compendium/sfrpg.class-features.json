@@ -29,13 +29,13 @@
 		},
 		"Access Akashic Record (Su)": {
 			"frName": "Accès aux Archives akashiques (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez avoir acc&egrave;s aux Archives akashiques pour augmenter vos comp&eacute;tences. Vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour tenter un test de comp&eacute;tence comme si votre rang dans cette comp&eacute;tence &eacute;tait &eacute;gal &agrave; votre niveau de mystique.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "3ème niveau"
 		},
 		"Animal Adaptation (Su)": {
 			"frName": "Adaptation animale (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez modifier votre corps. Choisissez une des modifications suivantes pour en gagner les avantages : jambes allong&eacute;es (augmentez votre vitesse au sol de 3 m&egrave;tres), nageoires et doigts palm&eacute;s (vous octroie une vitesse de nage &eacute;gale &agrave; la moiti&eacute; de votre vitesse au sol), ventouses aux poignets et aux pieds (vous octroie une vitesse d&rsquo;escalade &eacute;gale &agrave; la moiti&eacute; de votre vitesse au sol) ou des pupilles verticales (vous octroie vision dans le noir sur 18 m&egrave;tres). Chaque jour, ce pouvoir a une dur&eacute;e en minutes &eacute;gale &agrave; votre niveau de mystique ; il n&rsquo;est pas n&eacute;cessaire d&rsquo;utiliser toute cette dur&eacute;e en une seule fois mais chaque utilisation doit &ecirc;tre en multiples d&rsquo;1 minute. Votre forme et votre taille normales changent peu mais certaines parties de votre corps sont modifi&eacute;es. L&rsquo;armure et les &eacute;quipements que vous portez s&rsquo;ajustent en fonction de ces modifications pendant la dur&eacute;e du pouvoir. Vous ne pouvez avoir qu&rsquo;une seule de ces modifications active en m&ecirc;me temps ; choisir une nouvelle adaptation est une action simple et le nouveau choix remplace l&rsquo;ancien. Au niveau 12, les vitesses de nage et d&rsquo;escalade octroy&eacute;es par l&rsquo;adaptation sont &eacute;gales &agrave; votre vitesse au sol et vous ajoutez des ailes (vous accorde une vitesse de vol de 9 m&egrave;tres avec une manoeuvrabilit&eacute; moyenne) &agrave; la liste des adaptations possibles.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "6ème niveau"
 		},
@@ -71,7 +71,7 @@
 		},
 		"Akashic": {
 			"frName": "Akashique",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Vous &ecirc;tes connect&eacute; aux connaissances collectives de toutes les esp&egrave;ces conscientes qui ont v&eacute;cu et qui sont consign&eacute;es dans les Archives akashiques, une biblioth&egrave;que astrale qui contient les archives psychiques de chaque moment de l&rsquo;Histoire. Vous pouvez &ecirc;tre un gardien du savoir ancestral, un adepte de l&rsquo;occulte curieux, un d&eacute;tective &agrave; l&rsquo;intuition d&eacute;velopp&eacute;e ou un espion accumulant les secrets.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.kN8pC8Yfi8OuCvig]{&Eacute;loritu}, @Compendium[sfrpg.setting.ul7WYVhr1F6q32jN]{Nyarlathotep}, @Compendium[sfrpg.setting.VQrVznzrr85I90TI]{Pharasma}, @Compendium[sfrpg.setting.V3pXOlk6kMulWA01]{Talavet}, @Compendium[sfrpg.setting.FYV6RgTjPdg72RF0]{Triune}, @Compendium[sfrpg.setting.KZvxBU9KGbqRCKkv]{Weydan}, @Compendium[sfrpg.setting.rUtAoz8NUGCZR4yz]{Yara&eacute;sa}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Culture et Mysticisme</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.PlIKBubNljqxVPsz]{identification}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.uH3JWy7ICH8DNS8m]{augure}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.uWKhr01bnKxuNRkL]{don des langues}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.APgLb0BS0VgtE06l]{divination}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.0c25gVm7RKKg1nIy]{contact avec les plans},</em> 6e&mdash;<em>@Compendium[sfrpg.spells.YnRDHb216HdROPeo]{vision mystique}<br /></em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:32px\" /></sub> Connexions de l'Akashique</h2> <ul> <li>@Compendium[sfrpg.class-features.O2rCHWrJkJOSlKaK]{Savoir akashique (Ext)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.Q5zArP9B8MtBQMDr]{Acc&egrave;s aux Archives akashiques (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.UNxexURTq242nxj4]{Vision de l&rsquo;avenir (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.yyjVuVuNgt7wADch]{Sonde mentale (Mag)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.ZMiDC3qzN3dXaa6g]{M&eacute;moires t&eacute;l&eacute;pathiques (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.EozS31y1xLrFlV8p]{Palais m&eacute;moriel (Sur)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.W8lD1ZYoRuibeos2]{Emprunt de sort (Sur)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.93",
 			"frRequirements": "1er niveau"
 		},
@@ -89,13 +89,13 @@
 		},
 		"Forced Amity (Sp)": {
 			"frName": "Amitié forcée (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour insuffler &agrave; travers votre connexion des pens&eacute;es et des &eacute;motions positives afin de forcer une cr&eacute;ature humano&iuml;de &agrave; &ecirc;tre votre amie pendant un certain temps. Cet effet fonctionne comme celui d&rsquo;un <em>@Compendium[sfrpg.spells.3nFCrisRp2GIjbR3]{charme-personne}</em>.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "3ème niveau"
 		},
 		"Greater Forced Amity (Sp)": {
 			"frName": "Amitié forcée supérieure (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Votre pouvoir d&rsquo;amiti&eacute; forc&eacute;e fonctionne comme un sort de <em>@Compendium[sfrpg.spells.SysRFlYml1f1Eofd]{charme-monstre}</em>.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "9ème niveau"
 		},
@@ -173,7 +173,7 @@
 		},
 		"Walk the Void (Su)": {
 			"frName": "Arpenteur du vide (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous &ecirc;tes immunis&eacute; contre les effets environnementaux dangereux de l&rsquo;espace et du vide. Vous pouvez &eacute;galement voler &agrave; une vitesse de 6 m&egrave;tres dans l&rsquo;espace. De plus, quand vous pouvez voir les &eacute;toiles, vous pouvez d&eacute;terminer votre localisation pr&eacute;cise. Enfin, ajoutez Pilotage &agrave; votre liste de comp&eacute;tences de classe.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "1er niveau"
 		},
@@ -401,7 +401,7 @@
 		},
 		"Mindbreaker": {
 			"frName": "Briseur d’esprit",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Vous utilisez votre volont&eacute; et vos connaissances des structures mentales pour briser et d&eacute;moraliser vos ennemis. Vous pouvez &ecirc;tre un assassin des forces sp&eacute;ciales, un interrogateur psychique ou un crois&eacute; vertueux d&eacute;moralisant ses ennemis sur le champ de bataille.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.cO4BD8W8nUCLjvSE]{Besmara}, @Compendium[sfrpg.setting.pq08s1mZZyi97PBA]{Damoritosh}, @Compendium[sfrpg.setting.npmy97Y5pefRTHx1]{Iom&eacute;dae}, @Compendium[sfrpg.setting.JpQpQbdXNOX6aTVG]{le D&eacute;voreur}, @Compendium[sfrpg.setting.anZKSsgV81lZ49ew]{Urgathoa}, @Compendium[sfrpg.setting.NCjMqGMqprKIe33d]{Zon-Kuthon}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Bluff et Intimidation</li> <li><strong>Sorts :</strong> 1er&mdash;6e <em>@Compendium[sfrpg.spells.7XJ6x5BZv1k1eBBz]{assaut mental}</em>; remplac&eacute; par 1er&mdash;<em>@Compendium[sfrpg.spells.infpQZm0h1FzN7YX]{confusion mineure}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.2AYPwSy7I0Ar8yAH]{infliger la souffrance}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.rHscFpMmXkZOOkgV]{pulsation synaptique}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.wSeE9HyAmM7lTdpo]{confusion}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.wKYmjm8OFwa5L0vX]{d&eacute;bilit&eacute;}.</em><em><br /></em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions du Briseur d&rsquo;esprit</h2> <ul> <li>@Compendium[sfrpg.class-features.nrxvApxevr02w8xN]{Souffrance partag&eacute;e (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.fJaOQRjC3akqSGuS]{Contrecoup (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.SPVCK9LRLC0L38if]{Instiller le doute (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.tpjIM8Rd3RgCcrcF]{Supplice mental (Sur)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.arLGYNQaTfu5qyuu]{Lien de fracture mentale (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.RUiWaTxe7SsUJYXo]{Tueur mental (Sur)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.lyg8K6wUyB7x73AR]{Explosion cr&acirc;nienne (Sur)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.95",
 			"frRequirements": "1er niveau"
 		},
@@ -449,7 +449,7 @@
 		},
 		"Star Shaman": {
 			"frName": "Chaman stellaire",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Votre connexion canalise l&rsquo;&eacute;nergie du cosmos, de ses corps c&eacute;lestes et du vide qui s&rsquo;&eacute;tend entre eux. Vous pouvez &ecirc;tre un astronome brillant, un pilote de l&rsquo;espace casse-cou, un explorateur du Drift, un proph&egrave;te astrologue ou un individu aspirant &agrave; la divinit&eacute; transhumaine.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.Jr4DAaJPRZYMAV1n]{Desna}, @Compendium[sfrpg.setting.bPtB2HxRcO7AYWyf]{Ibra}, @Compendium[sfrpg.setting.ul7WYVhr1F6q32jN]{Nyarlathotep}, @Compendium[sfrpg.setting.VJ0UTIsAggcCQJBu]{Sarenrae}, @Compendium[sfrpg.setting.JpQpQbdXNOX6aTVG]{The Devourer}, @Compendium[sfrpg.setting.FYV6RgTjPdg72RF0]{Triune}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Diplomatie et Intimidation</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.jUTs9R52bL7SuHwY]{feu d&rsquo;&eacute;toiles (comme projectile magique)}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.XZ1X1IzN0tckzOPn]{vision dans le noir}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.vOQ1NkfDHafdqTfE]{irradiation}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.ANDdDHLnY7Dfnhtq]{neutralisation des radiations}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.lrMTBRwONgY1cdWy]{t&eacute;l&eacute;kin&eacute;sie},</em> 6e&mdash;<em>@Compendium[sfrpg.spells.GXYWlBuSrRRoLogX]{contr&ocirc;le de la gravit&eacute;}</em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions du Chaman stellaire</h2> <ul> <li>@Compendium[sfrpg.class-features.esO8OIyMUvm1hleR]{Arpenteur du vide (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.MWtwqHTVoDiINijS]{Forme stellaire (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.zPIwjVyye1NQjNfS]{&Eacute;clat des &eacute;toiles (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.wukzJFpiLX52C5Kv]{Vol stellaire (Sur)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.si5PQwymkJvETDOA]{Lien stellaire (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.2UygdDVj7fppzMGm]{Pluie de m&eacute;t&eacute;ores (Sur)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.6xnrycJGJ6gYcl4p]{T&eacute;l&eacute;portation interplan&eacute;taire (Mag)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.96",
 			"frRequirements": "1er niveau"
 		},
@@ -545,19 +545,19 @@
 		},
 		"Speak with Animals (Su)": {
 			"frName": "Communication avec les animaux (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez communiquer avec n&rsquo;importe quelle cr&eacute;ature ayant le type animal bien que cela ne la rende pas pour autant amicale. Si un animal est amical envers vous, il peut vous rendre service. Ce pouvoir vous permet d&rsquo;utiliser Intimidation pour impressionner des animaux et vous pouvez utiliser contre eux n&rsquo;importe quel effet @Compendium[sfrpg.rules.PqV3OCbUTyk2upPD]{d&eacute;pendant du langage}.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "1er niveau"
 		},
 		"Channel Skill (Su)": {
 			"frName": "Compétence focalisée (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Par le biais de votre connexion, vous avez d&rsquo;&eacute;tranges sensations, des connaissances, des instincts et des d&eacute;sirs qui augmentent vos capacit&eacute;s &agrave; r&eacute;aliser certaines t&acirc;ches. &Agrave; chaque connexion sont associ&eacute;es deux comp&eacute;tences. Vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +1 aux tests avec ces comp&eacute;tences. Ce bonus augmente de 1 au niveau 5 puis tous les trois niveaux suivants.</p> <p>&nbsp;</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "2ème niveau"
 		},
 		"Inexplicable Commands (Su)": {
 			"frName": "Compulsions inexplicables (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand l&rsquo;effet d&rsquo;un de vos charmes, sort de coercition ou pouvoir magique affectant l&rsquo;esprit se termine, la victime ne se souvient pas d&rsquo;avoir &eacute;t&eacute; contr&ocirc;l&eacute;e ou influenc&eacute;e magiquement. Elle se rappelle les actions qu&rsquo;elle a faites mais peut en &ecirc;tre troubl&eacute;e.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "1er niveau"
 		},
@@ -575,7 +575,7 @@
 		},
 		"Connection": {
 			"frName": "Connexion",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Vous avez une connexion myst&eacute;rieuse avec une puissance qui vous accorde des pouvoirs magiques. La nature exacte de cette connexion peut varier grandement et m&ecirc;me des mystiques qui partagent la m&ecirc;me peuvent l&rsquo;interpr&eacute;ter diff&eacute;remment. Vous devez choisir une connexion d&egrave;s votre premier niveau de mystique. Une fois ce choix fait, vous ne pouvez en changer. La liste des connexions possibles est indiqu&eacute;e page 93.</p> <p>De nombreux mystiques sont les pr&ecirc;tres de diff&eacute;rentes divinit&eacute;s et, bien que th&eacute;oriquement vous puissiez choisir n&rsquo;importe quel type de connexion avec n&rsquo;importe quelle entit&eacute; ou concept, les divinit&eacute;s accordent rarement des connexions qui ne correspondent pas &agrave; leur philosophie (par exemple, il est peu probable que @Compendium[sfrpg.setting.KZvxBU9KGbqRCKkv]{Weydan}, le dieu de la libert&eacute;, appr&eacute;cie les suzerains). Aussi, pour chaque connexion sont indiqu&eacute;es les divinit&eacute;s et les philosophies qui lui sont commun&eacute;ment associ&eacute;es.</p> <h2>Pouvoir de connexion - Niveau 1</h2> <p>Au niveau 1, au niveau 3 puis tous les 3 niveaux suivants, vous gagnez un pouvoir de connexion unique &agrave; cette connexion. Si un tel pouvoir autorise un jet de sauvegarde pour r&eacute;sister &agrave; ses effets, le DD est &eacute;gal &agrave; 10 + la moiti&eacute; de votre niveau de mystique + votre modificateur de sagesse. Si ce pouvoir n&eacute;cessite que l&rsquo;adversaire effectue un test de comp&eacute;tence, le DD est &eacute;gal &agrave; 10 + 1,5 &times; votre niveau de mystique + votre modificateur de Sagesse.</p> <h2>Sort de connexion - Niveau 1</h2> <p>Votre connexion vous octroie de nouveaux sorts connus, un pour chaque niveau de sorts de mystique que vous pouvez lancer, et ce, d&egrave;s le niveau 1 puis &agrave; chaque niveau au cours duquel vous avez acc&egrave;s &agrave; un nouveau niveau de sorts. Ces sorts s&rsquo;ajoutent &agrave; votre nombre de sorts connus indiqu&eacute; sur la table 4&ndash;7 : Sorts de mystique connus. Ils ne peuvent &ecirc;tre &eacute;chang&eacute;s contre des sorts diff&eacute;rents &agrave; plus haut niveau (sauf dans certains cas sp&eacute;cifiques ; voir ci-apr&egrave;s). Le niveau de sort de chacun d&rsquo;eux est indiqu&eacute; avec la description de votre connexion.</p> <p>S&rsquo;il n&rsquo;est indiqu&eacute; qu&rsquo;un seul sort &agrave; niveau variable (voir page 330), vous l&rsquo;obtenez quand vous gagnez pour la premi&egrave;re fois votre sort de connexion &agrave; chaque niveau. La prochaine fois que vous gagnez un sort de connexion, ajoutez le niveau sup&eacute;rieur du sort &agrave; niveau variable &agrave; votre liste de sorts connus. Vous perdez imm&eacute;diatement la version de niveau inf&eacute;rieur de ce sort &agrave; niveau variable et vous le remplacez par le sort de connexion indiqu&eacute; pour ce niveau inf&eacute;rieur.</p> <h2>Connexions VF</h2> <ul> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</li> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</li> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</li> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</li> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.v0UEjqjIg10jkGjk]{Gu&eacute;risseur}</li> <li><sub><img style=\"border: 0px;\" src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"20\" height=\"20\" /></sub> @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</li> </ul> <h2>Connections VO</h2> <ul> <li>@Compendium[sfrpg.class-features.7GS83RMzWPMDx3LT]{Crusader}</li> <li>@Compendium[sfrpg.class-features.Z1V1TmTxPhgur7n1]{Melophile}</li> <li>@Compendium[sfrpg.class-features.7NxgC9bTcFZkPXY6]{Warmonger}</li> <li>@Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{Xenodruid}</li> <li>@Compendium[sfrpg.class-features.yXBlDiVu3PiTBexY]{Delusion}</li> </ul>",
 			"frSource": "RDB p.91",
 			"frRequirements": "1er niveau"
 		},
@@ -587,7 +587,7 @@
 		},
 		"Healing Touch (Su)": {
 			"frName": "Contact guérisseur (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Une fois par jour, en y consacrant 10 minutes, vous pouvez soigner magiquement un alli&eacute; pour qu&rsquo;il r&eacute;cup&egrave;re jusqu&rsquo;&agrave; 5 PV par niveau de mystique.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "1er niveau"
 		},
@@ -617,13 +617,13 @@
 		},
 		"Backlash (Su)": {
 			"frName": "Contrecoup (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>&Agrave; chaque fois qu&rsquo;un adversaire r&eacute;ussit un jet de Volont&eacute; contre un de vos sorts et en annule compl&egrave;tement les effets, cet adversaire subit un nombre de points de d&eacute;g&acirc;ts non l&eacute;taux &eacute;gal &agrave; votre niveau de mystique. C&rsquo;est un effet mental de souffrance.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "3ème niveau"
 		},
 		"Absolute Control (Su)": {
 			"frName": "Contrôle absolu (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand vous donnez un ordre &agrave; une cr&eacute;ature domin&eacute;e qui la force &agrave; agir contre sa nature, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour lui interdire un nouveau jet de sauvegarde contre votre domination. Cependant, on ne peut toujours pas forcer une cr&eacute;ature domin&eacute;e &agrave; effectuer une action suicidaire.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "18ème niveau"
 		},
@@ -713,19 +713,19 @@
 		},
 		"Emotionsense (Su)": {
 			"frName": "Détection des émotions (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez d&eacute;tecter et localiser des cr&eacute;atures qui ont des &eacute;motions situ&eacute;es &agrave; moins de 18 m&egrave;tres de vous comme si vous &eacute;tiez dot&eacute; de perception aveugle (&eacute;motion) ; voir page 263. Une cr&eacute;ature peut tenter de contr&ocirc;ler ses &eacute;motions pour &eacute;viter d&rsquo;&ecirc;tre d&eacute;tect&eacute;e par ce pouvoir mais elle doit r&eacute;ussir un test de Bluff avec un DD &eacute;gal &agrave; 10 + votre modificateur de Psychologie. Une cr&eacute;ature soumise &agrave; un effet &eacute;motionnel ne peut &eacute;viter d&rsquo;&ecirc;tre d&eacute;tect&eacute;e. Les cr&eacute;atures soumises aux effets d&rsquo;<em>@Compendium[sfrpg.spells.Et8svAkPZ7RNsJJf]{antid&eacute;tection}</em> ou &agrave; des effets similaires &eacute;chappent automatiquement &agrave; ce pouvoir. &Agrave; moins que le contraire ne soit indiqu&eacute;, les cr&eacute;atures artificielles et celles ayant une valeur d&rsquo;Intelligence de 2 ou moins n&rsquo;ont pas d&rsquo;&eacute;motions et ne peuvent &ecirc;tre d&eacute;tect&eacute;es de cette mani&egrave;re.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "6ème niveau"
 		},
 		"Greater Emotionsense (Su)": {
 			"frName": "Détection des émotions supérieure (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Votre pouvoir de d&eacute;tection des &eacute;motions est beaucoup plus sensible, comme si vous aviez vision aveugle (&eacute;motions) ; voir page 265.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "12ème niveau"
 		},
 		"Discern Lies (Sp)": {
 			"frName": "Détection des mensonges (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez utiliser <em>@Compendium[sfrpg.spells.7HZVlS48z55YO78b]{d&eacute;tection du mensonge}</em> comme un pouvoir magique un nombre de fois par jour &eacute;gal &agrave; votre niveau de mystique. &Agrave; chaque fois vous devez prendre pour cible une seule cr&eacute;ature. Cet effet dure 1 round. Une fois qu&rsquo;une cr&eacute;ature a r&eacute;ussi un jet de sauvegarde contre ce pouvoir, elle est immunis&eacute;e contre ses effets pendant 24 heures.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "9ème niveau"
 		},
@@ -821,7 +821,7 @@
 		},
 		"Echoes of Obedience (Su)": {
 			"frName": "Échos d’obéissance (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>M&ecirc;me des cr&eacute;atures qui r&eacute;sistent &agrave; vos pouvoirs de domination ne peuvent se d&eacute;barrasser de l&rsquo;&eacute;cho persistant de votre esprit. Quand une cr&eacute;ature r&eacute;ussit un jet de sauvegarde contre l&rsquo;un de vos charmes, sort de coercition ou pouvoir magique affectant l&rsquo;esprit et en annule l&rsquo;effet, elle subit tout de m&ecirc;me un malus de -1 &agrave; sa CA, &agrave; ses jets d&rsquo;attaque et tests de comp&eacute;tence, jusqu&rsquo;au d&eacute;but de votre prochain tour. C&rsquo;est un effet mental.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "6ème niveau"
 		},
@@ -833,7 +833,7 @@
 		},
 		"Stargazer (Su)": {
 			"frName": "Éclat des étoiles (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez &eacute;tudier les &eacute;toiles pour b&eacute;n&eacute;ficier d&rsquo;un peu de chance. Deux fois par jour, si vous &ecirc;tes &agrave; l&rsquo;ext&eacute;rieur et que vous pouvez voir les &eacute;toiles, vous pouvez relancer un test rat&eacute; de comp&eacute;tence ou un jet rat&eacute; d&rsquo;attaque ou de sauvegarde (voir page 243).</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "6ème niveau"
 		},
@@ -851,13 +851,13 @@
 		},
 		"Empath": {
 			"frName": "Empathe",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Votre connexion vous aide &agrave; ressentir les &eacute;motions et &agrave; remarquer des d&eacute;tails que les autres ne voient pas. Vous pouvez &ecirc;tre un diplomate, un enqu&ecirc;teur, un garde du corps t&eacute;l&eacute;pathe, un psychologue de bord, ou un escroc usant de ses pouvoirs psychiques.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.vIgmW8C54qgxPqUg]{Abadar}, @Compendium[sfrpg.setting.uBNlQguFvGTFLHSA]{Hylax}, @Compendium[sfrpg.setting.npmy97Y5pefRTHx1]{Iom&eacute;dae}, @Compendium[sfrpg.setting.VJ0UTIsAggcCQJBu]{Sarenrae}, @Compendium[sfrpg.setting.V3pXOlk6kMulWA01]{Talavet}, @Compendium[sfrpg.setting.FYV6RgTjPdg72RF0]{Triune} (Casandale)</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Perception et Psychologie</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.moyeAHT4yzZVWmmg]{d&eacute;tection des pens&eacute;es}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.V3mnCtb962WQlICq]{zone de v&eacute;rit&eacute;}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.4Z6WeMM9uJ1U0wG6]{clairaudience/clairvoyance}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.Yw8a8A1rjbLXkcpr]{sonde mentale}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.Xyo1RrE1atT6Aklc]{t&eacute;l&eacute;pathie},</em> 6e&mdash;<em>@Compendium[sfrpg.spells.VvCP8MdSZtXREp2x]{vision lucide}<br /></em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions de l'Empathe</h2> <ul> <li>@Compendium[sfrpg.class-features.aQQYD95bZwgScNsu]{Empathie (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.pSliBXyC3sD2gisa]{Lien mental sup&eacute;rieur (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.ANnBCC8Rx1u5qyDS]{D&eacute;tection des &eacute;motions (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.k29n29i0Y9mAgrY9]{D&eacute;tection des mensonges (Mag)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.NqF4ziNsyBrJvIFl]{D&eacute;tection des &eacute;motions sup&eacute;rieure (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.UKOpnFFzqflPY9c5]{R&eacute;trocognition (Mag)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.DsRf0jXOlFZFq9Yl]{Ma&icirc;trise empathique (Mag)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.93",
 			"frRequirements": "1er niveau"
 		},
 		"Empathy (Su)": {
 			"frName": "Empathie (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p>  <p>En tant qu&rsquo;action complexe, vous pouvez tenter un test de Psychologie pour lire les &eacute;motions d&rsquo;une cr&eacute;ature (DD = 20 ou 10 + son modificateur de Bluff, en prenant le meilleur r&eacute;sultat). Si vous r&eacute;ussissez, vous percevez ce qu&rsquo;elle ressent de mani&egrave;re g&eacute;n&eacute;rale vis-&agrave;-vis des cr&eacute;atures situ&eacute;es &agrave; moins de 9 m&egrave;tres d&rsquo;elle et vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de circonstances de +2 &agrave; vos tests de Bluff, Diplomatie, Intimidation et Psychologie contre cette cr&eacute;ature pendant 1 heure. Que vous r&eacute;ussissiez ou non, apr&egrave;s avoir ouvert votre esprit pour percevoir des &eacute;motions, vous subissez pendant 1 minute un malus de -2 &agrave; vos jets de sauvegarde contre les effets mentaux.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "1er niveau"
 		},
@@ -881,7 +881,7 @@
 		},
 		"Glean Spell (Su)": {
 			"frName": "Emprunt de sort (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Une fois par jour, vous pouvez puiser dans les Archives Akashiques pour lancer un sort de @Compendium[sfrpg.class-features.WHSxEq59wBSVTlVi]{mystique} ou de @Compendium[sfrpg.class-features.Sl47PwjLhPkni75T]{technomancien} comme s&rsquo;il &eacute;tait sur votre liste de sorts connus. Cela utilise un emplacement de sort sup&eacute;rieur d&rsquo;un niveau au niveau du sort utilis&eacute;.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "18ème niveau"
 		},
@@ -1007,7 +1007,7 @@
 		},
 		"Explode Head (Su)": {
 			"frName": "Explosion crânienne (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour attaquer physiquement le cerveau d&rsquo;un adversaire situ&eacute; &agrave; moins de 18 m&egrave;tres en augmentant la pression dans son cr&acirc;ne. Si la cible a 20 points de vie ou moins, sa t&ecirc;te explose. Elle meurt instantan&eacute;ment et des fragments de son cr&acirc;ne sont dispers&eacute;s sur 3 m&egrave;tres de rayon. Chaque cr&eacute;ature dans la zone affect&eacute;e doit r&eacute;ussir un jet de R&eacute;flexes ou subir 2d6 points de d&eacute;g&acirc;ts tranchants &agrave; cause des &eacute;clats. Une cible ayant plus de 20 points de vie subit 1d6 points de d&eacute;g&acirc;ts par niveau de mystique que vous avez (maximum 20d6), mais elle peut tenter un jet de Vigueur pour r&eacute;duire ces d&eacute;g&acirc;ts de moiti&eacute;. Si ses d&eacute;g&acirc;ts font tomber la victime &agrave; 0 point de vie, sa t&ecirc;te explose comme d&eacute;crit ci-dessus. Ce pouvoir ne fonctionne que sur des cr&eacute;atures qui ont une t&ecirc;te et qui peuvent mourir si elles la perdent.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "18ème niveau"
 		},
@@ -1067,13 +1067,13 @@
 		},
 		"Healing Channel (Su)": {
 			"frName": "Focalisation curative (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez vous soigner ainsi que vos alli&eacute;s. Vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour canaliser cette &eacute;nergie. Vous soigner est une action de mouvement, soigner un alli&eacute; que vous touchez est une action simple et soigner tous les alli&eacute;s &agrave; moins de 9 m&egrave;tres de vous est une action complexe. Cette &eacute;nergie soigne 2d8 points de vie puis 2d8 points de vie suppl&eacute;mentaires au niveau 3 et tous les 3 niveaux suivants.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "1er niveau"
 		},
 		"Channel Life (Su)": {
 			"frName": "Focalisation de la vie (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Si vous utilisez focalisation curative sur une cr&eacute;ature qui est morte depuis 1 round au maximum, vous pouvez la ramenez &agrave; la vie comme avec le sort de <em>@Compendium[sfrpg.spells.nffP8Mq7rJ8Rskb9]{gu&eacute;rison mystique}</em> de niveau 5.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "15ème niveau"
 		},
@@ -1085,7 +1085,7 @@
 		},
 		"Starlight Form (Su)": {
 			"frName": "Forme stellaire (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous irradiez une &eacute;clatante lumi&egrave;re stellaire. Votre corps &eacute;met une lumi&egrave;re normale dans un rayon de 9 m&egrave;tres et vous b&eacute;n&eacute;ficiez des avantages d&rsquo;un camouflage (probabilit&eacute;s de rater &eacute;gales &agrave; 20 %). Au niveau 7, une cr&eacute;ature qui termine son tour &agrave; c&ocirc;t&eacute; de vous, alors que vous &ecirc;tes sous l&rsquo;effet de ce pouvoir, doit r&eacute;ussir un jet de Vigueur ou &ecirc;tre aveugl&eacute;e pendant 1 round. Chaque jour, vous pouvez maintenir cette forme pendant un nombre de minutes &eacute;gal &agrave; votre niveau de mystique. Il n&rsquo;est pas n&eacute;cessaire d&rsquo;utiliser toute cette dur&eacute;e en une seule fois mais chaque utilisation doit &ecirc;tre en multiples d&rsquo;1 minute. Vous pouvez utiliser ce pouvoir juste pour faire de la lumi&egrave;re et ne pas utiliser ses effets d&rsquo;aveuglement ou de camouflage mais cela compte tout de m&ecirc;me comme une utilisation normale du pouvoir.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "3ème niveau"
 		},
@@ -1151,7 +1151,7 @@
 		},
 		"Healer": {
 			"frName": "Guérisseur",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Votre connexion canalise la force vitale de toutes les choses mais aussi sa contrepartie, la mort. Vous &ecirc;tes un gu&eacute;risseur mais pas forc&eacute;ment altruiste. Vous pouvez &ecirc;tre un m&eacute;decin itin&eacute;rant, un m&eacute;dium hant&eacute;, un m&eacute;decin militaire ou un n&eacute;cromancien tyrannique.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.Jr4DAaJPRZYMAV1n]{Desna}, @Compendium[sfrpg.setting.uBNlQguFvGTFLHSA]{Hylax}, @Compendium[sfrpg.setting.npmy97Y5pefRTHx1]{Iom&eacute;dae}, @Compendium[sfrpg.setting.VQrVznzrr85I90TI]{Pharasma}, @Compendium[sfrpg.setting.VJ0UTIsAggcCQJBu]{Sarenrae}, @Compendium[sfrpg.setting.V3pXOlk6kMulWA01]{Talavet}, @Compendium[sfrpg.setting.anZKSsgV81lZ49ew]{Urgathoa}, @Compendium[sfrpg.setting.KZvxBU9KGbqRCKkv]{Weydan}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> M&eacute;decine et Mysticisme</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.nffP8Mq7rJ8Rskb9]{gu&eacute;rison mystique}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.7BFGmL14AeT9SrA6]{neutralisation d&rsquo;&eacute;tat mineur}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.wMBxnYkNbzWJklIB]{neutralisation d&rsquo;&eacute;tat}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.YGkyMwEE6SLfZc4r]{neutralisation d&rsquo;affliction}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.usqy3VusjjgEnM9N]{restauration},</em> 6e&mdash;<em>@Compendium[sfrpg.spells.tzBzAK2mkdtaTRXw]{neutralisation d&rsquo;&eacute;tat majeur}<br /></em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions du Gu&eacute;risseur</h2> <ul> <li>@Compendium[sfrpg.class-features.6N4Us1JeYDGqeWf9]{Focalisation curative (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.uLEtB8Fydzv49akN]{Lien de vie (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.271GG40G7qRDKO8M]{Lien du gu&eacute;risseur (Mag)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.hpoMkCR8INB72QbM]{Vol de vie (Sur)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.JNs24T1CsisQvaEK]{Lien de focalisation (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.JgygiXsLGb6tlkFq]{Focalisation de la vie (Sur)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.NSXREp19pTNTmWTs]{Refuser la mort (Sur)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.94",
 			"frRequirements": "1er niveau"
 		},
@@ -1223,7 +1223,7 @@
 		},
 		"Enlightenment (Su)": {
 			"frName": "Illumination (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Vous avez atteint l&rsquo;illumination et vous &ecirc;tes devenu l&rsquo;incarnation vivante de votre connexion. Vous ne vieillissez plus et vous ne pouvez plus mourir de vieillesse. Une fois par jour, en tant qu&rsquo;action de mouvement, vous pouvez entrer dans un &eacute;tat de communion absolue avec votre connexion pendant 1 minute. Pendant ce temps, vous gagnez un bonus d&rsquo;intuition de +4 &agrave; vos jets d&rsquo;attaque, &agrave; vos jets de sauvegarde ainsi qu&rsquo;&agrave; vos tests de comp&eacute;tence et vous gagnez temporairement 20 points de pers&eacute;v&eacute;rance que vous pouvez utiliser uniquement avec vos pouvoirs de connexion. Tous les points de pers&eacute;v&eacute;rance non d&eacute;pens&eacute;s disparaissent au bout d&rsquo;une minute. De plus, une fois par semaine, vous pouvez lancer <em>@Compendium[sfrpg.spells.i3lpfndXeLq85h12]{miracle}</em> comme un pouvoir magique.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "20ème niveau "
 		},
@@ -1277,7 +1277,7 @@
 		},
 		"Sow Doubt (Su)": {
 			"frName": "Instiller le doute (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour semer le doute dans l&rsquo;esprit d&rsquo;un adversaire situ&eacute; &agrave; moins de 9 m&egrave;tres. Vous choisissez si la cible est prise au d&eacute;pourvu, impr&eacute;cise, subit un malus de &ndash;2 &agrave; ses jets de sauvegarde ou subit un malus de &ndash;2 &agrave; ses tests de comp&eacute;tence. Cet effet dure un nombre de rounds &eacute;gal &agrave; la moiti&eacute; de votre niveau de mystique &agrave; moins que la cible ne r&eacute;ussisse un jet de Volont&eacute; pour r&eacute;duire cette dur&eacute;e &agrave; 1 round. Une cr&eacute;ature ne peut &ecirc;tre affect&eacute;e que par un seul effet de ce pouvoir. Si vous l&rsquo;utilisez une nouvelle fois sur la m&ecirc;me cr&eacute;ature, le nouvel effet remplace l&rsquo;ancien. C&rsquo;est un effet mental.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "6ème niveau"
 		},
@@ -1343,49 +1343,49 @@
 		},
 		"Channel Bond (Su)": {
 			"frName": "Lien de focalisation (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand vous utilisez focalisation curative en tant qu&rsquo;action simple, vous pouvez soigner un alli&eacute; reli&eacute; par votre aptitude de classe lien t&eacute;l&eacute;pathique et situ&eacute; &agrave; moins de 40 m&egrave;tres, comme si vous le touchiez. Quand vous utilisez focalisation curative en tant qu&rsquo;action complexe, ce pouvoir soigne tous les alli&eacute;s reli&eacute;s &agrave; votre lien t&eacute;l&eacute;pathique situ&eacute;s &agrave; moins de 40 m&egrave;tres (ainsi que tous vos autres alli&eacute;s situ&eacute;s &agrave; moins de 9 m&egrave;tres).</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "12ème niveau"
 		},
 		"Mindbreaking Link (Su)": {
 			"frName": "Lien de fracture mentale (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>&Agrave; chaque fois que vous, ou un de vos alli&eacute;s sous l&rsquo;effet de l&rsquo;aptitude de classe lien t&eacute;l&eacute;pathique, r&eacute;ussissez une attaque critique contre un adversaire, en r&eacute;action, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour que cet adversaire soit confus. L&rsquo;adversaire doit r&eacute;ussir un jet de Volont&eacute; ou &ecirc;tre confus pendant 1 round. Qu&rsquo;il r&eacute;ussisse ou non ce jet, la cible est affect&eacute;e par votre aptitude instiller le doute pendant 1 round. C&rsquo;est un effet mental.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "12ème niveau"
 		},
 		"Lifelink (Su)": {
 			"frName": "Lien de vie (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Au d&eacute;but de chaque tour, vous pouvez choisir un alli&eacute; situ&eacute; &agrave; 9 m&egrave;tres ou moins qui a perdu des points de vie et transf&eacute;rer ses blessures sur vous. Vous subissez ces d&eacute;g&acirc;ts jusqu&rsquo;&agrave; un maximum &eacute;gal &agrave; votre niveau de mystique (en ignorant les points d&rsquo;endurance que vous pouvez avoir) et votre alli&eacute; r&eacute;cup&egrave;re le m&ecirc;me nombre de points de vie. Cela ne n&eacute;cessite aucune action de votre part. Vous ne pouvez &eacute;viter ou r&eacute;duire les d&eacute;g&acirc;ts que vous subissez &agrave; cause de votre lien de vie.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "3ème niveau"
 		},
 		"Healer’s Bond (Sp)": {
 			"frName": "Lien du guérisseur (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez &eacute;tablir un lien avec un maximum de trois alli&eacute;s, ce qui vous permet de conna&icirc;tre en permanence leur situation et leur &eacute;tat de sant&eacute;, comme avec le sort <em>@Compendium[sfrpg.spells.Mn5F4th3ctW5oKJ4]{rapport}</em>. Ce lien perdure jusqu&rsquo;&agrave; ce qu&rsquo;il soit dissip&eacute; ou jusqu&rsquo;&agrave; ce que vous &eacute;tablissiez un nouveau lien ce qui met imm&eacute;diatement un terme aux effets du pr&eacute;c&eacute;dent. Au niveau 11, quand vous gagnez l&rsquo;aptitude de classe lien t&eacute;l&eacute;pathique, vous b&eacute;n&eacute;ficiez &eacute;galement des effets du sort <em>@Compendium[sfrpg.spells.Mn5F4th3ctW5oKJ4]{rapport}</em> pour toutes les cr&eacute;atures avec lesquelles vous &ecirc;tes li&eacute; par votre lien t&eacute;l&eacute;pathique.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "6ème niveau"
 		},
 		"Mindlink (Sp)": {
 			"frName": "Lien mental (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Vous pouvez former un lien mental avec des cr&eacute;atures que vous touchez et vous en servir pour transmettre rapidement des informations. Vous pouvez utiliser <em>@Compendium[sfrpg.spells.c8FSuYsLfYviJYYF]{lien mental}</em> &agrave; volont&eacute; comme un pouvoir magique mais une seule fois par jour sur un m&ecirc;me individu.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "2ème niveau"
 		},
 		"Greater Mindlink (Su)": {
 			"frName": "Lien mental supérieur (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Chaque jour, vous pouvez utiliser votre pouvoir de <em>@Compendium[sfrpg.spells.c8FSuYsLfYviJYYF]{lien mental}</em> sur la m&ecirc;me cr&eacute;ature aussi souvent que vous le voulez. De plus, le lien fonctionne dans les deux sens. Cependant, le maximum de 10 minutes de communication par round s&rsquo;applique toujours.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "3ème niveau"
 		},
 		"Starry Bond (Su)": {
 			"frName": "Lien stellaire (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez partager avec vos alli&eacute;s la chance dont vous b&eacute;n&eacute;ficiez gr&acirc;ce au pouvoir de connexion d&rsquo;&eacute;clat des &eacute;toiles. &Agrave; chaque fois qu&rsquo;un alli&eacute; uni par votre lien t&eacute;l&eacute;pathique &eacute;choue &agrave; un jet de caract&eacute;ristique, un jet d&rsquo;attaque, un jet de sauvegarde ou un test de comp&eacute;tence, en r&eacute;action, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour lui permettre de relancer son d&eacute; (voir page 243). Pour le reste, ce pouvoir fonctionne exactement comme @Compendium[sfrpg.class-features.zPIwjVyye1NQjNfS]{&Eacute;clat des &eacute;toiles (sur)}.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "12ème niveau"
 		},
 		"Telepathic Bond (Sp)": {
 			"frName": "Lien télépathique (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>En tant qu&rsquo;action simple, vous pouvez former un lien t&eacute;l&eacute;pathique avec un maximum de six cr&eacute;atures volontaires, ce qui vous permet de communiquer t&eacute;l&eacute;pathiquement sur de grandes distances. Cela fonctionne comme le sort <em>@Compendium[sfrpg.spells.OM40z8TakmsrvDQU]{lien t&eacute;l&eacute;pathique}</em> mais la dur&eacute;e est permanente. Vous ne pouvez avoir qu&rsquo;un seul <em>@Compendium[sfrpg.spells.OM40z8TakmsrvDQU]{lien t&eacute;l&eacute;pathique}</em> actif en m&ecirc;me temps. Si vous en &eacute;tablissez un nouveau, cela met imm&eacute;diatement fin au pr&eacute;c&eacute;dent.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "11ème niveau"
 		},
@@ -1451,7 +1451,7 @@
 		},
 		"Empathic Mastery (Sp)": {
 			"frName": "Maîtrise empathique (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour utiliser <em>@Compendium[sfrpg.spells.oeaAybyT4rKFPfIr]{chirurgie psychique}</em> comme un pouvoir magique. Si vous &ecirc;tes neutralis&eacute; par un effet que chirurgie psychique peut soigner et qu&rsquo;il vous reste au moins 1 point de pers&eacute;v&eacute;rance, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour utiliser ce pouvoir sur vous-m&ecirc;me, m&ecirc;me si vous &ecirc;tes incapable d&rsquo;effectuer la moindre action.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "20ème niveau "
 		},
@@ -1505,7 +1505,7 @@
 		},
 		"Telepathic Memories (Su)": {
 			"frName": "Mémoires télépathiques (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>&Agrave; volont&eacute;, vous pouvez partager des souvenirs avec vos alli&eacute;s gr&acirc;ce &agrave; votre aptitude de classe lien t&eacute;l&eacute;pathique. En tant qu&rsquo;action complexe, vous, ou un alli&eacute; avec lequel vous avez &eacute;tabli un lien, pouvez envoyer un souvenir d&rsquo;une dur&eacute;e maximum d&rsquo;1 minute &agrave; autant de personnes qui le d&eacute;sirent et qui sont unies par ce lien. Envoyer un souvenir pertinent revient &agrave; r&eacute;ussir une action aider quelqu&rsquo;un pour un test de comp&eacute;tence (limit&eacute; &agrave; un souvenir par test de comp&eacute;tence).</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "12ème niveau"
 		},
@@ -1649,13 +1649,13 @@
 		},
 		"Forceful Commands (Su)": {
 			"frName": "Ordre impérieux (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand vous utilisez un de vos charmes, sort de coercition ou pouvoir magique affectant l&rsquo;esprit, contre une cible qui b&eacute;n&eacute;ficie d&rsquo;un sort actif qui la prot&egrave;ge de votre attaque, vous &ecirc;tes automatiquement au courant de la pr&eacute;sence de ces d&eacute;fenses. De plus, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance en lan&ccedil;ant votre sort afin de tenter un test de niveau de lanceur de sorts pour annuler le sort de protection de plus haut niveau, comme si vous aviez lanc&eacute; un sort de <em>@Compendium[sfrpg.spells.KQ4vSfG9tq8EJxir]{dissipation de la magie}</em>.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "15ème niveau"
 		},
 		"Memory Palace (Su)": {
 			"frName": "Palais mémoriel (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous fa&ccedil;onnez une biblioth&egrave;que extra dimensionnelle pour y h&eacute;- berger une structure mentale constitu&eacute;e de vos connaissances. Ce palais m&eacute;moriel ne dispose que d&rsquo;une seule entr&eacute;e scintillante. Vous pouvez y avoir acc&egrave;s une fois par jour ; quand vous le faites, l&rsquo;entr&eacute;e appara&icirc;t &agrave; courte port&eacute;e. Si une cr&eacute;ature ou un objet qui ne faisait pas partie du palais quand il a &eacute;t&eacute; cr&eacute;&eacute; reste &agrave; l&rsquo;int&eacute;- rieur, l&rsquo;entr&eacute;e demeure l&agrave; o&ugrave; elle est apparue pour la premi&egrave;re fois. Seuls ceux que vous avez d&eacute;sign&eacute;s peuvent y p&eacute;n&eacute;trer et l&rsquo;entr&eacute;e se ferme et devient invisible derri&egrave;re vous une fois que vous avez franchi le seuil. Quiconque se trouve &agrave; l&rsquo;int&eacute;rieur peut ouvrir l&rsquo;entr&eacute;e et quitter le palais quand il veut. L&rsquo;entr&eacute;e est le seul moyen d&rsquo;y acc&eacute;der ou d&rsquo;en sortir ; m&ecirc;me <em>@Compendium[sfrpg.spells.yjClpQv6CCrRE4EC]{changement de plan}</em> ou un sort similaire ne fonctionne pas.</p> <p>Vous pouvez agencer votre palais comme vous le souhaitez avec un volume maximum correspondant &agrave; un cube de trois m&egrave;tres d&rsquo;ar&ecirc;te par niveau de mystique. &Agrave; l&rsquo;int&eacute;rieur, l&rsquo;atmosph&egrave;re est agr&eacute;able, douce et sans impuret&eacute; ; les conditions ext&eacute;rieures n&rsquo;affectent pas l&rsquo;int&eacute;rieur de votre palais et inversement. Il n&rsquo;y a aucun autre ameublement &agrave; part des biblioth&egrave;ques, des ordinateurs et quelques tables et canap&eacute;s. Le lieu est entretenu par des biblioth&eacute;caires qui sont l&rsquo;&eacute;quivalent de <em>@Compendium[sfrpg.spells.G6q7dYeTZxAvvZlU]{serviteur invisible}</em> (comme le sort du m&ecirc;me nom) et leur nombre est &eacute;gal &agrave; la moiti&eacute; de votre niveau de mystique. La biblioth&egrave;que conserve le m&ecirc;me agencement &agrave; chaque fois que vous y acc&eacute;dez, bien que vous puissiez modifier son apparence &agrave; chaque fois que vous gagnez un niveau ou en vous concentrant pendant 15 minutes. Vous n&rsquo;avez pas besoin d&rsquo;&ecirc;tre &agrave; l&rsquo;int&eacute;rieur pour la modifier.</p> <p>Quand vous gagnez ce pouvoir, choisissez une comp&eacute;tence que vous pouvez utiliser avec la t&acirc;che se rappeler de quelque chose. Consulter votre palais m&eacute;moriel conf&egrave;re &agrave; tous ceux qui &eacute;tudient &agrave; l&rsquo;int&eacute;rieur, y compris vous, un bonus d&rsquo;alt&eacute;ration a +4 aux tests de comp&eacute;tence pour se souvenir de connaissances de ce type et les cr&eacute;atures &agrave; l&rsquo;int&eacute;rieur du palais m&eacute;moriel peuvent tenter des tests de ce type sans &ecirc;tre form&eacute;es. Au niveau 16, puis &agrave; chaque niveau suivant, choisissez une autre comp&eacute;tence qui peut &ecirc;tre utilis&eacute;e avec la t&acirc;che se rappeler quelque chose et pour laquelle on pourra utiliser le bonus accord&eacute; par le palais.<span id=\"ctl00_MainContent_DataListTalentsAll_ctl00_LabelName\"></span></p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "15ème niveau"
 		},
@@ -1757,7 +1757,7 @@
 		},
 		"Meteor Shower (Su)": {
 			"frName": "Pluie de météores (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action complexe, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour faire s&rsquo;abattre une pluie de m&eacute;t&eacute;ores dans un cylindre vertical de 3 m&egrave;tres de diam&egrave;tre, de 12 m&egrave;tres de haut et &agrave; une port&eacute;e maximale de 75 m&egrave;tres. Les m&eacute;t&eacute;orites infligent 12d6 points de d&eacute;g&acirc;ts &agrave; toutes les cr&eacute;atures situ&eacute;es dans la zone d&rsquo;effet (jet de R&eacute;flexes pour r&eacute;duire les d&eacute;g&acirc;ts de moiti&eacute;). La moiti&eacute; de ces d&eacute;g&acirc;ts sont des d&eacute;g&acirc;ts contondants ; les autres sont des d&eacute;g&acirc;ts de feu. Si vous &ecirc;tes &agrave; l&rsquo;ext&eacute;rieur et que vous pouvez voir les &eacute;toiles, les m&eacute;t&eacute;ores infligent 12d10 points de d&eacute;g&acirc;ts.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "15ème niveau"
 		},
@@ -1919,7 +1919,7 @@
 		},
 		"Deny Death (Su)": {
 			"frName": "Refuser la mort (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous &ecirc;tes immunis&eacute; contre les effets de mort ou infligeant des niveaux n&eacute;gatifs. Si, normalement, des d&eacute;g&acirc;ts &eacute;taient suffisants pour vous tuer, tant qu&rsquo;il vous reste au moins 1 point de pers&eacute;v&eacute;rance, vous pouvez d&eacute;penser imm&eacute;diatement tous vos points de pers&eacute;v&eacute;rance restants pour demeurer en vie. Si vous deviez tomber &agrave; 0 point de vie, au lieu de cela, il vous en reste 1. Une fois que vous avez utilis&eacute; ce pouvoir, vous ne pouvez regagner de points de pers&eacute;v&eacute;rance tant que vous ne vous &ecirc;tes pas repos&eacute; pendant 8 heures, m&ecirc;me si vous avez un autre moyen d&rsquo;en r&eacute;cup&eacute;rer.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "18ème niveau"
 		},
@@ -1937,7 +1937,7 @@
 		},
 		"Guided Rebirth (Su)": {
 			"frName": "Renaissance contrôlée (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Tant qu&rsquo;il vous reste au moins 1 point de pers&eacute;v&eacute;rance, vous pouvez d&eacute;penser tous les points qui vous restent pour vous envelopper d&rsquo;un cocon organique. Tant que vous &ecirc;tes dans ce cocon, vous &ecirc;tes consid&eacute;r&eacute; comme sans d&eacute;fense. Huit heures plus tard, vous en &eacute;mergez avec un nouveau type : animal, humano&iuml;de (de n&rsquo;importe quel sous-type) ou votre type d&rsquo;origine et vous en gagnez les caract&eacute;ristiques physiques superficielles appropri&eacute;es. Ce changement ne modifie pas vos valeurs de caract&eacute;ristiques, vos points de vie, vos points d&rsquo;endurance, vos jets de sauvegarde, vos points de comp&eacute;tence, vos comp&eacute;tences de classe ou vos formations. &Agrave; chaque fois que vous subissez cette transformation, votre organisme est purg&eacute; d&rsquo;&eacute;ventuels poisons et maladies, vous r&eacute;cup&eacute;rez tous vos points de vie et vos points d&rsquo;endurance et vous gu&eacute;rissez de tout affaiblissement temporaire de caract&eacute;ristiques. &Agrave; chaque fois que vous effectuez cette transformation, vous devez choisir un type diff&eacute;rent de votre type actuel. Vous pouvez utiliser ce pouvoir une fois par jour. Une fois que vous l&rsquo;avez utilis&eacute;, vous ne pouvez regagner de points de pers&eacute;v&eacute;rance tant que vous ne vous &ecirc;tes pas repos&eacute; pendant 8 heures, m&ecirc;me si vous pouvez en r&eacute;cup&eacute;rer par d&rsquo;autres moyens.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "18ème niveau"
 		},
@@ -1991,13 +1991,13 @@
 		},
 		"Share Resistance (Su)": {
 			"frName": "Résistance partagée (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour, pendant 1 minute, accorder &agrave; vos alli&eacute;s unis par votre aptitude de classe lien t&eacute;l&eacute;pathique, une r&eacute;sistance de 5 &agrave; la m&ecirc;me &eacute;nergie &agrave; laquelle vous pouvez r&eacute;sister gr&acirc;ce &agrave; r&eacute;sistance r&eacute;active. Vous ne pouvez utiliser ce pouvoir si vous n&rsquo;avez pas encore activ&eacute; r&eacute;sistance r&eacute;active pour la journ&eacute;e.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "12ème niveau"
 		},
 		"Reactive Resistance (Su)": {
 			"frName": "Résistance réactive (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Chaque jour, la premi&egrave;re fois que vous subissez des d&eacute;g&acirc;ts d&rsquo;&eacute;nergie, vous gagnez imm&eacute;diatement une r&eacute;sistance de 10 contre ce type d&rsquo;&eacute;nergie pour le reste de la journ&eacute;e (si vous subissez des d&eacute;g&acirc;ts &agrave; cause de plusieurs types d&rsquo;&eacute;nergies qui vous affectent simultan&eacute;ment, choisissez &agrave; quel type r&eacute;sister).</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "9ème niveau"
 		},
@@ -2021,7 +2021,7 @@
 		},
 		"Retrocognition (Sp)": {
 			"frName": "Rétrocognition (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Empathe}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/empath.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez utiliser &agrave; volont&eacute; <em>@Compendium[sfrpg.spells.jgLKmk5n9QzQUCNq]{r&eacute;trocognition}</em> comme un pouvoir magique. Quand vous le faites, vous subissez un malus de &ndash;2 &agrave; vos jets de sauvegarde contre les effets mentaux affectant l&rsquo;esprit tant que vous vous concentrez sur le pouvoir de r&eacute;trocognition et pendant une dur&eacute;e &eacute;quivalente juste apr&egrave;s. Vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour annuler cette p&eacute;nalit&eacute;.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "15ème niveau"
 		},
@@ -2063,7 +2063,7 @@
 		},
 		"Akashic Knowledge (Ex)": {
 			"frName": "Savoir akashique (Ext)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous gagnez l&rsquo;aptitude comp&eacute;tence focalis&eacute;e au niveau 1 (au lieu que ce soit au niveau 2). Chaque jour, quand vous r&eacute;cup&eacute;rez vos emplacements de sorts, vous pouvez puiser dans le Savoir akashique, ce qui vous permet de choisir une comp&eacute;tence de profession et de l&rsquo;ajouter &agrave; votre liste de comp&eacute;tences associ&eacute;es pour votre aptitude de comp&eacute;tence focalis&eacute;e.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "1er niveau"
 		},
@@ -2129,7 +2129,7 @@
 		},
 		"Mind Probe (Su)": {
 			"frName": "Sonde mentale (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Vous pouvez utiliser <em>@Compendium[sfrpg.spells.Yw8a8A1rjbLXkcpr]{sonde mentale}</em> comme un pouvoir magique un nombre de fois par jour &eacute;gal &agrave; votre niveau de mystique. Chaque utilisation dure 1 round. Une cr&eacute;ature qui r&eacute;ussit son jet de sauvegarde contre votre sonde mentale est immunis&eacute;e contre toute nouvelle utilisation de ce pouvoir pendant 24 heures.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "9ème niveau"
 		},
@@ -2171,7 +2171,7 @@
 		},
 		"Spells (Mystic)": {
 			"frName": "Sorts (Mystique)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>@Compendium[sfrpg.rules.4rD7y5NpSg7rjMqk]{Mystique - Liste de sorts}</p> <p>Vous lancez des sorts choisis dans la liste de sorts des mystiques (voir page 336). Pour lancer ou apprendre un sort, vous devez avoir une valeur de Sagesse d&rsquo;au moins 10 + le niveau du sort. Le Degr&eacute; de Difficult&eacute; d&rsquo;un jet de sauvegarde contre vos sorts est &eacute;gal &agrave; 10 + le niveau du sort + votre modificateur de Sagesse.</p> <p>Chaque jour, vous ne pouvez lancer qu&rsquo;un nombre limit&eacute; de sorts de chaque niveau. Ce nombre est indiqu&eacute; sur la table 4&ndash;5 : Mystique. De plus, vous recevez des sorts suppl&eacute;mentaires chaque jour si vous avez un modificateur de Sagesse d&rsquo;au moins +1, comme cela est indiqu&eacute; sur la table 4&ndash;6 : Sorts suppl&eacute;mentaires de mystique. Notez que vous ne recevez ces sorts suppl&eacute;mentaires que si vous pouvez normalement en lancer de ce niveau. Vous pouvez aussi utiliser des sorts de niveau 0. Ils fonctionnent comme les autres mais vous pouvez en lancer autant que vous voulez chaque jour.</p> <p>Votre choix de sorts est limit&eacute;. Vous commencez le jeu en connaissant quatre sorts de niveau 0 et deux sorts de niveau 1 de votre choix. &Agrave; chaque nouveau niveau de mystique, vous apprenez au moins un nouveau sort comme cela est indiqu&eacute; sur la table 4&ndash;7 : Sorts connus de mystique. Contrairement au nombre de sorts utilisables chaque jour, votre modificateur de Sagesse n&rsquo;influe pas sur le nombre de sorts que vous connaissez.</p> <p>&Agrave; chaque fois que vous gagnez un niveau, vous pouvez &eacute;changer un sort que vous connaissez d&eacute;j&agrave; et apprendre un nouveau sort du m&ecirc;me niveau. Vous perdez l&rsquo;usage de l&rsquo;ancien sort en &eacute;change du nouveau. Vous devez choisir d&rsquo;&eacute;changer ou non un sort au moment o&ugrave; vous gagnez de nouveaux sorts connus de ce niveau.</p> <p>Vous pouvez lancer n&rsquo;importe quel sort de mystique que vous connaissez &agrave; n&rsquo;importe quel moment tant que vous n&rsquo;avez pas utilis&eacute; la totalit&eacute; des sorts de ce niveau attribu&eacute;s par jour. Vous pouvez aussi lancer un sort en utilisant un emplacement de sort de niveau sup&eacute;rieur. Par exemple, si vous voulez lancer un sort de niveau 1 mais que vous avez utilis&eacute; tous vos emplacements de ce niveau pour la journ&eacute;e, vous pouvez utiliser un emplacement de sort de niveau 2 s&rsquo;il vous en reste un.</p> <p>Vous pouvez aussi d&eacute;chiffrer les inscriptions magiques incompr&eacute;hensibles ou, avec une action complexe, identifier tous les sorts d&rsquo;une gemme &agrave; sorts. G&eacute;n&eacute;ralement, cela ne lib&egrave;re pas la magie qu&rsquo;elle contient bien que cela puisse se produire avec une gemme &agrave; sorts pi&eacute;- g&eacute;e ou maudite.</p> <h2>Nombre de sorts par jour</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong>NIVEAU</strong></td> <td><strong>1er</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>12</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>13</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>14</td> <td>5</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> </tr> <tr> <td>15</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> </tr> <tr> <td>16</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>2</td> </tr> <tr> <td>17</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>4</td> <td>2</td> </tr> <tr> <td>18</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> </tr> <tr> <td>19</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>4</td> </tr> <tr> <td>20</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> </tr> </tbody> </table> <h2>TABLE 4&ndash;6 : Sorts de Mystique suppl&eacute;mentaires</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td colspan=\"8\"><strong>SORTS SUPPL&Eacute;MENTAIRES PAR JOUR (PAR NIVEAU DE SORT)</strong></td> </tr> <tr> <td><strong>VALEUR DE SAG.</strong></td> <td><strong>0</strong></td> <td><strong>1er</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1-11</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12-13</td> <td>-</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>14-15</td> <td>-</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>16-17</td> <td>-</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>18-19</td> <td>-</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>20-21</td> <td>-</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>22-23</td> <td>-</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>24-25</td> <td>-</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>26-27</td> <td>-</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>28-29</td> <td>-</td> <td>3</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> <td>1</td> </tr> <tr> <td>30-31</td> <td>-</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>2</td> <td>2</td> </tr> </tbody> </table> <h2>TABLE 4&ndash;7 : Sorts de Mystique connus</h2> <table> <tbody style=\"text-align: center;\"> <tr> <td><strong>NIVEAU</strong></td> <td><strong>0</strong></td> <td><strong>1st</strong></td> <td><strong>2nd</strong></td> <td><strong>3&egrave;me</strong></td> <td><strong>4&egrave;me</strong></td> <td><strong>5&egrave;me</strong></td> <td><strong>6&egrave;me</strong></td> </tr> <tr> <td>1</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2</td> <td>5</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3</td> <td>6</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4</td> <td>6</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5</td> <td>6</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6</td> <td>6</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7</td> <td>6</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>12</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> <td>-</td> </tr> <tr> <td>13</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> <td>-</td> </tr> <tr> <td>14</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> </tr> <tr> <td>15</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> <td>-</td> </tr> <tr> <td>16</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> <td>2</td> </tr> <tr> <td>17</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>3</td> </tr> <tr> <td>18</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>4</td> <td>4</td> </tr> <tr> <td>19</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> <td>4</td> </tr> <tr> <td>20</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>6</td> <td>5</td> <td>5</td> </tr> </tbody> </table> <p>&nbsp;</p>",
 			"frSource": "RDB p.91",
 			"frRequirements": "1er niveau"
 		},
@@ -2189,7 +2189,7 @@
 		},
 		"Share Pain (Su)": {
 			"frName": "Souffrance partagée (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>&Agrave; chaque fois qu&rsquo;un adversaire vous inflige des d&eacute;g&acirc;ts, en r&eacute;action, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour lui renvoyer une partie de votre douleur. &Agrave; moins que votre adversaire ne r&eacute;ussisse un jet de Volont&eacute;, r&eacute;duisez les d&eacute;g&acirc;ts de l&rsquo;attaque d&rsquo;un nombre de points &eacute;gal &agrave; votre niveau de mystique (jusqu&rsquo;&agrave; un maximum &eacute;gal aux d&eacute;g&acirc;ts inflig&eacute;s par l&rsquo;attaque) et votre adversaire subit le m&ecirc;me nombre de points de d&eacute;g&acirc;ts. C&rsquo;est un effet mental de souffrance.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "1er niveau"
 		},
@@ -2237,7 +2237,7 @@
 		},
 		"Weapon Specialization (Ex) (Mystic)": {
 			"frName": "Spécialisation martiale (Ext) (Mystique)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Vous obtenez le don bonus de @Compendium[sfrpg.feats.9Us7Eg9cAoq3BcS5]{Sp&eacute;cialisation martiale} pour chaque type d&rsquo;armes que vous savez manier gr&acirc;ce &agrave; cette classe.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "3ème niveau"
 		},
@@ -2279,7 +2279,7 @@
 		},
 		"Mental Anguish (Su)": {
 			"frName": "Supplice mental (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez activer les centres de la douleur du cerveau d&rsquo;un adversaire situ&eacute; &agrave; moins de 18 m&egrave;tres, pour qu&rsquo;il ressente une immense souffrance. La cible doit r&eacute;ussir un jet de Volont&eacute; ou &ecirc;tre naus&eacute;euse pendant 1 round. Quel que soit le r&eacute;sultat de ce jet, la cr&eacute;ature est immunis&eacute;e contre ce pouvoir pendant 24 heures. C&rsquo;est un effet mental de souffrance.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "9ème niveau"
 		},
@@ -2303,13 +2303,13 @@
 		},
 		"Overlord": {
 			"frName": "Suzerain",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Vous avez compris que toutes les connexions n&rsquo;&eacute;taient pas sym&eacute;- triques et vous cherchez &agrave; &ecirc;tre la force dominante dans n&rsquo;importe quelle situation. Vous n&rsquo;&ecirc;tes pas forc&eacute;ment mal&eacute;fique ; peut-&ecirc;tre vous consid&eacute;rez-vous comme un monarque philosophe bienveillant qui veut r&eacute;gner pour le plus grand bien de ses sujets. Vous pouvez aussi &ecirc;tre un chef de culte, un g&eacute;nie du crime ou un hypnotiseur.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> @Compendium[sfrpg.setting.vIgmW8C54qgxPqUg]{Abadar}, @Compendium[sfrpg.setting.cO4BD8W8nUCLjvSE]{Besmara}, @Compendium[sfrpg.setting.pq08s1mZZyi97PBA]{Damoritosh}, @Compendium[sfrpg.setting.S7A3XE5trtBc0SH8]{Lao Shu Po}, @Compendium[sfrpg.setting.NCjMqGMqprKIe33d]{Zon-Kuthon}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Diplomatie et Intimidation</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.PVzsrE1TxBBjDLCa]{injonction}, </em>2e&mdash;<em>@Compendium[sfrpg.spells.W0oa8tqHXAcWNaGT]{immobilisation de personne}, </em>3e&mdash;<em>@Compendium[sfrpg.spells.nmBeoZQUNcZw7nmy]{suggestion}, </em>4e&mdash;<em>@Compendium[sfrpg.spells.wSeE9HyAmM7lTdpo]{confusion}, </em>5e&mdash;<em>@Compendium[sfrpg.spells.J14mFZezYHIGHVhO]{domination},</em> 6e&mdash;<em>@Compendium[sfrpg.spells.gRv9eLrl4VCO825Z]{ suggestion de groupe}</em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions du Suzerain</h2> <ul> <li>@Compendium[sfrpg.class-features.OL0GoLmWqCnA5RDs]{Compulsions inexplicables (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.FKpmF3ZjYYTNUduI]{Amiti&eacute; forc&eacute;e (Mag} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.BYh0OPB4cT0cnrLD]{&Eacute;chos d&rsquo;ob&eacute;issance (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.k4VPa3W093lKBReK]{Amiti&eacute; forc&eacute;e sup&eacute;rieure (Mag)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.uB0u89YxPzefG6Dm]{Suzerain possessif (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.jVRkYFB5I4t31heR]{Ordre imp&eacute;rieux (Sur) } - Niveau 15</li> <li>@Compendium[sfrpg.class-features.t7HitbsXGhRM6ryA]{Contr&ocirc;le absolu (Sur)} - Niveau 18</li> </ul> ",
 			"frSource": "RDB p.95",
 			"frRequirements": "1er niveau"
 		},
 		"Jealous Overlord (Su)": {
 			"frName": "Suzerain possessif (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.5wf2lqWnQxuuTIU1]{Suzerain}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/overlord.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand un alli&eacute; uni &agrave; vous par votre aptitude de classe lien t&eacute;l&eacute;pathique est sujet &agrave; des effets mentaux qui l&rsquo;obligent &agrave; ob&eacute;ir &agrave; des ordres, en r&eacute;action vous pouvez intervenir pour que votre alli&eacute; se comporte normalement. Quand vous agissez ainsi, tentez un test oppos&eacute; de Charisme contre la cr&eacute;ature &agrave; l&rsquo;origine de cet effet. Si vous r&eacute;ussissez, votre alli&eacute; agit normalement.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "12ème niveau"
 		},
@@ -2333,7 +2333,7 @@
 		},
 		"Interplanetary Teleport (Sp)": {
 			"frName": "Téléportation interplanétaire (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Au niveau 18, une fois par jour, en tant qu&rsquo;action complexe, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour utiliser <em>@Compendium[sfrpg.spells.JZ6JdnlDediA8efl]{t&eacute;l&eacute;portation interplan&eacute;taire}</em> comme un pouvoir magique. Si vous &ecirc;tes d&eacute;j&agrave; all&eacute; dans un endroit d&rsquo;un autre syst&egrave;me stellaire, vous pouvez d&eacute;penser 2 points de pers&eacute;v&eacute;rance pour vous y rendre m&ecirc;me si cela exc&egrave;de la port&eacute;e normale du sort.</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "18ème niveau"
 		},
@@ -2399,13 +2399,13 @@
 		},
 		"Transcendence (Sp)": {
 			"frName": "Transcendance (Mag)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.classes.bItuvukGHbObTApr]{Mystique}</p> <p>Vous ne faites presque plus qu&rsquo;un avec votre connexion. Vous pouvez lancer une fois par jour chacun de vos sorts de connexion sans utiliser d&rsquo;emplacement de sorts. De plus, vous apprenez comment transcender temporairement votre forme physique. Une fois par jour, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour projeter votre conscience en dehors de votre corps sous forme d&rsquo;une image psychique immat&eacute;rielle de votre apparence. On consid&egrave;re que c&rsquo;est un effet d&rsquo;illusion de niveau 6 et il dure un nombre de rounds &eacute;gal &agrave; votre niveau de mystique. Tant que votre conscience est projet&eacute;e, votre corps physique est consid&eacute;r&eacute; comme aveugle, sourd et sans d&eacute;fense mais vous pouvez le r&eacute;int&eacute;grer avec une action rapide. Vous contr&ocirc;lez votre projection psychique comme s&rsquo;il s&rsquo;agissait de votre corps et vos sens ne per&ccedil;oivent que ce que la projection peut voir et entendre. Vous vous d&eacute;placez en volant &agrave; une vitesse de 18 m&egrave;tres et avec une man&oelig;uvrabilit&eacute; parfaite. Vous pouvez passer &agrave; travers les objets solides comme si vous &eacute;tiez intangible mais vous ne pouvez pas vous y enfoncer sur une distance sup&eacute;rieure &agrave; votre espace (1,50 m&egrave;tre pour une cr&eacute;ature de taille M). Vous ne pouvez affecter directement des objets physiques. Votre conscience projet&eacute;e est immunis&eacute;e contre la plupart des attaques et effets, qu&rsquo;ils affectent ou non des cr&eacute;atures intangibles, mais vous &ecirc;tes affect&eacute; normalement par les effets mentaux.</p> <p>&Agrave; partir de votre conscience projet&eacute;e, vous pouvez lancer n&rsquo;importe quel sort de mystique ou utiliser des pouvoirs magiques ayant au moins une port&eacute;e de contact. Les sorts affectent les autres cibles normalement. Vous ne pouvez lancer aucun sort sur votre conscience projet&eacute;e mis &agrave; part des sorts d&rsquo;illusion. Il est inutile de maintenir une ligne d&rsquo;effet pour projeter votre conscience mais si vous acc&eacute;dez &agrave; un autre plan, m&ecirc;me temporairement (y compris par l&rsquo;interm&eacute;diaire d&rsquo;un d&eacute;placement Drift), votre esprit regagne imm&eacute;- diatement votre corps.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "19ème niveau"
 		},
 		"Plant Transport (Su)": {
 			"frName": "Transport végétal (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Une fois par jour, en tant qu&rsquo;action complexe, vous pouvez entrer dans n&rsquo;importe quelle plante vivante d&rsquo;une taille au moins &eacute;gale &agrave; la v&ocirc;tre et sortir par une autre plante du m&ecirc;me type situ&eacute;e dans le m&ecirc;me syst&egrave;me solaire quelle que soit la distance qui les s&eacute;pare. Vous n&rsquo;avez pas besoin de savoir pr&eacute;cis&eacute;ment par quelle plante vous allez ressortir. Si vous n&rsquo;&ecirc;tes pas certain de la localisation d&rsquo;un type particulier de plante de destination, vous indiquez une direction et une distance et ce pouvoir vous transporte le plus pr&egrave;s possible de l&rsquo;endroit d&eacute;sir&eacute;. Si une plante de destination pr&eacute;cise est choisie mais que cette plante n&rsquo;est pas vivante, le pouvoir &eacute;choue et vous &ecirc;tes &eacute;ject&eacute; de celle dans laquelle vous &ecirc;tes entr&eacute;. Vous ne pouvez voyager par l&rsquo;interm&eacute;diaire de cr&eacute;atures v&eacute;g&eacute;tales. Vous pouvez transporter des objets tant que leur volume n&rsquo;exc&egrave;de pas votre valeur de Force. Vous pouvez aussi &ecirc;tre accompagn&eacute; par un maximum de cinq cr&eacute;atures volontaires de taille M ou plus petites (chacune d&rsquo;elles pouvant transporter des objets dont le volume n&rsquo;exc&egrave;de pas leur valeur de Force) si vous vous tenez les mains.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "15ème niveau"
 		},
@@ -2429,7 +2429,7 @@
 		},
 		"Mindkiller (Su)": {
 			"frName": "Tueur mental (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.6zrV67znbGCh4EjF]{Briseur d&rsquo;esprit}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/mindbreaker.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez donner forme &agrave; ce que redoute le plus un adversaire situ&eacute; &agrave; moins de 18 m&egrave;tres. Vous cr&eacute;ez une image mentale de sa plus grande terreur inconsciente et il est le seul &agrave; pouvoir la voir. Si la victime r&eacute;ussit un jet de Volont&eacute;, il comprend que cette vision n&rsquo;est pas r&eacute;elle et le pouvoir n&rsquo;a aucun effet. Si elle rate ce jet, le tueur mental touche la cible qui doit r&eacute;ussir un jet de Vigueur ou mourir de peur. Si elle r&eacute;ussit son jet de Vigueur, la cible subit 3d6 points de d&eacute;g&acirc;ts. Une fois qu&rsquo;une cr&eacute;ature a r&eacute;ussi l&rsquo;un des deux jets de sauvegarde contre cet effet, elle est immunis&eacute;e contre ce pouvoir pendant 24 heures. C&rsquo;est un effet mental de peur.</p>",
 			"frSource": "RDB p.95",
 			"frRequirements": "15ème niveau"
 		},
@@ -2471,7 +2471,7 @@
 		},
 		"Grasping Vines (Su)": {
 			"frName": "Vignes agrippantes (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.L8EnApYQIJp9EAtc]{X&eacute;no-druide}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour qu&rsquo;une zone de 6 m&egrave;tres de rayon, situ&eacute;e jusqu&rsquo;&agrave; 30 m&egrave;tres de vous, se couvre de vignes. La zone d&eacute;sign&eacute;e doit &ecirc;tre un terrain solide mais n&rsquo;a pas besoin d&rsquo;&ecirc;tre normalement capable d&rsquo;abriter des vignes. Les vignes ont une allonge de 1,50 m&egrave;tre et tentent de s&rsquo;enrouler autour des cr&eacute;atures situ&eacute;es dans la zone d&rsquo;effet ou celles qui y p&eacute;n&egrave;trent ; ces cr&eacute;atures doivent r&eacute;ussir un jet de R&eacute;flexes ou &ecirc;tre @Compendium[sfrpg.conditions.nFBcsp5FS1Wi46Fc]{enchev&ecirc;tr&eacute;es}. Celles qui r&eacute;ussissent leur jet peuvent se d&eacute;placer normalement mais celles qui restent dans la zone doivent effectuer un nouveau jet &agrave; chaque round &agrave; la fin de votre tour. Toute cr&eacute;ature qui se d&eacute;place dans la zone doit effectuer un jet de sauvegarde imm&eacute;diatement ; un &eacute;chec met un terme &agrave; son d&eacute;placement et elle est @Compendium[sfrpg.conditions.nFBcsp5FS1Wi46Fc]{enchev&ecirc;tr&eacute;e}. Une cr&eacute;ature @Compendium[sfrpg.conditions.nFBcsp5FS1Wi46Fc]{enchev&ecirc;tr&eacute;e} peut se lib&eacute;rer avec une action de mouvement en r&eacute;ussissant un test d&rsquo;Acrobaties ou un test de Force DD 15. Les vignes perdurent pendant un nombre de rounds &eacute;gal &agrave; votre niveau de mystique et, tant que l&rsquo;effet est actif, la zone cibl&eacute;e est consid&eacute;r&eacute;e comme un terrain difficile. Au niveau 11, les vignes ont une allonge de 3 m&egrave;tres et sont garnies d&rsquo;&eacute;pines qui infligent &agrave; chaque round 1d6 points de d&eacute;g&acirc;ts perforants aux cr&eacute;atures dans la zone d&rsquo;effet.</p>",
 			"frSource": "RDB p.97",
 			"frRequirements": "3ème niveau"
 		},
@@ -2483,7 +2483,7 @@
 		},
 		"Peer into the Future (Su)": {
 			"frName": "Vision de l’avenir (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; </sub>@Compendium[sfrpg.class-features.2N7K20WTe9aA7ivW]{Akashique}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/akashic.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Une fois par jour, vous pouvez m&eacute;diter pendant 10 minutes, sans &ecirc;tre interrompu, pour avoir une vision des avenirs possibles. &Agrave; n&rsquo;importe quel moment au cours des 24 prochaines heures, vous pouvez annoncer que vous utilisez l&rsquo;avantage accord&eacute; par ce pouvoir avant d&rsquo;effectuer un jet d&rsquo;initiative, un jet de sauvegarde ou un test de comp&eacute;tence. Vous b&eacute;n&eacute;ficiez d&rsquo;un bonus d&rsquo;intuition de +4 &agrave; ce lancer de d&eacute;. Au niveau 11, vous pouvez utiliser ce pouvoir deux fois par jour, mais vous ne pouvez y avoir de nouveau recours tant que vous n&rsquo;avez pas utilis&eacute; votre premier bonus.</p>",
 			"frSource": "RDB p.92",
 			"frRequirements": "6ème niveau"
 		},
@@ -2495,13 +2495,13 @@
 		},
 		"Steal Life (Su)": {
 			"frName": "Vol de vie (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.Hj7rGHmzQGP8rEGB]{Gu&eacute;risseur}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/healer.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>En tant qu&rsquo;action simple, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour voler une partie de la force vitale d&rsquo;une cr&eacute;ature et la transf&eacute;rer &agrave; vous ou &agrave; d&rsquo;autres cr&eacute;atures. Vous devez toucher la cible (ce qui n&eacute;cessite de r&eacute;ussir une attaque de corps &agrave; corps contre sa CAE) et vous lui infligez 1d6 points de d&eacute;g&acirc;ts tous les 2 niveaux de mystique que vous poss&eacute;dez (jusqu&rsquo;&agrave; un maximum de 10d6). Choisissez un alli&eacute; situ&eacute; &agrave; moins de 9 m&egrave;tres ; cet alli&eacute; r&eacute;cup&egrave;re un nombre de points de vie &eacute;gal aux d&eacute;g&acirc;ts inflig&eacute;s (le maximum &eacute;tant le nombre de points de vie qu&rsquo;il reste &agrave; l&rsquo;adversaire). Vous pouvez, &agrave; la place, vous soigner mais vous ne r&eacute;cup&eacute;rez qu&rsquo;un nombre de points de vie &eacute;gal &agrave; la moiti&eacute; des d&eacute;g&acirc;ts inflig&eacute;s. Si en agissant ainsi le b&eacute;n&eacute;ficiaire (vous ou votre alli&eacute;) r&eacute;cup&egrave;re son maximum de points de vie, les points en exc&egrave;s persistent pendant 1 heure sous forme de points de vie temporaires. Si vous ratez votre attaque, vous ne perdez pas le point de pers&eacute;v&eacute;rance.</p>",
 			"frSource": "RDB p.94",
 			"frRequirements": "9ème niveau"
 		},
 		"Starflight (Su)": {
 			"frName": "Vol stellaire (Sur)",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.ewIp0apLL1OKr1MF]{Chaman stellaire}</p><p><sub><img src=\"systems/sfrpg/images/cup/gameplay/star_shaman.png\" alt=\"\" width=\"40\" height=\"40\" style=\"border:0px\" /></sub></p> <p>Quand vous &ecirc;tes sous votre forme stellaire, vous avez la possibilit&eacute; de voler comme avec le sort de vol (niveau de sort 3 ou inf&eacute;rieur).</p>",
 			"frSource": "RDB p.96",
 			"frRequirements": "9ème niveau"
 		},
@@ -2519,7 +2519,7 @@
 		},
 		"Xenodruid": {
 			"frName": "Xéno-druide",
-			"frDescription": "",
+			"frDescription": "<p>&gt; @Compendium[sfrpg.class-features.SdlB9viiKckPr0LZ]{Connexion}</p> <p>Vous canalisez les &eacute;nergies des &eacute;cosyst&egrave;mes qui vous environnent et vous puisez votre inspiration dans les cycles &eacute;ternels de la nature. Vous pouvez &ecirc;tre un chercheur en biotechnologie d&rsquo;une soci&eacute;t&eacute;, un chaman de la verte religion ou un des l&eacute;gendaires X&eacute;no-protecteurs.</p> <ul> <li><strong>Divinit&eacute;s associ&eacute;es :</strong> La verte religion (philosophie), @Compendium[sfrpg.setting.FQYlHNdUxXmVccoI]{Oras}</li> <li><strong>Comp&eacute;tences associ&eacute;es :</strong> Sciences de la vie et Survie</li> <li><strong>Sorts :</strong> 1er&mdash;<em>@Compendium[sfrpg.spells.2l5Xk1YMzp0hlUok]{bulle de vie}</em><br />, 2e&mdash;<em>@Compendium[sfrpg.spells.UVzRPQeiV2yl6QAn]{nappe de brouillard}</em>, 3e&mdash;<em>@Compendium[sfrpg.spells.WdVuZELNzMaNqE6j]{poigne entropique}</em>, 4e&mdash;<em>@Compendium[sfrpg.spells.AHfzMTHx9PI4Z4zn]{r&eacute;incarnation}</em>, 5e&mdash;<em>@Compendium[sfrpg.spells.nbpKo7JBQLEfjGCL]{communion avec la nature}</em>, 6e&mdash;<em>@Compendium[sfrpg.spells.ZklixLgh1xeuUEGz]{terraformation}</em></li> </ul> <h2><sub><img src=\"systems/sfrpg/images/cup/gameplay/xenodruid.png\" alt=\"\" width=\"32\" height=\"32\" style=\"border:0px\" /></sub> Connexions du X&eacute;no-Druide</h2> <ul> <li>@Compendium[sfrpg.class-features.6X7SQrLjzGEfwesh]{Communication avec les animaux (Sur)} - Niveau 1</li> <li>@Compendium[sfrpg.class-features.pIvVG3Sp3KDgj738]{Vignes agrippantes (Sur)} - Niveau 3</li> <li>@Compendium[sfrpg.class-features.t4kC7wyOdd2az46Q]{Adaptation animale (Sur)} - Niveau 6</li> <li>@Compendium[sfrpg.class-features.ipaMMMD39lxyK5xf]{R&eacute;sistance r&eacute;active (Sur)} - Niveau 9</li> <li>@Compendium[sfrpg.class-features.JyNKygCM8eDRHiCF]{R&eacute;sistance partag&eacute;e (Sur)} - Niveau 12</li> <li>@Compendium[sfrpg.class-features.QC3BLXs6MJ1uM5CL]{Transport v&eacute;g&eacute;tal (Sur)} - Niveau 15</li> <li>@Compendium[sfrpg.class-features.CrkdUAcKCaiuViaB]{Renaissance contr&ocirc;l&eacute;e (Sur)} - Niveau 18</li> </ul>",
 			"frSource": "RDB p.97",
 			"frRequirements": "1er niveau"
 		}

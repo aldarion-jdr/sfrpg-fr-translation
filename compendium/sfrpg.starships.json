@@ -1,0 +1,168 @@
+{
+	"label": "Vaisseaux",
+	"mapping": {
+		"frName": "name",
+		"frNotes": "data.details.notes",
+		"frModel": "data.details.model",
+		"frArmature": "data.details.frame",
+		"frSize": "data.details.size"
+	},
+	"entries": {
+		"Blackwind Sepulcher": {
+			"frName": "Sépulcre Blackwing",
+			"frModel": "Transporteur",
+			"frArmature": "Transporteur",
+			"frSize": "M"
+		},
+		"BMC Mauler": {
+			"frName": "Mauler CMS",
+			"frModel": "Chasseur",
+			"frArmature": "Chasseur",
+			"frSize": "TP"
+		},
+		"CompEnt AEV": {
+			"frName": "VEA Compent",
+			"frModel": "Traceur",
+			"frArmature": "Traceur",
+			"frSize": "TP"
+		},
+		"CompEnt Group Defense Frigate": {
+			"frName": "Frégate de protection commune Compent",
+			"frModel": "Destroyer",
+			"frArmature": "Destroyer",
+			"frSize": "G"
+		},
+		"Death's Head Necroglider": {
+			"frName": "Nécroglisseur Death Head",
+			"frModel": "Intercepteur",
+			"frArmature": "Intercepteur",
+			"frSize": "TP"
+		},
+		"Hivonyx Titan Hauler": {
+			"frName": "Transporteur titan Hivonix",
+			"frModel": "Vraquier",
+			"frArmature": "Vraquier",
+			"frSize": "TG"
+		},
+		"Idaran Millennia": {
+			"frName": "Millenium Idarien",
+			"frModel": "Porte-engins",
+			"frArmature": "Porte-engins",
+			"frSize": "Gig"
+		},
+		"Idaran Vanserai": {
+			"frName": "Vanseraï Idarien",
+			"frModel": "Vaisseau cargo",
+			"frArmature": "Vaisseau cargo",
+			"frSize": "G"
+		},
+		"Idaran Voidrunner": {
+			"frName": "Chasseur du vide Idarien",
+			"frModel": "Traceur",
+			"frArmature": "Traceur",
+			"frSize": "TP"
+		},
+		"Infernex Burning Nail": {
+			"frName": "Clou ardent Infernex",
+			"frModel": "Chasseur",
+			"frArmature": "Chasseur",
+			"frSize": "TP"
+		},
+		"Infernex Interdictus": {
+			"frName": "Interdictus Infernex",
+			"frModel": "Chasseur",
+			"frArmature": "Chasseur",
+			"frSize": "TP"
+		},
+		"Infernex Keep Diabolical": {
+			"frName": "Forteresse diabolique Infernex",
+			"frModel": "Cuirassé",
+			"frArmature": "Cuirrassé",
+			"frSize": "Gig"
+		},
+		"Inheritorworks Brightsword": {
+			"frName": "Epée-radieuse Inheritorworks",
+			"frModel": "Chasseur",
+			"frArmature": "Chasseur",
+			"frSize": "TP"
+		},
+		"Kevolari Venture": {
+			"frName": "Pionnize Kévolari",
+			"frModel": "Explorateur",
+			"frArmature": "Explorateur",
+			"frSize": "M"
+		},
+		"Multifold Seedship": {
+			"frName": "Vaisseau ensemenceur Multifold",
+			"frModel": "Vraquier",
+			"frArmature": "Vraquier",
+			"frSize": "TG"
+		},
+		"Norikama Dropship": {
+			"frName": "Transporteur Norikama",
+			"frModel": "Transporteur",
+			"frArmature": "Transporteur",
+			"frSize": "M"
+		},
+		"Opulos Drift Cruiser": {
+			"frName": "Croiseur Drift Opulos",
+			"frModel": "Vraquier",
+			"frArmature": "Vraquier",
+			"frSize": "TG"
+		},
+		"Redshift Pleasure Sail": {
+			"frName": "Voilier de plaisance Redshift",
+			"frModel": "Explorateur",
+			"frArmature": "Explorateur",
+			"frSize": "M"
+		},
+		"Ringworks Wanderer": {
+			"frName": "Vagabon Ringworks",
+			"frModel": "Navette",
+			"frArmature": "Navette",
+			"frSize": "P"
+		},
+		"Starhive Drone MK III": {
+			"frName": "Drone MK III Starhive",
+			"frModel": "Vaisseau cargo",
+			"frArmature": "Vaisseau cargo",
+			"frSize": "P"
+		},
+		"Terminator Star Drake": {
+			"frName": "Drake stellaire Terminator",
+			"frModel": "Traceur",
+			"frArmature": "Traceur",
+			"frSize": "TP"
+		},
+		"Thaumtech Omenbringer": {
+			"frName": "Sombrefléau Thaumtech",
+			"frModel": "Cuirassé",
+			"frArmature": "Cuirassé",
+			"frSize": "Gig"
+		},
+		"UC Arkship": {
+			"frName": "Vaisseau-arche CU",
+			"frModel": "Destroyer biomécanique",
+			"frArmature": "Destroyer",
+			"frSize": "G"
+		},
+		"UC Pod": {
+			"frName": "Gousse CU",
+			"frModel": "Intercepteur biomécanique",
+			"frArmature": "Intercepteur",
+			"frSize": "TP"
+		},
+		"UIE Hiveguard": {
+			"frName": "Bouclier des Ruches UIE",
+			"frModel": "Destroyer",
+			"frArmature": "Destroyer",
+			"frSize": "G"
+		},
+		"Vindicas Tyrant": {
+			"frName": "Tyran Vindicas",
+			"frModel": "Dreadnought",
+			"frArmature": "Dreadnought",
+			"frSize": "C"
+		}
+	}
+}
