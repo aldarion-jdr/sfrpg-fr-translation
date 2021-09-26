@@ -8,7 +8,7 @@ C'est grâce à leur travail que les licences de Paizo sont disponibles dans la 
 This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg), based on translation from [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448).
 
 Many thanks to all our dedicated contributors :
-AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen.
+AbyssLoup, Aldarion, Arthenius, Ksi, Requiem0123 and Temvaryen.
 A special thanks to Decad7Never for the Starfinder system localization.
  
 The goal of this module is to use [Babele](https://foundryvtt.com/packages/babele/) to translate compendia embedded with the Foundry VTT Starfinder System.
