@@ -1,6 +1,6 @@
 ![starfinder-logo](https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png "starfinder-logo")
 
-Allez visiter le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), vous y trouverez les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF.
+Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), vous y trouverez les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
 
 C'est grâce à leur travail que les licences de Paizo sont disponibles dans la langue de Molière : un grand merci à eux !
 
