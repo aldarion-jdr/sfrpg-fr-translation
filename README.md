@@ -1,10 +1,16 @@
 ![starfinder-logo](https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png "starfinder-logo")
+
+Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), vous y trouverez les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
+
+C'est grâce à leur travail que les licences de Paizo sont disponibles dans la langue de Molière : un grand merci à eux !
+
 # sfrpg-fr-translation - FoundryVTT
-This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg).
+This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg), based on translation from [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448).
+
 Many thanks to all our dedicated contributors :
-AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen.
+AbyssLoup, Aldarion, Arthenius, Ksi, Requiem0123 and Temvaryen.
 A special thanks to Decad7Never for the Starfinder system localization.
-  
+ 
 The goal of this module is to use [Babele](https://foundryvtt.com/packages/babele/) to translate compendia embedded with the Foundry VTT Starfinder System.
   
 ## Installation
@@ -24,14 +30,18 @@ Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés d
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
 * Cadre *journaux*
 * Classes *items*
+* Classes - Aptitudes *items*
 * Dons *items*
 * Equipement *items*
 * Etats *items*
+* Personnages (pré-tirés) *acteurs*
 * Races *items*
+* Règles *articles de journal*
 * Règles Universelles de Créatures *items*
 * Sorts *items*
 * Thèmes *items*
 * Véhicules *acteurs*
+* Vaisseaux - *acteurs*
 * Vaisseaux - Actions *items*
 * Vaisseaux - Composants *items*
 
@@ -41,7 +51,7 @@ https://discord.gg/pPSDNJk
   
 ## Compatibility
 Foundry : 0.7.0+
-SFRPG : v0.11.4
+SFRPG : v0.11.4+
 Babele : 1.9+
 
 ## Feedback
@@ -49,9 +59,11 @@ Every suggestion/feedback will be appreciated, please contact us on Discord or a
   
 ## Acknowledgments
 We would like to thank all those great guys :
+* Black Book Editions for their translation and great cooperation.
 * Of course the [SFRPG Team](https://foundryvtt.com/packages/sfrpg) which made the System, for their work and help
 * The English and French Discord Communities
 * LeRatierBretonnien and Sasmira in particular for their help, support and patience !
+* Simone for his help on Babele file and coding compatibility.
 
 ## Licence
 Starfinder est publié sous licence OGL, et la politique de Paizo ainsi que celle des traducteurs et éditeurs de leur gamme permettent aux communautés de joueurs d'utiliser leur production en respectant les règles suivantes.
