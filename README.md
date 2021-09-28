@@ -28,6 +28,7 @@ Vous pourrez aussi bientôt le trouver dans la liste des modules à installer di
 Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés dans votre monde, n'oubliez pas de vérifier que votre interface soit bien en français dans les paramètres.
   
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
+* Archétypes *items*
 * Cadre *journaux*
 * Classes *items*
 * Classes - Aptitudes *items*
