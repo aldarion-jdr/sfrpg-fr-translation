@@ -1,7 +1,6 @@
 ![starfinder-logo](https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png "starfinder-logo")
 
-Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), vous y trouverez les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
-
+Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
 C'est grâce à leur travail que les licences de Paizo sont disponibles dans la langue de Molière : un grand merci à eux !
 
 # sfrpg-fr-translation - FoundryVTT
@@ -28,6 +27,7 @@ Vous pourrez aussi bientôt le trouver dans la liste des modules à installer di
 Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés dans votre monde, n'oubliez pas de vérifier que votre interface soit bien en français dans les paramètres.
   
 ## Compendia traduits (principalement au niveau du Livre de Règle de Base):
+* Archétypes *items*
 * Cadre *journaux*
 * Classes *items*
 * Classes - Aptitudes *items*
