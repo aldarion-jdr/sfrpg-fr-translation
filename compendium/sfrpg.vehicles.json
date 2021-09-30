@@ -12,104 +12,16 @@
 		"speedMph": "data.attributes.speed.mph"
 	},
 	"entries": {
-		"Hover Artillery": {
-			"frName": "Aéroartillerie",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +29), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 13 km), compartiment annexe, champ de force (vert [25 PV]), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Une a&eacute;roartillerie est similaire &agrave; un a&eacute;rotank mais dispose d&rsquo;un plus gros canon et peut transporter plus de passagers.</p>",
-			"frSource": "ARS p.137",
-			"width": "6",
-			"length": "12",
-			"height": "4",
-			"speedDrive": "9 m",
-			"speedFull": "152 m",
-			"speedMph": "88 km/h (aéroglisseur)"
-		},
-		"Hover Truck": {
-			"frName": "Aérocamion",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Les roues de ce camion polyvalent se transforment en propulseurs antigravitationnels en appuyant sur un simple bouton.</p>",
-			"frSource": "ARS p.137",
-			"width": "3",
-			"length": "9",
-			"height": "3.6",
-			"speedDrive": "4.5 m",
-			"speedFull": "137 m",
-			"speedMph": "80 km/h (aéroglisseur)"
-		},
-		"Hover Pod": {
-			"frName": "Aéroglisseur",
-			"frDescription": "",
-			"frSource": "RDB p.229",
-			"width": "3",
+		"Battle Chariot": {
+			"frName": "Char de Guerre",
+			"frDescription": "<p>Bien qu&rsquo;ils soient rarement utilis&eacute;s pendant les conflits modernes, on peut encore voir des chars &agrave; roues au cours des d&eacute;fil&eacute;s militaires.</p>",
+			"frSource": "AE2 p.163",
+			"width": "1,5",
 			"length": "3",
-			"height": "1.2",
-			"speedDrive": "9 m",
-			"speedFull": "167 m",
-			"speedMph": "104 km/h (aéroglisseur)"
-		},
-		"Spy Cruiser": {
-			"frName": "Aéronef furtif",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +26), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km), discret (-2), communicateur illimit&eacute;</p><h2>DESCRIPTION</h2><p>Ce v&eacute;hicule profil&eacute; ressemble &agrave; un a&eacute;ronef luxueux mais il est con&ccedil;u pour voler sans &ecirc;tre vu.</p>",
-			"frSource": "ARS p.137",
-			"width": "3",
-			"length": "4.5",
-			"height": "1.5",
-			"speedDrive": "18 m",
-			"speedFull": "244 m",
-			"speedMph": "145 km/h (vol et aéroglisseur)"
-		},
-		"Hover Tank": {
-			"frName": "Aérotank",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +25), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Un a&eacute;rotank est un engin blind&eacute; bourr&eacute; de syst&egrave;mes de contr&ocirc;le et de machineries laissant peu de place aux quelques passagers qu&rsquo;il transporte. Il dispose de petites &eacute;coutilles sur le dessus et le dessous.</p>",
-			"frSource": "ARS p.137",
-			"width": "6",
-			"length": "6",
-			"height": "2.4",
-			"speedDrive": "12 m",
-			"speedFull": "168 m",
-			"speedMph": "105 km/h (aéroglisseur)"
-		},
-		"Ultimate Hover Carrier": {
-			"frName": "Aérotransporteur Ultimatum",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +34), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 32 km), compartiments annexes (8), hangars (2), communicateur illimit&eacute;</p><h2>CAPACIT&Eacute;S SP&Eacute;CIALES</h2><p>Hangar (Ext). Le hangar peut accueillir jusqu&rsquo;&agrave; 8 v&eacute;hicules de taille TG ou inf&eacute;rieure.</p><h2>DESCRIPTION</h2><p>Un a&eacute;rotransporteur ultimatum est le summum de la technologie militaire et n&eacute;cessite au moins 60 membres d&rsquo;&eacute;quipage &agrave; bord de ses quatre ponts de 12 m&egrave;tres de large pour fonctionner.</p>",
-			"frSource": "ARS p.137",
-			"width": "36",
-			"length": "244",
-			"height": "20",
-			"speedDrive": "3 m",
-			"speedFull": "106 m",
-			"speedMph": "64 km/h (vol et aéroglisseur)"
-		},
-		"Ultralight Turboglider": {
-			"frName": "Aile à réaction ultralégère",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, communicateur plan&eacute;taire</p><h2>CAPACIT&Eacute; SP&Eacute;CIALE</h2><p>Basse altitude (Ext). Cet appareil ne fournit pas &agrave; son pilote et &agrave; son passager une protection environnementale contre l&rsquo;atmosph&egrave;re t&eacute;nue &agrave; haute altitude.</p><h2>DESCRIPTION</h2><p>Le pilote et le passager sont tenus par des harnais sous l&rsquo;aile munie de r&eacute;acteurs. Cette derni&egrave;re est dirig&eacute;e par les mouvements du corps et par des poign&eacute;es suspendues.</p>",
-			"frSource": "ARS p.137",
-			"width": "3",
-			"length": "1.5",
-			"height": "1",
-			"speedDrive": "6 m",
-			"speedFull": "106 m",
-			"speedMph": "64 km/h (vol)"
-		},
-		"Tactical Walker": {
-			"frName": "Bipode tactique",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +14), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Utilis&eacute;s par les forces de protection plan&eacute;taire, ces bipodes disposent de stabilisateurs num&eacute;riques &eacute;volu&eacute;s qui am&eacute;liorent leur &eacute;quilibre.</p>",
-			"frSource": "ARS p.137",
-			"width": "3",
-			"length": "3",
-			"height": "6",
-			"speedDrive": "11 m",
-			"speedFull": "128 m",
-			"speedMph": "77 km/h (sol)"
-		},
-		"Exploration Buggy": {
-			"frName": "Buggy d’exploration",
-			"frDescription": "",
-			"frSource": "RDB p.228",
-			"width": "1.5",
-			"length": "3",
-			"height": "1.3",
-			"speedDrive": "4.5 m",
-			"speedFull": "106 m",
-			"speedMph": "64 km/h"
+			"height": "1,3",
+			"speedDrive": "tracté",
+			"speedFull": "tracté",
+			"speedMph": "tracté"
 		},
 		"Basic Enercycle": {
 			"frName": "Cyclo à énergie",
@@ -122,104 +34,27 @@
 			"speedFull": "60 m",
 			"speedMph": "35 km/h"
 		},
+		"Exploration Buggy": {
+			"frName": "Buggy d’exploration",
+			"frDescription": "",
+			"frSource": "RDB p.228",
+			"width": "1.5",
+			"length": "3",
+			"height": "1.3",
+			"speedDrive": "4.5 m",
+			"speedFull": "106 m",
+			"speedMph": "64 km/h"
+		},
 		"Goblin Junkcycle": {
 			"frName": "Cyclo-recyclé gobelin",
 			"frDescription": "",
 			"frSource": "RDB p.228",
 			"width": "1.5",
 			"length": "1.5",
-			"height": "60 cm",
+			"height": "0,6",
 			"speedDrive": "4.5 m",
 			"speedFull": "76 m",
 			"speedMph": "45 km/h"
-		},
-		"Assault Enercopter": {
-			"frName": "Énercoptère d’assaut",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +22), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), compartiments annexes (2), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Cet appareil a&eacute;rien partiellement ouvert est dot&eacute; d&rsquo;un rotor &agrave; antigravit&eacute; et de deux tourelles.</p>",
-			"frSource": "ARS p.138",
-			"width": "12",
-			"length": "6",
-			"height": "4.5",
-			"speedDrive": "15 m",
-			"speedFull": "244 m",
-			"speedMph": "145 km/h (vol)"
-		},
-		"Recon Enercopter": {
-			"frName": "Énercoptère de reconnaissance",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +17), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), communicateur plan&eacute;taire, discret (-4)v</p><h2>DESCRIPTION</h2><p>Un c&ocirc;t&eacute; de cet engin a&eacute;rien l&eacute;ger est ouvert ce qui permet d&rsquo;y entrer et d&rsquo;en sortir rapidement. Les &eacute;nercopt&egrave;res sont appr&eacute;ci&eacute;s des forces de l&rsquo;ordre et des groupes militaires &agrave; cause de leurs rotors antigravit&eacute; silencieux.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "6",
-			"height": "3.6",
-			"speedDrive": "7.5 m",
-			"speedFull": "230 m",
-			"speedMph": "137 km/h (vol)"
-		},
-		"Stealth Enercopter": {
-			"frName": "Énercoptère furtif",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +28), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km), champ de force (gris [20 PV]), communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me, discret (+0)</p><h2>DESCRIPTION</h2><p>Cet appareil a&eacute;rien profil&eacute; dispose de rotors antigravit&eacute; quasiment silencieux au-dessus de sa carlingue et &agrave; l&rsquo;extr&eacute;mit&eacute; de sa queue.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "6",
-			"height": "2.1",
-			"speedDrive": "21 m",
-			"speedFull": "260 m",
-			"speedMph": "153 km/h (vol)"
-		},
-		"Tactical Underminer": {
-			"frName": "Excavatrice tactique",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +20), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 152 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 18 m), compartiment annexe, communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me</p>\n<h2>DESCRIPTION</h2>\n<p>Cette foreuse massive peut traverser la roche &agrave; grande vitesse et elle est souvent utilis&eacute;e lors de la construction de grands complexes souterrains.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "6",
-			"height": "3",
-			"speedDrive": "12 m",
-			"speedFull": "168 m (aéroglisseur); 36 m (à travers la pierre)",
-			"speedMph": "105 km/h (aéroglisseur); 21 km/h (à travers la pierre)"
-		},
-		"Asteroid Borer": {
-			"frName": "Foreur d’astéroïde",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 18 m), compartiment annexe, communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me</p><h2>DESCRIPTION</h2><p>Capable de creuser des tunnels dans la terre et la roche tendre gr&acirc;ce &agrave; des projections d&rsquo;acide, ce v&eacute;hicule cylindrique &agrave; chenilles est dot&eacute; de hublots et d&rsquo;un sas &agrave; l&rsquo;arri&egrave;re.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "6",
-			"height": "3",
-			"speedDrive": "9 m",
-			"speedFull": "168 m (aéroglisseur et nage); 27 m (à travers la pierre)",
-			"speedMph": "96 km/h (aéroglisseur et nage); 16 km/h (à travers la pierre)"
-		},
-		"Acid Auger": {
-			"frName": "Foreuse à acide",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 9 m), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>G&eacute;n&eacute;ralement utilis&eacute; pour des missions de terraformation, cet hexapode peut &eacute;voluer sur la plupart des terrains solides.</p>",
-			"frSource": "ARS p.138",
-			"width": "5",
-			"length": "3",
-			"height": "1.5",
-			"speedDrive": "4.5 m",
-			"speedFull": "106 m",
-			"speedMph": "64 km/h (sol); 8 km/h (forage)"
-		},
-		"Survey Walker": {
-			"frName": "Hexapode d’exploration",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m), communicateur plan&eacute;- taire</p>\n<h2>DESCRIPTION</h2>\n<p>G&eacute;n&eacute;ralement utilis&eacute; pour des missions de terraformation, cet hexapode peut &eacute;voluer sur la plupart des terrains solides.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "3",
-			"height": "6",
-			"speedDrive": "6 m",
-			"speedFull": "106 m",
-			"speedMph": "64 km/h (sol)"
-		},
-		"Transport Walker": {
-			"frName": "Hexapode de transport",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +17), compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Cet hexapode carr&eacute; dispose des griffes pr&eacute;hensiles &eacute;tonnamment agiles.</p>",
-			"frSource": "ARS p.138",
-			"width": "3",
-			"length": "6",
-			"height": "6",
-			"speedDrive": "11 m",
-			"speedFull": "198 m",
-			"speedMph": "120 km/h (escalade et au sol)"
 		},
 		"Torpedo Minisub": {
 			"frName": "Mini-torpilleur",
@@ -232,6 +67,17 @@
 			"speedFull": "60 m",
 			"speedMph": "35 km/h (nage)"
 		},
+		"Wingboard": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "1",
+			"length": "3",
+			"height": "-",
+			"speedDrive": "40 ft  (fly)",
+			"speedFull": "100 ft  (fly)",
+			"speedMph": "22 mph (fly)"
+		},
 		"Motorcycle": {
 			"frName": "Moto",
 			"frDescription": "<p><strong>Syst&egrave;mes :</strong> communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Ce v&eacute;hicule ouvert &agrave; deux roues est tr&egrave;s r&eacute;pandu dans les rues de nombreuses zones urbaines.</p>",
@@ -243,16 +89,104 @@
 			"speedFull": "152 m",
 			"speedMph": "88 km/h (sol)"
 		},
-		"Quantom Pod": {
-			"frName": "Nacelle quantique",
-			"frDescription": "<p><strong>Syst&egrave;mes&nbsp;:</strong> pilotage automatique (Pilotage +32), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km, perception p&eacute;n&eacute;trante [vision] 152 m), stockage extradimensionnel, champ de force (rouge [30 PV]), communicateur illimit&eacute;</p><h2>DESCRIPTION</h2><p>Des vitres et des ouvertures s&rsquo;ouvrent d&rsquo;un simple contact et d&rsquo;une simple pens&eacute;e sur l&rsquo;int&eacute;rieur de cette sph&egrave;re lisse et grise. Le pilote porte un casque de contr&ocirc;le qui accepte les commandes mentales.</p>",
-			"frSource": "ARS p.139",
-			"width": "4.5",
-			"length": "4.5",
-			"height": "4.5",
-			"speedDrive": "24 m (vol, aéroglisseur et nage) et 18 m (à travers l’acier et les matériaux moins résistants)",
-			"speedFull": "274 m",
-			"speedMph": "169 km/h (vol, aéroglisseur et nage); 55 km/h (à travers l’acier et les matériaux moins résistants"
+		"Urban Cruiser": {
+			"frName": "Voiture citadine",
+			"frDescription": "",
+			"frSource": "RDB p.228",
+			"width": "3",
+			"length": "3",
+			"height": "1.3",
+			"speedDrive": "6 m",
+			"speedFull": "152 m",
+			"speedMph": "88 km/h"
+		},
+		"Hovertrike": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "5",
+			"length": "10",
+			"height": "3",
+			"speedDrive": "20 ft  (hover)",
+			"speedFull": "200 ft  (hover)",
+			"speedMph": "22 mph (hover)"
+		},
+		"Skyboat": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "10",
+			"length": "15",
+			"height": "3",
+			"speedDrive": "20 ft  (fly and hover)",
+			"speedFull": "200 ft  (fly and hover)",
+			"speedMph": "22 mph (fly and hover)"
+		},
+		"Biped Walker": {
+			"frName": "Bipode",
+			"frDescription": "<p>Simple plateforme ouverte mont&eacute;e sur deux pattes, ce bipode compact permet aux soldats et &agrave; la police d&rsquo;&ecirc;tre en hauteur pour surveiller la foule.</p>",
+			"frSource": "AE2 p.162",
+			"width": "1,2",
+			"length": "1,2",
+			"height": "2,1",
+			"speedDrive": "12,5 m",
+			"speedFull": "105 m",
+			"speedMph": "64 km/h"
+		},
+		"War Wagon": {
+			"frName": "Chariot de guerre",
+			"frDescription": "<p>Les flancs robustes et les nombreuses meurtri&egrave;res de ce chariot archa&iuml;que carr&eacute; en font une &eacute;tonnante place forte &agrave; partir de laquelle des passagers d&eacute;termin&eacute;s peuvent se d&eacute;fendre. </p>",
+			"frSource": "AE2 p.163",
+			"width": "3",
+			"length": "4,5",
+			"height": "2,1",
+			"speedDrive": "tracté",
+			"speedFull": "tracté",
+			"speedMph": "tracté"
+		},
+		"Ultralight Turboglider": {
+			"frName": "Aile à réaction ultralégère",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, communicateur plan&eacute;taire</p><h2>CAPACIT&Eacute; SP&Eacute;CIALE</h2><p>Basse altitude (Ext). Cet appareil ne fournit pas &agrave; son pilote et &agrave; son passager une protection environnementale contre l&rsquo;atmosph&egrave;re t&eacute;nue &agrave; haute altitude.</p><h2>DESCRIPTION</h2><p>Le pilote et le passager sont tenus par des harnais sous l&rsquo;aile munie de r&eacute;acteurs. Cette derni&egrave;re est dirig&eacute;e par les mouvements du corps et par des poign&eacute;es suspendues.</p>",
+			"frSource": "ARS p.137",
+			"width": "3",
+			"length": "1.5",
+			"height": "1",
+			"speedDrive": "6 m",
+			"speedFull": "106 m",
+			"speedMph": "64 km/h (vol)"
+		},
+		"Performance Cruiser": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "10",
+			"length": "10",
+			"height": "4",
+			"speedDrive": "30 ft (fly and hover)",
+			"speedFull": "650 ft (fly and hover)",
+			"speedMph": "90 mph (fly and hover)"
+		},
+		"Sky Chariot": {
+			"frName": "Char aérien",
+			"frDescription": "<p>Un char a&eacute;rien descend du ciel pour combattre tir&eacute; par deux grandes cr&eacute;atures volantes. Un rotor ventral antigravit&eacute; permet au chariot de flotter dans les airs tandis que des &eacute;metteurs de gravit&eacute; dans l&rsquo;habitacle permettent aux occupants de rester camp&eacute;s sur leurs pieds m&ecirc;me en cas de man&oelig;uvres soudaines.</p>",
+			"frSource": "AE2 p.162",
+			"width": "2,1",
+			"length": "3",
+			"height": "1,2",
+			"speedDrive": "tracté (vol)",
+			"speedFull": "tracté (vol)",
+			"speedMph": "tracté (vol)"
+		},
+		"Survey Walker": {
+			"frName": "Hexapode d’exploration",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m), communicateur plan&eacute;- taire</p>\n<h2>DESCRIPTION</h2>\n<p>G&eacute;n&eacute;ralement utilis&eacute; pour des missions de terraformation, cet hexapode peut &eacute;voluer sur la plupart des terrains solides.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "3",
+			"height": "6",
+			"speedDrive": "6 m",
+			"speedFull": "106 m",
+			"speedMph": "64 km/h (sol)"
 		},
 		"Police Cruiser": {
 			"frName": "Patrouilleur (Police)",
@@ -265,60 +199,60 @@
 			"speedFull": "198 m",
 			"speedMph": "120 km/h (au sol et en vol)"
 		},
-		"Aerial Mining Rig": {
-			"frName": "Plateforme d’extraction aérienne",
-			"frDescription": "<p><strong>Systèmes :</strong> pilotage automatique (Pilotage +31), détecteurs évolués (vision dans le noir 8 km, perception pénétrante [vision, pierre seulement] 90 m), compartiments annexes (8), communicateur illimité ; Effectifs 39 ; Passagers 200</p><h2>CAPACITÉS SPÉCIALES</h2><p>Laser gravitationnel d’extraction (Ext). Cette arme lourde a un facteur de portée de 75 m. Quand une attaque avec ce laser touche, elle ignore 18 points de solidité et attire la cible vers la plateforme de 30 centimètres par point de dégât infligé ; une créature attirée de la sorte tombe à terre. Une créature frappée peut réduire cette distance de moitié et éviter de tomber à terre en réussissant un jet de Réflexes. Si la cible est un véhicule, son pilote peut réduire la distance de moitié en réussissant un jet de Pilotage.</p><h2>DESCRIPTION</h2><p>Une plateforme d’extraction aérienne dispose de deux niveaux supérieurs qui sont partiellement exposés aux éléments et deux niveaux inférieurs pour ses principaux dispositifs de collecte et de traitement des minerais ainsi que les dispositifs de contrôle de son laser gravitationnel d’extraction.</p>",
-			"frSource": "ARS p.139",
-			"width": "24",
-			"length": "24",
-			"height": "12",
-			"speedDrive": "3 m (vol et aéroglisseur)",
-			"speedFull": "137 m",
-			"speedMph": "80 km/h (vol et aéroglisseur)"
-		},
-		"Pump-Jet Sub": {
-			"frName": "Sous-marin à hélice pompe",
+		"Cherav": {
+			"frName": "",
 			"frDescription": "",
-			"frSource": "RDB p.229",
-			"width": "3",
-			"length": "6",
-			"height": "2.1",
-			"speedDrive": "3 m",
-			"speedFull": "137 m",
-			"speedMph": "80 km/h (nage)"
-		},
-		"Stealth Sub": {
-			"frName": "Sous-marin furtif",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +19), d&eacute;tecteurs &eacute;volu&eacute;s (vision aveugle [son] 1,5 km), compartiments annexes (3), communicateur plan&eacute;taire, discret (-6)</p><h2>CAPACIT&Eacute;S SP&Eacute;CIALES</h2><p>Milieu ferm&eacute; (Ext) S&rsquo;ils b&eacute;n&eacute;ficient d&rsquo;un abri total, le pilote et les passagers dans un v&eacute;hicule en milieu ferm&eacute; ne peuvent utiliser leurs armes personnelles pour attaquer des cr&eacute;atures ou des objets &agrave; l&rsquo;ext&eacute;rieur du v&eacute;hicule mais ils peuvent utiliser les armes de ce v&eacute;hicule (s&rsquo;il en a).</p><h2>DESCRIPTION</h2><p>Utilis&eacute; par de nombreuses unit&eacute;s militaires plan&eacute;taires pour les combats sous l&rsquo;eau, un sous-marin furtif dispose d&rsquo;une petite promenade le long de sa dorsale qui peut &ecirc;tre utilis&eacute;e quand il fait surface.</p>",
-			"frSource": "ARS p.139",
-			"width": "4.5",
+			"frSource": "",
+			"width": "10",
 			"length": "15",
-			"height": "4.5",
-			"speedDrive": "6 m",
-			"speedFull": "168 m",
-			"speedMph": "105 km/h (nage)"
+			"height": "5",
+			"speedDrive": "15 ft",
+			"speedFull": "450 ft (hover)",
+			"speedMph": "50 mph (hover)"
 		},
-		"Armored Transport": {
-			"frName": "Transport blindé",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, stockage extradimensionnel, communicateur plan&eacute;taire</p>\n<h2>DESCRIPTION</h2>\n<p>Ressemblant &agrave; un petit a&eacute;rocamion, ce v&eacute;hicule transporte souvent des marchandises dangereuses ou pr&eacute;cieuses.</p>",
-			"frSource": "ARS p.139",
+		"Drop Pod": {
+			"frName": "Nacelle de descente",
+			"frDescription": "<h2>Description</h2> <p>Capables de d&eacute;ployer des escouades d&rsquo;intervention et des provisions &agrave; partir d&rsquo;altitudes faramineuses, les nacelles de descente offrent une exp&eacute;rience &agrave; couper le souffle pour passer de l&rsquo;orbite basse d&rsquo;une plan&egrave;te &agrave; sa surface.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Chute contr&ocirc;l&eacute;e (Ext).</strong> Sans syst&egrave;mes de contr&ocirc;le et de propulsion, la trajectoire et la vitesse de ce v&eacute;hicule sont pr&eacute;d&eacute;termin&eacute;es au moment du lancement &agrave; partir d&rsquo;un autre v&eacute;hicule a&eacute;rien ou d&rsquo;un vaisseau spatial. Chaque round, son pilotage assist&eacute; maintient sa trajectoire vers une cible au sol pr&eacute;d&eacute;termin&eacute;e en utilisant la vitesse terminale de l&rsquo;atmosph&egrave;re de la plan&egrave;te (320&ndash;480 km/h pour un monde avec une gravit&eacute; normale) comme vitesse max. Un round avant l&rsquo;impact, des rotors antigravit&eacute;, des parachutes, des r&eacute;trofus&eacute;es ou d&rsquo;autres m&eacute;canismes ralentissent la descente &agrave; 18 m par round pour atterrir en toute s&eacute;curit&eacute;.</p> <p><strong>Clos (Ext).</strong> En plus de b&eacute;n&eacute;ficier d&rsquo;un abri total, le pilote et les passagers d&rsquo;un v&eacute;hicule clos ne peuvent utiliser leurs armes personnelles pour attaquer des cr&eacute;atures et des objets qui se trouvent en dehors du v&eacute;hicule. Ils peuvent cependant utiliser les armes de ce v&eacute;hicule (s&rsquo;il en dispose).</p>",
+			"frSource": "AE2 p.164",
+			"width": "3,6",
+			"length": "3,6",
+			"height": "4,5",
+			"speedDrive": "chute contrôlée",
+			"speedFull": "chute contrôlée",
+			"speedMph": "chute contrôlée"
+		},
+		"Hover Truck": {
+			"frName": "Aérocamion",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Les roues de ce camion polyvalent se transforment en propulseurs antigravitationnels en appuyant sur un simple bouton.</p>",
+			"frSource": "ARS p.137",
 			"width": "3",
-			"length": "6",
-			"height": "2.1",
-			"speedDrive": "3 m",
+			"length": "9",
+			"height": "3.6",
+			"speedDrive": "4.5 m",
 			"speedFull": "137 m",
 			"speedMph": "80 km/h (aéroglisseur)"
 		},
-		"Armored Null-Space Transport": {
-			"frName": "Transport blindé à espace nul",
-			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +16), compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Ce robuste camion est utilis&eacute; par l&rsquo;arm&eacute;e et par les services de s&eacute;curit&eacute; priv&eacute;s.</p>",
-			"frSource": "ARS p.139",
-			"width": "3",
+		"Acid Auger": {
+			"frName": "Foreuse à acide",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 9 m), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>G&eacute;n&eacute;ralement utilis&eacute; pour des missions de terraformation, cet hexapode peut &eacute;voluer sur la plupart des terrains solides.</p>",
+			"frSource": "ARS p.138",
+			"width": "5",
 			"length": "3",
-			"height": "2.4",
-			"speedDrive": "12 m",
-			"speedFull": "230 m",
-			"speedMph": "137 km/h (aéroglisseur)"
+			"height": "1.5",
+			"speedDrive": "4.5 m",
+			"speedFull": "106 m",
+			"speedMph": "64 km/h (sol); 8 km/h (forage)"
+		},
+		"Stealth Enercycle": {
+			"frName": "Cyclo à énergie furtif",
+			"frDescription": "<p>Une armature partiellement camoufl&eacute;e et une technologie militaire &eacute;volu&eacute;e permettent aux v&eacute;hicules de se fondre dans les ombres.</p>",
+			"frSource": "AE2 p.163",
+			"width": "1,2",
+			"length": "2,4",
+			"height": "1,2",
+			"speedDrive": "15 m",
+			"speedFull": "225 m",
+			"speedMph": "136 km/h"
 		},
 		"All-Terrain Transport": {
 			"frName": "Transporteur tout-terrain",
@@ -331,16 +265,379 @@
 			"speedFull": "137 m",
 			"speedMph": "80 km/h"
 		},
-		"Urban Cruiser": {
-			"frName": "Voiture citadine",
+		"Pump-Jet Sub": {
+			"frName": "Sous-marin à hélice pompe",
 			"frDescription": "",
-			"frSource": "RDB p.228",
+			"frSource": "RDB p.229",
+			"width": "3",
+			"length": "6",
+			"height": "2.1",
+			"speedDrive": "3 m",
+			"speedFull": "137 m",
+			"speedMph": "80 km/h (nage)"
+		},
+		"Skyacht": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "20",
+			"length": "80",
+			"height": "20",
+			"speedDrive": "30 ft  (fly and hover)",
+			"speedFull": "550 ft  (fly and hover)",
+			"speedMph": "65 mph (fly and hover)"
+		},
+		"Water Bear": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "20",
+			"length": "50",
+			"height": "20",
+			"speedDrive": "25 ft",
+			"speedFull": "600 ft (swim)",
+			"speedMph": "65 mph (swim)"
+		},
+		"Patrol Dirigible": {
+			"frName": "Dirigeable patrouilleur",
+			"frDescription": "<h2>Description</h2> <p>D&eacute;rivant le plus souvent dans l&rsquo;immensit&eacute; du ciel des g&eacute;antes gazeuses, un dirigeable patrouilleur prot&egrave;ge les cr&eacute;atures qui ne volent pas.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Hangar (Ext).</strong> Le hangar d&rsquo;un dirigeable patrouilleur peut accueillir jusqu&rsquo;&agrave; deux v&eacute;hicules de taille TG ou plus petits.</p>",
+			"frSource": "AE2 p.163",
+			"width": "18",
+			"length": "24",
+			"height": "12",
+			"speedDrive": "6 m (vol et aéroglisseur)",
+			"speedFull": "135 m (vol et aéroglisseur)",
+			"speedMph": "80 km/h (vol et aéroglisseur)"
+		},
+		"Tactical Walker": {
+			"frName": "Bipode tactique",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +14), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Utilis&eacute;s par les forces de protection plan&eacute;taire, ces bipodes disposent de stabilisateurs num&eacute;riques &eacute;volu&eacute;s qui am&eacute;liorent leur &eacute;quilibre.</p>",
+			"frSource": "ARS p.137",
 			"width": "3",
 			"length": "3",
-			"height": "1.3",
+			"height": "6",
+			"speedDrive": "11 m",
+			"speedFull": "128 m",
+			"speedMph": "77 km/h (sol)"
+		},
+		"Hover Pod": {
+			"frName": "Aéroglisseur",
+			"frDescription": "",
+			"frSource": "RDB p.229",
+			"width": "3",
+			"length": "3",
+			"height": "1.2",
+			"speedDrive": "9 m",
+			"speedFull": "167 m",
+			"speedMph": "104 km/h (aéroglisseur)"
+		},
+		"Sunskimmer": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "10",
+			"length": "20",
+			"height": "7",
+			"speedDrive": "20 ft  (fly)",
+			"speedFull": "550 ft  (fly)",
+			"speedMph": "60 mph (fly)"
+		},
+		"Aquatic Crawler": {
+			"frName": "Rampeur aquatique",
+			"frDescription": "<h2>Description</h2> <p>Assez semblable dans sa conception aux autres rampeurs, celui-ci &eacute;volue sur les fonds des oc&eacute;ans, sous la couche de glace des mers gel&eacute;es et d&rsquo;autres environnements dans lesquels les sous-marins ne peuvent pas man&oelig;uvrer.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Clos (Ext).</strong> En plus de b&eacute;n&eacute;ficier d&rsquo;un abri total, le pilote et les passagers d&rsquo;un v&eacute;hicule clos ne peuvent utiliser leurs armes personnelles pour attaquer des cr&eacute;atures et des objets qui se trouvent en dehors du v&eacute;hicule. Ils peuvent cependant utiliser les armes de ce v&eacute;hicule (s'il en dispose).</p> <p>&nbsp;</p>",
+			"frSource": "AE2 p.165",
+			"width": "6",
+			"length": "6",
+			"height": "3,6",
+			"speedDrive": "9 m (escalade et sol)",
+			"speedFull": "105 m (escalade et sol)",
+			"speedMph": "64 km/h (escalade et sol)"
+		},
+		"Asteroid Borer": {
+			"frName": "Foreur d’astéroïde",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 36 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 18 m), compartiment annexe, communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me</p><h2>DESCRIPTION</h2><p>Capable de creuser des tunnels dans la terre et la roche tendre gr&acirc;ce &agrave; des projections d&rsquo;acide, ce v&eacute;hicule cylindrique &agrave; chenilles est dot&eacute; de hublots et d&rsquo;un sas &agrave; l&rsquo;arri&egrave;re.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "6",
+			"height": "3",
+			"speedDrive": "9 m",
+			"speedFull": "168 m (aéroglisseur et nage); 27 m (à travers la pierre)",
+			"speedMph": "96 km/h (aéroglisseur et nage); 16 km/h (à travers la pierre)"
+		},
+		"Armored Transport": {
+			"frName": "Transport blindé",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage assist&eacute;, stockage extradimensionnel, communicateur plan&eacute;taire</p>\n<h2>DESCRIPTION</h2>\n<p>Ressemblant &agrave; un petit a&eacute;rocamion, ce v&eacute;hicule transporte souvent des marchandises dangereuses ou pr&eacute;cieuses.</p>",
+			"frSource": "ARS p.139",
+			"width": "3",
+			"length": "6",
+			"height": "2.1",
+			"speedDrive": "3 m",
+			"speedFull": "137 m",
+			"speedMph": "80 km/h (aéroglisseur)"
+		},
+		"Kishalee Hoverbike": {
+			"frName": "Hoverbike Kishali",
+			"frDescription": "<p>Les hoverbikes Kishalis sont des v&eacute;hicules extr&ecirc;mement fins qui flottent sur un coussin d&rsquo;&eacute;nergie anti gravit&eacute;. Le conducteur s&rsquo;installe sur la place avant pour man&oelig;uvrer la direction triangulaire tandis que le passager prend place &agrave; l&rsquo;arri&egrave;re o&ugrave; il s&rsquo;accroche &agrave; une barre de s&eacute;curit&eacute;.</p> <p>Ces engins se d&eacute;placent en d&eacute;formant l&rsquo;espace autour d&rsquo;eux, raccourcissant ainsi la distance qui se trouve devant eux et en allongeant celle qui se trouve derri&egrave;re. En cons&eacute;quence, ils infligent tr&egrave;s peu de d&eacute;g&acirc;ts s&rsquo;ils percutent une cible et sauter au-dessus d&rsquo;un obstacle n&rsquo;inflige que les d&eacute;g&acirc;ts li&eacute;s &agrave; la chute puisque l&rsquo;hoverbike ne g&eacute;n&egrave;re aucune &eacute;nergie cin&eacute;tique.</p>",
+			"frSource": "SM5",
+			"width": "1,5",
+			"length": "3",
+			"height": "0,6",
+			"speedDrive": "9 m (flotte et vol)",
+			"speedFull": "167 m (flotte et vol)",
+			"speedMph": "104 km/h (flotte et vol)"
+		},
+		"Heavy Assault Buggy": {
+			"frName": "Buggy d’assaut lourd",
+			"frDescription": "<p>Ce véhicule trapu et blindé est équipé de six puissants aéropropulseurs et est un élément essentiel des combats au sol.</p>",
+			"frSource": "AE2 p.162",
+			"width": "3",
+			"length": "3,6",
+			"height": "2,1",
+			"speedDrive": "9 m (aéroglisseur)",
+			"speedFull": "165 m (aéroglisseur)",
+			"speedMph": "96 km/h (aéroglisseur)"
+		},
+		"Recon Enercopter": {
+			"frName": "Énercoptère de reconnaissance",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +17), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), communicateur plan&eacute;taire, discret (-4)v</p><h2>DESCRIPTION</h2><p>Un c&ocirc;t&eacute; de cet engin a&eacute;rien l&eacute;ger est ouvert ce qui permet d&rsquo;y entrer et d&rsquo;en sortir rapidement. Les &eacute;nercopt&egrave;res sont appr&eacute;ci&eacute;s des forces de l&rsquo;ordre et des groupes militaires &agrave; cause de leurs rotors antigravit&eacute; silencieux.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "6",
+			"height": "3.6",
+			"speedDrive": "7.5 m",
+			"speedFull": "230 m",
+			"speedMph": "137 km/h (vol)"
+		},
+		"Transport Walker": {
+			"frName": "Hexapode de transport",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +17), compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Cet hexapode carr&eacute; dispose des griffes pr&eacute;hensiles &eacute;tonnamment agiles.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "6",
+			"height": "6",
+			"speedDrive": "11 m",
+			"speedFull": "198 m",
+			"speedMph": "120 km/h (escalade et au sol)"
+		},
+		"Armored Null-Space Transport": {
+			"frName": "Transport blindé à espace nul",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +16), compartiment annexe, communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Ce robuste camion est utilis&eacute; par l&rsquo;arm&eacute;e et par les services de s&eacute;curit&eacute; priv&eacute;s.</p>",
+			"frSource": "ARS p.139",
+			"width": "3",
+			"length": "3",
+			"height": "2.4",
+			"speedDrive": "12 m",
+			"speedFull": "230 m",
+			"speedMph": "137 km/h (aéroglisseur)"
+		},
+		"Stealth Sub": {
+			"frName": "Sous-marin furtif",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +19), d&eacute;tecteurs &eacute;volu&eacute;s (vision aveugle [son] 1,5 km), compartiments annexes (3), communicateur plan&eacute;taire, discret (-6)</p><h2>CAPACIT&Eacute;S SP&Eacute;CIALES</h2><p>Milieu ferm&eacute; (Ext) S&rsquo;ils b&eacute;n&eacute;ficient d&rsquo;un abri total, le pilote et les passagers dans un v&eacute;hicule en milieu ferm&eacute; ne peuvent utiliser leurs armes personnelles pour attaquer des cr&eacute;atures ou des objets &agrave; l&rsquo;ext&eacute;rieur du v&eacute;hicule mais ils peuvent utiliser les armes de ce v&eacute;hicule (s&rsquo;il en a).</p><h2>DESCRIPTION</h2><p>Utilis&eacute; par de nombreuses unit&eacute;s militaires plan&eacute;taires pour les combats sous l&rsquo;eau, un sous-marin furtif dispose d&rsquo;une petite promenade le long de sa dorsale qui peut &ecirc;tre utilis&eacute;e quand il fait surface.</p>",
+			"frSource": "ARS p.139",
+			"width": "4.5",
+			"length": "15",
+			"height": "4.5",
 			"speedDrive": "6 m",
-			"speedFull": "152 m",
-			"speedMph": "88 km/h"
+			"speedFull": "168 m",
+			"speedMph": "105 km/h (nage)"
+		},
+		"Linecrawler": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "50",
+			"length": "70",
+			"height": "50",
+			"speedDrive": "10 ft  (fly)",
+			"speedFull": "450 ft  (fly)",
+			"speedMph": "50 mph (fly)"
+		},
+		"Light Hover Tank": {
+			"frName": "Aérotank léger",
+			"frDescription": "<p>Le ch&acirc;ssis compact d&rsquo;un a&eacute;rotank l&eacute;ger et sa man&oelig;uvrabilit&eacute; moyenne en font l&rsquo;appareil id&eacute;al pour patrouiller les centres urbains. Son armement sonique permet d&rsquo;effectuer des tirs suppressifs dans les rues sans menacer les infrastructures.</p>",
+			"frSource": "AE2 p.162",
+			"width": "3",
+			"length": "4,5",
+			"height": "1,8",
+			"speedDrive": "12 m (aéroglisseur)",
+			"speedFull": "195 m (aéroglisseur)",
+			"speedMph": "112 km/h (aéroglisseur)"
+		},
+		"Tactical Dropship": {
+			"frName": "Navette de débarquement tactique",
+			"frDescription": "<p>Quand cette navette de débarquement passe en vol à haute altitude, ses ailes et ses rotors antigravité se replient pour réduire la traînée tandis qu’un unique booster la propulse en orbite.< /p>",
+			"frSource": "AE2 p.164",
+			"width": "4,5",
+			"length": "6",
+			"height": "3,6",
+			"speedDrive": "9 m (vol et aéroglisseur)",
+			"speedFull": "225 m (vol et aéroglisseur)",
+			"speedMph": "136 km/h (vol et aéroglisseur)"
+		},
+		"Tactical Underminer": {
+			"frName": "Excavatrice tactique",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +20), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 152 m, perception p&eacute;n&eacute;trante [vision, pierre seulement] 18 m), compartiment annexe, communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me</p>\n<h2>DESCRIPTION</h2>\n<p>Cette foreuse massive peut traverser la roche &agrave; grande vitesse et elle est souvent utilis&eacute;e lors de la construction de grands complexes souterrains.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "6",
+			"height": "3",
+			"speedDrive": "12 m",
+			"speedFull": "168 m (aéroglisseur); 36 m (à travers la pierre)",
+			"speedMph": "105 km/h (aéroglisseur); 21 km/h (à travers la pierre)"
+		},
+		"Airspace Defender": {
+			"frName": "Protecteur antiaérien",
+			"frDescription": "<h2>Description</h2> <p>Ce v&eacute;hicule semblable &agrave; un tank d&eacute;courage les incursions dans l&rsquo;espace a&eacute;rien qu&rsquo;il surveille avec ses redoutables missiles antia&eacute;riens.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Lance-missiles anti-a&eacute;riens (Ext).</strong> Cette arme lourde lance des missiles guid&eacute;s ayant un facteur de port&eacute;e de 600 m. L&rsquo;arme ne peut cibler que des engins a&eacute;riens ou des vaisseaux. En cas d&rsquo;attaque r&eacute;ussie, le pilote du v&eacute;hicule cibl&eacute; peut tenter un test de Pilotage (DD = r&eacute;sultat du jet d&rsquo;attaque) pour r&eacute;duire les d&eacute;g&acirc;ts de moiti&eacute;. Un protecteur antia&eacute;rien dispose de cinq missiles.</p> <p>&nbsp;</p>",
+			"frSource": "AE2 p.164",
+			"width": "6",
+			"length": "18",
+			"height": "4,5",
+			"speedDrive": "18 m (aéroglisseur)",
+			"speedFull": "150 m (aéroglisseur)",
+			"speedMph": "88 km/h (aéroglisseur)"
+		},
+		"Attack Sub": {
+			"frName": "Sous-marin d’attaque",
+			"frDescription": "<h2>Description</h2> <p>La section avant de ce sous-marin est &eacute;quip&eacute;e de deux rang&eacute;es de compartiments pour des missiles antia&eacute;riens.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Clos (Ext).</strong> En plus de b&eacute;n&eacute;ficier d&rsquo;un abri total, le pilote et les passagers d&rsquo;un v&eacute;hicule clos ne peuvent utiliser leurs armes personnelles pour attaquer des cr&eacute;atures et des objets qui se trouvent en dehors du v&eacute;hicule. Ils peuvent cependant utiliser les armes de ce v&eacute;hicule (s&rsquo;il en dispose).</p> <p><strong>Lance-missiles anti-a&eacute;riens (Ext).</strong> Cette arme lourde lance des missiles guid&eacute;s ayant un facteur de port&eacute;e de 600 m. L&rsquo;arme ne peut cibler que des engins a&eacute;riens ou des vaisseaux. Un sous-marin ne peut utiliser cette arme que s&rsquo;il se trouve &agrave; une profondeur de 30 m ou moins. En cas d&rsquo;attaque r&eacute;ussie, le pilote du v&eacute;hicule cibl&eacute; peut tenter un test de Pilotage (DD = r&eacute;sultat du jet d&rsquo;attaque) pour r&eacute;duire les d&eacute;g&acirc;ts de moiti&eacute;. Le sous-marin peut transporter jusqu&rsquo;&agrave; huit missiles.</p> <p>&nbsp;</p>",
+			"frSource": "AE2 p.165",
+			"width": "6",
+			"length": "21",
+			"height": "6",
+			"speedDrive": "6 m (nage)",
+			"speedFull": "135 m (nage)",
+			"speedMph": "80 km/h (nage)"
+		},
+		"Assault Enercopter": {
+			"frName": "Énercoptère d’assaut",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +22), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), compartiments annexes (2), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Cet appareil a&eacute;rien partiellement ouvert est dot&eacute; d&rsquo;un rotor &agrave; antigravit&eacute; et de deux tourelles.</p>",
+			"frSource": "ARS p.138",
+			"width": "12",
+			"length": "6",
+			"height": "4.5",
+			"speedDrive": "15 m",
+			"speedFull": "244 m",
+			"speedMph": "145 km/h (vol)"
+		},
+		"Protector Chariot": {
+			"frName": "",
+			"frDescription": "",
+			"frSource": "",
+			"width": "10",
+			"length": "10",
+			"height": "10",
+			"speedDrive": "30 ft (hover and fly)",
+			"speedFull": "550 ft (hover and fly)",
+			"speedMph": "65 mph  (hover and fly)"
+		},
+		"Breacher": {
+			"frName": "Enfonceur",
+			"frDescription": "<h2>Description</h2> <p>Ces v&eacute;hicules sont le plus souvent utilis&eacute;s pour faire des trous dans des barricades, des murs de protection ou dans la structure des vaisseaux et navires avant d&rsquo;y d&eacute;poser des troupes.</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Br&egrave;che (Ex).</strong> Quand un pilotage r&eacute;ussit une action pour percuter un objet ayant une coque ou un mur, si l&rsquo;objet percut&eacute; a l&rsquo;&eacute;tat cass&eacute;, le pilote de l&rsquo;enfonceur peut utiliser une action rapide pour activer des lasers de d&eacute;coupe, des foreuses, des griffes ou d&rsquo;autres appareils dispos&eacute;s &agrave; l&rsquo;avant de son v&eacute;hicule. Ces appareils provoquent dans l&rsquo;objet percut&eacute; un trou de 2,4 m de diam&egrave;tre au maximum ce qui permet &agrave; des cr&eacute;atures de p&eacute;n&eacute;trer librement dans l&rsquo;objet cibl&eacute; &agrave; partir du d&eacute;fonceur.</p> <p><strong>Attaque de percussion (Ext).</strong> Une structure sp&eacute;cialement con&ccedil;ue, des att&eacute;nuateurs cin&eacute;tiques ou une autre technologie permet &agrave; ce v&eacute;hicule de ne pas subir de d&eacute;g&acirc;ts quand le pilote r&eacute;ussit une action pour percuter.</p>",
+			"frSource": "AE2 p.163",
+			"width": "6",
+			"length": "9",
+			"height": "3",
+			"speedDrive": "12 m (aéroglisseur)",
+			"speedFull": "165 m (aéroglisseur)",
+			"speedMph": "105 km/h (aéroglisseur)"
+		},
+		"Hover Tank": {
+			"frName": "Aérotank",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +25), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 1,5 km), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Un a&eacute;rotank est un engin blind&eacute; bourr&eacute; de syst&egrave;mes de contr&ocirc;le et de machineries laissant peu de place aux quelques passagers qu&rsquo;il transporte. Il dispose de petites &eacute;coutilles sur le dessus et le dessous.</p>",
+			"frSource": "ARS p.137",
+			"width": "6",
+			"length": "6",
+			"height": "2.4",
+			"speedDrive": "12 m",
+			"speedFull": "168 m",
+			"speedMph": "105 km/h (aéroglisseur)"
+		},
+		"Heavy Walker": {
+			"frName": "Octopode",
+			"frDescription": "<p>Parcourant les champs de bataille et les secteurs hostiles comme une araignée titanesque, cet engin à huit pattes peut servir de base mobile d’opérations pour des sections déployées à long terme ou dans des régions isolées. Ses quatre bras de grue articulés lui permettent de charger ou décharger du matériel et du personnel sans risquer de baisser sa structure blindée au niveau du sol.</p>",
+			"frSource": "AE2 p.164",
+			"width": "6",
+			"length": "12",
+			"height": "9",
+			"speedDrive": "9 m (sol) 6 m (escalade)",
+			"speedFull": "165 m (sol) 105 m (escalade)",
+			"speedMph": "105 km/h (sol) 64 km/h (escalade)"
+		},
+		"Spy Cruiser": {
+			"frName": "Aéronef furtif",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +26), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km), discret (-2), communicateur illimit&eacute;</p><h2>DESCRIPTION</h2><p>Ce v&eacute;hicule profil&eacute; ressemble &agrave; un a&eacute;ronef luxueux mais il est con&ccedil;u pour voler sans &ecirc;tre vu.</p>",
+			"frSource": "ARS p.137",
+			"width": "3",
+			"length": "4.5",
+			"height": "1.5",
+			"speedDrive": "18 m",
+			"speedFull": "244 m",
+			"speedMph": "145 km/h (vol et aéroglisseur)"
+		},
+		"Stealth Enercopter": {
+			"frName": "Énercoptère furtif",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +28), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km), champ de force (gris [20 PV]), communicateur &agrave; l&rsquo;&eacute;chelle du syst&egrave;me, discret (+0)</p><h2>DESCRIPTION</h2><p>Cet appareil a&eacute;rien profil&eacute; dispose de rotors antigravit&eacute; quasiment silencieux au-dessus de sa carlingue et &agrave; l&rsquo;extr&eacute;mit&eacute; de sa queue.</p>",
+			"frSource": "ARS p.138",
+			"width": "3",
+			"length": "6",
+			"height": "2.1",
+			"speedDrive": "21 m",
+			"speedFull": "260 m",
+			"speedMph": "153 km/h (vol)"
+		},
+		"Hover Artillery": {
+			"frName": "Aéroartillerie",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +29), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 13 km), compartiment annexe, champ de force (vert [25 PV]), communicateur plan&eacute;taire</p><h2>DESCRIPTION</h2><p>Une a&eacute;roartillerie est similaire &agrave; un a&eacute;rotank mais dispose d&rsquo;un plus gros canon et peut transporter plus de passagers.</p>",
+			"frSource": "ARS p.137",
+			"width": "6",
+			"length": "12",
+			"height": "4",
+			"speedDrive": "9 m",
+			"speedFull": "152 m",
+			"speedMph": "88 km/h (aéroglisseur)"
+		},
+		"Heavy Dropship": {
+			"frName": "Navette de débarquement lourde",
+			"frDescription": "<h2>Description</h2> <p>Une navette de d&eacute;barquement lourde peut, en quelques minutes, transporter une section enti&egrave;re ainsi que ses v&eacute;hicules de soutien entre un vaisseau capital en orbite et la surface d&rsquo;une plan&egrave;te (et inversement).</p> <h2>Pouvoirs sp&eacute;ciaux</h2> <p><strong>Hangar (Ext).</strong> Le hangar d&rsquo;une navette de d&eacute;barquement lourde peut accueillir un v&eacute;hicule de taille Gig ou deux v&eacute;hicules de taille TG ou plus petits.</p> <p>&nbsp;</p>",
+			"frSource": "AE2 p.164",
+			"width": "12",
+			"length": "24",
+			"height": "9",
+			"speedDrive": "12 m (vol et aérogliseur)",
+			"speedFull": "255 m (vol et aérogliseur)",
+			"speedMph": "152 km/h (vol et aérogliseur)"
+		},
+		"Aerial Mining Rig": {
+			"frName": "Plateforme d’extraction aérienne",
+			"frDescription": "<p><strong>Systèmes :</strong> pilotage automatique (Pilotage +31), détecteurs évolués (vision dans le noir 8 km, perception pénétrante [vision, pierre seulement] 90 m), compartiments annexes (8), communicateur illimité ; Effectifs 39 ; Passagers 200</p><h2>CAPACITÉS SPÉCIALES</h2><p>Laser gravitationnel d’extraction (Ext). Cette arme lourde a un facteur de portée de 75 m. Quand une attaque avec ce laser touche, elle ignore 18 points de solidité et attire la cible vers la plateforme de 30 centimètres par point de dégât infligé ; une créature attirée de la sorte tombe à terre. Une créature frappée peut réduire cette distance de moitié et éviter de tomber à terre en réussissant un jet de Réflexes. Si la cible est un véhicule, son pilote peut réduire la distance de moitié en réussissant un jet de Pilotage.</p><h2>DESCRIPTION</h2><p>Une plateforme d’extraction aérienne dispose de deux niveaux supérieurs qui sont partiellement exposés aux éléments et deux niveaux inférieurs pour ses principaux dispositifs de collecte et de traitement des minerais ainsi que les dispositifs de contrôle de son laser gravitationnel d’extraction.</p>",
+			"frSource": "ARS p.139",
+			"width": "24",
+			"length": "24",
+			"height": "12",
+			"speedDrive": "3 m (vol et aéroglisseur)",
+			"speedFull": "137 m",
+			"speedMph": "80 km/h (vol et aéroglisseur)"
+		},
+		"Quantom Pod": {
+			"frName": "Nacelle quantique",
+			"frDescription": "<p><strong>Syst&egrave;mes&nbsp;:</strong> pilotage automatique (Pilotage +32), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 8 km, perception p&eacute;n&eacute;trante [vision] 152 m), stockage extradimensionnel, champ de force (rouge [30 PV]), communicateur illimit&eacute;</p><h2>DESCRIPTION</h2><p>Des vitres et des ouvertures s&rsquo;ouvrent d&rsquo;un simple contact et d&rsquo;une simple pens&eacute;e sur l&rsquo;int&eacute;rieur de cette sph&egrave;re lisse et grise. Le pilote porte un casque de contr&ocirc;le qui accepte les commandes mentales.</p>",
+			"frSource": "ARS p.139",
+			"width": "4.5",
+			"length": "4.5",
+			"height": "4.5",
+			"speedDrive": "24 m (vol, aéroglisseur et nage) et 18 m (à travers l’acier et les matériaux moins résistants)",
+			"speedFull": "274 m",
+			"speedMph": "169 km/h (vol, aéroglisseur et nage); 55 km/h (à travers l’acier et les matériaux moins résistants"
+		},
+		"Ultimate Hover Carrier": {
+			"frName": "Aérotransporteur Ultimatum",
+			"frDescription": "<p><strong>Syst&egrave;mes :</strong> pilotage automatique (Pilotage +34), d&eacute;tecteurs &eacute;volu&eacute;s (vision dans le noir 32 km), compartiments annexes (8), hangars (2), communicateur illimit&eacute;</p><h2>CAPACIT&Eacute;S SP&Eacute;CIALES</h2><p>Hangar (Ext). Le hangar peut accueillir jusqu&rsquo;&agrave; 8 v&eacute;hicules de taille TG ou inf&eacute;rieure.</p><h2>DESCRIPTION</h2><p>Un a&eacute;rotransporteur ultimatum est le summum de la technologie militaire et n&eacute;cessite au moins 60 membres d&rsquo;&eacute;quipage &agrave; bord de ses quatre ponts de 12 m&egrave;tres de large pour fonctionner.</p>",
+			"frSource": "ARS p.137",
+			"width": "36",
+			"length": "244",
+			"height": "20",
+			"speedDrive": "3 m",
+			"speedFull": "106 m",
+			"speedMph": "64 km/h (vol et aéroglisseur)"
 		}
 	}
 }
