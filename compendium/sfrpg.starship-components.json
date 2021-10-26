@@ -7,19 +7,21 @@
 	},
 	"entries": {
 		"Advanced long-range sensors": {
-			"frName": "Détecteurs Longue portée évolués",
-			"frDescription": "",
+			"frName": "Détecteurs longue portée évolués",
 			"frSource": "RDB p.300"
 		},
 		"Advanced medium-range sensors": {
-			"frName": "Détecteurs Moyenne portée évolués",
-			"frDescription": "",
+			"frName": "Détecteurs moyenne portée évolués",
 			"frSource": "RDB p.300"
 		},
 		"Advanced short-range sensors": {
-			"frName": "Détecteurs Courte portée évolués",
-			"frDescription": "",
+			"frName": "Détecteurs courte portée évolués",
 			"frSource": "RDB p.300"
+		},
+		"Aeon Diffuser (Hybrid)": {
+			"frName": "Bouclier Algal",
+			"frDescription": "<p>Le fuselage d&rsquo;un vaisseau &eacute;quip&eacute; d&rsquo;un bouclier algal est couvert d&rsquo;une s&eacute;rie de compartiments s&eacute;par&eacute;s par des valves et parcourus par une eau riche en algues d&rsquo;un bleu vert, qui traverse l&rsquo;ensemble du vaisseau et est reli&eacute;e aux syst&egrave;mes de survie et &agrave; la majeure partie des composants vivants du vaisseau. Ce syst&egrave;me circulatoire additionnel a deux fonctions. En premier lieu, les algues agissent comme un absorbeur de radiation. Ainsi, quand un vaisseau biom&eacute;canique &eacute;quip&eacute; d&rsquo;un bouclier algal subit des d&eacute;g&acirc;ts d&rsquo;une arme poss&eacute;dant la propri&eacute;t&eacute; irradiante, le bouclier att&eacute;nue les effets critiques caus&eacute;s par les radiations. En outre, le bouclier algal conf&egrave;re un bonus de circonstances de +2 aux jets de sauvegarde contre les radiations et les autres poisons introduits dans l&rsquo;atmosph&egrave;re du vaisseau. Les algues utilis&eacute;es par ce syst&egrave;me font &eacute;galement office de jardin hydroponique (<em>Les Mondes du Pacte</em> p. 153). Si un effet critique est &agrave; l&rsquo;origine du malfonctionnement ou de la destruction des syst&egrave;mes de survie du vaisseau, le bouclier algal est inop&eacute;rant tant que les syst&egrave;mes de survie n&rsquo;ont pas &eacute;t&eacute; r&eacute;par&eacute;s afin que leur &eacute;tat &eacute;volue de dysfonctionnant &agrave; normal.</p>",
+			"frSource": "AE1 p.149"
 		},
 		"Anti-hacking systems": {
 			"frName": "Systèmes anti-piratage",
@@ -48,107 +50,102 @@
 		},
 		"Arcus Heavy": {
 			"frName": "Arcus lourd",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Arcus Light": {
 			"frName": "Arcus léger",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Arcus Maximum": {
-			"frName": "Arcus Maximum",
-			"frDescription": "",
+			"frName": "Arcus maximum",
 			"frSource": "RDB p.296"
 		},
 		"Arcus Ultra": {
-			"frName": "Arcus Ultra",
-			"frDescription": "",
+			"frName": "Arcus ultra",
 			"frSource": "RDB p.296"
+		},
+		"Base Ship": {
+			"frName": "Vaisseau-mère",
+			"frDescription": "<p><strong>Compartiments annexes</strong> illimit&eacute;s ; un vaisseau-m&egrave;re dont on augmente la largeur ou la longueur peut accueillir plus de compartiments annexes</p>",
+			"frSource": "SM6 p.45"
 		},
 		"Basic computer": {
 			"frName": "Ordinateur de base",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Basic long-range sensors": {
-			"frName": "Détecteurs Longue portée basiques",
-			"frDescription": "",
+			"frName": "Détecteurs longue portée basiques",
 			"frSource": "RDB p.300"
 		},
 		"Basic medium-range sensors": {
-			"frName": "Détecteurs Moyenne portée basiques",
-			"frDescription": "",
+			"frName": "Détecteurs moyenne portée basiques",
 			"frSource": "RDB p.300"
 		},
 		"Basic Shields 10": {
 			"frName": "Boucliers de base 10",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Basic Shields 20": {
 			"frName": "Boucliers de base 20",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Basic Shields 30": {
 			"frName": "Boucliers de base 30",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Basic Shields 40": {
 			"frName": "Boucliers de base 40",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Basic short-range sensors": {
-			"frName": "Détecteurs Courte portée basiques",
-			"frDescription": "",
+			"frName": "Détecteurs courte portée basiques",
 			"frSource": "RDB p.300"
 		},
 		"Battleship": {
 			"frName": "Cuirassé",
-			"frDescription": "",
 			"frSource": "RDB p.296"
+		},
+		"Biocamouflage": {
+			"frName": "Biocamouflage",
+			"frDescription": "<p>Un vaisseau biom&eacute;canique &eacute;quip&eacute; d&rsquo;un syst&egrave;me de biocamouflage peut se faire passer pour un corps c&eacute;leste au lieu d&rsquo;un vaisseau spatial. Si le vaisseau est capable d&rsquo;atterrir, il peut alors se faire passer pour une formation g&eacute;ologique. Pour se faire passer pour l&rsquo;un ou l&rsquo;autre, le vaisseau doit se d&eacute;placer en ligne droite et ne pas virer de bord ou engager une quelconque man&oelig;uvre qu&rsquo;un corps c&eacute;leste ne pourrait pas accomplir. Le DD n&eacute;cessaire pour scanner le vaisseau est alors augment&eacute; de 5. Si le test pass&eacute; pour scanner le vaisseau camoufl&eacute; &eacute;choue, les d&eacute;tecteurs pensent que le vaisseau est un corps c&eacute;leste ou une formation g&eacute;ologique, et un malus de &minus;4 est appliqu&eacute; &agrave; tous les tests suivants qui scannent le vaisseau tant que cette croyance perdure. La ruse est &eacute;vent&eacute;e d&egrave;s que le vaisseau camoufl&eacute; accomplit une man&oelig;uvre ou modifie sa vitesse d&rsquo;une mani&egrave;re impossible pour l&rsquo;objet pour lequel il passe.</p>",
+			"frSource": "AE1 p.149"
 		},
 		"Biometric locks": {
 			"frName": "Verrouillages biométriques",
 			"frDescription": "<p>Les syst&egrave;mes d&rsquo;un vaisseau avec un verrouillage biom&eacute;trique ne peuvent &ecirc;tre utilis&eacute;s que par certaines cr&eacute;atures d&eacute;sign&eacute;es au moment de l&rsquo;installation du dispositif ; cette liste peut &ecirc;tre mise &agrave; jour par quiconque a acc&egrave;s au syst&egrave;me informatique du vaisseau. Un test r&eacute;ussi d&rsquo;Informatique (DD = 20 + 1,5 x l&rsquo;&eacute;chelon du vaisseau) permet de contourner le verrouillage.</p>",
 			"frSource": "RDB p.302"
 		},
+		"Brig": {
+			"frName": "Prison",
+			"frDescription": "<p>Une prison contient les dispositifs et les syst&egrave;mes de s&eacute;curit&eacute; n&eacute;cessaires pour incarc&eacute;rer jusqu&rsquo;&agrave; huit cr&eacute;atures de taille Moyenne.</p>",
+			"frSource": "MDP p.153"
+		},
 		"Budget long-range sensors": {
-			"frName": "Détecteurs Longue portée économiques",
-			"frDescription": "",
+			"frName": "Détecteurs longue portée économiques",
 			"frSource": "RDB p.300"
 		},
 		"Budget medium-range sensors": {
-			"frName": "Détecteurs Moyenne portée économiques",
-			"frDescription": "",
+			"frName": "Détecteurs moyenne portée économiques",
 			"frSource": "RDB p.300"
 		},
 		"Budget short-range sensors": {
-			"frName": "Détecteurs Courte portée économiques",
-			"frDescription": "",
+			"frName": "Détecteurs courte portée économiques",
 			"frSource": "RDB p.300"
 		},
 		"Bulk Freighter": {
 			"frName": "Vraquier",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"C4 thrusters": {
 			"frName": "Propulseurs C4",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"C6 thrusters": {
 			"frName": "Propulseurs C6",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"C8 thrusters": {
 			"frName": "Propulseurs C8",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Cargo hold": {
@@ -158,7 +155,6 @@
 		},
 		"Carrier": {
 			"frName": "Porte-Engins",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Chain cannon": {
@@ -168,7 +164,6 @@
 		},
 		"Coilgun": {
 			"frName": "Canon magnétique",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Common crew quarters": {
@@ -181,25 +176,45 @@
 			"frDescription": "<p>Quand un adversaire tente de pirater les ordinateurs d&rsquo;un vaisseau et qu&rsquo;il &eacute;choue, il peut &ecirc;tre soumis aux effets d&rsquo;&eacute;ventuelles contre-mesures. L&rsquo;&eacute;quipage peut installer une des contre-mesures d&eacute;crites page 217, en suivant les r&egrave;gles normales qui s&rsquo;y rapportent. Chaque contre-mesure co&ucirc;te un nombre de points de construction &eacute;gal &agrave; l&rsquo;&eacute;chelon de l&rsquo;ordinateur du vaisseau (la moiti&eacute; de l&rsquo;&eacute;chelon du vaisseau ; voir page 299).</p>",
 			"frSource": "RDB p.302"
 		},
+		"Connecting tendril": {
+			"frName": "Vrille liante",
+			"frSource": "AE1 p.151"
+		},
 		"Cruiser": {
 			"frName": "Cruiser",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Cut-rate sensors": {
-			"frName": "Détecteurs Au rabais",
-			"frDescription": "",
+			"frName": "Détecteurs au rabais",
 			"frSource": "RDB p.300"
+		},
+		"Data Net": {
+			"frName": "Réseau de données",
+			"frDescription": "<p>Les vaisseaux aballoniens sont dot&eacute;s de r&eacute;seaux de communications complexes qui leur permettent de partager les donn&eacute;es de leurs d&eacute;tecteurs et les donn&eacute;es tactiques. Un vaisseau doit poss&eacute;der ce syst&egrave;me pour pouvoir &ecirc;tre connect&eacute; &agrave; un r&eacute;seau de donn&eacute;es. Une fois connect&eacute;, il doit rester dans la zone de longue port&eacute;e du vaisseau le plus proche s&rsquo;il veut rester en contact avec le r&eacute;seau.</p> <p>Les vaisseaux connect&eacute;s &agrave; un r&eacute;seau de donn&eacute;es d&eacute;terminent la port&eacute;e de leurs d&eacute;tecteurs en comptant les hexagones entre leur cible et n&rsquo;importe quel autre vaisseau qui est connect&eacute; au vaisseau. En outre, si n&rsquo;importe lequel des vaisseaux connect&eacute;s au r&eacute;seau de donn&eacute;es r&eacute;ussit un scan, un ciblage syst&egrave;me ou une action contre une cible, tous les autres vaisseaux connect&eacute;s au r&eacute;seau partagent cette information et les bonus qui y sont li&eacute;s. Si le vaisseau prenait pour cible un syst&egrave;me, seul le premier &eacute;tat critique est appliqu&eacute; au syst&egrave;me cibl&eacute;. Les bonus de verrouillage ne se cumulent pas. Ces bonus partag&eacute;s persistent, m&ecirc;me si le vaisseau qui a effectu&eacute; l&rsquo;action qui les a d&eacute;clench&eacute;s est d&eacute;truit ou neutralis&eacute;.</p>",
+			"frSource": "MDP p.152"
+		},
+		"Decoy husk": {
+			"frName": "Tégument leurre",
+			"frDescription": "<p>Le leurre peut &ecirc;tre d&eacute;ploy&eacute; par un membre de l&rsquo;&eacute;quipage comme action d&rsquo;&eacute;quipage pendant la phase de man&oelig;uvres. Un vaisseau observateur qui &eacute;choue &agrave; un test d&rsquo;Informatique pour scanner le vaisseau d&eacute;ployeur et son leurre (DD = 10 + bonus d&rsquo;Informatique du membre de l&rsquo;&eacute;quipage d&eacute;ployant le leurre) n&rsquo;est pas capable de diff&eacute;rencier les deux. Cela &eacute;tant, ce scan peut &ecirc;tre r&eacute;it&eacute;r&eacute; &agrave; chaque nouvelle phase de man&oelig;uvre. Le leurre adopte une trajectoire d&rsquo;&eacute;vasion d&eacute;finie par le membre de l&rsquo;&eacute;quipage l&rsquo;ayant d&eacute;ploy&eacute; et se d&eacute;place &agrave; la vitesse de son vaisseau d&rsquo;origine. Il g&eacute;n&egrave;re une quantit&eacute; de points de boucliers &eacute;gale &agrave; son co&ucirc;t en points de construction. Quand ils sont scann&eacute;s, ces boucliers miment ceux du vaisseau d&rsquo;origine. Le leurre ne peut pas attaquer et poss&egrave;de une quantit&eacute; de points de structure &eacute;gale &agrave; 20 % de ceux du vaisseau qui l&rsquo;a d&eacute;ploy&eacute;.</p> <p>Un t&eacute;gument leurre peut &eacute;galement &ecirc;tre utilis&eacute; comme arme. S&rsquo;il p&eacute;n&egrave;tre dans l&rsquo;hexagone d&rsquo;un autre vaisseau, un membre de l&rsquo;&eacute;quipage du vaisseau d&eacute;ployeur peut faire un test de Canonnage contre l&rsquo;IV de la cible. Sur une r&eacute;ussite, le leurre explose et inflige une quantit&eacute; de d&eacute;g&acirc;ts d&eacute;termin&eacute;s par sa taille (Petite : 5d8 ; Moyenne : 5d10 ; Grande : 10d8 ; Tr&egrave;s grande : 2d6 &times; 10 ; Colossale : 2d8 &times; 10.) En cas d&rsquo;&eacute;chec, le leurre est quand m&ecirc;me d&eacute;truit dans l&rsquo;explosion.</p>",
+			"frSource": "AE1 p.150"
+		},
+		"Dendritic interface": {
+			"frName": "Interface dendritique",
+			"frDescription": "<p>Ce syst&egrave;me unique est une innovation des raxilites. Il permet &agrave; quatre membres de l&rsquo;&eacute;quipage d&rsquo;un vaisseau biom&eacute;canique de connecter leur syst&egrave;me nerveux aux filaments dendritiques de l&rsquo;ordinateur de bord. La majorit&eacute; des vaisseaux biom&eacute;caniques ont une r&eacute;action empathique (<em>Les Mondes du Pacte</em> p.152), mais la connexion r&eacute;alis&eacute;e par une interface dendritique permet une bien meilleure communication, que l&rsquo;on pourrait comparer &agrave; une t&eacute;l&eacute;pathie limit&eacute;e entre les membres de l&rsquo;&eacute;quipage connect&eacute; et l&rsquo;ordinateur. Il faut &agrave; un membre d&rsquo;&eacute;quipage 1 round de combat spatial pour se connecter &agrave; l&rsquo;interface dendritique et il doit s&rsquo;agir de sa seule action lors de ce round. Quand un membre d&rsquo;&eacute;quipage est connect&eacute;, il peut r&eacute;duire les malus des actions d&rsquo;&eacute;quipage de 2. En outre, un ing&eacute;nieur connect&eacute; gagne un bonus de +2 &agrave; ses actions maintenir l&rsquo;int&eacute;grit&eacute;, bricolage et rafistolage rapide, ainsi qu&rsquo;&agrave; ses tests pour r&eacute;parer les syst&egrave;mes hors des phases de combat spatial.</p>",
+			"frSource": "AE1 p.149"
 		},
 		"Destroyer": {
 			"frName": "Destroyer",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Dreadnought": {
 			"frName": "Dreadnought",
-			"frDescription": "",
 			"frSource": "RDB p.296"
+		},
+		"Drift booster": {
+			"frName": "Lanceur Drift",
+			"frDescription": "<p>Quelques compartiments annexes ne sont disponibles que pour les vaisseaux de taille Sc.</p> <p>Un lanceur Drift est une sorte de rampe permettant de lancer des vaisseaux plus petits dans le @Compendium[sfrpg.setting.nb5A5e7HqTnvVjtX]{Drift} &agrave; partir du hangar d&rsquo;un vaisseau de taille Sc. Un vaisseau plus petit propuls&eacute; de cette mani&egrave;re peut temporairement augmenter son coefficient @Compendium[sfrpg.setting.nb5A5e7HqTnvVjtX]{Drift} de 1 point. Cette augmentation dure tout le temps que le vaisseau plus petit demeure dans le @Compendium[sfrpg.setting.nb5A5e7HqTnvVjtX]{Drift} et sur la m&ecirc;me trajectoire apr&egrave;s avoir &eacute;t&eacute; propuls&eacute; avec le lanceur @Compendium[sfrpg.setting.nb5A5e7HqTnvVjtX]{Drift}. Si le vaisseau modifie sa trajectoire ou quitte le @Compendium[sfrpg.setting.nb5A5e7HqTnvVjtX]{Drift}, cette augmentation temporaire cesse.</p>",
+			"frSource": "SM6 p.47"
 		},
 		"Escape pods": {
 			"frName": "Capsule de sauvetage",
@@ -208,13 +223,15 @@
 		},
 		"Explorer": {
 			"frName": "Explorateur",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Fighter": {
 			"frName": "Chasseur",
-			"frDescription": "",
 			"frSource": "RDB p.295"
+		},
+		"Flak spores": {
+			"frName": "Lance-spores",
+			"frSource": "AE1 p.151"
 		},
 		"Flak thrower (+8)": {
 			"frName": "Canon de défense rapprochée (+8)",
@@ -223,32 +240,26 @@
 		},
 		"G4 thrusters": {
 			"frName": "Propulseurs Gig4",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"G6 thrusters": {
 			"frName": "Propulseurs Gig6",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"G8 thrusters": {
 			"frName": "Propulseurs Gig8",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Gateway Heavy": {
 			"frName": "Portail lourd",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Gateway Light": {
 			"frName": "Portail léger",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Gateway Ultra": {
 			"frName": "Micron ultra",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Good crew quarters": {
@@ -283,22 +294,18 @@
 		},
 		"H10 thrusters": {
 			"frName": "Propulseurs TG10",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"H4 thrusters": {
 			"frName": "Propulseurs TG4",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"H6 thrusters": {
 			"frName": "Propulseurs TG6",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"H8 thrusters": {
 			"frName": "Propulseurs TG8",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Hanger bay": {
@@ -311,14 +318,26 @@
 			"frDescription": "[Cadence limitée]",
 			"frSource": "RDB p.303"
 		},
+		"Heavy carrion-missile launcher": {
+			"frName": "Lance-missiles charogne lourd",
+			"frSource": "SM6 p.49"
+		},
+		"Heavy cytoplasm launcher": {
+			"frName": "Lance-cytoplasme lourd",
+			"frDescription": "<p>Les bio-ing&eacute;nieurs audacieux peuvent r&eacute;cup&eacute;rer le cytoplasme d&rsquo;un protozoaire stellaire d&eacute;truit et en faire une arme embarqu&eacute;e, en utilisant les ordinateurs du vaisseau pour simuler les ordres que le noyau envoie &agrave; la substance amorphe. Si les PJ vainquent un protozoaire, un test de Sciences de la vie DD 20 r&eacute;ussi leur permet de r&eacute;cup&eacute;rer suffisamment de cytoplasme pour ajouter l&rsquo;une des armes suivantes &agrave; un vaisseau spatiale quand le groupe disposera de suffisamment de points de construction pour cela. Le MJ peut &eacute;galement rendre ces armes disponibles sur le march&eacute; libre.</p>",
+			"frSource": "XA2 p.105"
+		},
 		"Heavy EMP cannon": {
 			"frName": "Canon IEM lourd",
 			"frDescription": "[IEM]",
 			"frSource": "RDB p.302"
 		},
+		"Heavy flak spores": {
+			"frName": "Lance-spores lourd",
+			"frSource": "AE1 p.151"
+		},
 		"Heavy Freighter": {
 			"frName": "Vaisseau Cargo Lourd",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Heavy laser array": {
@@ -328,7 +347,6 @@
 		},
 		"Heavy laser cannon": {
 			"frName": "Canon laser lourd",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Heavy laser net (+12)": {
@@ -348,33 +366,31 @@
 		},
 		"Heavy Shields 240": {
 			"frName": "Boucliers lourds 240",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Heavy Shields 280": {
 			"frName": "Boucliers lourds 280",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Heavy Shields 320": {
 			"frName": "Boucliers lourds 320",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Heavy Shields 360": {
 			"frName": "Boucliers lourds 360",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Heavy Shields 420": {
 			"frName": "Boucliers lourds 420",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Heavy Shields 480": {
 			"frName": "Boucliers lourds 480",
-			"frDescription": "",
 			"frSource": "RDB p.297"
+		},
+		"Heavy spore torpedo launcher": {
+			"frName": "Lance-torpilles à spores lourd",
+			"frSource": "MDP p.153"
 		},
 		"Heavy torpedo launcher": {
 			"frName": "Lance-torpilles lourd",
@@ -391,29 +407,39 @@
 			"frDescription": "[Cadence limitée]",
 			"frSource": "RDB p.302"
 		},
+		"Hive Bay": {
+			"frName": "Alvéole",
+			"frDescription": "<p>Les vaisseaux capitaux x&eacute;no-protecteurs peuvent lancer des vaisseaux-gousse (voir page 162) qui font alors office de navettes ou de vaisseaux &agrave; courte port&eacute;e. Un alv&eacute;ole peut lancer jusqu&rsquo;&agrave; deux vaisseaux-gousse. Pour chaque gousse ainsi lanc&eacute;e, le vaisseauarche perd 15 points de structures et subit un malus de -2 &agrave; sa CA et &agrave; son IV, et toutes les actions d&rsquo;&eacute;quipage subissent &eacute;galement un malus de -2. Tant que le vaisseau capital poss&egrave;de un emplacement inoccup&eacute; dans une alv&eacute;ole, il peut absorber un nouveau vaisseau-gousse pour regagner ses points de structure et annuler ces p&eacute;nalit&eacute;s. Si la gousse qui revient au vaisseau capital est endommag&eacute;e, celui-ci regagne ses points de structure, moins 1 point par tranche de 2 points de d&eacute;g&acirc;ts subis par le vaisseau-gousse. Cependant, les malus sont annul&eacute;s, quel que soit l&rsquo;&eacute;tat du vaisseau-gousse.</p>",
+			"frSource": "MDP p.153"
+		},
+		"Hive joining": {
+			"frName": "Formation en grappe",
+			"frDescription": "<p>Les vaisseaux-gousses des X&eacute;no-protecteurs (voir page 162) ont la capacit&eacute; de fusionner afin de former un vaisseau de plus grande taille. Il faut pour cela que huit vaisseaux-gousses s&rsquo;&laquo; amarrent &raquo; les uns aux autres tout en maintenant une orbite proche d&rsquo;une &eacute;toile, dans la mesure o&ugrave; le processus met leurs batteries solaires &agrave; rude &eacute;preuve. Au cours des 24 heures qui suivent, les vaisseaux fusionnent pour former un vaisseau-arche x&eacute;no-protecteur (voir page 163). L&rsquo;&eacute;quipage de chacune des gousses passe ce temps &agrave; m&eacute;diter et &agrave; communier avec l&rsquo;esprit de leur vaisseau, afin de le guider pour qu&rsquo;il se joigne aux autres et ne forme plus avec eux qu&rsquo;un seul esprit. Tout d&eacute;g&acirc;t subi par l&rsquo;un de ces vaisseaux lors de ce processus a des cons&eacute;quences catastrophiques qui peuvent entra&icirc;ner la destruction des huit gousses.</p> <p>En outre, un vaisseau-gousse dot&eacute; de ce syst&egrave;me peut s&rsquo;amarrer &agrave; un vaisseau-arche si celui-ci poss&egrave;de un emplacement de libre dans son alv&eacute;ole. Selon ce que d&eacute;cident le vaisseau et son pilote, cet arrangement peut &ecirc;tre temporaire ou permanent. Si l&rsquo;amarrage a pour vocation d&rsquo;&ecirc;tre permanent, il faut 1 heure &agrave; la gousse pour fusionner avec le vaisseau-arche.</p>",
+			"frSource": "MDP p.152"
+		},
+		"Hydroponic Garden": {
+			"frName": "Jardin hydroponique",
+			"frDescription": "<p>Cet espace est occup&eacute; par un jardin autosuffisant, qui recycle l&rsquo;oxyg&egrave;ne, produit de la nourriture et poss&egrave;de des lumi&egrave;res favorisant la croissance des plantes. Un jardin hydroponique occupe deux compartiments annexes et peut produire assez de nourriture pour subvenir aux besoins de 10 cr&eacute;atures de taille Moyenne pour une dur&eacute;e illimit&eacute;e, m&ecirc;me si le reste du vaisseau ne fonctionne pas &agrave; pleine puissance ou que son propulseur est d&eacute;sactiv&eacute;. Il est possible de connecter plusieurs jardins hydroponiques afin de cr&eacute;er un immense jardin spatial.</p>",
+			"frSource": "MDP p.153"
+		},
 		"Interceptor": {
 			"frName": "Intercepteur",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"L10 thrusters": {
 			"frName": "Propulseurs G10",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"L4 thrusters": {
 			"frName": "Propulseurs G4",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"L6 thrusters": {
 			"frName": "Propulseurs G6",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"L8 thrusters": {
 			"frName": "Propulseurs G8",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Laser net (+10)": {
@@ -421,10 +447,24 @@
 			"frDescription": "[SDR (+10)]",
 			"frSource": "RDB p.302"
 		},
+		"Launch Tubes": {
+			"frName": "Tubes de lancement",
+			"frDescription": "<p>Con&ccedil;us pour &ecirc;tre install&eacute;s sur des vaisseaux de tailles Moyenne et Grande, ces tubes permettent &agrave; un vaisseau de transporter un autre vaisseau plus petit qui pourra &ecirc;tre lanc&eacute; au d&eacute;but de la Phase man&oelig;uvre. Un tube de lancement occupe deux compartiments annexes et peut abriter un vaisseau de Tr&egrave;s Petite taille. Si un vaisseau a besoin de s&rsquo;amarrer &agrave; un tube de lancement pendant un combat, il peut tenter de le faire &agrave; la fin de la Phase man&oelig;uvre, mais il doit pour cela r&eacute;ussir un test de pilotage DD 10, sachant qu&rsquo;il est affect&eacute; par un malus de -1 pour chaque hexagone qu&rsquo;il a parcouru au cours de ce round. Sur un &eacute;chec, le petit vaisseau n&rsquo;arrive pas &agrave; s&rsquo;amarrer au grand.</p>",
+			"frSource": "MDP p.153"
+		},
 		"Life boats": {
 			"frName": "Nacelles de sauvetage",
 			"frDescription": "<p>Une nacelle de sauvetage est une version plus sophistiqu&eacute;e que la capsule. Elle peut accueillir une cr&eacute;ature de taille G ou deux cr&eacute;atures de taille M ou plus petites. Elle contient suffisamment de provisions pour pouvoir survivre pendant 15 jours (ou 30 jours pour une seule cr&eacute;ature de taille M ou plus petite). Bien qu&rsquo;elle soit &eacute;quip&eacute;e du m&ecirc;me type de balise de d&eacute;tresse qu&rsquo;une capsule de sauvetage, une nacelle dispose &eacute;galement d&rsquo;un ordinateur int&eacute;gr&eacute; qui d&eacute;tecte automatiquement le corps c&eacute;leste hospitalier le plus proche et de petits propulseurs pour s&rsquo;y rendre (la nacelle ne peut participer &agrave; un combat spatial). Un m&ecirc;me compartiment annexe peut &ecirc;tre converti en deux nacelles de sauvetage.</p>",
 			"frSource": "RDB p.299"
+		},
+		"Light carrion-missile launcher": {
+			"frName": "Lance-missiles charogne léger",
+			"frSource": "SM6 p.49"
+		},
+		"Light cytoplasm launcher": {
+			"frName": "Lance-cytoplasme léger",
+			"frDescription": "<p>Les bio-ing&eacute;nieurs audacieux peuvent r&eacute;cup&eacute;rer le cytoplasme d&rsquo;un protozoaire stellaire d&eacute;truit et en faire une arme embarqu&eacute;e, en utilisant les ordinateurs du vaisseau pour simuler les ordres que le noyau envoie &agrave; la substance amorphe. Si les PJ vainquent un protozoaire, un test de Sciences de la vie DD 20 r&eacute;ussi leur permet de r&eacute;cup&eacute;rer suffisamment de cytoplasme pour ajouter l&rsquo;une des armes suivantes &agrave; un vaisseau spatiale quand le groupe disposera de suffisamment de points de construction pour cela. Le MJ peut &eacute;galement rendre ces armes disponibles sur le march&eacute; libre.</p>",
+			"frSource": "XA2 p.105"
 		},
 		"Light EMP cannon": {
 			"frName": "Canon IEM léger",
@@ -432,23 +472,19 @@
 			"frSource": "RDB p.302"
 		},
 		"Light Freighter": {
-			"frName": "Vaisseau Cargo",
-			"frDescription": "",
+			"frName": "Vaisseau cargo",
 			"frSource": "RDB p.295"
 		},
 		"Light laser cannon": {
 			"frName": "Canon laser léger",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Light particle beam": {
 			"frName": "Faisceau à particules léger",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Light plasma cannon": {
 			"frName": "Canon à plasma léger",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Light plasma torpedo launcher": {
@@ -458,27 +494,26 @@
 		},
 		"Light Shields 50": {
 			"frName": "Boucliers légers 50",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Light Shields 60": {
 			"frName": "Boucliers légers 60",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Light Shields 70": {
 			"frName": "Boucliers légers 70",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Light Shields 80": {
 			"frName": "Boucliers légers 80",
-			"frDescription": "",
 			"frSource": "RDB p.297"
+		},
+		"Light spore torpedo launcher": {
+			"frName": "Lance-torpilles à spores léger",
+			"frSource": "MDP p.153"
 		},
 		"Light torpedo launcher": {
 			"frName": "Lance-torpilles léger",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Luxurious crew quarters": {
@@ -488,37 +523,30 @@
 		},
 		"M10 thrusters": {
 			"frName": "Propulseurs M10",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"M12 thrusters": {
 			"frName": "Propulseurs M12",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"M4 thrusters": {
 			"frName": "Propulseurs M4",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"M6 thrusters": {
 			"frName": "Propulseurs M6",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"M8 thrusters": {
 			"frName": "Propulseurs M8",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Maser": {
 			"frName": "Maser",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Mass driver": {
 			"frName": "Catapulte électromagnétique",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Medical bay": {
@@ -528,28 +556,27 @@
 		},
 		"Medium Shields 100": {
 			"frName": "Boucliers moyens 100",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Medium Shields 120": {
 			"frName": "Boucliers moyens 120",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Medium Shields 160": {
 			"frName": "Boucliers moyens 160",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Medium Shields 200": {
 			"frName": "Boucliers moyens 200",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Medium Shields 90": {
 			"frName": "Boucliers moyens 90",
-			"frDescription": "",
 			"frSource": "RDB p.297"
+		},
+		"Mega carrion-missile launcher": {
+			"frName": "Méga lance-missiles charogne",
+			"frSource": "SM6 p.49"
 		},
 		"Micromissile battery": {
 			"frName": "Batterie micro-missiles",
@@ -558,322 +585,270 @@
 		},
 		"Micron Heavy": {
 			"frName": "Micron lourd",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Micron Light": {
 			"frName": "Micron léger",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Micron Ultra": {
-			"frName": "Micron Ultra",
-			"frDescription": "",
+			"frName": "Micron ultra",
 			"frSource": "RDB p.296"
+		},
+		"Mining laser": {
+			"frName": "Laser minier",
+			"frSource": "MDP p.153"
 		},
 		"Mk 1 armor": {
 			"frName": "Blindage mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 1 defenses": {
 			"frName": "Défenses mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 1 duonode": {
 			"frName": "Duonode mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 1 mononode": {
 			"frName": "Mononode mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 1 tetranode": {
 			"frName": "Tetranode mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 1 trinode": {
 			"frName": "Trinode mk 1",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 10 armor": {
 			"frName": "Blindage mk 10",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 10 defenses": {
 			"frName": "Défenses mk 10",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 10 duonode": {
 			"frName": "Duonode mk 10",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 10 mononode": {
 			"frName": "Mononode mk 10",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 11 armor": {
 			"frName": "Blindage mk 11",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 11 defenses": {
 			"frName": "Défenses mk 11",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 12 armor": {
 			"frName": "Blindage mk 12",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 12 defenses": {
 			"frName": "Défenses mk 12",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 13 armor": {
 			"frName": "Blindage mk 13",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 13 defenses": {
 			"frName": "Défenses mk 13",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 14 armor": {
 			"frName": "Blindage mk 14",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 14 defenses": {
 			"frName": "Défenses mk 14",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 15 armor": {
 			"frName": "Blindage mk 15",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 15 defenses": {
 			"frName": "Défenses mk 15",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 2 armor": {
 			"frName": "Blindage mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 2 defenses": {
 			"frName": "Défenses mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 2 duonode": {
 			"frName": "Duonode mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 2 mononode": {
 			"frName": "Mononode mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 2 tetranode": {
 			"frName": "Tetranode mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 2 trinode": {
 			"frName": "Trinode mk 2",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 3 armor": {
 			"frName": "Blindage mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 3 defenses": {
 			"frName": "Défenses mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 3 duonode": {
 			"frName": "Duonode mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 3 mononode": {
 			"frName": "Mononode mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 3 tetranode": {
 			"frName": "Tetranode mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 3 trinode": {
 			"frName": "Trinode mk 3",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 4 armor": {
 			"frName": "Blindage mk 4",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 4 defenses": {
 			"frName": "Défenses mk 4",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 4 duonode": {
 			"frName": "Duonode mk 4",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 4 mononode": {
 			"frName": "Mononode mk 4",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 4 trinode": {
 			"frName": "Trinode mk 4",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 5 armor": {
 			"frName": "Blindage mk 5",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 5 defenses": {
 			"frName": "Défenses mk 5",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 5 duonode": {
 			"frName": "Duonode mk 5",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 5 mononode": {
 			"frName": "Mononode mk 5",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 5 trinode": {
 			"frName": "Trinode mk 5",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 6 armor": {
 			"frName": "Blindage mk 6",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 6 defenses": {
 			"frName": "Défenses mk 6",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 6 duonode": {
 			"frName": "Duonode mk 6",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 6 mononode": {
 			"frName": "Mononode mk 6",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 7 armor": {
 			"frName": "Blindage mk 7",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 7 defenses": {
 			"frName": "Défenses mk 7",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 7 duonode": {
 			"frName": "Duonode mk 7",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 7 mononode": {
 			"frName": "Mononode mk 7",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 8 armor": {
 			"frName": "Blindage mk 8",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 8 defenses": {
 			"frName": "Défenses mk 8",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 8 duonode": {
 			"frName": "Duonode mk 8",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 8 mononode": {
 			"frName": "Mononode mk 8",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 9 armor": {
 			"frName": "Blindage mk 9",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Mk 9 defenses": {
 			"frName": "Défenses mk 9",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Mk 9 duonode": {
 			"frName": "Duonode mk 9",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Mk 9 mononode": {
 			"frName": "Mononode mk 9",
-			"frDescription": "",
 			"frSource": "RDB p.300"
+		},
+		"Negative-energy cannon": {
+			"frName": "Canon à énergie négative",
+			"frSource": "SM6 p.49"
+		},
+		"Negative-energy gun": {
+			"frName": "Canon léger à énergie négative",
+			"frSource": "SM6 p.49"
 		},
 		"Nova Heavy": {
 			"frName": "Nova lourd",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Nova Light": {
 			"frName": "Nova léger",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Nova Ultra": {
 			"frName": "Nova ultra",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Nuclear mega-missile launcher": {
@@ -881,14 +856,17 @@
 			"frDescription": "[Cadence limitée]",
 			"frSource": "RDB p.303"
 		},
+		"Oma": {
+			"frName": "Oma",
+			"frDescription": "<p><strong>R&eacute;sistance au Drift (Ext).</strong> Le corps d&rsquo;une oma doit &ecirc;tre sp&eacute;cialement adapt&eacute; afin de permettre le voyage par Drift. Installer un propulseur Drift sur une oma fait augmenter le co&ucirc;t de ce propulseur de 50 %.</p>",
+			"frSource": "XA1 p.93"
+		},
 		"Particle beam": {
 			"frName": "Faisceau à particules",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Particle beam cannon": {
 			"frName": "Canon à particules",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Passenger seating": {
@@ -898,17 +876,19 @@
 		},
 		"Persistent particle beam": {
 			"frName": "Faisceau à particules persistantes",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Persistent particle beam cannon": {
 			"frName": "Canon à particules persistantes",
-			"frDescription": "",
 			"frSource": "RDB p.303"
+		},
+		"Pheromone system": {
+			"frName": "Système de phéromones",
+			"frDescription": "<p>Un vaisseau biom&eacute;canique peut rel&acirc;cher des hormones apaisantes afin d&rsquo;aider l&rsquo;&eacute;quipage &agrave; se ma&icirc;triser dans les situations stressantes. Ce syst&egrave;me conf&egrave;re au capitaine un bonus d&rsquo;intuition de +2 lorsqu&rsquo;il accomplit les actions d&rsquo;&eacute;quipage suivantes : instruction, encouragement, commandement et inspiration. Ces ph&eacute;romones peuvent &eacute;galement affecter les cr&eacute;atures qui montent sur le vaisseau et elles conf&egrave;rent ainsi un bonus d&rsquo;intuition de +2 aux tests de Diplomatie contre ces cr&eacute;atures. Cela dit, on consid&egrave;re qu&rsquo;il est contraire &agrave; l&rsquo;&eacute;thique d&rsquo;utiliser ces ph&eacute;romones sur des cr&eacute;atures qui ne sont pas inform&eacute;es ou consentantes. Une cr&eacute;ature doit r&eacute;ussir un test de Sciences de la vie, M&eacute;decine, ou Psychologie DD 20 pour remarquer les modifications comportementales caus&eacute;es par un syst&egrave;me de ph&eacute;romones et en d&eacute;terminer l&rsquo;origine. Les cr&eacute;atures immunis&eacute;es contre les poisons ou les effets mentaux sont &eacute;galement immunis&eacute;es contre les ph&eacute;romones.</p>",
+			"frSource": "AE1 p.149"
 		},
 		"Plasma cannon": {
 			"frName": "Canon à plasma",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Power core housing": {
@@ -918,47 +898,38 @@
 		},
 		"Pulse Black": {
 			"frName": "Pulsion noir",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Blue": {
 			"frName": "Pulsion bleu",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Brown": {
 			"frName": "Pulsion brun",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Gray": {
 			"frName": "Pulsion gris",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Green": {
 			"frName": "Pulsion vert",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Orange": {
 			"frName": "Pulsion orange",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Prismatic": {
 			"frName": "Pulsion prismatique",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse Red": {
 			"frName": "Pulsion rouge",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Pulse White": {
 			"frName": "Pulsion blanc",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Quantum missile launcher": {
@@ -968,17 +939,14 @@
 		},
 		"Racer": {
 			"frName": "Traceur",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Railgun": {
 			"frName": "Canon électrique",
-			"frDescription": "",
 			"frSource": "RDB p.302"
 		},
 		"Reconfiguration System": {
 			"frName": "Reconfiguration System",
-			"frDescription": "",
 			"frSource": "RDB p.299"
 		},
 		"Recreation suite (gym)": {
@@ -996,24 +964,30 @@
 			"frDescription": "<p>Une salle de d&eacute;tente contient le n&eacute;cessaire pour aider un &eacute;quipage (ou des passagers) &agrave; se d&eacute;tendre et &agrave; &eacute;vacuer la pression. Ces salles peuvent &ecirc;tre diff&eacute;rentes les unes des autres et consommer plus ou moins d&rsquo;UE (voir table page 299). Il peut s&rsquo;agir, par exemple, d&rsquo;une salle o&ugrave; l&rsquo;on peut faire de la gymnastique, des arts martiaux ou toute autre activit&eacute; sportive ; une salle de projection trivid&eacute;o ou tout autre endroit confortable o&ugrave; l&rsquo;on peut se livrer &agrave; un loisir passif ; une salle de loisir holographique (ou SLH), une salle de jeux vid&eacute;o ou toute autre activit&eacute; de loisir interactif de haute technologie.</p>",
 			"frSource": "RDB p.299"
 		},
+		"Recycling System": {
+			"frName": "Système de recyclage",
+			"frDescription": "<p>Quelques compartiments annexes ne sont disponibles que pour les vaisseaux de taille Sc.</p> <p>Un syst&egrave;me de recyclage permet &agrave; un vaisseau de taille Sc d&rsquo;&ecirc;tre presque autosuffisant, capable d&rsquo;op&eacute;rer de mani&egrave;re autonome pendant des dizaines d&rsquo;ann&eacute;es ou m&ecirc;me des si&egrave;cles. Une combinaison d&rsquo;incin&eacute;rateurs, de fonderies, de processeurs de biomasse, d&rsquo;usines et de convertisseurs de BPU permet au vaisseau de convertir presque tous ses d&eacute;chets en biens et mat&eacute;riaux.</p>",
+			"frSource": "SM6 p.47"
+		},
+		"Root System": {
+			"frName": "Système racinaire",
+			"frDescription": "<p>Un vaisseau biom&eacute;canique doit g&eacute;n&eacute;ralement se trouver &agrave; proximit&eacute; d&rsquo;une &eacute;toile afin de pouvoir utiliser ses fonctions d&rsquo;autor&eacute;paration (<em>Les Mondes du Pacte</em> p.152). Le syst&egrave;me racinaire permet de s&rsquo;affranchir de cette n&eacute;cessit&eacute;. Un vaisseau qui poss&egrave;de un syst&egrave;me racinaire peut en effet prendre racine sur une plan&egrave;te, un ast&eacute;ro&iuml;de ou un autre corps c&eacute;- leste afin d&rsquo;y puiser les mat&eacute;riaux et l&rsquo;&eacute;nergie n&eacute;cessaires pour activer son autor&eacute;paration. Les plus grands vaisseaux peuvent m&ecirc;me utiliser leur syst&egrave;me racinaire pour transporter une telle source de mat&eacute;riaux avec eux. Si le MJ le permet, de telles ressources permettent g&eacute;n&eacute;ralement aux syst&egrave;mes d&rsquo;autor&eacute;parations de fonctionner normalement.</p>",
+			"frSource": "AE1 p.150"
+		},
 		"S10 thrusters": {
 			"frName": "Propulseurs P10",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"S12 thrusters": {
 			"frName": "Propulseurs P12",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"S6 thrusters": {
 			"frName": "Propulseurs P6",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"S8 thrusters": {
 			"frName": "Propulseurs P8",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Science lab": {
@@ -1033,7 +1007,6 @@
 		},
 		"Shuttle": {
 			"frName": "Navette",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Shuttle bay": {
@@ -1043,27 +1016,22 @@
 		},
 		"Signal Basic": {
 			"frName": "Signal basique",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Signal Booster": {
 			"frName": "Signal amplifié",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Signal Major": {
 			"frName": "Signal majeur",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Signal Superior": {
 			"frName": "Signal supérieur",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Signal Ultra": {
 			"frName": "Signal ultra",
-			"frDescription": "",
 			"frSource": "RDB p.300"
 		},
 		"Smuggler compartment": {
@@ -1076,14 +1044,22 @@
 			"frDescription": "[Cadence limitée]",
 			"frSource": "RDB p.303"
 		},
+		"Statikete": {
+			"frName": "Statikété",
+			"frDescription": "<p><strong>Dispersion IEM (Ext).</strong> Quand un vaisseau construit avec une armature de statik&eacute;t&eacute; est touch&eacute; par une arme IEM, il r&eacute;duit de moiti&eacute; (arrondir &agrave; l&rsquo;inf&eacute;rieur) la dur&eacute;e de l&rsquo;effet de l&rsquo;arme jusqu&rsquo;&agrave; un minimum de 0 round.</p>",
+			"frSource": "AE1 p.193"
+		},
 		"Super EMP cannon": {
 			"frName": "Super canon IEM",
 			"frDescription": "[IEM]",
 			"frSource": "RDB p.303"
 		},
+		"Super negative-energy cannon": {
+			"frName": "Super canon à énergie négative ",
+			"frSource": "SM6 p.49"
+		},
 		"Super plasma cannon": {
 			"frName": "Super canon à plasma",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Super X-laser cannon": {
@@ -1098,22 +1074,18 @@
 		},
 		"Superior Shields 540": {
 			"frName": "Boucliers supérieurs 540",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Superior Shields 600": {
 			"frName": "Boucliers supérieurs 600",
-			"frDescription": "",
 			"frSource": "RDB p.297"
 		},
 		"Superlaser": {
 			"frName": "Super laser",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Supermaser": {
 			"frName": "Super maser",
-			"frDescription": "",
 			"frSource": "RDB p.303"
 		},
 		"Synthesis Bay": {
@@ -1123,33 +1095,33 @@
 		},
 		"T10 thrusters": {
 			"frName": "Propulseurs TP10",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"T12 thrusters": {
 			"frName": "Propulseurs TP12",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"T14 thrusters": {
 			"frName": "Propulseurs TP14",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"T6 thrusters": {
 			"frName": "Propulseurs TP6",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"T8 thrusters": {
 			"frName": "Propulseurs TP8",
-			"frDescription": "",
 			"frSource": "RDB p.296"
 		},
 		"Tactical nuclear missile launcher": {
 			"frName": "Lance-missiles nucléaires tactiques",
 			"frDescription": "[Cadence limitée] [irradiante (faible)]",
 			"frSource": "RDB p.302"
+		},
+		"Tactical Sensor Tank": {
+			"frName": "Dispositif de coordination tactique (DCT)",
+			"frDescription": "<p>Quelques compartiments annexes ne sont disponibles que pour les vaisseaux de taille Sc.</p> <p>Un dispositif de coordination tactique (DCT) permet &agrave; un vaisseau de taille Sc de coordonner les donn&eacute;es des d&eacute;tecteurs de plusieurs appareils d&rsquo;escorte en une image unique de l&rsquo;espace environnant puis de transmettre ces informations &agrave; chaque vaisseau. Les officiers scientifiques peuvent utiliser le DCT pour relier entre eux les d&eacute;tecteurs de n&rsquo;importe quel nombre de vaisseaux alli&eacute;s &agrave; port&eacute;e du vaisseau &eacute;quip&eacute; de ce dispositif. La port&eacute;e de d&eacute;- tection pour tous les vaisseaux coordonn&eacute;s s&rsquo;&eacute;tend aussi loin que les possibilit&eacute;s de d&eacute;tection de n&rsquo;importe lequel de ces vaisseaux puisque le DCT collecte les donn&eacute;es de tous les vaisseaux, met en corr&eacute;lation toutes les informations au sujet des probables cibles d&eacute;tect&eacute;es et renvoie ces donn&eacute;es &agrave; tous les vaisseaux.</p>",
+			"frSource": "SM6 p.46"
 		},
 		"Tech workshop": {
 			"frName": "Atelier",
@@ -1158,13 +1130,21 @@
 		},
 		"Transport": {
 			"frName": "Transporteur",
-			"frDescription": "",
 			"frSource": "RDB p.295"
 		},
 		"Twin laser": {
 			"frName": "Double-laser",
-			"frDescription": "",
 			"frSource": "RDB p.302"
+		},
+		"Ultranought": {
+			"frName": "Ultranought",
+			"frDescription": "<p><strong>Compartiments annexes</strong> illimit&eacute;s ; un ultranought dont on augmente la largeur ou la longueur peut accueillir plus de compartiments annexes.</p>",
+			"frSource": "SM6 p.45"
+		},
+		"Vermelith": {
+			"frName": "Vermelith",
+			"frDescription": "<p><strong>Encro&ucirc;tement (Ext).</strong> Un vermelith peut s&rsquo;enrouler sur lui-m&ecirc;me et, par le biais d&rsquo;un processus durant 6 h, exsuder une couche rocheuse ressemblant &agrave; une ast&eacute;ro&iuml;de. Un vermelith encro&ucirc;t&eacute; ne peut entreprendre aucune action, mais il augmente sa CA et son IV de 5, et son SD de 10. Une cr&eacute;ature qui r&eacute;ussit un test de Mysticisme DD 28 peut identifier un vermelith encro&ucirc;t&eacute; comme une cr&eacute;ature. Un vermelith peut rester encro&ucirc;t&eacute; ind&eacute;finiment. S&rsquo;il se r&eacute;veille pendant un combat spatial, un vermelith jaillit hors de sa cro&ucirc;te pendant la phase d&rsquo;ing&eacute;nierie et agit normalement.</p> <p><strong>Engloutir un vaisseau (Ext).</strong> Si un vermelith retient en place un vaisseau plus petit que lui, il peut l&rsquo;engloutir en r&eacute;ussissant une attaque de morsure contre lui. Le gosier d&rsquo;un vermelith peut contenir un navire de Grande taille, deux navires de taille Moyenne, quatre navires de Petite taille ou huit navires de Tr&egrave;s Petite taille. Un vermelith peut ex&eacute;cuter une action pendant la phase de canonnage pour &eacute;craser des vaisseaux qu&rsquo;il a engloutis et leur infliger 4d6 d&eacute;g&acirc;ts (r&eacute;partissez ces d&eacute;g&acirc;ts &eacute;quitablement entre tous les arcs, en commen&ccedil;ant par l&rsquo;arc de proue et en continuer en sens horaire) et en appliquant la propri&eacute;t&eacute; sp&eacute;ciale IEM. Un vaisseau englouti demeure en mesure d&rsquo;attaquer. L&rsquo;int&eacute;rieur du vermelith a CA 21, IV 18 et SD 0. Cela dit, les armes des vaisseaux spatiaux infligent la moiti&eacute; de leurs d&eacute;g&acirc;ts &agrave; leur propre vaisseau, &agrave; cause de la combinaison des ricochets et des r&eacute;actions physiques du vermelith. Si un vaisseau englouti inflige 50 d&eacute;g&acirc;ts &agrave; l&rsquo;int&eacute;rieur du vermelith, le vaisseau perce un trou dans la cr&eacute;ature suffisamment grand pour tenter de l&rsquo;utiliser pour s&rsquo;&eacute;chapper. Pendant la Phase man&oelig;uvre, le pilote d&rsquo;un vaisseau englouti peut tenter de s&rsquo;&eacute;chapper par un test de Pilotage (DD 28, ou DD 33 si le vermelith ne pr&eacute;sente aucun trou). En cas d&rsquo;&eacute;chec, le vaisseau spatial demeure &agrave; l&rsquo;int&eacute;rieur du vermelith.</p> <p><strong>Fouet caudal (Ext).</strong> Un vermelith ne peut utiliser son fouet caudal que contre un vaisseau spatial dans un hexagone adjacent. Cette attaque a la propri&eacute;t&eacute; sp&eacute;ciale &eacute;ventreuse.</p> <p><strong>Morsure (Ext).</strong> Un vermelith peut utiliser sa morsure contre un vaisseau situ&eacute; dans un hexagone adjacent. Si cette attaque inflige des d&eacute;g&acirc;ts &agrave; un vaisseau de la taille du vermelith ou plus petit, ce dernier peut immobiliser son adversaire. Le pilote du vaisseau mordu peut utiliser une action pour effectuer un test de Pilotage DD 28 pour tenter de se lib&eacute;rer des m&acirc;choires. Tant qu&rsquo;il tient un vaisseau spatial entre ses m&acirc;choires, le vermelith ne peut pas se d&eacute;placer, virer ou utiliser son faisceau gravitationnel, mais il peut proc&eacute;der &agrave; des attaques caudales ou tenter de mordre ou d&rsquo;engloutir le m&ecirc;me vaisseau. Le vermelith et le vaisseau qu&rsquo;il immobilise subissent un malus de &minus;2 &agrave; la CA et l&rsquo;IV ainsi qu&rsquo;aux tests de Pilotage pour d&eacute;terminer l&rsquo;ordre de d&eacute;placement en combat spatial.</p> <p><strong>R&eacute;sistance extr&ecirc;me (Ext).</strong> Un vermelith re&ccedil;oit un bonus de +4 &agrave; la CA contre les armes de tir direct qui ont la propri&eacute;t&eacute; sp&eacute;ciale IEM ou utilisent la gravit&eacute;, et son IV contre ces armes passe &agrave; 15. Un vermelith re&ccedil;oit un bonus de +5 aux tests de Pilotage qu&rsquo;il effectue &agrave; cause de la gravit&eacute;, comme par exemple quand il tente d&rsquo;&eacute;chapper &agrave; un rayon tracteur.</p> <p><strong>Vaisseau vivant (Ext).</strong> Un vermelith est une cr&eacute;ature vivante qui ne peut s&rsquo;engager que dans un combat spatial. Il n&rsquo;a pas d&rsquo;&eacute;quipage, mais il peut tout de m&ecirc;me entreprendre des actions d&rsquo;ing&eacute;nieur, d&rsquo;artilleur et de pilote en utilisant les bonus de comp&eacute;tence, les rangs et le niveau indiqu&eacute; dans la section Actions d&rsquo;&eacute;quipage ci-dessus. Les modificateurs de taille, de vitesse et de man&oelig;uvrabilit&eacute; sont d&eacute;j&agrave; pris en compte dans ses statistiques. Utilisez la table ci-dessous que le vermelith subit des d&eacute;g&acirc;ts critiques. Le cerveau du vermelith ne peut pas subir l&rsquo;&eacute;tat d&eacute;truit.</p>",
+			"frSource": "XA2 p.130"
 		},
 		"Vortex cannon": {
 			"frName": "Canon vortex",
