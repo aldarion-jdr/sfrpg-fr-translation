@@ -1,5 +1,5 @@
 <p align="center">
-<a href='https://paizo.com/starfinder'><img src="https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png" width='128' height='128' border='none'></a>
+<a href='https://paizo.com/starfinder'><img src="https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png" border='none'></a>
 </p>
 
 Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
