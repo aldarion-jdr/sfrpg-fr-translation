@@ -4,11 +4,13 @@
 
 Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
 C'est grâce à leur travail que les licences de Paizo sont disponibles dans la langue de Molière : un grand merci à eux !
-<p align="center">
-<a href='https://foundryvtt.com'><img src="https://foundryvtt.wiki/fvtt-solid-512.png" width='128' height='128' border='none'></a>
-<div style="display:block;" width="100px"></div>
-<a href='https://www.black-book-editions.fr'><img src="https://www.black-book-editions.fr/contenu/image/Tony/Fichier%2018BBES.png" width='128' height='128' border='none'></a>
-</p>
+<table align="center">
+<tr>
+<td><a href='https://foundryvtt.com'><img src="https://foundryvtt.wiki/fvtt-solid-512.png" width='128' height='128' border='none'></a></td>
+<td width="100">&nbsp;</td>
+<td><a href='https://www.black-book-editions.fr'><img src="https://www.black-book-editions.fr/contenu/image/Tony/Fichier%2018BBES.png" width='128' height='128' border='none'></a></td>
+<tr>
+</table>
 
 # sfrpg-fr-translation - FoundryVTT
 This module is the French translation for the Starfinder system [(sfrpg)](https://foundryvtt.com/packages/sfrpg), based on translation from [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448).
