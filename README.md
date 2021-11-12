@@ -46,7 +46,7 @@ Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés d
 * Sorts *items*
 * Thèmes *items*
 * Véhicules *acteurs*
-* Vaisseaux - *acteurs*
+* Vaisseaux *acteurs*
 * Vaisseaux - Actions *items*
 * Vaisseaux - Composants *items*
 
