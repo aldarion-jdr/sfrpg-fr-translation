@@ -4,7 +4,7 @@
 
 Retrouvez sur le site de [Black Book Editions](https://www.black-book-editions.fr/catalogue.php?id=448), les Règles, Suppléments et Aventures de Starfinder en français aux formats livre ou PDF !
 C'est grâce à leur travail que les licences de Paizo sont disponibles dans la langue de Molière : un grand merci à eux !
-<table align="center" style="border:0">
+<table align="center" cellspacing="0" cellpadding="0">
 <tr>
 <td><a href='https://foundryvtt.com'><img src="https://foundryvtt.wiki/fvtt-solid-512.png" width='128' height='128' border='none'></a></td>
 <td width="150">&nbsp;</td>
