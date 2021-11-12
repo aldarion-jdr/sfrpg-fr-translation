@@ -2,7 +2,7 @@
   "name": "sfrpg-fr-translation",
   "title": "Starfinder - Traduction en Français",
   "description": "Module de traduction du système Starfinder en Français, basé sur Babele.",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "minimumCoreVersion" : "0.7.1",
   "compatibleCoreVersion": "1.0.2",
   "author": "AbyssLoup, Aldarion, Arthenius, Requiem0123 and Temvaryen",
