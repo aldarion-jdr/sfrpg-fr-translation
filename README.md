@@ -38,6 +38,7 @@ Une fois les modules `Babele` et `sfrpg-fr-translation` installés et activés d
 * Cadre *journaux*
 * Classes *items*
 * Classes - Aptitudes *items*
+* Compétences *articles de journal*
 * Dons *items*
 * Equipement *items*
 * Etats *items*
