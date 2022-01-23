@@ -4,7 +4,7 @@
   "description": "Module de traduction du système Starfinder en Français, basé sur Babele.",
   "version": "1.0.2",
   "minimumCoreVersion" : "0.7.1",
-  "compatibleCoreVersion": "1.2.2",
+  "compatibleCoreVersion": "9",
   "author": "AbyssLoup, Aldarion, Arthenius, Ksi, Requiem0123 and Temvaryen",
   "dependencies": [
 	{
