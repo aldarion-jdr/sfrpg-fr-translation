@@ -237,6 +237,26 @@
 			"frDescription": "<p>Bien qu&rsquo;elle ressemble &agrave; une longue poign&eacute;e d&rsquo;&eacute;p&eacute;e quand elle est inactive, l&rsquo;aile d&rsquo;ange doit son nom au d&eacute;gagement non confin&eacute; de plasma qui, quand elle est mani&eacute;e, d&eacute;crit une tra&icirc;n&eacute;e en forme d&rsquo;arc. L&rsquo;arme est appr&eacute;ci&eacute;e des fid&egrave;les de Sarenrae qui sont fiers de ma&icirc;triser l&rsquo;art sophistiqu&eacute; de son maniement. Les ailes d&rsquo;ange de type movanique ont des lames plus sombres, presque comme des ombres ; celles de type monadique &eacute;mettent des tra&icirc;n&eacute;es de plasma dor&eacute;es et celles de type astral br&ucirc;lent comme si elles &eacute;taient chauff&eacute;es &agrave; blanc.</p>",
 			"frSource": "ARS p.10"
 		},
+		"Antibiotic, Tier 1": {
+			"frName": "Antibiotique, échelon 1",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DataListOtherItems_ctl00_LabelName\">Les antibiotiques aident les patients &agrave; combattre les maladies. Quand vous prenez des antibiotiques, ou qu&rsquo;on vous en injecte, vous gagnez un bonus (&eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament) &agrave; vos jets de sauvegarde contre les maladies pendant un nombre de jours &eacute;gal &agrave; 2 &times; l&rsquo;&eacute;chelon de l&rsquo;antibiotique. </span></p>",
+			"frSource": "GOP p.126"
+		},
+		"Antibiotic, Tier 2": {
+			"frName": "Antibiotique, échelon 2",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DataListOtherItems_ctl00_LabelName\">Les antibiotiques aident les patients &agrave; combattre les maladies. Quand vous prenez des antibiotiques, ou qu&rsquo;on vous en injecte, vous gagnez un bonus (&eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament) &agrave; vos jets de sauvegarde contre les maladies pendant un nombre de jours &eacute;gal &agrave; 2 &times; l&rsquo;&eacute;chelon de l&rsquo;antibiotique. </span></p>",
+			"frSource": "GOP p.126"
+		},
+		"Antibiotic, Tier 3": {
+			"frName": "Antibiotique, échelon 3",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DataListOtherItems_ctl00_LabelName\">Les antibiotiques aident les patients &agrave; combattre les maladies. Quand vous prenez des antibiotiques, ou qu&rsquo;on vous en injecte, vous gagnez un bonus (&eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament) &agrave; vos jets de sauvegarde contre les maladies pendant un nombre de jours &eacute;gal &agrave; 2 &times; l&rsquo;&eacute;chelon de l&rsquo;antibiotique. </span></p>",
+			"frSource": "GOP p.126"
+		},
+		"Antibiotic, Tier 4": {
+			"frName": "Antibiotique, échelon 4",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DataListOtherItems_ctl00_LabelName\">Les antibiotiques aident les patients &agrave; combattre les maladies. Quand vous prenez des antibiotiques, ou qu&rsquo;on vous en injecte, vous gagnez un bonus (&eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament) &agrave; vos jets de sauvegarde contre les maladies pendant un nombre de jours &eacute;gal &agrave; 2 &times; l&rsquo;&eacute;chelon de l&rsquo;antibiotique. </span></p>",
+			"frSource": "GOP p.126"
+		},
 		"Antiemetic, Tier 1": {
 			"frName": "Antiémétique, niveau 1",
 			"frDescription": "<p>Un anti&eacute;m&eacute;tique agit contre les vomissements et les naus&eacute;es en stoppant les sympt&ocirc;mes de maladies ou en am&eacute;liorant la r&eacute;ponse de votre corps &agrave; son environnement. Quand vous avalez, ou qu&rsquo;on vous injecte, un anti&eacute;m&eacute;tique, vous gagnez un bonus (&eacute;gal au niveau du m&eacute;dicament) &agrave; vos jets de sauvegarde pour &eacute;viter d&rsquo;&ecirc;tre naus&eacute;eux ou fi&eacute;vreux pendant 10 minutes par niveau du m&eacute;dicament. Si vous souffrez de l&rsquo;un de ces &eacute;tats en prenant le m&eacute;dicament et que l&rsquo;effet accorde un jet de sauvegarde pour l&rsquo;annuler, l&rsquo;anti&eacute;m&eacute;tique vous permet de tenter imm&eacute;diatement un nouveau jet de sauvegarde.</p>",
@@ -1020,6 +1040,31 @@
 			"frDescription": "<p>Une gourde peut &ecirc;tre en plastique ou en m&eacute;tal et contenir jusqu&rsquo;&agrave; 2 litres de liquide.</p>",
 			"frSource": "ARS p.129"
 		},
+		"Capture pole, apprehension-class": {
+			"frName": "Bâton de contention, classe capture",
+			"frDescription": "<p>Con&ccedil;u pour ressembler &agrave; une ancienne arme ant&eacute;rieure &agrave; la Faille et utilis&eacute;e pour appr&eacute;hender des prisonniers de guerre, un b&acirc;ton de contention est constitu&eacute; d&rsquo;une arme d&rsquo;hast prolong&eacute;e d&rsquo;une t&ecirc;te robotique &agrave; deux m&acirc;choires qui se referment quand l&rsquo;extr&eacute;mit&eacute; de l&rsquo;arme est appuy&eacute;e contre une cible au cours d&rsquo;une attaque. Pr&eacute;vue pour se refermer autour du cou d&rsquo;une cr&eacute;ature, chaque dent de l&rsquo;arme est dot&eacute;e de seringues perforantes pour injecter une substance &agrave; la cible, g&eacute;n&eacute;ralement un s&eacute;datif pour faciliter sa capture. Cela se produit avec un jet d&rsquo;attaque r&eacute;ussi au cours d&rsquo;une attaque au corps &agrave; corps ou d&rsquo;une man&oelig;uvre offensive de lutte. Les b&acirc;tons de contention sont tr&egrave;s appr&eacute;ci&eacute;s des drows, qui les utilisent pour capturer des esclaves et discipliner leurs serviteurs orques.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Capture pole, domination-class": {
+			"frName": "Bâton de contention, classe domination",
+			"frDescription": "<p>Con&ccedil;u pour ressembler &agrave; une ancienne arme ant&eacute;rieure &agrave; la Faille et utilis&eacute;e pour appr&eacute;hender des prisonniers de guerre, un b&acirc;ton de contention est constitu&eacute; d&rsquo;une arme d&rsquo;hast prolong&eacute;e d&rsquo;une t&ecirc;te robotique &agrave; deux m&acirc;choires qui se referment quand l&rsquo;extr&eacute;mit&eacute; de l&rsquo;arme est appuy&eacute;e contre une cible au cours d&rsquo;une attaque. Pr&eacute;vue pour se refermer autour du cou d&rsquo;une cr&eacute;ature, chaque dent de l&rsquo;arme est dot&eacute;e de seringues perforantes pour injecter une substance &agrave; la cible, g&eacute;n&eacute;ralement un s&eacute;datif pour faciliter sa capture. Cela se produit avec un jet d&rsquo;attaque r&eacute;ussi au cours d&rsquo;une attaque au corps &agrave; corps ou d&rsquo;une man&oelig;uvre offensive de lutte. Les b&acirc;tons de contention sont tr&egrave;s appr&eacute;ci&eacute;s des drows, qui les utilisent pour capturer des esclaves et discipliner leurs serviteurs orques.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Capture pole, enforcement-class": {
+			"frName": "Bâton de contention, classe répression",
+			"frDescription": "<p>Con&ccedil;u pour ressembler &agrave; une ancienne arme ant&eacute;rieure &agrave; la Faille et utilis&eacute;e pour appr&eacute;hender des prisonniers de guerre, un b&acirc;ton de contention est constitu&eacute; d&rsquo;une arme d&rsquo;hast prolong&eacute;e d&rsquo;une t&ecirc;te robotique &agrave; deux m&acirc;choires qui se referment quand l&rsquo;extr&eacute;mit&eacute; de l&rsquo;arme est appuy&eacute;e contre une cible au cours d&rsquo;une attaque. Pr&eacute;vue pour se refermer autour du cou d&rsquo;une cr&eacute;ature, chaque dent de l&rsquo;arme est dot&eacute;e de seringues perforantes pour injecter une substance &agrave; la cible, g&eacute;n&eacute;ralement un s&eacute;datif pour faciliter sa capture. Cela se produit avec un jet d&rsquo;attaque r&eacute;ussi au cours d&rsquo;une attaque au corps &agrave; corps ou d&rsquo;une man&oelig;uvre offensive de lutte. Les b&acirc;tons de contention sont tr&egrave;s appr&eacute;ci&eacute;s des drows, qui les utilisent pour capturer des esclaves et discipliner leurs serviteurs orques.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Capture pole, imprisonment-class": {
+			"frName": "Bâton de contention, classe emprisonnement",
+			"frDescription": "<p>Con&ccedil;u pour ressembler &agrave; une ancienne arme ant&eacute;rieure &agrave; la Faille et utilis&eacute;e pour appr&eacute;hender des prisonniers de guerre, un b&acirc;ton de contention est constitu&eacute; d&rsquo;une arme d&rsquo;hast prolong&eacute;e d&rsquo;une t&ecirc;te robotique &agrave; deux m&acirc;choires qui se referment quand l&rsquo;extr&eacute;mit&eacute; de l&rsquo;arme est appuy&eacute;e contre une cible au cours d&rsquo;une attaque. Pr&eacute;vue pour se refermer autour du cou d&rsquo;une cr&eacute;ature, chaque dent de l&rsquo;arme est dot&eacute;e de seringues perforantes pour injecter une substance &agrave; la cible, g&eacute;n&eacute;ralement un s&eacute;datif pour faciliter sa capture. Cela se produit avec un jet d&rsquo;attaque r&eacute;ussi au cours d&rsquo;une attaque au corps &agrave; corps ou d&rsquo;une man&oelig;uvre offensive de lutte. Les b&acirc;tons de contention sont tr&egrave;s appr&eacute;ci&eacute;s des drows, qui les utilisent pour capturer des esclaves et discipliner leurs serviteurs orques.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Capture pole, overlord-class": {
+			"frName": "Bâton de contention, classe suzerain",
+			"frDescription": "<p>Con&ccedil;u pour ressembler &agrave; une ancienne arme ant&eacute;rieure &agrave; la Faille et utilis&eacute;e pour appr&eacute;hender des prisonniers de guerre, un b&acirc;ton de contention est constitu&eacute; d&rsquo;une arme d&rsquo;hast prolong&eacute;e d&rsquo;une t&ecirc;te robotique &agrave; deux m&acirc;choires qui se referment quand l&rsquo;extr&eacute;mit&eacute; de l&rsquo;arme est appuy&eacute;e contre une cible au cours d&rsquo;une attaque. Pr&eacute;vue pour se refermer autour du cou d&rsquo;une cr&eacute;ature, chaque dent de l&rsquo;arme est dot&eacute;e de seringues perforantes pour injecter une substance &agrave; la cible, g&eacute;n&eacute;ralement un s&eacute;datif pour faciliter sa capture. Cela se produit avec un jet d&rsquo;attaque r&eacute;ussi au cours d&rsquo;une attaque au corps &agrave; corps ou d&rsquo;une man&oelig;uvre offensive de lutte. Les b&acirc;tons de contention sont tr&egrave;s appr&eacute;ci&eacute;s des drows, qui les utilisent pour capturer des esclaves et discipliner leurs serviteurs orques.</p>",
+			"frSource": "GOP p.124"
+		},
 		"Carbon skin, diamond": {
 			"frName": "Peau carbone, Diamant",
 			"frDescription": "<p>Bien que ces tenues l&eacute;g&egrave;res semblent &ecirc;tre fabriqu&eacute;es avec du tissu rigide, elles sont en fait constitu&eacute;es de fibres de carbone. Les peaux carbones de meilleure qualit&eacute; sont renforc&eacute;es avec des allotropes&nbsp;carbon&eacute;s comme le carbone blanc ou le diamant. L&rsquo;aspect lustr&eacute; de ces fibres t&eacute;moigne du co&ucirc;t &eacute;lev&eacute; de leur fabrication.</p>",
@@ -1092,6 +1137,62 @@
 			"frRangeValue": 12,
 			"frRangeUnits": "meter"
 		},
+		"Caustoject, Decimator": {
+			"frName": "Caustoject, moissonneur",
+			"frDescription": "<p>La majeure partie du concept de ces armes semblables &agrave; des pistolets est bas&eacute;e sur les syst&egrave;mes biologiques de la cat&eacute;gorie d&rsquo;armes l&eacute;g&egrave;res des fouets d&eacute;sint&eacute;grateurs (Arsenal p. 42), bien que l&rsquo;aspect plus traditionnel d&rsquo;un caustoject contraste avec son inspiration techno-organique. Les caustojects g&eacute;n&egrave;rent un champ injectable qui transforme la mati&egrave;re ordinaire en un compos&eacute; acide qui d&eacute;sint&egrave;gre ses cibles de l&rsquo;int&eacute;rieur. On peut charger ces armes avec des seringues afin de permettre l&rsquo;injection d&rsquo;autres substances &agrave; la place de son effet corrosif (auquel cas on applique uniquement l&rsquo;effet de l&rsquo;injection et aucun d&eacute;g&acirc;t d&rsquo;acide n&rsquo;est inflig&eacute;).</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 9,
+			"frRangeUnits": "meter"
+		},
+		"Caustoject, Eradicator": {
+			"frName": "Caustoject, éradicateur",
+			"frDescription": "<p>La majeure partie du concept de ces armes semblables &agrave; des pistolets est bas&eacute;e sur les syst&egrave;mes biologiques de la cat&eacute;gorie d&rsquo;armes l&eacute;g&egrave;res des fouets d&eacute;sint&eacute;grateurs (Arsenal p. 42), bien que l&rsquo;aspect plus traditionnel d&rsquo;un caustoject contraste avec son inspiration techno-organique. Les caustojects g&eacute;n&egrave;rent un champ injectable qui transforme la mati&egrave;re ordinaire en un compos&eacute; acide qui d&eacute;sint&egrave;gre ses cibles de l&rsquo;int&eacute;rieur. On peut charger ces armes avec des seringues afin de permettre l&rsquo;injection d&rsquo;autres substances &agrave; la place de son effet corrosif (auquel cas on applique uniquement l&rsquo;effet de l&rsquo;injection et aucun d&eacute;g&acirc;t d&rsquo;acide n&rsquo;est inflig&eacute;).</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 9,
+			"frRangeUnits": "meter"
+		},
+		"Caustoject, Executioner": {
+			"frName": "Caustoject, exécuteur",
+			"frDescription": "<p>La majeure partie du concept de ces armes semblables &agrave; des pistolets est bas&eacute;e sur les syst&egrave;mes biologiques de la cat&eacute;gorie d&rsquo;armes l&eacute;g&egrave;res des fouets d&eacute;sint&eacute;grateurs (Arsenal p. 42), bien que l&rsquo;aspect plus traditionnel d&rsquo;un caustoject contraste avec son inspiration techno-organique. Les caustojects g&eacute;n&egrave;rent un champ injectable qui transforme la mati&egrave;re ordinaire en un compos&eacute; acide qui d&eacute;sint&egrave;gre ses cibles de l&rsquo;int&eacute;rieur. On peut charger ces armes avec des seringues afin de permettre l&rsquo;injection d&rsquo;autres substances &agrave; la place de son effet corrosif (auquel cas on applique uniquement l&rsquo;effet de l&rsquo;injection et aucun d&eacute;g&acirc;t d&rsquo;acide n&rsquo;est inflig&eacute;).</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 9,
+			"frRangeUnits": "meter"
+		},
+		"Caustoject, Liquidator": {
+			"frName": "Caustoject, liquidateur",
+			"frDescription": "<p>La majeure partie du concept de ces armes semblables &agrave; des pistolets est bas&eacute;e sur les syst&egrave;mes biologiques de la cat&eacute;gorie d&rsquo;armes l&eacute;g&egrave;res des fouets d&eacute;sint&eacute;grateurs (Arsenal p. 42), bien que l&rsquo;aspect plus traditionnel d&rsquo;un caustoject contraste avec son inspiration techno-organique. Les caustojects g&eacute;n&egrave;rent un champ injectable qui transforme la mati&egrave;re ordinaire en un compos&eacute; acide qui d&eacute;sint&egrave;gre ses cibles de l&rsquo;int&eacute;rieur. On peut charger ces armes avec des seringues afin de permettre l&rsquo;injection d&rsquo;autres substances &agrave; la place de son effet corrosif (auquel cas on applique uniquement l&rsquo;effet de l&rsquo;injection et aucun d&eacute;g&acirc;t d&rsquo;acide n&rsquo;est inflig&eacute;).</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 9,
+			"frRangeUnits": "meter"
+		},
+		"Caustolance, Decimator": {
+			"frName": "Caustolance, moissonneur",
+			"frDescription": "<p>Bas&eacute;e sur le m&ecirc;me principe que le caustoject, cette arme plus grande est con&ccedil;ue pour ressembler &agrave; un fusil d&rsquo;assaut au lieu d&rsquo;un simple pistolet. Comme pour le caustoject, une caustolance utilise sa batterie pour g&eacute;n&eacute;rer un champ acide inject&eacute; directement dans ses cibles, mais elle peut aussi &ecirc;tre charg&eacute;e avec d&rsquo;autres substances, qui sont vers&eacute;es dans un r&eacute;servoir sp&eacute;cial fix&eacute; au canon de l&rsquo;arme.</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 18,
+			"frRangeUnits": "meter"
+		},
+		"Caustolance, Eradicator": {
+			"frName": "Caustolance, éradicateur",
+			"frDescription": "<p>Bas&eacute;e sur le m&ecirc;me principe que le caustoject, cette arme plus grande est con&ccedil;ue pour ressembler &agrave; un fusil d&rsquo;assaut au lieu d&rsquo;un simple pistolet. Comme pour le caustoject, une caustolance utilise sa batterie pour g&eacute;n&eacute;rer un champ acide inject&eacute; directement dans ses cibles, mais elle peut aussi &ecirc;tre charg&eacute;e avec d&rsquo;autres substances, qui sont vers&eacute;es dans un r&eacute;servoir sp&eacute;cial fix&eacute; au canon de l&rsquo;arme.</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 18,
+			"frRangeUnits": "meter"
+		},
+		"Caustolance, Executioner": {
+			"frName": "Caustolance, exécuteur",
+			"frDescription": "<p>Bas&eacute;e sur le m&ecirc;me principe que le caustoject, cette arme plus grande est con&ccedil;ue pour ressembler &agrave; un fusil d&rsquo;assaut au lieu d&rsquo;un simple pistolet. Comme pour le caustoject, une caustolance utilise sa batterie pour g&eacute;n&eacute;rer un champ acide inject&eacute; directement dans ses cibles, mais elle peut aussi &ecirc;tre charg&eacute;e avec d&rsquo;autres substances, qui sont vers&eacute;es dans un r&eacute;servoir sp&eacute;cial fix&eacute; au canon de l&rsquo;arme.</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 18,
+			"frRangeUnits": "meter"
+		},
+		"Caustolance, Liquidator": {
+			"frName": "Caustolance, liquidateur",
+			"frDescription": "<p>Bas&eacute;e sur le m&ecirc;me principe que le caustoject, cette arme plus grande est con&ccedil;ue pour ressembler &agrave; un fusil d&rsquo;assaut au lieu d&rsquo;un simple pistolet. Comme pour le caustoject, une caustolance utilise sa batterie pour g&eacute;n&eacute;rer un champ acide inject&eacute; directement dans ses cibles, mais elle peut aussi &ecirc;tre charg&eacute;e avec d&rsquo;autres substances, qui sont vers&eacute;es dans un r&eacute;servoir sp&eacute;cial fix&eacute; au canon de l&rsquo;arme.</p>",
+			"frSource": "GOP p.123",
+			"frRangeValue": 18,
+			"frRangeUnits": "meter"
+		},
 		"Cavitation pistol, hydrodynamic": {
 			"frName": "Pistolet à cavitation, hydrodynamique",
 			"frDescription": "<p>Une s&eacute;rie de broches remplacent le canon de cette arme ; quand on tire avec, une petite sph&egrave;re d&rsquo;&eacute;nergie se forme au milieu avant d&rsquo;&ecirc;tre rapidement propuls&eacute;e vers l&rsquo;avant. Si son utilisateur r&egrave;gle parfaitement son tir, la sph&egrave;re de plasma pulse juste au moment de toucher sa cible infligeant des d&eacute;g&acirc;ts aux cr&eacute;atures proches. Il est cependant tr&egrave;s difficile d&rsquo;obtenir r&eacute;guli&egrave;rement ce r&eacute;sultat. Un pistolet &agrave; cavitation vapeur g&eacute;n&egrave;re une sph&egrave;re tr&egrave;s concentr&eacute;e, tandis que le mod&egrave;le inertiel en cr&eacute;&eacute;e une qui explose &agrave; l&rsquo;impact. Les mod&egrave;les de types hydrodynamique et thermodynamique utilisent des r&eacute;actions plus complexes qui g&eacute;n&egrave;rent des effets significativement plus destructeurs.</p>",
@@ -1134,6 +1235,26 @@
 			"frName": "Armure de cérémonie, Soldat",
 			"frDescription": "<p>Bien que ces armures lourdes constitu&eacute;es de plaques sculpt&eacute;es offrent une bonne protection, leur principale fonction est d&rsquo;impressionner les ennemis. Souvent utilis&eacute;es pour les gardes d&rsquo;honneur, les exercices militaires ou les d&eacute;fil&eacute;s, les armures de c&eacute;r&eacute;monie sont g&eacute;n&eacute;ralement d&eacute;cor&eacute;es de couleurs vives ou constitu&eacute;es de m&eacute;taux brillants avec des casques finement ouvrag&eacute;s.</p>",
 			"frSource": "RDB p.197"
+		},
+		"Cestus pistol, advanced": {
+			"frName": "Pistolet ceste, évolué",
+			"frDescription": "<p>Cette arme est constitu&eacute;e d&rsquo;un gant en cuir noir sur lequel est fix&eacute; un petit m&eacute;canisme de tir &agrave; un coup. Contrairement &agrave; la plupart des armes &agrave; feu, l&rsquo;arme est con&ccedil;ue pour tirer quand une pression s&rsquo;exerce sur son canon, et non gr&acirc;ce &agrave; un m&eacute;canisme de tir classique. En cons&eacute;quence, la port&eacute;e de l&rsquo;arme est limit&eacute;e, puisque l&rsquo;utilisateur doit presser le pistolet ceste contre la cible afin de tirer le projectile.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Cestus pistol, elite": {
+			"frName": "Pistolet ceste, élite",
+			"frDescription": "<p>Cette arme est constitu&eacute;e d&rsquo;un gant en cuir noir sur lequel est fix&eacute; un petit m&eacute;canisme de tir &agrave; un coup. Contrairement &agrave; la plupart des armes &agrave; feu, l&rsquo;arme est con&ccedil;ue pour tirer quand une pression s&rsquo;exerce sur son canon, et non gr&acirc;ce &agrave; un m&eacute;canisme de tir classique. En cons&eacute;quence, la port&eacute;e de l&rsquo;arme est limit&eacute;e, puisque l&rsquo;utilisateur doit presser le pistolet ceste contre la cible afin de tirer le projectile.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Cestus pistol, paragon": {
+			"frName": "Pistolet ceste, paragon",
+			"frDescription": "<p>Cette arme est constitu&eacute;e d&rsquo;un gant en cuir noir sur lequel est fix&eacute; un petit m&eacute;canisme de tir &agrave; un coup. Contrairement &agrave; la plupart des armes &agrave; feu, l&rsquo;arme est con&ccedil;ue pour tirer quand une pression s&rsquo;exerce sur son canon, et non gr&acirc;ce &agrave; un m&eacute;canisme de tir classique. En cons&eacute;quence, la port&eacute;e de l&rsquo;arme est limit&eacute;e, puisque l&rsquo;utilisateur doit presser le pistolet ceste contre la cible afin de tirer le projectile.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Cestus pistol, tactical": {
+			"frName": "Pistolet ceste, tactique",
+			"frDescription": "<p>Cette arme est constitu&eacute;e d&rsquo;un gant en cuir noir sur lequel est fix&eacute; un petit m&eacute;canisme de tir &agrave; un coup. Contrairement &agrave; la plupart des armes &agrave; feu, l&rsquo;arme est con&ccedil;ue pour tirer quand une pression s&rsquo;exerce sur son canon, et non gr&acirc;ce &agrave; un m&eacute;canisme de tir classique. En cons&eacute;quence, la port&eacute;e de l&rsquo;arme est limit&eacute;e, puisque l&rsquo;utilisateur doit presser le pistolet ceste contre la cible afin de tirer le projectile.</p>",
+			"frSource": "GOP p.124"
 		},
 		"Charge Cloak": {
 			"frName": "Cape de charge",
@@ -1567,6 +1688,34 @@
 			"frName": "Lit portable",
 			"frDescription": "<p>Un lit portable est constitu&eacute; d&rsquo;un tissu tr&egrave;s r&eacute;sistant &eacute;tir&eacute; sur une structure en aluminium ou en mat&eacute;riaux composites. Le plier ou le d&eacute;plier demande une action complexe. Un lit portable a un volume de 1 quand il est repli&eacute; et de 3 quand il est d&eacute;pli&eacute;.</p>",
 			"frSource": "ARS p.129"
+		},
+		"Counteractant, Tier 1": {
+			"frName": "Antiviraux, échelon 1",
+			"frDescription": "<p>Cette substance renforce votre syst&egrave;me immunitaire. Quand vous prenez des antiviraux, ou qu&rsquo;on vous en injecte, vous gagnez un bonus &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament &agrave; vos jets de sauvegarde pour mettre un terme &agrave; des @Compendium[sfrpg.rules.JaRMioj4isNp7r1P]{afflictions}, et un jet de sauvegarde r&eacute;ussi compte comme un nombre de jets de sauvegarde cons&eacute;cutifs &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Counteractant, Tier 2": {
+			"frName": "Antiviraux, échelon 2",
+			"frDescription": "<p>Cette substance renforce votre syst&egrave;me immunitaire. Quand vous prenez des antiviraux, ou qu&rsquo;on vous en injecte, vous gagnez un bonus &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament &agrave; vos jets de sauvegarde pour mettre un terme &agrave; des @Compendium[sfrpg.rules.JaRMioj4isNp7r1P]{afflictions}, et un jet de sauvegarde r&eacute;ussi compte comme un nombre de jets de sauvegarde cons&eacute;cutifs &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Counteractant, Tier 3": {
+			"frName": "Antiviraux, échelon 3",
+			"frDescription": "<p>Cette substance renforce votre syst&egrave;me immunitaire. Quand vous prenez des antiviraux, ou qu&rsquo;on vous en injecte, vous gagnez un bonus &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament &agrave; vos jets de sauvegarde pour mettre un terme &agrave; des @Compendium[sfrpg.rules.JaRMioj4isNp7r1P]{afflictions}, et un jet de sauvegarde r&eacute;ussi compte comme un nombre de jets de sauvegarde cons&eacute;cutifs &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Counteractant, Tier 4": {
+			"frName": "Antiviraux, échelon 4",
+			"frDescription": "<p>Cette substance renforce votre syst&egrave;me immunitaire. Quand vous prenez des antiviraux, ou qu&rsquo;on vous en injecte, vous gagnez un bonus &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament &agrave; vos jets de sauvegarde pour mettre un terme &agrave; des @Compendium[sfrpg.rules.JaRMioj4isNp7r1P]{afflictions}, et un jet de sauvegarde r&eacute;ussi compte comme un nombre de jets de sauvegarde cons&eacute;cutifs &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
 		},
 		"Credstick (100 credits)": {
 			"frName": "Creditstick (100 credits)",
@@ -3456,6 +3605,26 @@
 			"frDescription": "<p>Les &eacute;cailles de serpent de verre sont une merveille de l&rsquo;&eacute;volution et peuvent capturer et plier la lumi&egrave;re gr&acirc;ce &agrave; leur structure mol&eacute;culaire unique. En &eacute;corchant simplement un serpent de verre, on obtient une peau jolie mais inutile, car les mouvements des &eacute;cailles et leurs relations aux muscles en dessous sont essentiels &agrave; leur fonctionnement. Quand on les r&eacute;cup&egrave;re et qu&rsquo;on les dispose correctement, les &eacute;cailles peuvent effectivement augmenter l&rsquo;armure ou m&ecirc;me la peau d&rsquo;autres cr&eacute;atures, en conf&eacute;rant &agrave; leur porteur une certaine mesure de l&rsquo;invisibilit&eacute; des serpents. D&eacute;velopp&eacute;e &agrave; l&rsquo;origine par des technomanciens &eacute;oxiens, cette vitrotech fut rapidement imit&eacute;e par les trafiquants d&rsquo;armes drows d&rsquo;Apostae, et de l&agrave; cette technologie s&rsquo;est r&eacute;pandue dans les Mondes du Pacte et au-del&agrave;.</p> <p>Cette modification biotech recouvre votre peau de minuscules &eacute;cailles translucides qui brillent des couleurs de l&rsquo;arc-en-ciel, comme si vous &eacute;tiez recouvert en permanence par une fiche couche de glace ou de verre. Une fois par jour, vous pouvez d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour devenir temporairement invisible (comme avec le sort invisibilit&eacute;) pendant 1 min au maximum.</p>",
 			"frSource": "AA2 p.115"
 		},
+		"Glove needler, advanced": {
+			"frName": "Gant aiguillonneur, évolué",
+			"frDescription": "<p>Dot&eacute; d&rsquo;un m&eacute;canisme de tir fix&eacute; sur la main qui injecte &agrave; une cible un compos&eacute; acide, cette arme ressemble &agrave; un croisement entre un caustoject et un pistolet ceste. Par d&eacute;faut, l&rsquo;arme utilise une batterie miniature pour g&eacute;n&eacute;rer un champ caustique &agrave; injecter dans ses cibles, mais elle peut projeter des seringues contenant d&rsquo;autres substances quand on la charge avec.</p>",
+			"frSource": "GOP p.123"
+		},
+		"Glove needler, elite": {
+			"frName": "Gant aiguillonneur, élite",
+			"frDescription": "<p>Dot&eacute; d&rsquo;un m&eacute;canisme de tir fix&eacute; sur la main qui injecte &agrave; une cible un compos&eacute; acide, cette arme ressemble &agrave; un croisement entre un caustoject et un pistolet ceste. Par d&eacute;faut, l&rsquo;arme utilise une batterie miniature pour g&eacute;n&eacute;rer un champ caustique &agrave; injecter dans ses cibles, mais elle peut projeter des seringues contenant d&rsquo;autres substances quand on la charge avec.</p>",
+			"frSource": "GOP p.123"
+		},
+		"Glove needler, paragon": {
+			"frName": "Gant aiguillonneur, paragon",
+			"frDescription": "<p>Dot&eacute; d&rsquo;un m&eacute;canisme de tir fix&eacute; sur la main qui injecte &agrave; une cible un compos&eacute; acide, cette arme ressemble &agrave; un croisement entre un caustoject et un pistolet ceste. Par d&eacute;faut, l&rsquo;arme utilise une batterie miniature pour g&eacute;n&eacute;rer un champ caustique &agrave; injecter dans ses cibles, mais elle peut projeter des seringues contenant d&rsquo;autres substances quand on la charge avec.</p>",
+			"frSource": "GOP p.123"
+		},
+		"Glove needler, tactical": {
+			"frName": "Gant aiguillonneur, tactique",
+			"frDescription": "<p>Dot&eacute; d&rsquo;un m&eacute;canisme de tir fix&eacute; sur la main qui injecte &agrave; une cible un compos&eacute; acide, cette arme ressemble &agrave; un croisement entre un caustoject et un pistolet ceste. Par d&eacute;faut, l&rsquo;arme utilise une batterie miniature pour g&eacute;n&eacute;rer un champ caustique &agrave; injecter dans ses cibles, mais elle peut projeter des seringues contenant d&rsquo;autres substances quand on la charge avec.</p>",
+			"frSource": "GOP p.123"
+		},
 		"Gluon crystal, greater": {
 			"frName": "Cristal gluonique, supérieur",
 			"frDescription": "<p>Un cristal gluoniques g&eacute;n&egrave;re un champ entropique le long de l&rsquo;arme qui peut provoquer de terribles blessures.</p> <h3>Cristaux de combat solariens (pg. 170)</h3> <p>Un cristal de combat solarien augmente les d&eacute;g&acirc;ts inflig&eacute;s par l&rsquo;arme solaire d&rsquo;un solarien. Ce dernier, par une action simple, peut placer un cristal dans son fragment solaire. Tant qu&rsquo;il s&rsquo;y trouve, le cristal applique ses effets &agrave; chaque fois que ce fragment prend la forme d&rsquo;une arme solaire. On ne peut interagir avec un cristal int&eacute;gr&eacute; au fragment qu&rsquo;avec des capacit&eacute;s qui ciblent sp&eacute;cifiquement ce fragment. Par une action simple, le solarien peut retirer le cristal du fragment et, si ce dernier est d&eacute;sactiv&eacute;, le cristal tombe. On ne peut avoir plus d&rsquo;un cristal ins&eacute;r&eacute; dans un fragment en m&ecirc;me temps.</p> <p>Un cristal de combat ne donne pas la possibilit&eacute; au solarien de cr&eacute;er une arme solaire s&rsquo;il n&rsquo;a pas choisi cette option pour sa manifestation solaire. La plupart de ces cristaux augmentent le nombre de d&eacute;g&acirc;ts inflig&eacute;s par une attaque avec une arme solaire. Ces d&eacute;g&acirc;ts suppl&eacute;mentaires sont g&eacute;n&eacute;ralement du m&ecirc;me type que ceux inflig&eacute;s par l&rsquo;arme solaire (le plus souvent des d&eacute;g&acirc;ts contondants, perforants ou tranchants). Cependant, s&rsquo;il est indiqu&eacute; pour un cristal solarien une abr&eacute;viation apr&egrave;s les d&eacute;g&acirc;ts, les d&eacute;g&acirc;ts suppl&eacute;mentaires inflig&eacute;s sont de ce type.</p> <p>M&ecirc;me si les d&eacute;g&acirc;ts suppl&eacute;mentaires du cristal sont une forme de d&eacute;g&acirc;ts d&rsquo;&eacute;nergie, les attaques avec l&rsquo;arme solaire ciblent toujours la CAC de la cible pas sa CAE. S&rsquo;il est indiqu&eacute; un effet critique pour un cristal solarien, cet effet s&rsquo;applique &agrave; tout coup critique effectu&eacute; avec l&rsquo;arme solaire tant que le cristal est int&eacute;gr&eacute; au fragment solaire.</p> <p>Par exemple, un solarien avec un cristal photonique mineur, et dont l&rsquo;arme solaire inflige des d&eacute;g&acirc;ts de base &eacute;gaux &agrave; 2d6, inflige, quand il touche, 2d6 points de d&eacute;g&acirc;ts contondants, perforants ou tranchants plus 1d6 points de d&eacute;g&acirc;ts de feu.<br />Un cristal solarien est un objet hybride qui m&ecirc;le magie et technologie. Quand un cristal est ins&eacute;r&eacute; dans le fragment solaire et que le solarien utilise ce fragment sous sa forme d&rsquo;arme solaire, cette derni&egrave;re est consid&eacute;r&eacute;e comme magique pour savoir si elle peut surmonter la r&eacute;duction des d&eacute;g&acirc;ts.</p> <ul> <li><strong>Cristaux solariens cass&eacute;s</strong> : si un cristal solarien avec l&rsquo;&eacute;tat cass&eacute; est ins&eacute;r&eacute; dans le fragment solaire d&rsquo;un solarien, ce dernier subit un malus de &ndash;2 &agrave; ses jets d&rsquo;attaque et de d&eacute;g&acirc;ts avec cette arme et elle ne peut infliger d&rsquo;effets critiques suppl&eacute;mentaires tant que le cristal n&rsquo;est pas r&eacute;par&eacute;. En tant qu&rsquo;objet hybride, un cristal solarien peut &ecirc;tre r&eacute;par&eacute; gr&acirc;ce aux sorts r&eacute;paration int&eacute;grale ou r&eacute;paration ou avec les comp&eacute;tences Ing&eacute;nierie ou Mysticisme comme cela est indiqu&eacute; dans le chapitre consacr&eacute; aux comp&eacute;tences.</li> </ul>",
@@ -4599,6 +4768,26 @@
 			"frRangeValue": 6,
 			"frRangeUnits": "meter"
 		},
+		"Knight’s Shield, Advanced": {
+			"frName": "Bouclier de chevalier, évolué",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier de chevalier est une plaque de bonne taille constitu&eacute;e d&rsquo;un mat&eacute;riau &eacute;volu&eacute;, normalement de fines couches de nano carbone recouvrant de la c&eacute;ramique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. Il est plus large au sommet et se resserre vers sa base. La main qui tient&nbsp;un bouclier de chevalier ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier de chevalier, vous gagnez un bonus de +1 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez. Vous pouvez l&rsquo;utiliser pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques et peuvent infliger des d&eacute;g&acirc;ts contondants ou perforants (vous choisissez &agrave; chaque attaque). De nombreux ordres de chevaliers ont un blason sp&eacute;cifique que leurs membres affichent sur leur bouclier.</span></p> <p>Quand vous maniez un bouclier de chevalier basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +2 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers de chevalier de terrain, &eacute;volu&eacute;s et &eacute;lites vous octroient un bonus de bouclier de +1 &agrave; la CA quand vous les maniez et le bonus sup&eacute;rieur indiqu&eacute; quand ils sont align&eacute;s contre un adversaire pr&eacute;cis.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Knight’s Shield, Basic": {
+			"frName": "Bouclier de chevalier, basique",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier de chevalier est une plaque de bonne taille constitu&eacute;e d&rsquo;un mat&eacute;riau &eacute;volu&eacute;, normalement de fines couches de nano carbone recouvrant de la c&eacute;ramique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. Il est plus large au sommet et se resserre vers sa base. La main qui tient&nbsp;un bouclier de chevalier ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier de chevalier, vous gagnez un bonus de +1 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez. Vous pouvez l&rsquo;utiliser pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques et peuvent infliger des d&eacute;g&acirc;ts contondants ou perforants (vous choisissez &agrave; chaque attaque). De nombreux ordres de chevaliers ont un blason sp&eacute;cifique que leurs membres affichent sur leur bouclier.</span></p> <p>Quand vous maniez un bouclier de chevalier basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +2 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers de chevalier de terrain, &eacute;volu&eacute;s et &eacute;lites vous octroient un bonus de bouclier de +1 &agrave; la CA quand vous les maniez et le bonus sup&eacute;rieur indiqu&eacute; quand ils sont align&eacute;s contre un adversaire pr&eacute;cis.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Knight’s Shield, Elite": {
+			"frName": "Bouclier de chevalier, élite",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">A knight’s shield is a sizable plate of advanced material, normally thin layers of nanocarbon over ceramics and resins, and often including a transparent aluminum view port. It is broad at the top, narrowing towards the bottom. A hand wielding a knight’s shield cannot be used for anything else, and changing your grip from carrying a knight’s shield to wielding it, or vice versa, requires a move action. Pulling out a knight’s shield from storage or putting one away also requires a move action. If you are wielding a knight’s shield, you gain a +1 bonus to any bull rush combat maneuver you attempt. You can use a knight’s shield to make unarmed attacks that do not count as archaic, and can deal either bludgeoning or piercing damage (your choice for each attack). Many knightly orders have specific heraldry their members display on knight’s shields.<br></span></p><p><span id=\"ctl00_MainContent_DetailedOutput\">When you wield a basic knight’s shield, as a move action you can align the shield to grant you greater protection against one opponent you are observing, which grants you a +2 shield bonus to AC against attacks from that opponent until the beginning of your next turn. The field, advanced, and elite knight’s shields grant you a +1 shield bonus to AC when wielded, and their listed increased bonus when aligned against a specific opponent.</span></p>",
+			"frSource": "GOP p.125"
+		},
+		"Knight’s Shield, Field": {
+			"frName": "Bouclier de chevalier, de terrain",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">A knight’s shield is a sizable plate of advanced material, normally thin layers of nanocarbon over ceramics and resins, and often including a transparent aluminum view port. It is broad at the top, narrowing towards the bottom. A hand wielding a knight’s shield cannot be used for anything else, and changing your grip from carrying a knight’s shield to wielding it, or vice versa, requires a move action. Pulling out a knight’s shield from storage or putting one away also requires a move action. If you are wielding a knight’s shield, you gain a +1 bonus to any bull rush combat maneuver you attempt. You can use a knight’s shield to make unarmed attacks that do not count as archaic, and can deal either bludgeoning or piercing damage (your choice for each attack). Many knightly orders have specific heraldry their members display on knight’s shields.<br></span></p><p><span id=\"ctl00_MainContent_DetailedOutput\">When you wield a basic knight’s shield, as a move action you can align the shield to grant you greater protection against one opponent you are observing, which grants you a +2 shield bonus to AC against attacks from that opponent until the beginning of your next turn. The field, advanced, and elite knight’s shields grant you a +1 shield bonus to AC when wielded, and their listed increased bonus when aligned against a specific opponent.</span></p>",
+			"frSource": "GOP p.125"
+		},
 		"Knockdown": {
 			"frName": "Renversante",
 			"frDescription": "<p>Avec une fusion renversante, une arme perturbe le centre de gravit&eacute; d&rsquo;une cible. Elle gagne l&rsquo;effet critique renversement (voir page 182). Si l&rsquo;arme dispose d&eacute;j&agrave; d&rsquo;un effet critique, choisissez &agrave; chaque fois lequel des deux vous voulez appliquer. Seules des armes infligeant des d&eacute;g&acirc;ts contondants peuvent b&eacute;n&eacute;ficier de cette fusion.</p>",
@@ -5507,6 +5696,36 @@
 			"frRangeValue": 18,
 			"frRangeUnits": "meter"
 		},
+		"Needler estoc, hyper-pointed": {
+			"frName": "Aiguillonneur d’estoc, hyper pointe",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Needler estoc, master-pointed": {
+			"frName": "Aiguillonneur d’estoc, maître pointe",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Needler estoc, sharp-pointed": {
+			"frName": "Aiguillonneur d’estoc, pointe acérée",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Needler estoc, standard": {
+			"frName": "Aiguillonneur d’estoc, standard",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Needler estoc, supreme-pointed": {
+			"frName": "Aiguillonneur d’estoc, pointe suprême",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Needler estoc, ultra-pointed": {
+			"frName": "Aiguillonneur d’estoc, pointe ultra",
+			"frDescription": "<p>Cette fine lame est con&ccedil;ue pour perforer les points faibles des armures modernes et pour infliger des blessures pr&eacute;cises aux adversaires. L&rsquo;arme est dot&eacute;e d&rsquo;un petit r&eacute;servoir transparent sur sa garde et quand son utilisateur enfonce la lame dans le corps d&rsquo;un adversaire, un m&eacute;canisme &agrave; ressort expulse la substance du r&eacute;servoir, qui parcourt des micro-canalisations dans la lame avant d&rsquo;&ecirc;tre inject&eacute;e dans la cible.</p>",
+			"frSource": "GOP p.124"
+		},
 		"Needler pistol": {
 			"frName": "Pistolet hypodermique",
 			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des toubibs de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. On peut utiliser des munitions contenant soit un m&eacute;dicament, soit du poison.</p>",
@@ -5514,11 +5733,81 @@
 			"frRangeValue": 9,
 			"frRangeUnits": "meter"
 		},
+		"Needler pistol, Advanced": {
+			"frName": "Pistolet hypodermique, évolué",
+			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des m&eacute;decins de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. Cette arme &agrave; injection peut utiliser des cartouches contenant soit un m&eacute;dicament, soit du @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 12,
+			"frRangeUnits": "meter"
+		},
+		"Needler pistol, Elite": {
+			"frName": "Pistolet hypodermique, élite",
+			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des m&eacute;decins de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. Cette arme &agrave; injection peut utiliser des cartouches contenant soit un m&eacute;dicament, soit du @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 12,
+			"frRangeUnits": "meter"
+		},
+		"Needler pistol, Paragon": {
+			"frName": "Pistolet hypodermique, paragon",
+			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des m&eacute;decins de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. Cette arme &agrave; injection peut utiliser des cartouches contenant soit un m&eacute;dicament, soit du @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 12,
+			"frRangeUnits": "meter"
+		},
+		"needler pistol, supreme": {
+			"frName": "Pistolet hypodermique, suprême",
+			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des m&eacute;decins de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. Cette arme &agrave; injection peut utiliser des cartouches contenant soit un m&eacute;dicament, soit du @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 12,
+			"frRangeUnits": "meter"
+		},
+		"Needler pistol, Tactical": {
+			"frName": "Pistolet hypodermique, tactique",
+			"frDescription": "<p>Arme tr&egrave;s appr&eacute;ci&eacute;e des assassins et des m&eacute;decins de terrain, le pistolet hypodermique utilise un champ magn&eacute;tique ou un gaz pressuris&eacute; pour projeter des fl&eacute;chettes qui injectent une substance &agrave; leur cible. Cette arme &agrave; injection peut utiliser des cartouches contenant soit un m&eacute;dicament, soit du @Compendium[sfrpg.rules.aKqRtg165rAly1Cc]{poison}.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 12,
+			"frRangeUnits": "meter"
+		},
 		"Needler rifle": {
 			"frName": "Fusil hypodermique",
 			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de munitions contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
 			"frSource": "RDB p.177",
 			"frRangeValue": 18,
+			"frRangeUnits": "meter"
+		},
+		"Needler rifle, advanced": {
+			"frName": "Fusil hypodermique, évolué",
+			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de cartouches contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 21,
+			"frRangeUnits": "meter"
+		},
+		"Needler rifle, elite": {
+			"frName": "Fusil hypodermique, élite",
+			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de cartouches contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 21,
+			"frRangeUnits": "meter"
+		},
+		"Needler rifle, paragon": {
+			"frName": "Fusil hypodermique, paragon",
+			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de cartouches contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 21,
+			"frRangeUnits": "meter"
+		},
+		"Needler rifle, supreme": {
+			"frName": "Fusil hypodermique, suprême",
+			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de cartouches contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 21,
+			"frRangeUnits": "meter"
+		},
+		"Needler rifle, tactical": {
+			"frName": "Fusil hypodermique, tactique",
+			"frDescription": "<p>Comme le pistolet hypodermique, cette arme peut &ecirc;tre &eacute;quip&eacute;e de cartouches contenant un m&eacute;dicament ou un poison. La port&eacute;e du fusil est beaucoup plus importante que celle du pistolet.</p>",
+			"frSource": "GOP p.124",
+			"frRangeValue": 21,
 			"frRangeUnits": "meter"
 		},
 		"Neural lash, amperometric": {
@@ -6363,6 +6652,36 @@
 			"frRangeValue": 24,
 			"frRangeUnits": "meter"
 		},
+		"Polymorphic serum, Mk 1": {
+			"frName": "Sérum de polymorphie, Mk 1",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
+		"Polymorphic serum, Mk 2": {
+			"frName": "Sérum de polymorphie, Mk 2",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
+		"Polymorphic serum, Mk 3": {
+			"frName": "Sérum de polymorphie, Mk 3",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
+		"Polymorphic serum, Mk 4": {
+			"frName": "Sérum de polymorphie, Mk 4",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
+		"Polymorphic serum, Mk 5": {
+			"frName": "Sérum de polymorphie, Mk 5",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
+		"Polymorphic serum, Mk 6": {
+			"frName": "Sérum de polymorphie, Mk 6",
+			"frDescription": "<p>Ceux qui ne connaissent pas le s&eacute;rum de polymorphie pensent souvent que ce liquide vert n&eacute;on bouillonnant est toxique ou radioactif. Quand il est cr&eacute;&eacute;, un s&eacute;rum de polymorphie est assign&eacute; &agrave; une forme de polymorphie sp&eacute;cifique, comme cela est d&eacute;crit pour un sort de polymorphie du niveau du s&eacute;rum (X&eacute;no-archives 2 p. 145). Toutes les d&eacute;cisions concernant cette forme, telles que d&eacute;terminer s&rsquo;il s&rsquo;agit d&rsquo;une forme g&eacute;n&eacute;rale ou pr&eacute;cise, doivent &ecirc;tre prises au moment de la cr&eacute;ation du s&eacute;rum. Toute cr&eacute;ature qui ing&egrave;re un s&eacute;rum de polymorphie prend la forme qui lui est associ&eacute;e pendant 2 h &times; mk du s&eacute;rum (2 h pour mk 1, 4 h pour mk 2, etc.). Si vous n&rsquo;&ecirc;tes pas consentant pour b&eacute;n&eacute;ficier des effets d&rsquo;un s&eacute;rum de polymorphie (si, par exemple, on vous l&rsquo;injecte avec une arme &agrave; injection), vous pouvez tenter un jet de Vigueur pour annuler ses effets (DD = 10 + 1,5 &times; le niveau d&rsquo;objet). Si vous &eacute;chouez, vous pouvez toujours r&eacute;voquer ses effets comme pour un sort de polymorphie.</p> <p>@Compendium[sfrpg.spells.gNgdSyi4pXQmasmc]{Polymorphie}</p> <h2>S&eacute;rums</h2> <p>Les s&eacute;rums sont des fioles contenant des liquides magiques que vous pouvez avaler par une action simple, injecter avec une arme &agrave; injection ou verser dans la bouche d&rsquo;une cr&eacute;ature sans d&eacute;fense ou inconsciente par une action complexe. Les s&eacute;rums suivants respectent les r&egrave;gles standard des s&eacute;rums (Livre de r&egrave;gles p. 225).</p>",
+			"frSource": "GOP p.126"
+		},
 		"Portable Gangway": {
 			"frName": "Passerelle portable",
 			"frDescription": "<p>Quand elle est activ&eacute;e, cette lourde bo&icirc;te m&eacute;tallique de 30 centim&egrave;tres d&rsquo;ar&ecirc;te se d&eacute;ploie en une passerelle plate de 9 m&egrave;tres de long et de 3 m&egrave;tres de large capable de supporter un poids&nbsp;de 2 tonnes. La passerelle se soutient elle-m&ecirc;me gr&acirc;ce &agrave; des supports qui se d&eacute;ploient automatiquement et la maintiennent en place tant qu&rsquo;il y a un terrain sur lequel la passerelle peut reposer &agrave; au moins une de ses extr&eacute;mit&eacute;s. Quand elle se d&eacute;ploie, elle peut le faire avec un angle de 45&deg; constituant ainsi une rampe plut&ocirc;t qu&rsquo;une passerelle. Elle ne se d&eacute;ploie qu&rsquo;en partie s&rsquo;il n&rsquo;y a pas assez d&rsquo;espace pour toute la passerelle. Avec une action de mouvement, en activant un des dispositifs de contr&ocirc;le situ&eacute;s aux quatre angles de la passerelle, cette derni&egrave;re se replie autour de ce dispositif tant qu&rsquo;il n&rsquo;y a aucun objet ou cr&eacute;ature dessus.</p> <p><strong>Capacit&eacute;&nbsp;</strong>40;&nbsp;<strong>Utilisation&nbsp;</strong>1/utilisation</p>",
@@ -6578,6 +6897,11 @@
 			"frDescription": "<p>Ce compartiment articul&eacute; peut contenir une arme &agrave; une main avec un volume faible au maximum. Vous pouvez activer cette am&eacute;lioration par une action rapide pour prendre en main cet objet comme s&rsquo;il &eacute;tait pr&ecirc;t &agrave; &ecirc;tre utilis&eacute;.</p>",
 			"frSource": "RDB p.206"
 		},
+		"Rad-out serum": {
+			"frName": "Sérum antiradiations",
+			"frDescription": "<p>Ce s&eacute;rum ambr&eacute; et bouillonnant est impr&eacute;gn&eacute; d&rsquo;isotopes sp&eacute;ciaux con&ccedil;us pour absorber les radiations dans un organisme. En l&rsquo;ing&eacute;rant, vous pouvez tenter un nouveau jet de sauvegarde contre tout effet des radiations auquel vous &ecirc;tes soumis. Si vous r&eacute;ussissez, cet effet cesse imm&eacute;diatement. De plus, vous gagnez un bonus d&rsquo;alt&eacute;ration de +4 &agrave; vos jets de sauvegarde contre les radiations pendant 1 h.</p>",
+			"frSource": "GOP p.126"
+		},
 		"Radcannon, electromagnetic": {
 			"frName": "Canon rad, électromagnétique",
 			"frDescription": "<p>Les canons rad sont des armes volumineuses, dangereuses &agrave; manier, g&eacute;n&eacute;ralement employ&eacute;es par des individus d&eacute;sesp&eacute;r&eacute;s, inconscients ou non vivants. Les capaciteurs haut voltage du canon rad canalisent l&rsquo;&eacute;nergie &agrave; travers un magn&eacute;tron et un transformateur pour g&eacute;n&eacute;rer des d&eacute;charges massives d&rsquo;ondes radioactives qui br&ucirc;lent la cible et peut l&rsquo;exposer, ainsi que l&rsquo;utilisateur, &agrave; des niveaux dangereux de radiations. Les fanatiques du culte du D&eacute;voreur, qui se moquent que l&rsquo;arme soit dangereuse, emploient souvent des canons rad &eacute;lectromagn&eacute;tiques, &agrave; neutron et m&ecirc;me &agrave; d&eacute;composition rapide.</p>",
@@ -6718,6 +7042,11 @@
 			"frName": "Ricochet",
 			"frDescription": "<p>La fusion ricochet vous permet de faire rebondir votre attaque contre un mur pour atteindre votre cible. Quand vous effectuez une attaque &agrave; distance, vous pouvez la faire ricocher sur un obstacle solide avant d&rsquo;atteindre sa cible. Vous subissez une p&eacute;nalit&eacute; de -4 au jet d&rsquo;attaque. Vous devez avoir une ligne de vue sur votre cible et cette derni&egrave;re b&eacute;n&eacute;ficie toujours de tout camouflage applicable. Calculez l&rsquo;abri &agrave; partir de l&rsquo;endroit o&ugrave; l&rsquo;attaque a ricoch&eacute;. La fusion emp&ecirc;che tout d&eacute;g&acirc;t contre l&rsquo;obstacle et vous permet de faire rebondir vos tirs avec des angles apparemment impossibles. Vous ne pouvez pas faire rebondir votre tir sur un obstacle que traverserait automatiquement votre arme comme avec une surface transparente pour un laser. Mais vous pouvez faire rebondir votre tir sur une surface que d&eacute;truirait normalement votre attaque. Une arme de jet avec la fusion ricochet et la fusion boomerang revient normalement en rebondissant &agrave; nouveau sur l&rsquo;obstacle pour son trajet de retour. Seules les armes de tir et les armes de jet peuvent b&eacute;n&eacute;ficier de cette fusion.</p>",
 			"frSource": "ARS p.65"
+		},
+		"Regeneration serum": {
+			"frName": "Sérum de régénération",
+			"frDescription": "<p>Cette fiole est remplie d&rsquo;un liquide brun qui semble aussi &eacute;pais que du goudron. Quand vous utilisez un s&eacute;rum de r&eacute;g&eacute;n&eacute;ration, vous choisissez un membre de votre corps qui a &eacute;t&eacute; tranch&eacute; ou un organe qui a &eacute;t&eacute; d&eacute;truit (comme par l&rsquo;effet critique blessure) et vous l&rsquo;injectez gr&acirc;ce &agrave; une seringue dans la r&eacute;gion concern&eacute;e de votre corps. Pendant 24 h apr&egrave;s l&rsquo;injection, vous avez besoin d&rsquo;un jour de nourriture et de fluides par heure (que vous pouvez ing&eacute;rer sans les r&eacute;percutions normales de ce type d&rsquo;exc&egrave;s) ou l&rsquo;effet du s&eacute;rum cesse d&rsquo;agir. Pendant ce temps, votre membre ou votre organe commence &agrave; se r&eacute;g&eacute;n&eacute;rer. Apr&egrave;s 24 h, il est enti&egrave;rement r&eacute;g&eacute;n&eacute;r&eacute; et fonctionnel.</p> <p>Chaque <em>s&eacute;rum de r&eacute;g&eacute;n&eacute;ration</em> ne peut r&eacute;g&eacute;n&eacute;rer qu&rsquo;un seul membre ou organe &agrave; la fois, et vous ne pouvez pas b&eacute;n&eacute;ficier de plusieurs <em>s&eacute;rums de r&eacute;g&eacute;n&eacute;ration</em> en m&ecirc;me temps.</p>",
+			"frSource": "GOP p.126"
 		},
 		"Regeneration Table": {
 			"frName": "Caisson de régénération",
@@ -6984,6 +7313,31 @@
 			"frAreaValue": 7,
 			"frAreaUnits": "meter"
 		},
+		"Riot Shield, Advanced": {
+			"frName": "Bouclier antiémeute, évolué",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier anti&eacute;meute est une grande plaque constitu&eacute;e d&rsquo;un mat&eacute;riau moderne, normalement de fines couches de nano carbone recouvrant du plastique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. La main qui tient un bouclier anti&eacute;meute ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier anti&eacute;meute, vous gagnez un bonus de +2 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez.</span></p> <p>Quand vous maniez ce type de bouclier, il vous octroie un bonus de bouclier de +1 &agrave; la CA. Si vous savez manier un bouclier anti&eacute;meute, en tant qu&rsquo;action de mouvement vous pouvez l&rsquo;aligner contre un adversaire pr&eacute;cis. Cela n&rsquo;augmente pas votre CA, mais permet &agrave; certaines am&eacute;liorations d&rsquo;armures de votre bouclier de fonctionner. Les mod&egrave;les de terrain et &eacute;volu&eacute;s augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier anti&eacute;meute d&rsquo;&eacute;lite accorde un bonus de +3 et le mod&egrave;le parangon un bonus de +4.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Riot Shield, Basic": {
+			"frName": "Bouclier antiémeute, basique",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier anti&eacute;meute est une grande plaque constitu&eacute;e d&rsquo;un mat&eacute;riau moderne, normalement de fines couches de nano carbone recouvrant du plastique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. La main qui tient un bouclier anti&eacute;meute ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier anti&eacute;meute, vous gagnez un bonus de +2 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez.</span></p> <p>Quand vous maniez ce type de bouclier, il vous octroie un bonus de bouclier de +1 &agrave; la CA. Si vous savez manier un bouclier anti&eacute;meute, en tant qu&rsquo;action de mouvement vous pouvez l&rsquo;aligner contre un adversaire pr&eacute;cis. Cela n&rsquo;augmente pas votre CA, mais permet &agrave; certaines am&eacute;liorations d&rsquo;armures de votre bouclier de fonctionner. Les mod&egrave;les de terrain et &eacute;volu&eacute;s augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier anti&eacute;meute d&rsquo;&eacute;lite accorde un bonus de +3 et le mod&egrave;le parangon un bonus de +4.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Riot Shield, Elite": {
+			"frName": "Bouclier antiémeute, élite",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier anti&eacute;meute est une grande plaque constitu&eacute;e d&rsquo;un mat&eacute;riau moderne, normalement de fines couches de nano carbone recouvrant du plastique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. La main qui tient un bouclier anti&eacute;meute ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier anti&eacute;meute, vous gagnez un bonus de +2 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez.</span></p> <p>Quand vous maniez ce type de bouclier, il vous octroie un bonus de bouclier de +1 &agrave; la CA. Si vous savez manier un bouclier anti&eacute;meute, en tant qu&rsquo;action de mouvement vous pouvez l&rsquo;aligner contre un adversaire pr&eacute;cis. Cela n&rsquo;augmente pas votre CA, mais permet &agrave; certaines am&eacute;liorations d&rsquo;armures de votre bouclier de fonctionner. Les mod&egrave;les de terrain et &eacute;volu&eacute;s augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier anti&eacute;meute d&rsquo;&eacute;lite accorde un bonus de +3 et le mod&egrave;le parangon un bonus de +4.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Riot Shield, Field": {
+			"frName": "Bouclier antiémeute, de terrain",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier anti&eacute;meute est une grande plaque constitu&eacute;e d&rsquo;un mat&eacute;riau moderne, normalement de fines couches de nano carbone recouvrant du plastique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. La main qui tient un bouclier anti&eacute;meute ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier anti&eacute;meute, vous gagnez un bonus de +2 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez.</span></p> <p>Quand vous maniez ce type de bouclier, il vous octroie un bonus de bouclier de +1 &agrave; la CA. Si vous savez manier un bouclier anti&eacute;meute, en tant qu&rsquo;action de mouvement vous pouvez l&rsquo;aligner contre un adversaire pr&eacute;cis. Cela n&rsquo;augmente pas votre CA, mais permet &agrave; certaines am&eacute;liorations d&rsquo;armures de votre bouclier de fonctionner. Les mod&egrave;les de terrain et &eacute;volu&eacute;s augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier anti&eacute;meute d&rsquo;&eacute;lite accorde un bonus de +3 et le mod&egrave;le parangon un bonus de +4.</p>",
+			"frSource": "GOP p.125"
+		},
+		"Riot Shield, Paragon": {
+			"frName": "Bouclier antiémeute, paragon",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier anti&eacute;meute est une grande plaque constitu&eacute;e d&rsquo;un mat&eacute;riau moderne, normalement de fines couches de nano carbone recouvrant du plastique et de la r&eacute;sine, et inclut souvent une petite fen&ecirc;tre d&rsquo;observation en aluminium transparent. La main qui tient un bouclier anti&eacute;meute ne peut pas &ecirc;tre utilis&eacute;e pour autre chose, et modifier votre prise pour le manier alors que vous le portez, ou vice versa, n&eacute;cessite une action de mouvement. Retirer un tel bouclier de l&agrave; o&ugrave; il est rang&eacute; ou l&rsquo;y remettre n&eacute;cessite aussi une action de mouvement. Si vous maniez un bouclier anti&eacute;meute, vous gagnez un bonus de +2 &agrave; toute man&oelig;uvre offensive bousculade que vous tentez.</span></p> <p>Quand vous maniez ce type de bouclier, il vous octroie un bonus de bouclier de +1 &agrave; la CA. Si vous savez manier un bouclier anti&eacute;meute, en tant qu&rsquo;action de mouvement vous pouvez l&rsquo;aligner contre un adversaire pr&eacute;cis. Cela n&rsquo;augmente pas votre CA, mais permet &agrave; certaines am&eacute;liorations d&rsquo;armures de votre bouclier de fonctionner. Les mod&egrave;les de terrain et &eacute;volu&eacute;s augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier anti&eacute;meute d&rsquo;&eacute;lite accorde un bonus de +3 et le mod&egrave;le parangon un bonus de +4.</p>",
+			"frSource": "GOP p.125"
+		},
 		"Rocket rifle": {
 			"frName": "Fusil roquette",
 			"frDescription": "<p>Un fusil roquette est une arme longue qui utilise des mini-roquettes comme munitions. L&rsquo;arme et ses munitions sont assez co&ucirc;teuses mais elles offrent une int&eacute;ressante puissance de feu. Ce type d&rsquo;armes a &eacute;t&eacute; tr&egrave;s utilis&eacute; au d&eacute;but de la guerre contre l&rsquo;Essaim, souvent par de courageux soldats envoy&eacute;s pour des missions &agrave; haut risque dans les bastions de l&rsquo;Essaim.</p>",
@@ -7052,6 +7406,34 @@
 			"frSource": "AA1 p.53",
 			"frRangeValue": 30,
 			"frRangeUnits": "meter"
+		},
+		"Sal Volatile, Tier 1": {
+			"frName": "Sel Volatile, échelon 1",
+			"frDescription": "<p>Cette substance vous permet de reprendre rapidement connaissance une fois qu&rsquo;on vous l&rsquo;a inject&eacute;e. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;une perte de points de vie, vous regagnez imm&eacute;diatement un nombre de PV &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;un jet de sauvegarde rat&eacute;, vous pouvez imm&eacute;diatement en effectuer un nouveau contre le m&ecirc;me DD que l&rsquo;effet responsable avec un bonus &eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous r&eacute;ussissez, vous reprenez connaissance.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Sal Volatile, Tier 2": {
+			"frName": "Sel Volatile, échelon 2",
+			"frDescription": "<p>Cette substance vous permet de reprendre rapidement connaissance une fois qu&rsquo;on vous l&rsquo;a inject&eacute;e. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;une perte de points de vie, vous regagnez imm&eacute;diatement un nombre de PV &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;un jet de sauvegarde rat&eacute;, vous pouvez imm&eacute;diatement en effectuer un nouveau contre le m&ecirc;me DD que l&rsquo;effet responsable avec un bonus &eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous r&eacute;ussissez, vous reprenez connaissance.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Sal Volatile, Tier 3": {
+			"frName": "Sel Volatile, échelon 3",
+			"frDescription": "<p>Cette substance vous permet de reprendre rapidement connaissance une fois qu&rsquo;on vous l&rsquo;a inject&eacute;e. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;une perte de points de vie, vous regagnez imm&eacute;diatement un nombre de PV &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;un jet de sauvegarde rat&eacute;, vous pouvez imm&eacute;diatement en effectuer un nouveau contre le m&ecirc;me DD que l&rsquo;effet responsable avec un bonus &eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous r&eacute;ussissez, vous reprenez connaissance.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Sal Volatile, Tier 4": {
+			"frName": "Sel Volatile, échelon 4",
+			"frDescription": "<p>Cette substance vous permet de reprendre rapidement connaissance une fois qu&rsquo;on vous l&rsquo;a inject&eacute;e. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;une perte de points de vie, vous regagnez imm&eacute;diatement un nombre de PV &eacute;gal &agrave; l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous &ecirc;tes @Compendium[sfrpg.conditions.lf8pbezocjYIvR9y]{inconscient} &agrave; cause d&rsquo;un jet de sauvegarde rat&eacute;, vous pouvez imm&eacute;diatement en effectuer un nouveau contre le m&ecirc;me DD que l&rsquo;effet responsable avec un bonus &eacute;gal &agrave; 3 + l&rsquo;&eacute;chelon du m&eacute;dicament. Si vous r&eacute;ussissez, vous reprenez connaissance.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
 		},
 		"Sap, heavy": {
 			"frName": "Assommoir, lourd",
@@ -8871,6 +9253,51 @@
 			"frDescription": "<p>Une arme avec la fusion synesth&eacute;tique porte une trace des &eacute;nergies psychiques des R&ecirc;veurs. Quand vous obtenez un coup critique &agrave; l&rsquo;aide d&rsquo;une arme avec cette fusion, la cible doit r&eacute;ussir un jet de Volont&eacute;, faute de quoi les distinctions entre ses sens commencent &agrave; se brouiller de fa&ccedil;on particuli&egrave;rement d&eacute;stabilisante. Pendant 1d3 rounds, les vitesses de d&eacute;placement de la cr&eacute;ature affect&eacute;e sont r&eacute;duites de moiti&eacute;, et elle subit un malus de &minus;4 &agrave; la CA, aux jets d&rsquo;attaque, aux jets de R&eacute;flexes et aux tests de comp&eacute;tences. Une cr&eacute;ature affect&eacute;e par une arme synesth&eacute;tique est immunis&eacute;e &agrave; cet effet par cette m&ecirc;me arme pendant 24 h. Il s&rsquo;agit d&rsquo;un effet mental. Si l&rsquo;arme a d&eacute;j&agrave; un effet critique, quand vous obtenez un coup critique, vous pouvez choisir d&rsquo;imposer &agrave; la cible l&rsquo;effet critique normal de l&rsquo;arme ou bien son effet synesth&eacute;tique.</p>",
 			"frSource": "AA2 p.111"
 		},
+		"Syringe spear, advanced": {
+			"frName": "Lance à injection, évoluée",
+			"frDescription": "<p>&Agrave; premi&egrave;re vue, cette arme ressemble &agrave; une gigantesque seringue fix&eacute;e sur un long manche, &agrave; peu pr&egrave;s de la taille de celui qui la manie. Un r&eacute;servoir &agrave; une extr&eacute;mit&eacute; de la lance permet de faire circuler une substance dans l&rsquo;arme qui, en cas d&rsquo;attaque r&eacute;ussie, est automatiquement inject&eacute;e dans le corps d&rsquo;un adversaire gr&acirc;ce &agrave; un m&eacute;canisme &agrave; ressort. L&rsquo;origine exacte de cette arme d&eacute;loyale est inconnue, mais certains pr&eacute;tendent que les gris et une c&eacute;l&egrave;bre race de cr&eacute;atures souterraines de Golarion pourraient l&rsquo;avoir mise au point pour des tortures exp&eacute;rimentales.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe spear, elite": {
+			"frName": "Lance à injection, élite",
+			"frDescription": "<p>&Agrave; premi&egrave;re vue, cette arme ressemble &agrave; une gigantesque seringue fix&eacute;e sur un long manche, &agrave; peu pr&egrave;s de la taille de celui qui la manie. Un r&eacute;servoir &agrave; une extr&eacute;mit&eacute; de la lance permet de faire circuler une substance dans l&rsquo;arme qui, en cas d&rsquo;attaque r&eacute;ussie, est automatiquement inject&eacute;e dans le corps d&rsquo;un adversaire gr&acirc;ce &agrave; un m&eacute;canisme &agrave; ressort. L&rsquo;origine exacte de cette arme d&eacute;loyale est inconnue, mais certains pr&eacute;tendent que les gris et une c&eacute;l&egrave;bre race de cr&eacute;atures souterraines de Golarion pourraient l&rsquo;avoir mise au point pour des tortures exp&eacute;rimentales.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe spear, paragon": {
+			"frName": "Lance à injection, parangon",
+			"frDescription": "<p>&Agrave; premi&egrave;re vue, cette arme ressemble &agrave; une gigantesque seringue fix&eacute;e sur un long manche, &agrave; peu pr&egrave;s de la taille de celui qui la manie. Un r&eacute;servoir &agrave; une extr&eacute;mit&eacute; de la lance permet de faire circuler une substance dans l&rsquo;arme qui, en cas d&rsquo;attaque r&eacute;ussie, est automatiquement inject&eacute;e dans le corps d&rsquo;un adversaire gr&acirc;ce &agrave; un m&eacute;canisme &agrave; ressort. L&rsquo;origine exacte de cette arme d&eacute;loyale est inconnue, mais certains pr&eacute;tendent que les gris et une c&eacute;l&egrave;bre race de cr&eacute;atures souterraines de Golarion pourraient l&rsquo;avoir mise au point pour des tortures exp&eacute;rimentales.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe spear, tactical": {
+			"frName": "Lance à injection, tactique",
+			"frDescription": "<p>&Agrave; premi&egrave;re vue, cette arme ressemble &agrave; une gigantesque seringue fix&eacute;e sur un long manche, &agrave; peu pr&egrave;s de la taille de celui qui la manie. Un r&eacute;servoir &agrave; une extr&eacute;mit&eacute; de la lance permet de faire circuler une substance dans l&rsquo;arme qui, en cas d&rsquo;attaque r&eacute;ussie, est automatiquement inject&eacute;e dans le corps d&rsquo;un adversaire gr&acirc;ce &agrave; un m&eacute;canisme &agrave; ressort. L&rsquo;origine exacte de cette arme d&eacute;loyale est inconnue, mais certains pr&eacute;tendent que les gris et une c&eacute;l&egrave;bre race de cr&eacute;atures souterraines de Golarion pourraient l&rsquo;avoir mise au point pour des tortures exp&eacute;rimentales.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe stick, hyper-pointed": {
+			"frName": "Bâton-injecteur, hyper-pointe",
+			"frDescription": "<p>Cette arme est un auto-injecteur l&eacute;ger, con&ccedil;u pour rapidement injecter une drogue, un poison et des substances similaires en le pressant contre le corps d&rsquo;une cr&eacute;ature. Son m&eacute;canisme &agrave; ressort brevet&eacute; est dot&eacute; d&rsquo;une aiguille robuste capable de perforer les armures, les carapaces et les peaux les plus r&eacute;sistantes. Malgr&eacute; le fait qu&rsquo;il s&rsquo;agisse d&rsquo;une arme mortelle, il est difficile de faire la diff&eacute;rence entre un b&acirc;ton-injecteur et un auto-injecteur m&eacute;dical.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe stick, sharp-pointed": {
+			"frName": "Bâton-injecteur, pointe acérée",
+			"frDescription": "<p>Cette arme est un auto-injecteur l&eacute;ger, con&ccedil;u pour rapidement injecter une drogue, un poison et des substances similaires en le pressant contre le corps d&rsquo;une cr&eacute;ature. Son m&eacute;canisme &agrave; ressort brevet&eacute; est dot&eacute; d&rsquo;une aiguille robuste capable de perforer les armures, les carapaces et les peaux les plus r&eacute;sistantes. Malgr&eacute; le fait qu&rsquo;il s&rsquo;agisse d&rsquo;une arme mortelle, il est difficile de faire la diff&eacute;rence entre un b&acirc;ton-injecteur et un auto-injecteur m&eacute;dical.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe stick, standard": {
+			"frName": "Bâton-injecteur, standard",
+			"frDescription": "<p>Cette arme est un auto-injecteur l&eacute;ger, con&ccedil;u pour rapidement injecter une drogue, un poison et des substances similaires en le pressant contre le corps d&rsquo;une cr&eacute;ature. Son m&eacute;canisme &agrave; ressort brevet&eacute; est dot&eacute; d&rsquo;une aiguille robuste capable de perforer les armures, les carapaces et les peaux les plus r&eacute;sistantes. Malgr&eacute; le fait qu&rsquo;il s&rsquo;agisse d&rsquo;une arme mortelle, il est difficile de faire la diff&eacute;rence entre un b&acirc;ton-injecteur et un auto-injecteur m&eacute;dical.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe stick, supreme-pointed": {
+			"frName": "Bâton-injecteur, pointe suprême",
+			"frDescription": "<p>Cette arme est un auto-injecteur l&eacute;ger, con&ccedil;u pour rapidement injecter une drogue, un poison et des substances similaires en le pressant contre le corps d&rsquo;une cr&eacute;ature. Son m&eacute;canisme &agrave; ressort brevet&eacute; est dot&eacute; d&rsquo;une aiguille robuste capable de perforer les armures, les carapaces et les peaux les plus r&eacute;sistantes. Malgr&eacute; le fait qu&rsquo;il s&rsquo;agisse d&rsquo;une arme mortelle, il est difficile de faire la diff&eacute;rence entre un b&acirc;ton-injecteur et un auto-injecteur m&eacute;dical.</p>",
+			"frSource": "GOP p.124"
+		},
+		"Syringe stick, ultra-pointed": {
+			"frName": "Bâton-injecteur, hyper-pointe",
+			"frDescription": "<p>Cette arme est un auto-injecteur l&eacute;ger, con&ccedil;u pour rapidement injecter une drogue, un poison et des substances similaires en le pressant contre le corps d&rsquo;une cr&eacute;ature. Son m&eacute;canisme &agrave; ressort brevet&eacute; est dot&eacute; d&rsquo;une aiguille robuste capable de perforer les armures, les carapaces et les peaux les plus r&eacute;sistantes. Malgr&eacute; le fait qu&rsquo;il s&rsquo;agisse d&rsquo;une arme mortelle, il est difficile de faire la diff&eacute;rence entre un b&acirc;ton-injecteur et un auto-injecteur m&eacute;dical.</p>",
+			"frSource": "GOP p.124"
+		},
 		"Taclash, numbing": {
 			"frName": "Fouet tactique, engourdissant",
 			"frDescription": "<p>Un fouet tactique est constitu&eacute; d&rsquo;une lani&egrave;re en nylon renforc&eacute;e de fibres de carbone. &Agrave; l&rsquo;origine, cette arme &eacute;tait utilis&eacute;e par les organisations militaires pour contr&ocirc;ler les foules mais les explorateurs et les mercenaires ont appris &agrave; l&rsquo;appr&eacute;cier. Quand un fouet engourdissant touche sa cible, il lib&egrave;re un choc &eacute;lectrique de basse intensit&eacute; qui se propage tout le long de la lani&egrave;re. Ce choc est trop faible pour infliger des d&eacute;g&acirc;ts mais il peut &eacute;tourdir une cible.</p>",
@@ -8884,6 +9311,31 @@
 			"frSource": "RDB p.172",
 			"frRangeValue": 3,
 			"frRangeUnits": "meter"
+		},
+		"Tactical Shield, Advanced": {
+			"frName": "Bouclier tactique, évolué",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier tactique est une petite plaque d&eacute;fensive mobile, port&eacute;e sur un membre que vous pouvez orienter pour intercepter des attaques dirig&eacute;es contre vous. La main qui porte le bouclier peut tenir un autre objet et peut &ecirc;tre utilis&eacute;e pour recharger une arme, mais elle ne peut pas manier une arme ou un autre bouclier. Vous pouvez utiliser un bouclier tactique pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques. </span></p> <p>Quand vous maniez un bouclier tactique basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +1 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers tactiques de terrain et &eacute;volu&eacute;s vous octroient un bonus de bouclier de +1 &agrave; la CA quand ils sont mani&eacute;s, mais ce bonus n&rsquo;est pas augment&eacute; quand ils sont align&eacute;s face &agrave; une cible. Les mod&egrave;les &eacute;lites augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier tactique parangon accorde un bonus de +3.</p>",
+			"frSource": "GOP p.126"
+		},
+		"Tactical Shield, Basic": {
+			"frName": "Bouclier tactique, basique",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier tactique est une petite plaque d&eacute;fensive mobile, port&eacute;e sur un membre que vous pouvez orienter pour intercepter des attaques dirig&eacute;es contre vous. La main qui porte le bouclier peut tenir un autre objet et peut &ecirc;tre utilis&eacute;e pour recharger une arme, mais elle ne peut pas manier une arme ou un autre bouclier. Vous pouvez utiliser un bouclier tactique pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques. </span></p> <p>Quand vous maniez un bouclier tactique basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +1 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers tactiques de terrain et &eacute;volu&eacute;s vous octroient un bonus de bouclier de +1 &agrave; la CA quand ils sont mani&eacute;s, mais ce bonus n&rsquo;est pas augment&eacute; quand ils sont align&eacute;s face &agrave; une cible. Les mod&egrave;les &eacute;lites augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier tactique parangon accorde un bonus de +3.</p>",
+			"frSource": "GOP p.126"
+		},
+		"Tactical Shield, Elite": {
+			"frName": "Bouclier tactique, élite",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier tactique est une petite plaque d&eacute;fensive mobile, port&eacute;e sur un membre que vous pouvez orienter pour intercepter des attaques dirig&eacute;es contre vous. La main qui porte le bouclier peut tenir un autre objet et peut &ecirc;tre utilis&eacute;e pour recharger une arme, mais elle ne peut pas manier une arme ou un autre bouclier. Vous pouvez utiliser un bouclier tactique pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques. </span></p> <p>Quand vous maniez un bouclier tactique basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +1 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers tactiques de terrain et &eacute;volu&eacute;s vous octroient un bonus de bouclier de +1 &agrave; la CA quand ils sont mani&eacute;s, mais ce bonus n&rsquo;est pas augment&eacute; quand ils sont align&eacute;s face &agrave; une cible. Les mod&egrave;les &eacute;lites augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier tactique parangon accorde un bonus de +3.</p>",
+			"frSource": "GOP p.126"
+		},
+		"Tactical Shield, Field": {
+			"frName": "Bouclier tactique, de terrain",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier tactique est une petite plaque d&eacute;fensive mobile, port&eacute;e sur un membre que vous pouvez orienter pour intercepter des attaques dirig&eacute;es contre vous. La main qui porte le bouclier peut tenir un autre objet et peut &ecirc;tre utilis&eacute;e pour recharger une arme, mais elle ne peut pas manier une arme ou un autre bouclier. Vous pouvez utiliser un bouclier tactique pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques. </span></p> <p>Quand vous maniez un bouclier tactique basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +1 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers tactiques de terrain et &eacute;volu&eacute;s vous octroient un bonus de bouclier de +1 &agrave; la CA quand ils sont mani&eacute;s, mais ce bonus n&rsquo;est pas augment&eacute; quand ils sont align&eacute;s face &agrave; une cible. Les mod&egrave;les &eacute;lites augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier tactique parangon accorde un bonus de +3.</p>",
+			"frSource": "GOP p.126"
+		},
+		"Tactical Shield, Paragon": {
+			"frName": "Bouclier tactique, paragon",
+			"frDescription": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier tactique est une petite plaque d&eacute;fensive mobile, port&eacute;e sur un membre que vous pouvez orienter pour intercepter des attaques dirig&eacute;es contre vous. La main qui porte le bouclier peut tenir un autre objet et peut &ecirc;tre utilis&eacute;e pour recharger une arme, mais elle ne peut pas manier une arme ou un autre bouclier. Vous pouvez utiliser un bouclier tactique pour effectuer des attaques &agrave; mains nues qui ne sont pas consid&eacute;r&eacute;es comme archa&iuml;ques. </span></p> <p>Quand vous maniez un bouclier tactique basique, en tant qu&rsquo;action de mouvement, vous pouvez l&rsquo;aligner pour vous octroyer une meilleure protection contre un adversaire que vous observez (Livre de r&egrave;gles p. 260), ce qui vous accorde un bonus de bouclier de +1 &agrave; la CA contre ses attaques jusqu&rsquo;au d&eacute;but de votre prochain tour. Les boucliers tactiques de terrain et &eacute;volu&eacute;s vous octroient un bonus de bouclier de +1 &agrave; la CA quand ils sont mani&eacute;s, mais ce bonus n&rsquo;est pas augment&eacute; quand ils sont align&eacute;s face &agrave; une cible. Les mod&egrave;les &eacute;lites augmentent le bonus de bouclier dont vous b&eacute;n&eacute;ficiez &agrave; +2 quand ils sont align&eacute;s face &agrave; une cible ; le bouclier tactique parangon accorde un bonus de +3.</p>",
+			"frSource": "GOP p.126"
 		},
 		"Tailblade": {
 			"frName": "Lame caudale",
@@ -9101,6 +9553,34 @@
 			"frDescription": "<p>La Base Polym&egrave;re Universelle, ou BPU, est l&rsquo;&eacute;l&eacute;ment de base pour la plupart des technologies des Mondes du Pacte, du Veskarium et de&nbsp;nombreux autres syst&egrave;mes. Chaque BPU est un minuscule composant multifonction, pas plus gros qu&rsquo;un grain de riz, capable d&rsquo;&ecirc;tre configur&eacute; pour servir d&rsquo;entretoise, de condensateur, de circuit, de diode, d&rsquo;attache, d&rsquo;isolant, de lentille, de modulateur, de tuyau, de r&eacute;sistance et de dizaines d&rsquo;autres composants. Les BPU peuvent m&ecirc;me &ecirc;tre utilis&eacute;s comme tissus, d&eacute;compos&eacute;s en &eacute;l&eacute;ments chimiques, reconfigur&eacute;s en nouveaux produits chimiques ou enrichis avec des mat&eacute;riaux de base (comme la terre ou le sable) pour former des renforts ou des murs massifs. La bonne combinaison de centaines, voire de milliers de BPU peut permettre de fabriquer n&rsquo;importe quoi, du communicateur &agrave; une arme laser en passant par une armure assist&eacute;e. Dans leur forme brute, les BPU ont un volume de 1 pour 1 000 unit&eacute;s mais quand ils sont align&eacute;s et configur&eacute;s, ils peuvent avoir un volume inf&eacute;rieur. De m&ecirc;me quand ils sont configur&eacute;s pour une fonction pr&eacute;cise qui demande une taille minimum (avec la possibilit&eacute; de les combiner avec d&rsquo;autres mat&eacute;riaux), ils peuvent avoir un volume sup&eacute;rieur.</p> <p>Les BPU sont tellement r&eacute;pandus qu&rsquo;on peut les utiliser comme moyen de paiement dans la plupart des grandes communaut&eacute;s et des comptoirs commerciaux. Bien que les cr&eacute;ditsticks constituent le moyen le plus pratique et le plus s&ucirc;r de transporter de l&rsquo;argent, les BPU ont l&rsquo;avantage de pouvoir &ecirc;tre utilis&eacute;s imm&eacute;diatement et d&rsquo;&ecirc;tre intra&ccedil;ables. Ils sont souvent utilis&eacute;s pour payer les contrebandiers et les criminels mais ils sont aussi utiles pour les missions commerciales dans des syst&egrave;mes disposant de la technologie des BPU et qui n&rsquo;utilisent pas le cr&eacute;dit comme monnaie. La valeur du cr&eacute;dit au sein des Mondes du Pacte est bas&eacute;e sur l&rsquo;utilit&eacute; &eacute;conomique d&rsquo;une unit&eacute; de BPU.</p>",
 			"frSource": "RDB p.232"
 		},
+		"Vaccine, Tier 1": {
+			"frName": "Vaccin, échelon 1",
+			"frDescription": "<p>Les explorateurs prennent souvent des pr&eacute;cautions contre des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} connues. Les vaccins doivent &ecirc;tre fabriqu&eacute;s pour une maladie pr&eacute;cise. Un jour apr&egrave;s avoir re&ccedil;u un vaccin, vous gagnez un bonus &eacute;gal &agrave; 5 + l&rsquo;&eacute;chelon du m&eacute;dicament contre la maladie pendant un nombre de mois &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaccin. Ce bonus n&rsquo;est pas cumulable avec celui des antibiotiques.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Vaccine, Tier 2": {
+			"frName": "Vaccin, échelon 2",
+			"frDescription": "<p>Les explorateurs prennent souvent des pr&eacute;cautions contre des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} connues. Les vaccins doivent &ecirc;tre fabriqu&eacute;s pour une maladie pr&eacute;cise. Un jour apr&egrave;s avoir re&ccedil;u un vaccin, vous gagnez un bonus &eacute;gal &agrave; 5 + l&rsquo;&eacute;chelon du m&eacute;dicament contre la maladie pendant un nombre de mois &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaccin. Ce bonus n&rsquo;est pas cumulable avec celui des antibiotiques.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Vaccine, Tier 3": {
+			"frName": "Vaccin, échelon 3",
+			"frDescription": "<p>Les explorateurs prennent souvent des pr&eacute;cautions contre des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} connues. Les vaccins doivent &ecirc;tre fabriqu&eacute;s pour une maladie pr&eacute;cise. Un jour apr&egrave;s avoir re&ccedil;u un vaccin, vous gagnez un bonus &eacute;gal &agrave; 5 + l&rsquo;&eacute;chelon du m&eacute;dicament contre la maladie pendant un nombre de mois &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaccin. Ce bonus n&rsquo;est pas cumulable avec celui des antibiotiques.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
+		"Vaccine, Tier 4": {
+			"frName": "Vaccin, échelon 4",
+			"frDescription": "<p>Les explorateurs prennent souvent des pr&eacute;cautions contre des @Compendium[sfrpg.rules.GnEF27Oot3zqTaBQ]{maladies} connues. Les vaccins doivent &ecirc;tre fabriqu&eacute;s pour une maladie pr&eacute;cise. Un jour apr&egrave;s avoir re&ccedil;u un vaccin, vous gagnez un bonus &eacute;gal &agrave; 5 + l&rsquo;&eacute;chelon du m&eacute;dicament contre la maladie pendant un nombre de mois &eacute;gal &agrave; l&rsquo;&eacute;chelon du vaccin. Ce bonus n&rsquo;est pas cumulable avec celui des antibiotiques.</p>",
+			"frSource": "GOP p.127",
+			"frAreaValue": 0,
+			"frAreaUnits": "meter"
+		},
 		"Vanishing": {
 			"frName": "Eclipse",
 			"frDescription": "<p>La fusion &eacute;clipse peut dissimuler son utilisateur &agrave; la vue d&rsquo;un unique adversaire. Une fois par jour apr&egrave;s avoir effectu&eacute; une attaque avec votre arme, que vous l&rsquo;ayez touch&eacute;e ou non, vous pouvez devenir invisible pour cette cible, comme avec le sort invisibilit&eacute;, pendant un nombre de rounds &eacute;gal au niveau d&rsquo;objet de l&rsquo;arme. Toute attaque que vous effectuez (m&ecirc;me contre d&rsquo;autres cibles) met un terme &agrave; votre invisibilit&eacute;. Toutes les autres cr&eacute;atures autres que votre cible continuent &agrave; vous voir normalement. Seules les armes l&eacute;g&egrave;res et les armes avec la propri&eacute;t&eacute; sp&eacute;ciale agent peuvent b&eacute;n&eacute;ficier de cette fusion.</p>",
@@ -9240,6 +9720,11 @@
 			"frName": "Amplificateur vocal",
 			"frDescription": "<p>Un amplificateur vocal augmente consid&eacute;rablement le volume de votre voix. Vous pouvez l&rsquo;activer ou le d&eacute;sactiver par une action rapide. Quand il est activ&eacute;, vous b&eacute;n&eacute;ficiez d&rsquo;un bonus de circonstance de +2 &agrave; vos tests d&rsquo;Intimidation et vous r&eacute;duisez de 5 le DD des tests de Perception des autres cr&eacute;atures pour vous entendre quand vous par</p>",
 			"frSource": "AA1 p.9"
+		},
+		"Voice Distorter": {
+			"frName": "Altérateur de voix",
+			"frDescription": "<p>Les kasathas qui se livrent &agrave; des activit&eacute;s criminelles, ainsi que ceux qui aiment rester anonymes, portent parfois des masques qui dissimulent leur identit&eacute;. Un alt&eacute;rateur de voix port&eacute; sur la bouche d&eacute;forme la voix de son utilisateur afin qu&rsquo;on ne puisse l&rsquo;identifier. Tout test effectu&eacute; pour identifier cette voix subit un malus de &minus;5 et une telle identification n&rsquo;est possible que si l&rsquo;on peut se baser sur des sch&eacute;mas vocaux, des phrases types et d&rsquo;autres particularit&eacute;s plut&ocirc;t que le simple son de cette voix.</p> <p>Si la voix d&eacute;form&eacute;e est enregistr&eacute;e, un personnage peut retirer la distorsion et reconstituer la v&eacute;ritable voix. Pour cela, il faut r&eacute;ussir un test d&rsquo;Informatique DD 21. Celui qui tente cette op&eacute;ration b&eacute;n&eacute;ficie d&rsquo;un bonus de circonstances de +4 &agrave; ce test s&rsquo;il a acc&egrave;s &agrave; un enregistrement non d&eacute;form&eacute; de la m&ecirc;me voix.</p>",
+			"frSource": "GOP p.21"
 		},
 		"Void rifle, barrow-class": {
 			"frName": "Fusil du vide, hypogée",
@@ -9563,6 +10048,11 @@
 		"Xenobiologist’s Field Kit": {
 			"frName": "Trousse d’analyse de xéno-biologiste",
 			"frDescription": "<p>Con&ccedil;ue pour les scientifiques aventureux, cette trousse contient des pipettes, des seringues, des fioles et d&rsquo;autres instruments qui vous permettent de collecter des &eacute;chantillons et de les analyser hors d&rsquo;un laboratoire. Si vous y consacrez au moins 10 min, utiliser une trousse d&rsquo;analyse de x&eacute;no-biologiste vous octroie un bonus d&rsquo;intuition de +4 &agrave; vos tests de Sciences de la vie pour identifier ou vous rappeler quelque chose au sujet de la faune et de la flore. De plus, avec cette trousse, on consid&egrave;re que vous avez acc&egrave;s &agrave; une infosph&egrave;re pour faire 20 avec ce type de tests.</p>",
+			"frSource": "GOP p.22"
+		},
+		"Xenowarden’s Boots": {
+			"frName": "Bottes de xéno-protecteur",
+			"frDescription": "<p>Ces bottes souples sont fabriqu&eacute;es en fibres v&eacute;g&eacute;tales et renforc&eacute;es d&rsquo;&eacute;nergie magique. Tant que vous portez des bottes de X&eacute;noprotecteur, &agrave; chaque round, vous pouvez traverser 3 m de terrain difficile &agrave; cause d&rsquo;&eacute;pais fourr&eacute;s ou d&rsquo;autres obstacles provoqu&eacute;s par des plantes sans r&eacute;duire votre vitesse.</p>",
 			"frSource": "GOP p.22"
 		},
 		"Ysoki refractor suit": {
