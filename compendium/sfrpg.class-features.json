@@ -2,11 +2,11 @@
 	"label": "Classes - Aptitudes",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "data.description.value",
-		"frSource": "data.source",
-		"activType": "data.activation.type",
-		"activCost": "data.activation.cost",
-		"frRequirements": "data.requirements"
+		"frDescription": "system.description.value",
+		"frSource": "system.source",
+		"activType": "system.activation.type",
+		"activCost": "system.activation.cost",
+		"frRequirements": "system.requirements"
 	},
 	"entries": {
 		"Watch Out (Ex)": {

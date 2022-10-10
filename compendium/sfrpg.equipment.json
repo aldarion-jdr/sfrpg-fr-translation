@@ -2,12 +2,12 @@
 	"label": "Equipement",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "data.description.value",
-		"frSource": "data.source",
-		"frRangeValue": "data.range.value",
-		"frRangeUnits": "data.range.units",
-		"frAreaValue": "data.area.value",
-		"frAreaUnits": "data.area.units"
+		"frDescription": "system.description.value",
+		"frSource": "system.source",
+		"frRangeValue": "system.range.value",
+		"frRangeUnits": "system.range.units",
+		"frAreaValue": "system.area.value",
+		"frAreaUnits": "system.area.units"
 	},
 	"entries": {
 		"AbadarCorp Travel Suit, Gold": {
