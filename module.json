@@ -1,37 +1,55 @@
 {
+  "id": "sfrpg-fr-translation",
   "name": "sfrpg-fr-translation",
   "title": "Starfinder - Traduction en Français",
   "description": "Module de traduction du système Starfinder en Français, basé sur Babele.",
-  "version": "1.0.9",
-  "minimumCoreVersion" : "0.7.1",
-  "compatibleCoreVersion": "9",
-  "author": "AbyssLoup, Aldarion, Arthenius, Mr Fred, Requiem0123 and Temvaryen",
-  "dependencies": [
+  "version": "1.0.10",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "authors": [
 	{
-      "name": "sfrpg",
-	  "type": "system",
-	  "version": "0.19.1"
-    },
-    {
-      "name": "babele",
-	  "type": "module",
-	  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.2.3"
-    }
+		"name":"Aldarion",
+		"flags": {}
+	},{
+		"name":"Mr Fred",
+		"flags": {}
+	},{
+		"name":"Arthenius",
+		"flags": {}
+	},{
+		"name":"Temvaryen",
+		"flags": {}
+	},{
+		"name":"AbyssLoup",
+		"flags": {}
+	}
   ],
   "esmodules": [
       "babele-register.js"
     ],
-  "scripts": [ ],
+  "scripts": [],
   "styles": [],
   "packs": [],
-  "languages": [{
-  	"lang": "fr",
-  	"name": "Français",
-  	"path": "lang/fr.json"  	
-  }],
-  "system": "sfrpg",
-  "systemVersion": "0.9.0.0",
+  "relationships": {
+	  "systems": [{
+		"id": "sfrpg",
+		"type": "system",
+		"manifest": "https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/src/system.json",
+		"compatibility": {
+		  "verified": "0.20.1"
+		}
+	  }],
+	  "requires": [{
+		"id": "babele",
+		"type": "module",
+		"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+		"compatibility": {
+		  "verified": "2.3.1"
+		}
+	  }]
+  },
   "url": "https://github.com/aldarion-jdr/sfrpg-fr-translation",
   "manifest": "https://github.com/aldarion-jdr/sfrpg-fr-translation/raw/main/module.json",
   "download": "https://github.com/aldarion-jdr/sfrpg-fr-translation/archive/refs/heads/main.zip"
