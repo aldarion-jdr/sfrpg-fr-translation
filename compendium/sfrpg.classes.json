@@ -2,9 +2,9 @@
 	"label": "Classes",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "data.description.value",
-		"frShortDescription": "data.description.short",
-		"frSource": "data.source"
+		"frDescription": "system.description.value",
+		"frShortDescription": "system.description.short",
+		"frSource": "system.source"
 	},
 	"entries": {
 		"Biohacker": {
