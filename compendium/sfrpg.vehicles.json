@@ -2,14 +2,14 @@
 	"label": "Véhicules",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "system.details.description.value",
-		"frSource": "system.details.source",
-		"width": "system.attributes.dimensions.width",
-		"length": "system.attributes.dimensions.length",
-		"height": "system.attributes.dimensions.height",
-		"speedDrive": "system.attributes.speed.drive",
-		"speedFull": "system.attributes.speed.full",
-		"speedMph": "system.attributes.speed.mph"
+		"frDescription": "data.details.description.value",
+		"frSource": "data.details.source",
+		"width": "data.attributes.dimensions.width",
+		"length": "data.attributes.dimensions.length",
+		"height": "data.attributes.dimensions.height",
+		"speedDrive": "data.attributes.speed.drive",
+		"speedFull": "data.attributes.speed.full",
+		"speedMph": "data.attributes.speed.mph"
 	},
 	"entries": {
 		"Battle Chariot": {

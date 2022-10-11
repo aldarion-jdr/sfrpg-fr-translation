@@ -2,8 +2,8 @@
 	"label": "Etats",
 	"mapping": {
 		"name": "name",
-		"description": "system.description.value",
-		"source": "system.source"
+		"description": "data.description.value",
+		"source": "data.source"
 	},
 	"entries": [
 		{

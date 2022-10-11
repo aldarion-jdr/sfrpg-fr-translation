@@ -2,8 +2,8 @@
 	"label": "Personnages",
 	"mapping": {
 		"frName": "name",
-		"alignment": "system.details.alignment",
-		"frBio": "system.details.biography.value"
+		"alignment": "data.details.alignment",
+		"frBio": "data.details.biography.value"
 	},
 	"entries": {
 		"Iseph L1": {

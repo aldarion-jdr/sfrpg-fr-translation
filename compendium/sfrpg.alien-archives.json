@@ -1,16 +1,16 @@
 {
-	"label": "Xéno-Archives",
+	"label": "Alien Archives",
 	"mapping": {
 		"frName": "name",
-		"frRaceType": "system.details.type",
-		"frAlignment": "system.details.alignment",
-		"frBiography": "system.details.biography.value",
-		"frEnvironment": "system.details.environment",
-		"frOrganization": "system.details.organization",
-		"frRaceAndGrafts": "system.details.raceAndGrafts",
-		"frSubType": "system.details.subtype",
+		"frRaceType": "data.details.type",
+		"frAlignment": "data.details.alignment",
+		"frBiography": "data.details.biography.value",
+		"frEnvironment": "data.details.environment",
+		"frOrganization": "data.details.organization",
+		"frRaceAndGrafts": "data.details.raceAndGrafts",
+		"frSubType": "data.details.subtype",
 		"frTokenName": "token.name",
-		"frSource": "system.details.source"
+		"frSource": "data.details.source"
 	},
 	"entries": {
 		"Sharpwing": {

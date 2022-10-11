@@ -2,8 +2,8 @@
 	"label": "Vaisseaux - Actions",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "system.description.value",
-		"frSource": "system.source"
+		"frDescription": "data.description.value",
+		"frSource": "data.source"
 	},
 	"entries": {
 		"Improve Countermeasures": {

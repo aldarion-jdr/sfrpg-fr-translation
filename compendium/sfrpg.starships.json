@@ -2,10 +2,10 @@
 	"label": "Vaisseaux",
 	"mapping": {
 		"frName": "name",
-		"frNotes": "system.details.notes",
-		"frModel": "system.details.model",
-		"frArmature": "system.details.frame",
-		"frSize": "system.details.size"
+		"frNotes": "data.details.notes",
+		"frModel": "data.details.model",
+		"frArmature": "data.details.frame",
+		"frSize": "data.details.size"
 	},
 	"entries": {
 		"Blackwind Sepulcher": {
