@@ -5,6 +5,7 @@
   "version": "1.0.9",
   "minimumCoreVersion" : "0.7.1",
   "compatibleCoreVersion": "9",
+  "maximumCoreVersion": "9",
   "author": "AbyssLoup, Aldarion, Arthenius, Mr Fred, Requiem0123 and Temvaryen",
   "dependencies": [
 	{
