@@ -1,58 +1,54 @@
 {
   "id": "sfrpg-fr-translation",
+  "name": "sfrpg-fr-translation",
   "title": "Starfinder - Traduction en Français",
   "description": "Module de traduction du système Starfinder en Français, basé sur Babele.",
-  "version": "10.1.1",
+  "version": "10.1.2",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
   },
   "authors": [
-    {
-      "name": "Aldarion",
-      "flags": {}
-    },
-    {
-      "name": "Mr Fred",
-      "flags": {}
-    },
-    {
-      "name": "Arthenius",
-      "flags": {}
-    },
-    {
-      "name": "Temvaryen",
-      "flags": {}
-    },
-    {
-      "name": "AbyssLoup",
-      "flags": {}
-    }
+	{
+		"name":"Aldarion",
+		"flags": {}
+	},{
+		"name":"Mr Fred",
+		"flags": {}
+	},{
+		"name":"Arthenius",
+		"flags": {}
+	},{
+		"name":"Temvaryen",
+		"flags": {}
+	},{
+		"name":"AbyssLoup",
+		"flags": {}
+	}
   ],
   "esmodules": [
-    "babele-register.js"
-  ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "sfrpg",
-        "type": "system",
-        "manifest": "https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/src/system.json",
-        "compatibility": {
-          "verified": "0.20.1"
-        }
-      }
+      "babele-register.js"
     ],
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-        "compatibility": {
-          "verified": "2.3.1"
-        }
-      }
-    ]
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "relationships": {
+	  "systems": [{
+		"id": "sfrpg",
+		"type": "system",
+		"manifest": "https://raw.githubusercontent.com/wildj79/foundryvtt-starfinder/master/src/system.json",
+		"compatibility": {
+		  "verified": "0.20.3"
+		}
+	  }],
+	  "requires": [{
+		"id": "babele",
+		"type": "module",
+		"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+		"compatibility": {
+		  "verified": "2.3.4"
+		}
+	  }]
   },
   "url": "https://github.com/aldarion-jdr/sfrpg-fr-translation",
   "manifest": "https://github.com/aldarion-jdr/sfrpg-fr-translation/raw/main/module.json",
