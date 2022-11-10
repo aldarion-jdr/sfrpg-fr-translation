@@ -2,8 +2,8 @@
 	"label": "Règles Universelles de Créatures",
 	"mapping": {
 		"frName": "name",
-		"frDescription": "data.description.value",
-		"frSource": "data.source"
+		"frDescription": "system.description.value",
+		"frSource": "system.source"
 	},
 	"entries": {
 		"Alien Presence (Ex or Su)": {
