@@ -99,17 +99,17 @@
 		"Acrochor hide, advanced": {
 			"frName": "Peau d’acrochor, évoluée",
 			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Acrochor hide, basic": {
 			"frName": "Peau d’acrochor, basique",
 			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Acrochor hide, elite": {
 			"frName": "Peau d’acrochor, élite",
 			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Advancing": {
 			"frName": "Progression",
@@ -270,7 +270,7 @@
 		"Animated Trapsmith's Tools": {
 			"frName": "Outils pour piège animé",
 			"frDescription": "<p>Quand vous murmurez un mot de commande &agrave; ces outils pour pi&egrave;ge par ailleurs ordinaires (Livre de r&egrave;gles Starfinder p. 221), ils commencent &agrave; se d&eacute;placer par leurs propres moyens. Vous pouvez utiliser ces outils pour d&eacute;clencher un explosif ou pour d&eacute;sactiver un pi&egrave;ge &agrave; une distance de 3 m&egrave;tres, en utilisant votre bonus total dans la comp&eacute;tence appropri&eacute;e (le bonus de circonstances conf&eacute;r&eacute; par les outils s&rsquo;&eacute;l&egrave;ve toutefois &agrave; +2 seulement lorsqu&rsquo;ils sont utilis&eacute;s de cette fa&ccedil;on).</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Antibiotic, Tier 1": {
 			"frName": "Antibiotique, échelon 1",
@@ -727,28 +727,28 @@
 		"Battlebow, advanced": {
 			"frName": "Arc de combat, évolué",
 			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
-			"frSource": "AP #4 p. 44",
+			"frSource": "SM4 p.44",
 			"frRangeValue": 36,
 			"frRangeUnits": "meter"
 		},
 		"Battlebow, elite": {
 			"frName": "Arc de combat, élite",
 			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
-			"frSource": "AP #4 p. 44",
+			"frSource": "SM4 p.44",
 			"frRangeValue": 36,
 			"frRangeUnits": "meter"
 		},
 		"Battlebow, paragon": {
 			"frName": "Arc de combat, parangon",
 			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
-			"frSource": "AP #4 p. 44",
+			"frSource": "SM4 p.44",
 			"frRangeValue": 36,
 			"frRangeUnits": "meter"
 		},
 		"Battlebow, tactical": {
 			"frName": "Arc de combat, tactique",
 			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
-			"frSource": "AP #4 p. 44",
+			"frSource": "SM4 p.44",
 			"frRangeValue": 36,
 			"frRangeUnits": "meter"
 		},
@@ -1333,7 +1333,7 @@
 		"Celestial stole": {
 			"frName": "Etoile Céleste",
 			"frDescription": "<p>Sur cette longue et fine &eacute;charpe appara&icirc;t une s&eacute;rie de motifs altern&eacute;s symbolisant la lumi&egrave;re et l&rsquo;ombre. Lorsque vous portez une &eacute;tole c&eacute;leste, vous b&eacute;n&eacute;ficiez d&rsquo;une r&eacute;sistance de 5 contre le froid ou contre le feu (vous choisissez le type de r&eacute;sistance au moment o&ugrave; vous portez l&rsquo;&eacute;tole pour la premi&egrave;re fois) ; vous pouvez changer le type de r&eacute;sistance (en choisissant le feu ou le froid) une fois par jour apr&egrave;s 8 heures de repos. Si vous b&eacute;n&eacute;ficiez d&eacute;j&agrave; d&rsquo;une r&eacute;sistance contre le feu ou le froid gr&acirc;ce &agrave; la manifestation d&rsquo;armure solaire du solarien, augmentez-la de 5.</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Ceremonial plate, commander": {
 			"frName": "Armure de cérémonie, Commandant",
@@ -2284,7 +2284,7 @@
 		"Dimensional Fetters": {
 			"frName": "Menottes dimensionnelles",
 			"frDescription": "<p>Ces menottes (Livre de r&egrave;gles Starfinder p. 220) sont faites dans de la c&eacute;ramique renforc&eacute;e sp&eacute;ciale grav&eacute;e de symboles mystiques. On les ouvre gr&acirc;ce &agrave; un code de s&eacute;curit&eacute;. Une cr&eacute;ature entrav&eacute;e par des menottes dimensionnelles qui tente d&rsquo;utiliser un effet ou un sort de t&eacute;l&eacute;portation &eacute;choue &agrave; moins qu&rsquo;elle ne r&eacute;ussisse un jet de Volont&eacute; DD 30.</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Dining, Common Chain": {
 			"frName": "Repas dans un restaurant",
@@ -2882,7 +2882,7 @@
 		"Eohi boots": {
 			"frName": "Bottes d'éohi",
 			"frDescription": "<p>L&rsquo;int&eacute;rieur de ces bottes grises d&rsquo;aspect ordinaire est doubl&eacute; de fourrure d&rsquo;&eacute;ohi (voir page 57). Une fois par jour par une action complexe, vous pouvez vous d&eacute;placer sur une distance &eacute;gale ou inf&eacute;rieure &agrave; votre vitesse et effectuer une attaque &agrave; outrance avec des armes de corps &agrave; corps uniquement. Le malus sur chaque attaque est de -6 au lieu de -4 et vous subissez un malus de -2 &agrave; votre CA jusqu&rsquo;au d&eacute;but de votre prochain tour.</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Eoxian Wrackstaff": {
 			"frName": "Bâton de destruction éoxien",
@@ -4303,17 +4303,17 @@
 		"Hardplate, advanced": {
 			"frName": "Plates épaisses, évoluée",
 			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Hardplate, basic": {
 			"frName": "Plates épaisses, basique",
 			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Hardplate, elite": {
 			"frName": "Plates épaisses, élite",
 			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Haste circuit (magic)": {
 			"frName": "Circuit d'accélération (magique)",
@@ -4819,7 +4819,7 @@
 		"Instinctive stabilizer": {
 			"frName": "Stabilisateur instinctif",
 			"frDescription": "<p>Les chamans kishs ont dot&eacute; ce scanner de poche de pouvoir mystique pour am&eacute;liorer les chances de soigner les cr&eacute;atures agonisantes. Quand vous utilisez un stabilisateur instinctif, vous pouvez utiliser la comp&eacute;tence de M&eacute;decine sans formation pour effectuer la t&acirc;che de stabilisation prolong&eacute;e. Si vous &ecirc;tes form&eacute; en M&eacute;decine, vous r&eacute;ussissez automatiquement ce test. De plus, quand vous utilisez cet appareil, le DD de la t&acirc;che premiers secours de la comp&eacute;tence M&eacute;decine est de 10 seulement.</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Interference blade, harmonic": {
 			"frName": "Lame d’interférence, harmonique",
@@ -4959,22 +4959,22 @@
 		"Kishaxe, assault": {
 			"frName": "Hache kish, assaut",
 			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Kishaxe, havoc": {
 			"frName": "Hache kish, dévastatrice",
 			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Kishaxe, onslaught": {
 			"frName": "Hache kish, massacreuse",
 			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Kishaxe, skirmish": {
 			"frName": "Hache kish, escarmouche",
 			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
-			"frSource": "AP #4 p. 44"
+			"frSource": "SM4 p.44"
 		},
 		"Knife, survival": {
 			"frName": "Couteau, survie",
@@ -7132,7 +7132,7 @@
 		"Queller": {
 			"frName": "Etouffe-Feu",
 			"frDescription": "<p>Un &eacute;touffe-feu ressemble &agrave; un extincteur ordinaire, sauf qu&rsquo;il est constamment recouvert d&rsquo;une fine couche de givre. Trois fois par jour par une action simple, vous pouvez utiliser un &eacute;touffe-feu pour pulv&eacute;riser un produit chimique glacial dans un c&ocirc;ne de 4,50 m&egrave;tres qui inflige 5d8 points de d&eacute;g&acirc;ts de froid &agrave; chaque cr&eacute;ature dans la zone d&rsquo;effet (R&eacute;flexes DD 15, 1/2 d&eacute;g&acirc;ts) et &eacute;teint tous les feux non magiques dans le c&ocirc;ne (ceci met fin aux &eacute;tats enflamm&eacute;). Les chercheurs kishalis utilisaient des objets similaires pour contenir les incursions provenant des plans &Eacute;l&eacute;mentaires ; &agrave; l&rsquo;appr&eacute;ciation du MJ, d&rsquo;autres objets de ce type qui infligent d&rsquo;autres types de d&eacute;g&acirc;ts d&rsquo;&eacute;nergie (&eacute;touffe-froid, par exemple) pourraient exister (mais ils n&rsquo;&eacute;teignent alors pas les feux).</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Quick-release sheath": {
 			"frName": "Fourreau réactif",
@@ -9836,7 +9836,7 @@
 		"Truth amplifier": {
 			"frName": "Amplificateur de vérité",
 			"frDescription": "<p>Ce microphone parabolique a la forme d&rsquo;un pistolet avec un c&ocirc;ne en plastique en guise de canon et les chamans kishs l&rsquo;ont dot&eacute; de pouvoir mystique. Pour utiliser un amplificateur de v&eacute;rit&eacute;, pointezle vers une cr&eacute;ature dou&eacute;e de conscience &agrave; 9 m&egrave;tres ou moins et appuyez sur la g&acirc;chette (par une action simple). La cible doit ensuite r&eacute;ussir un jet de Volont&eacute; DD 14 sinon elle ne peut plus mentir volontairement pendant 5 minutes. Les cr&eacute;atures affect&eacute;es sont conscientes de cet enchantement. Elles peuvent ne pas r&eacute;pondre aux questions auxquelles elles r&eacute;pondraient normalement par un mensonge et rester &eacute;vasives tant qu&rsquo;elles restent dans les limites de la v&eacute;rit&eacute;. Un amplificateur de v&eacute;rit&eacute; peut s&rsquo;utiliser une fois par jour.</p>",
-			"frSource": "AP #4 p. 45"
+			"frSource": "SM4 p.45"
 		},
 		"Umbrella, Autoshade": {
 			"frName": "Parapluie, lévitation",
