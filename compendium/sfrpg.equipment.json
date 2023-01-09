@@ -96,6 +96,21 @@
 			"frAreaValue": 9,
 			"frAreaUnits": "meter"
 		},
+		"Acrochor hide, advanced": {
+			"frName": "Peau d’acrochor, évoluée",
+			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Acrochor hide, basic": {
+			"frName": "Peau d’acrochor, basique",
+			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Acrochor hide, elite": {
+			"frName": "Peau d’acrochor, élite",
+			"frDescription": "<p>Fabriqu&eacute;es avec des peaux d&rsquo;acrochor &ndash; des pr&eacute;dateurs serpentins qui &eacute;touffent leurs proies (voir page 55 - Soleil mort #04) &ndash; ces armures l&eacute;g&egrave;res offrent protection et souplesse &agrave; leur porteur. Les peaux d&rsquo;acrochor ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
 		"Advancing": {
 			"frName": "Progression",
 			"frDescription": "<p>Quand vous triomphez d&rsquo;un adversaire, une arme avec la fusion de progression vous entra&icirc;ne au c&oelig;ur de la m&ecirc;l&eacute;e. Avec une arme dot&eacute;e de cette fusion, la premi&egrave;re fois &agrave; chaque round que vous r&eacute;ussissez une attaque de corps &agrave; corps qui neutralise un adversaire (en le tuant ou en lui faisant perdre connaissance), vous pouvez effectuer un d&eacute;placement prudent en r&eacute;action. Ce d&eacute;placement doit vous rapprocher d&rsquo;au moins un adversaire.</p>",
@@ -251,6 +266,11 @@
 			"frName": "Aile d’ange, movanique",
 			"frDescription": "<p>Bien qu&rsquo;elle ressemble &agrave; une longue poign&eacute;e d&rsquo;&eacute;p&eacute;e quand elle est inactive, l&rsquo;aile d&rsquo;ange doit son nom au d&eacute;gagement non confin&eacute; de plasma qui, quand elle est mani&eacute;e, d&eacute;crit une tra&icirc;n&eacute;e en forme d&rsquo;arc. L&rsquo;arme est appr&eacute;ci&eacute;e des fid&egrave;les de Sarenrae qui sont fiers de ma&icirc;triser l&rsquo;art sophistiqu&eacute; de son maniement. Les ailes d&rsquo;ange de type movanique ont des lames plus sombres, presque comme des ombres ; celles de type monadique &eacute;mettent des tra&icirc;n&eacute;es de plasma dor&eacute;es et celles de type astral br&ucirc;lent comme si elles &eacute;taient chauff&eacute;es &agrave; blanc.</p>",
 			"frSource": "ARS p.10"
+		},
+		"Animated Trapsmith's Tools": {
+			"frName": "Outils pour piège animé",
+			"frDescription": "<p>Quand vous murmurez un mot de commande &agrave; ces outils pour pi&egrave;ge par ailleurs ordinaires (Livre de r&egrave;gles Starfinder p. 221), ils commencent &agrave; se d&eacute;placer par leurs propres moyens. Vous pouvez utiliser ces outils pour d&eacute;clencher un explosif ou pour d&eacute;sactiver un pi&egrave;ge &agrave; une distance de 3 m&egrave;tres, en utilisant votre bonus total dans la comp&eacute;tence appropri&eacute;e (le bonus de circonstances conf&eacute;r&eacute; par les outils s&rsquo;&eacute;l&egrave;ve toutefois &agrave; +2 seulement lorsqu&rsquo;ils sont utilis&eacute;s de cette fa&ccedil;on).</p>",
+			"frSource": "SM4 p.45"
 		},
 		"Antibiotic, Tier 1": {
 			"frName": "Antibiotique, échelon 1",
@@ -703,6 +723,34 @@
 			"frName": "Ruban de combat, lame zéro",
 			"frDescription": "<p>Depuis des mill&eacute;naires, bien avant la Faille, les fleurs combattantes de Ning utilisent les rubans de combat au cours d&rsquo;affrontements rituels. L&rsquo;arme est un ruban d&rsquo;environ 3 m&egrave;tres pour une largeur de 8 centim&egrave;tres avec des bords tranchants. L&rsquo;utilisateur s&rsquo;en sert en la faisant tournoyer autour de lui avec des mouvements fluides et ondulants. Les rubans sont difficiles &agrave; utiliser sans entra&icirc;nement. Aussi la plupart de ceux qui veulent les ma&icirc;triser cherchent &agrave; devenir l&rsquo;&eacute;l&egrave;ve d&rsquo;une des c&eacute;l&egrave;bres fleurs combattantes de Ning afin d&rsquo;apprendre leur art. Mais trouver un tel mentor est difficile car les fleurs combattantes acceptent rarement des apprentis. Les diff&eacute;rents types de rubans d&eacute;pendent des mat&eacute;riaux modernes utilis&eacute;s pour l&rsquo;arme traditionnelle avant d&rsquo;int&eacute;grer des innovations comme les micro-fils et les lames z&eacute;ro.</p>",
 			"frSource": "ARS p.13"
+		},
+		"Battlebow, advanced": {
+			"frName": "Arc de combat, évolué",
+			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
+			"frSource": "SM4 p.44",
+			"frRangeValue": 36,
+			"frRangeUnits": "meter"
+		},
+		"Battlebow, elite": {
+			"frName": "Arc de combat, élite",
+			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
+			"frSource": "SM4 p.44",
+			"frRangeValue": 36,
+			"frRangeUnits": "meter"
+		},
+		"Battlebow, paragon": {
+			"frName": "Arc de combat, parangon",
+			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
+			"frSource": "SM4 p.44",
+			"frRangeValue": 36,
+			"frRangeUnits": "meter"
+		},
+		"Battlebow, tactical": {
+			"frName": "Arc de combat, tactique",
+			"frDescription": "<p>Ces arcs &agrave; poulies sont fabriqu&eacute;s &agrave; partir de mat&eacute;riaux r&eacute;cup&eacute;r&eacute;s dans les ruines de la civilisation kishali et conf&egrave;rent &agrave; la corde de l&rsquo;arc une tr&egrave;s haute r&eacute;sistance &agrave; la traction. Les arcs de combat peuvent &ecirc;tre utilis&eacute;s pour tirer des fl&egrave;ches enflamm&eacute;es ou explosives.</p>",
+			"frSource": "SM4 p.44",
+			"frRangeValue": 36,
+			"frRangeUnits": "meter"
 		},
 		"Battleglove, cestus": {
 			"frName": "Gant de combat, ceste",
@@ -1282,6 +1330,11 @@
 			"frDescription": "<p>Contrairement &agrave; la plupart des armures assist&eacute;es qui sont encombrantes et lentes, celle-ci a &eacute;t&eacute; con&ccedil;ue pour amplifier magiquement la vitesse et la r&eacute;activit&eacute; de son utilisateur. L&rsquo;armure ressemble &agrave; une silhouette humano&iuml;de et elle vous octroie une visibilit&eacute; et une man&oelig;uvrabilit&eacute; sup&eacute;rieures. Au lieu de lourdes plaques pour absorber les coups, elle utilise des &eacute;crans de force magiques pour d&eacute;vier les attaques. Les attaques des cr&eacute;atures intangibles ciblent votre CAC plut&ocirc;t que votre CAE quand vous portez cette armure.</p>",
 			"frSource": "ARS p.75"
 		},
+		"Celestial stole": {
+			"frName": "Etoile Céleste",
+			"frDescription": "<p>Sur cette longue et fine &eacute;charpe appara&icirc;t une s&eacute;rie de motifs altern&eacute;s symbolisant la lumi&egrave;re et l&rsquo;ombre. Lorsque vous portez une &eacute;tole c&eacute;leste, vous b&eacute;n&eacute;ficiez d&rsquo;une r&eacute;sistance de 5 contre le froid ou contre le feu (vous choisissez le type de r&eacute;sistance au moment o&ugrave; vous portez l&rsquo;&eacute;tole pour la premi&egrave;re fois) ; vous pouvez changer le type de r&eacute;sistance (en choisissant le feu ou le froid) une fois par jour apr&egrave;s 8 heures de repos. Si vous b&eacute;n&eacute;ficiez d&eacute;j&agrave; d&rsquo;une r&eacute;sistance contre le feu ou le froid gr&acirc;ce &agrave; la manifestation d&rsquo;armure solaire du solarien, augmentez-la de 5.</p>",
+			"frSource": "SM4 p.45"
+		},
 		"Ceremonial plate, commander": {
 			"frName": "Armure de cérémonie, Commandant",
 			"frDescription": "<p>Bien que ces armures lourdes constitu&eacute;es de plaques sculpt&eacute;es offrent une bonne protection, leur principale fonction est d&rsquo;impressionner les ennemis. Souvent utilis&eacute;es pour les gardes d&rsquo;honneur, les exercices militaires ou les d&eacute;fil&eacute;s, les armures de c&eacute;r&eacute;monie sont g&eacute;n&eacute;ralement d&eacute;cor&eacute;es de couleurs vives ou constitu&eacute;es de m&eacute;taux brillants avec des casques finement ouvrag&eacute;s.</p>",
@@ -1744,6 +1797,11 @@
 			"frName": "Marteau à densité, tactique",
 			"frDescription": "<p>La t&ecirc;te creuse de ce marteau &agrave; deux mains est remplie d&rsquo;un plasma exceptionnellement dense qui est lib&eacute;r&eacute; au contact de ses cibles ; avec un coup particuli&egrave;rement pr&eacute;cis, ce plasma peut m&ecirc;me &ecirc;tre pulv&eacute;ris&eacute; alentour. Les marteaux &agrave; densit&eacute; construits par les fid&egrave;les d&rsquo;Angradd sont constitu&eacute;s d&rsquo;un m&eacute;tal sombre tandis que ceux des vesks sont con&ccedil;us pour qu&rsquo;on puisse voir le plasma derri&egrave;re son confinement magn&eacute;tique. Les marteaux &agrave; densit&eacute; de types tactique et &eacute;volu&eacute; renferment un c&oelig;ur de plasma stable. Les mod&egrave;les fusion et r&eacute;acteur utilisent des appareils qui concentrent le plasma pour provoquer des &eacute;gagements temporaires de fusion nucl&eacute;aire.</p>",
 			"frSource": "ARS p.12"
+		},
+		"Corpse Lantern": {
+			"frName": "Lanterne blafarde",
+			"frDescription": "<p>Cette source de lumi&egrave;re portable fonctionne comme une lanterne (Livre de r&egrave;gles Starfinder p. 220) qui ne n&eacute;cessite jamais aucune batterie. Elle diffuse cependant une lumi&egrave;re vert p&acirc;le inqui&eacute;tante. Une fois par jour par une action simple, vous pouvez toucher une rune magique grav&eacute;e sur le pied de la lanterne pour que tous les cadavres dans le rayon de 3 m&egrave;tres de sa lumi&egrave;re puissent parler, comme avec le sort murmures d&rsquo;outre-tombe.</p>",
+			"frSource": "AP #4, p.45"
 		},
 		"Corrosive": {
 			"frName": "Corrosive",
@@ -2222,6 +2280,11 @@
 			"frName": "Jeu du tourment numérique",
 			"frDescription": "<p>Un jeu du tourment num&eacute;rique est une forme modernis&eacute;e d&rsquo;un accessoire archa&iuml;que de divination dont les racines remontent &agrave; Golarion l&rsquo;&Eacute;gar&eacute;e. Une fois par jour, vous pouvez activer le jeu par une action complexe. Il projette alors les hologrammes de 54 cartes qui tourbillonnent autour de vous. Pour commencer, vous posez une question &agrave; voix haute et toutes les cartes se regroupent en un seul paquet ; puis le jeu op&egrave;re des centaines de calculs pseudo-mystiques extr&ecirc;mement complexes pour r&eacute;v&eacute;ler des rang&eacute;es de trois cartes en face de vous. Ces cartes peuvent alors &ecirc;tre interpr&eacute;t&eacute;es vocalement pour d&eacute;finir des &eacute;l&eacute;ments en rapport avec votre question.</p> <p>Cela fonctionne comme un sort d&rsquo;augure avec un niveau de sort &eacute;gal au niveau d&rsquo;objet du jeu. De plus, un mystique qui a un jeu du tourment num&eacute;rique et qui conna&icirc;t aussi le sort d&rsquo;augure peut ignorer la d&eacute;pense du point de pers&eacute;v&eacute;rance pour le lancer. Chaque jour, un mystique peut faire ceci un nombre de fois &eacute;gal &agrave; son bonus de Sagesse.</p> <p>Un technomancien peut utiliser un jeu du tourment num&eacute;rique comme cache de sorts. S&rsquo;il le fait, l&rsquo;IA du jeu s&rsquo;int&egrave;gre &agrave; sa propre conscience ce qui lui procure un bonus de +1 &agrave; son niveau de lanceur de sorts pour les sorts et les effets de divination. De plus, quand il jette un sort de technomancien, il peut d&eacute;penser 1 point de pers&eacute;v&eacute;rance pour utiliser les algorithmes du jeu et b&eacute;n&eacute;ficier d&rsquo;un bonus d&rsquo;intuition de +1 au DD du jet de sauvegardes du sort.</p>",
 			"frSource": "RDB p.227"
+		},
+		"Dimensional Fetters": {
+			"frName": "Menottes dimensionnelles",
+			"frDescription": "<p>Ces menottes (Livre de r&egrave;gles Starfinder p. 220) sont faites dans de la c&eacute;ramique renforc&eacute;e sp&eacute;ciale grav&eacute;e de symboles mystiques. On les ouvre gr&acirc;ce &agrave; un code de s&eacute;curit&eacute;. Une cr&eacute;ature entrav&eacute;e par des menottes dimensionnelles qui tente d&rsquo;utiliser un effet ou un sort de t&eacute;l&eacute;portation &eacute;choue &agrave; moins qu&rsquo;elle ne r&eacute;ussisse un jet de Volont&eacute; DD 30.</p>",
+			"frSource": "SM4 p.45"
 		},
 		"Dining, Common Chain": {
 			"frName": "Repas dans un restaurant",
@@ -2815,6 +2878,11 @@
 			"frName": "Traducteur émissaire",
 			"frDescription": "<p>Popularis&eacute; par les diplomates lashuntas, le traducteur &eacute;missaire est un fin et &eacute;l&eacute;gant bandeau m&eacute;tallique avec de fines pattes qui descendent le long de la m&acirc;choire. Une fois l&rsquo;appareil port&eacute;, deux fins &eacute;couteurs s&rsquo;&eacute;tendent du bandeau pour se glisser dans les oreilles sans les obstruer. Quand il est fabriqu&eacute;, cet appareil est cod&eacute; avec un langage sp&eacute;cifique. Quand ce langage est parl&eacute; dans un rayon de 10 m&egrave;tres, l&rsquo;appareil le traduit en langue commune. De plus, tout ce que vous dites en langue commune est traduit dans la langue cod&eacute;e dans l&rsquo;appareil ce qui vous permet de discuter avec un individu parlant cette langue. On ne peut utiliser le traducteur pour traduire une autre langue que celle pour laquelle il a &eacute;t&eacute; programm&eacute;, bien qu&rsquo;il existe des appareils qui traduisent dans une autre langue que la langue commune. Le traducteur enregistre tout ce qu&rsquo;il traduit et l&rsquo;on peut donc r&eacute;&eacute;couter les conversations en effleurant un bouton situ&eacute; du c&ocirc;t&eacute; inf&eacute;rieur droit de l&rsquo;appareil. On peut enregistrer jusqu&rsquo;&agrave; 10 heures de conversations. Maintenir le bouton appuy&eacute; pendant un round complet efface les enregistrements.</p> <p><strong>Capacit&eacute;&nbsp;</strong>20;&nbsp;<strong>Utilisation</strong>&nbsp;2/heure</p>",
 			"frSource": "ARS p.109"
+		},
+		"Eohi boots": {
+			"frName": "Bottes d'éohi",
+			"frDescription": "<p>L&rsquo;int&eacute;rieur de ces bottes grises d&rsquo;aspect ordinaire est doubl&eacute; de fourrure d&rsquo;&eacute;ohi (voir page 57). Une fois par jour par une action complexe, vous pouvez vous d&eacute;placer sur une distance &eacute;gale ou inf&eacute;rieure &agrave; votre vitesse et effectuer une attaque &agrave; outrance avec des armes de corps &agrave; corps uniquement. Le malus sur chaque attaque est de -6 au lieu de -4 et vous subissez un malus de -2 &agrave; votre CA jusqu&rsquo;au d&eacute;but de votre prochain tour.</p>",
+			"frSource": "SM4 p.45"
 		},
 		"Eoxian Wrackstaff": {
 			"frName": "Bâton de destruction éoxien",
@@ -4232,6 +4300,21 @@
 			"frDescription": "<p>Armure l&eacute;g&egrave;re d&rsquo;infanterie de dernier cri, les armures de la gamme hardlight sont constitu&eacute;es d&rsquo;une combinaison moulante et lisse recouverte d&rsquo;une cuirasse rigide et l&eacute;g&egrave;re ainsi que de protections pour les membres et d&rsquo;un casque. Les fabricants proposent souvent des versions personnalis&eacute;es pour les&nbsp; organisations militaires mais les mercenaires et les explorateurs ont aussi acc&egrave;s &agrave; des mod&egrave;les pr&ecirc;ts-&agrave;-porter de diff&eacute;rentes qualit&eacute;s.</p>",
 			"frSource": "RDB p.197"
 		},
+		"Hardplate, advanced": {
+			"frName": "Plates épaisses, évoluée",
+			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Hardplate, basic": {
+			"frName": "Plates épaisses, basique",
+			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Hardplate, elite": {
+			"frName": "Plates épaisses, élite",
+			"frDescription": "<p>Les mat&eacute;riaux de construction kishalis sont parmi les plus r&eacute;sistants et les plus durables jamais cr&eacute;&eacute;s, et les kishs ont r&eacute;cup&eacute;r&eacute; les d&eacute;bris des structures effondr&eacute;es &ndash; et ont parfois m&ecirc;me d&eacute;moli intentionnellement des b&acirc;timents &ndash; pour fabriquer ces armures lourdes. Les armures de plates &eacute;paisses ont la propri&eacute;t&eacute; sp&eacute;ciale d&rsquo;armure archa&iuml;que.</p>",
+			"frSource": "SM4 p.44"
+		},
 		"Haste circuit (magic)": {
 			"frName": "Circuit d'accélération (magique)",
 			"frDescription": "<p>Vous pouvez activer un circuit d&rsquo;acc&eacute;l&eacute;ration par une action rapide pour b&eacute;n&eacute;ficier des avantages du sort rapidit&eacute; jusqu&rsquo;&agrave; ce que vous utilisiez une autre action rapide pour le d&eacute;sactiver ou jusqu&rsquo;&agrave; ce que vous ayez &eacute;puis&eacute; toutes ses charges. Les charges de cette am&eacute;lioration se r&eacute;g&eacute;n&egrave;rent int&eacute;gralement chaque jour.</p> <p>Cette am&eacute;lioration ne peut &ecirc;tre install&eacute;e que sur des armures l&eacute;g&egrave;res ou lourdes</p> <p><strong>Capacit&eacute;</strong> 10 <strong>Utilisation</strong> 1/round</p>",
@@ -4733,6 +4816,11 @@
 			"frDescription": "<p>La fusion inspirante impr&egrave;gne une arme d&rsquo;espoir. Quand vous obtenez un coup critique en utilisant une telle arme, vous et vos alli&eacute;s situ&eacute;s dans un rayon de 18 m&egrave;tres gagnez pendant 1 minute un bonus de moral de +2 &agrave; vos jets de sauvegarde contre les attaques, les effets et les sorts de la cible que vous attaquez. Si l&rsquo;arme dispose d&eacute;j&agrave; d&rsquo;un effet critique, choisissez &agrave; chaque fois lequel des deux vous voulez appliquer.</p>",
 			"frSource": "ARS p.63"
 		},
+		"Instinctive stabilizer": {
+			"frName": "Stabilisateur instinctif",
+			"frDescription": "<p>Les chamans kishs ont dot&eacute; ce scanner de poche de pouvoir mystique pour am&eacute;liorer les chances de soigner les cr&eacute;atures agonisantes. Quand vous utilisez un stabilisateur instinctif, vous pouvez utiliser la comp&eacute;tence de M&eacute;decine sans formation pour effectuer la t&acirc;che de stabilisation prolong&eacute;e. Si vous &ecirc;tes form&eacute; en M&eacute;decine, vous r&eacute;ussissez automatiquement ce test. De plus, quand vous utilisez cet appareil, le DD de la t&acirc;che premiers secours de la comp&eacute;tence M&eacute;decine est de 10 seulement.</p>",
+			"frSource": "SM4 p.45"
+		},
 		"Interference blade, harmonic": {
 			"frName": "Lame d’interférence, harmonique",
 			"frDescription": "<p>La poign&eacute;e d&rsquo;une lame d&rsquo;interf&eacute;rence contient des projecteurs soniques qui &eacute;mettent des fr&eacute;quences ultrasoniques sp&eacute;cifiques se superposant aux fr&eacute;quences sonores jusqu&rsquo;&agrave; se mat&eacute;rialiser physiquement. Quand vous manipulez cette arme, sa lame appara&icirc;t comme une ligne floue et translucide. Le mod&egrave;le monophonique ne g&eacute;n&egrave;re qu&rsquo;une hauteur de son tandis que le mod&egrave;le harmonique en g&eacute;n&egrave;re plusieurs qui s&rsquo;amplifient mutuellement. Une lame d&rsquo;interf&eacute;rence polyphonique projette des fr&eacute;quences variables tandis que le mod&egrave;le multiphonique combine plusieurs fr&eacute;quences en une seule lame.</p>",
@@ -4867,6 +4955,26 @@
 			"frName": "Microcorde kasatha IV",
 			"frDescription": "<p>Ces tenues constitu&eacute;es de tissu nervur&eacute; sont l&eacute;g&egrave;rement moins &eacute;volu&eacute;es que des armures l&eacute;g&egrave;res comparables mais elles offrent tout de m&ecirc;me une bonne protection &agrave; un prix abordable. Les tenues en microcordes fabriqu&eacute;es par les kasathas sont g&eacute;n&eacute;ralement constitu&eacute;es d&rsquo;une seule pi&egrave;ce avec des couleurs sombres, parfois avec des liser&eacute;s luisants. Cependant, d&rsquo;autres fabricants produisent ces tenues dans une grande vari&eacute;t&eacute; de couleurs et de styles.</p>",
 			"frSource": "RDB p.197"
+		},
+		"Kishaxe, assault": {
+			"frName": "Hache kish, assaut",
+			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Kishaxe, havoc": {
+			"frName": "Hache kish, dévastatrice",
+			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Kishaxe, onslaught": {
+			"frName": "Hache kish, massacreuse",
+			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
+			"frSource": "SM4 p.44"
+		},
+		"Kishaxe, skirmish": {
+			"frName": "Hache kish, escarmouche",
+			"frDescription": "<p>Malgr&eacute; leur fabrication grossi&egrave;re avec des morceaux de mat&eacute;riaux divers et des d&eacute;bris, les haches kish permettent de frapper fort et certains mod&egrave;les peuvent trancher net des membres d&rsquo;un seul coup bien plac&eacute;.</p>",
+			"frSource": "SM4 p.44"
 		},
 		"Knife, survival": {
 			"frName": "Couteau, survie",
@@ -7020,6 +7128,11 @@
 			"frName": "Boîtes quantiques",
 			"frDescription": "<p>Ces bo&icirc;tes argent&eacute;es fonctionnent toujours par paire et bien que les puissantes corporations les utilisent pour transporter discr&egrave;tement des objets de grande valeur, leurs applications potentielles sont quasi&nbsp; illimit&eacute;es. En y consacrant 1 minute, vous pouvez sceller un objet d&rsquo;un volume maximum de 1 dans chacune des bo&icirc;tes soumettant leur contenu &agrave; un enchev&ecirc;trement quantique. Cela utilise 25 charges et concr&egrave;tement les deux objets n&rsquo;existent plus, y compris pour les effets des sorts ou des effets comme d&eacute;tection de la magie. N&rsquo;importe quand apr&egrave;s cette op&eacute;ration, tant que les deux bo&icirc;tes sont sur le m&ecirc;me plan, vous pouvez d&eacute;signer un des deux objets et ouvrir une des bo&icirc;tes avec une action simple qui consomme 25 charges. L&rsquo;objet indiqu&eacute; appara&icirc;t imm&eacute;diatement dans la bo&icirc;te ouverte et l&rsquo;autre objet dans l&rsquo;autre bo&icirc;te o&ugrave; qu&rsquo;elle se trouve. Les effets qui bloquent le d&eacute;placement dimensionnel emp&ecirc;chent l&rsquo;activation d&rsquo;une bo&icirc;te quantique mais&nbsp;pas ceux qui bloquent les signaux. Si l&rsquo;une des bo&icirc;tes est d&eacute;truite ou neutralis&eacute;e d&rsquo;une mani&egrave;re ou d&rsquo;une autre, le contenu des deux bo&icirc;tes est perdu.</p> <p><strong>Capacit&eacute;</strong>&nbsp;100;&nbsp;<strong>Utilisation&nbsp;</strong>Voir texte</p>",
 			"frSource": "ARS p.100"
+		},
+		"Queller": {
+			"frName": "Etouffe-Feu",
+			"frDescription": "<p>Un &eacute;touffe-feu ressemble &agrave; un extincteur ordinaire, sauf qu&rsquo;il est constamment recouvert d&rsquo;une fine couche de givre. Trois fois par jour par une action simple, vous pouvez utiliser un &eacute;touffe-feu pour pulv&eacute;riser un produit chimique glacial dans un c&ocirc;ne de 4,50 m&egrave;tres qui inflige 5d8 points de d&eacute;g&acirc;ts de froid &agrave; chaque cr&eacute;ature dans la zone d&rsquo;effet (R&eacute;flexes DD 15, 1/2 d&eacute;g&acirc;ts) et &eacute;teint tous les feux non magiques dans le c&ocirc;ne (ceci met fin aux &eacute;tats enflamm&eacute;). Les chercheurs kishalis utilisaient des objets similaires pour contenir les incursions provenant des plans &Eacute;l&eacute;mentaires ; &agrave; l&rsquo;appr&eacute;ciation du MJ, d&rsquo;autres objets de ce type qui infligent d&rsquo;autres types de d&eacute;g&acirc;ts d&rsquo;&eacute;nergie (&eacute;touffe-froid, par exemple) pourraient exister (mais ils n&rsquo;&eacute;teignent alors pas les feux).</p>",
+			"frSource": "SM4 p.45"
 		},
 		"Quick-release sheath": {
 			"frName": "Fourreau réactif",
@@ -9719,6 +9832,11 @@
 			"frName": "Fusion d'arme Tritidair",
 			"frDescription": "<p>Une fusion tritidair d&eacute;core une arme d&rsquo;un motif &eacute;toil&eacute; repr&eacute;sentant une constellation lumineuse, comme les motifs qui d&eacute;corent les ailes des tritidairs. Vous pouvez activer ou d&eacute;sactiver une tritidair par une action rapide. Tant que la fusion est active, la moiti&eacute; des d&eacute;g&acirc;ts inflig&eacute;s par l&rsquo;arme deviennent des d&eacute;g&acirc;ts&nbsp; l&rsquo;&eacute;lectricit&eacute; et l&rsquo;arme gagne la propri&eacute;t&eacute; illumination. Vous pouvez ajouter cette fusion &agrave; une arme qui inflige d&eacute;j&agrave; des d&eacute;g&acirc;ts d&rsquo;&eacute;lectricit&eacute;, mais la fusion a pour seul effet sur les d&eacute;g&acirc;ts inflig&eacute;s par cette arme de les rendre magiques. Si l&rsquo;arme inflige d&eacute;j&agrave; deux types de d&eacute;g&acirc;ts diff&eacute;rents, vous choisissez lesquels remplacer par des d&eacute;g&acirc;ts d&rsquo;&eacute;lectricit&eacute; &agrave; chaque fois que vous activez la fusion tritidair. Si vous r&eacute;ussissez un coup critique avec une arme qui poss&egrave;de une fusion tritidair activ&eacute;e, la cible doit r&eacute;ussir un jet de Vigueur ou se trouver aveugl&eacute;e pendant 1d3 rounds. Si l&rsquo;arme a d&eacute;j&agrave; un effet critique, alors vous devez choisir, au moment o&ugrave; vous r&eacute;ussissez un coup critique, si vous appliquez l&rsquo;effet critique normal de l&rsquo;arme ou cet effet d&rsquo;aveuglement. Cette fusion ne peut jamais faire qu&rsquo;une arme qui cible normalement la CAC cible la CAE &agrave; la place.</p>",
 			"frSource": "AA2 p.15"
+		},
+		"Truth amplifier": {
+			"frName": "Amplificateur de vérité",
+			"frDescription": "<p>Ce microphone parabolique a la forme d&rsquo;un pistolet avec un c&ocirc;ne en plastique en guise de canon et les chamans kishs l&rsquo;ont dot&eacute; de pouvoir mystique. Pour utiliser un amplificateur de v&eacute;rit&eacute;, pointezle vers une cr&eacute;ature dou&eacute;e de conscience &agrave; 9 m&egrave;tres ou moins et appuyez sur la g&acirc;chette (par une action simple). La cible doit ensuite r&eacute;ussir un jet de Volont&eacute; DD 14 sinon elle ne peut plus mentir volontairement pendant 5 minutes. Les cr&eacute;atures affect&eacute;es sont conscientes de cet enchantement. Elles peuvent ne pas r&eacute;pondre aux questions auxquelles elles r&eacute;pondraient normalement par un mensonge et rester &eacute;vasives tant qu&rsquo;elles restent dans les limites de la v&eacute;rit&eacute;. Un amplificateur de v&eacute;rit&eacute; peut s&rsquo;utiliser une fois par jour.</p>",
+			"frSource": "SM4 p.45"
 		},
 		"Umbrella, Autoshade": {
 			"frName": "Parapluie, lévitation",
