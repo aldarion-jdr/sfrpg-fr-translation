@@ -8,11 +8,3 @@ Hooks.once("init", () => {
 		});
 	}
 });
-
-
-Hooks.once('babele.ready', () => { 
-	const pack = game.packs.get("sfrpg.starship-actions");
-	pack.clear();
-   	pack.index.clear();
-   	ActorSheetSFRPGStarship.ensureStarshipActions();
-});
